@@ -2,9 +2,11 @@
 
 # dialoghi a Lugano
 
-Source document: [dialoghi a Lugano](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf)
+By **Casellini, Guido**. Source document: [dialoghi a Lugano](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf)
 
 Region: **Rögn**
+
+Line by line, in the order of the document. A poem or a story does not always divide into neat pairs, so some lines are fragments. ⚠ marks a pair the extraction script was unsure about.
 
 | Italiano | Dialett | English |
 |---|---|---|

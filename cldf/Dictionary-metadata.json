@@ -14,12 +14,12 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Lexicon of the dialect of R\u00f6gn (Arogno), Ticino",
-    "dcat:accessURL": "git@github.com:michaelmaguire/languages",
+    "dcat:accessURL": "git@github.com:michaelmaguire/languages-dialett",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:michaelmaguire/languages",
+            "rdf:about": "git@github.com:michaelmaguire/languages-dialett",
             "rdf:type": "prov:Entity",
-            "dc:created": "c8548d2",
+            "dc:created": "a7af6a6",
             "dc:title": "Repository"
         }
     ],
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 1082,
+            "dc:extent": 989,
             "tableSchema": {
                 "columns": [
                     {
@@ -137,7 +137,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 1103,
+            "dc:extent": 1010,
             "tableSchema": {
                 "columns": [
                     {
@@ -191,6 +191,12 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": ";",
                         "name": "Source"
+                    },
+                    {
+                        "dc:description": "Expressions that use this word in this sense (found automatically: the dialect word in the expression and its Italian in the translation)",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                        "separator": ";",
+                        "name": "Example_IDs"
                     }
                 ],
                 "foreignKeys": [
@@ -200,6 +206,17 @@
                         ],
                         "reference": {
                             "resource": "entries.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Example_IDs"
+                        ],
+                        "reference": {
+                            "resource": "examples.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -290,7 +307,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 1314,
+            "dc:extent": 1407,
             "tableSchema": {
                 "columns": [
                     {
@@ -393,6 +410,27 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": ";",
                         "name": "Source"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
+                    },
+                    {
+                        "dc:description": "Line of the expression in its document (pipeline/cache/lesson_text)",
+                        "datatype": "integer",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#position",
+                        "name": "Position"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "phrase|saying|exercise|text"
+                        },
+                        "name": "Genre"
+                    },
+                    {
+                        "dc:description": "What the expression is about (etc/expression_topics.csv); blank for texts, which are read in order",
+                        "name": "Topic_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -417,6 +455,28 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Contribution_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Topic_ID"
+                        ],
+                        "reference": {
+                            "resource": "topics.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -426,7 +486,94 @@
             "url": "examples.csv"
         },
         {
-            "dc:extent": 36,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:extent": 42,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "name": "Contributor"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
+                    },
+                    {
+                        "dc:description": "What the document mostly holds; an expression may override it",
+                        "datatype": {
+                            "base": "string",
+                            "format": "phrase|saying|exercise|text"
+                        },
+                        "name": "Genre"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributions.csv"
+        },
+        {
+            "dc:extent": 17,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "Italian name of the topic",
+                        "required": true,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Name_English"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "topics.csv"
+        },
+        {
+            "dc:extent": 32,
             "tableSchema": {
                 "columns": [
                     {

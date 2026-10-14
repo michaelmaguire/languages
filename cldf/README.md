@@ -23,7 +23,8 @@ describes every table and column, and the dataset is validated against the speci
 | CLDF home page | <https://cldf.clld.org/> |
 | The specification | <https://github.com/cldf/cldf/blob/master/README.md> |
 | Dictionary module (what a CLDF dictionary must contain) | <https://github.com/cldf/cldf/tree/master/modules/Dictionary> |
-| Components used here: entries, senses, examples, languages | <https://github.com/cldf/cldf/tree/master/components> |
+| Components used here: entries, senses, examples, contributions, languages | <https://github.com/cldf/cldf/tree/master/components> |
+| TextCorpus module (the pattern used for the expressions: contribution and position) | <https://github.com/cldf/cldf/tree/master/modules/TextCorpus> |
 | The CLDF ontology (meaning of every `propertyUrl`) | <https://cldf.clld.org/v1.0/terms.html> |
 | CSV on the Web (CSVW), which the metadata file uses | <https://www.w3.org/TR/tabular-metadata/> |
 | pycldf, the reference software used to validate and query | <https://github.com/cldf/pycldf> |
@@ -37,15 +38,20 @@ describes every table and column, and the dataset is validated against the speci
 | [`Dictionary-metadata.json`](Dictionary-metadata.json) | Metadata (declares `dc:conformsTo` the Dictionary module) | |
 | [`entries.csv`](entries.csv) | EntryTable (required) | dialect headword, in one variety |
 | [`senses.csv`](senses.csv) | SenseTable (required) | meaning of an entry: `Description` is the Italian, `Description_English` the English |
-| [`examples.csv`](examples.csv) | ExampleTable | sentence or saying: `Primary_Text` is the dialect, `Translated_Text` the Italian, `Translated_Text_English` the English |
+| [`examples.csv`](examples.csv) | ExampleTable | sentence or saying: `Primary_Text` is the dialect, `Translated_Text` the Italian, `Translated_Text_English` the English; `Contribution_ID` and `Position` say which document and line it comes from, `Genre` what kind of expression it is, `Topic_ID` what it is about |
+| [`contributions.csv`](contributions.csv) | ContributionTable | document that has expressions: its title, author and genre |
+| [`topics.csv`](topics.csv) | additional table | topic the expressions are grouped by, in Italian and English |
 | [`languages.csv`](languages.csv) | LanguageTable | variety (Rögn, Basso Ceresio, Mendrisiotto…), plus Italian and English as meta-languages |
 | [`variants.csv`](variants.csv) | additional table | other spelling of an entry, including known typos and OCR errors |
 | [`paradigms.csv`](paradigms.csv) | additional table | cell of a verb's conjugation chart |
 | [`sources.bib`](sources.bib) | Sources (BibTeX) | lesson, handout, published text, or the owner's own notes |
 
 The specification allows additional columns and tables as long as the metadata describes them. The
-additions here are the English columns, `Status`, `Variant_Of`, `Conjugation_Class`, `Auxiliary`, and
-the `variants.csv` and `paradigms.csv` tables. Verb paradigms have no CLDF component of their own.
+additions here are the English columns, `Status`, `Variant_Of`, `Conjugation_Class`, `Auxiliary`, the
+expressions' `Genre` and `Topic_ID`, `Example_IDs` on senses (the expressions that use a word in that
+sense, found automatically), and the `variants.csv`, `paradigms.csv` and `topics.csv` tables. The
+expressions follow the pattern of the TextCorpus module: each one points to its document in
+`contributions.csv` and has its line there as `Position`, so a poem or a story can be read back in order. Verb paradigms have no CLDF component of their own.
 
 ## How the data is recorded
 
@@ -106,8 +112,8 @@ property | value
 [dc:creator](http://purl.org/dc/terms/creator) | Michael Maguire
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/michaelmaguire/languages-dialett
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:michaelmaguire/languages
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:michaelmaguire/languages/tree/c8548d2">git@github.com:michaelmaguire/languages  c8548d2</a></li></ol>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:michaelmaguire/languages-dialett
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:michaelmaguire/languages-dialett/tree/a7af6a6">git@github.com:michaelmaguire/languages-dialett  a7af6a6</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | rogn
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -118,7 +124,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF EntryTable](http://cldf.clld.org/v1.0/terms.rdf#EntryTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1082
+[dc:extent](http://purl.org/dc/terms/extent) | 989
 
 
 ### Columns
@@ -141,7 +147,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF SenseTable](http://cldf.clld.org/v1.0/terms.rdf#SenseTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1103
+[dc:extent](http://purl.org/dc/terms/extent) | 1010
 
 
 ### Columns
@@ -156,6 +162,7 @@ Name/Property | Datatype | Description
 `Unsure_About` | `string`<br>Valid choices:<br> `direction` `split` `pairing` `meaning` | What the extraction was unsure about when it marked the row pending
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
+[Example_IDs](http://cldf.clld.org/v1.0/terms.rdf#exampleReference) | list of `string` (separated by `;`) | Expressions that use this word in this sense (found automatically: the dialect word in the expression and its Italian in the translation)<br>References [examples.csv::ID](#table-examplescsv)
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -183,7 +190,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1314
+[dc:extent](http://purl.org/dc/terms/extent) | 1407
 
 
 ### Columns
@@ -203,12 +210,51 @@ Name/Property | Datatype | Description
 `Status` | `string`<br>Valid choices:<br> `accepted` `pending` `rejected` | 
 `Unsure_About` | `string`<br>Valid choices:<br> `direction` `split` `pairing` `meaning` | What the extraction was unsure about when it marked the row pending
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
+[Contribution_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | References [contributions.csv::ID](#table-contributionscsv)
+[Position](http://cldf.clld.org/v1.0/terms.rdf#position) | `integer` | Line of the expression in its document (pipeline/cache/lesson_text)
+`Genre` | `string`<br>Valid choices:<br> `phrase` `saying` `exercise` `text` | 
+`Topic_ID` | `string` | What the expression is about (etc/expression_topics.csv); blank for texts, which are read in order<br>References [topics.csv::ID](#table-topicscsv)
+
+## <a name="table-contributionscsv"></a>Table [contributions.csv](./contributions.csv)
+
+property | value
+ --- | ---
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ContributionTable](http://cldf.clld.org/v1.0/terms.rdf#ContributionTable)
+[dc:extent](http://purl.org/dc/terms/extent) | 42
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+[Contributor](http://cldf.clld.org/v1.0/terms.rdf#contributor) | `string` | 
+[Citation](http://cldf.clld.org/v1.0/terms.rdf#citation) | `string` | 
+`Genre` | `string`<br>Valid choices:<br> `phrase` `saying` `exercise` `text` | What the document mostly holds; an expression may override it
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
+
+## <a name="table-topicscsv"></a>Table [topics.csv](./topics.csv)
+
+property | value
+ --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 17
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+`ID` | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
+`Name` | `string` | Italian name of the topic
+`Name_English` | `string` | 
 
 ## <a name="table-variantscsv"></a>Table [variants.csv](./variants.csv)
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 36
+[dc:extent](http://purl.org/dc/terms/extent) | 32
 
 
 ### Columns

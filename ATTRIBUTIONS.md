@@ -1,7 +1,7 @@
 # Attributions and thanks
 
 This page is written by hand; the build does not change it. The same text is printed after the cover of the
-two PDFs.
+three PDFs.
 
 **Thank you** to Guido Casellini, for the lessons and for the patience.
 
@@ -84,7 +84,11 @@ the right place to verify the forms marked †.
 - **Verb forms and infinitives marked †** were inferred by Claude from the patterns in the lessons. They
   are not the teacher's and may be wrong; see [TO-CHECK.md](TO-CHECK.md).
 - **Entries marked ⚠** were paired automatically and may be misaligned.
-- The dialect phrases on the two PDF covers were composed for the covers and are not from the course.
+- The dialect phrases on the dictionary and verb PDF covers were composed for the covers and are not from the
+  course. The two sayings on the expressions cover are from the course (*15a leziun - proverbi* and *frasi
+  fatte*).
+- The **topics** the expressions are grouped by, and the choice of which sayings to move out of the
+  dictionary, are Claude's.
 
 Whatever went wrong in the extraction, the translations or the inferred forms, the errors are mine.
 
@@ -97,6 +101,7 @@ Chrome for printing the PDFs; and the DejaVu fonts.
 
 ## The PDF covers
 
-The covers of `arogno-verbs.pdf` and `arogno-dictionary.pdf` are affectionate parodies of well-known
-verb books and pocket dictionaries. "Barögn's" is not a real publisher, and neither PDF is affiliated
+The covers of `arogno-verbs.pdf`, `arogno-dictionary.pdf` and `arogno-expressions.pdf` are affectionate
+parodies of well-known verb books, pocket dictionaries and phrasebooks. "MAGUIRE’S" is not a real
+publisher, and no PDF is affiliated
 with or endorsed by any actual one.

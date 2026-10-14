@@ -2,7 +2,6 @@ attrs==26.1.0
 babel==2.18.0
 bibtexparser==2.1.0
 cldfbench==2.0.1
--e git+ssh://git@github.com/michaelmaguire/languages.git@c8548d2db8b80a384a4133e1ace95ff65db14088#egg=cldfbench_rogn
 cldfcatalog==1.7.0
 clldutils==4.0.0
 csvw==4.1.0

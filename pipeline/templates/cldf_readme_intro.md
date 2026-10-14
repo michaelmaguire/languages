@@ -23,7 +23,8 @@ describes every table and column, and the dataset is validated against the speci
 | CLDF home page | <https://cldf.clld.org/> |
 | The specification | <https://github.com/cldf/cldf/blob/master/README.md> |
 | Dictionary module (what a CLDF dictionary must contain) | <https://github.com/cldf/cldf/tree/master/modules/Dictionary> |
-| Components used here: entries, senses, examples, languages | <https://github.com/cldf/cldf/tree/master/components> |
+| Components used here: entries, senses, examples, contributions, languages | <https://github.com/cldf/cldf/tree/master/components> |
+| TextCorpus module (the pattern used for the expressions: contribution and position) | <https://github.com/cldf/cldf/tree/master/modules/TextCorpus> |
 | The CLDF ontology (meaning of every `propertyUrl`) | <https://cldf.clld.org/v1.0/terms.html> |
 | CSV on the Web (CSVW), which the metadata file uses | <https://www.w3.org/TR/tabular-metadata/> |
 | pycldf, the reference software used to validate and query | <https://github.com/cldf/pycldf> |
@@ -37,15 +38,20 @@ describes every table and column, and the dataset is validated against the speci
 | [`Dictionary-metadata.json`](Dictionary-metadata.json) | Metadata (declares `dc:conformsTo` the Dictionary module) | |
 | [`entries.csv`](entries.csv) | EntryTable (required) | dialect headword, in one variety |
 | [`senses.csv`](senses.csv) | SenseTable (required) | meaning of an entry: `Description` is the Italian, `Description_English` the English |
-| [`examples.csv`](examples.csv) | ExampleTable | sentence or saying: `Primary_Text` is the dialect, `Translated_Text` the Italian, `Translated_Text_English` the English |
+| [`examples.csv`](examples.csv) | ExampleTable | sentence or saying: `Primary_Text` is the dialect, `Translated_Text` the Italian, `Translated_Text_English` the English; `Contribution_ID` and `Position` say which document and line it comes from, `Genre` what kind of expression it is, `Topic_ID` what it is about |
+| [`contributions.csv`](contributions.csv) | ContributionTable | document that has expressions: its title, author and genre |
+| [`topics.csv`](topics.csv) | additional table | topic the expressions are grouped by, in Italian and English |
 | [`languages.csv`](languages.csv) | LanguageTable | variety (Rögn, Basso Ceresio, Mendrisiotto…), plus Italian and English as meta-languages |
 | [`variants.csv`](variants.csv) | additional table | other spelling of an entry, including known typos and OCR errors |
 | [`paradigms.csv`](paradigms.csv) | additional table | cell of a verb's conjugation chart |
 | [`sources.bib`](sources.bib) | Sources (BibTeX) | lesson, handout, published text, or the owner's own notes |
 
 The specification allows additional columns and tables as long as the metadata describes them. The
-additions here are the English columns, `Status`, `Variant_Of`, `Conjugation_Class`, `Auxiliary`, and
-the `variants.csv` and `paradigms.csv` tables. Verb paradigms have no CLDF component of their own.
+additions here are the English columns, `Status`, `Variant_Of`, `Conjugation_Class`, `Auxiliary`, the
+expressions' `Genre` and `Topic_ID`, `Example_IDs` on senses (the expressions that use a word in that
+sense, found automatically), and the `variants.csv`, `paradigms.csv` and `topics.csv` tables. The
+expressions follow the pattern of the TextCorpus module: each one points to its document in
+`contributions.csv` and has its line there as `Position`, so a poem or a story can be read back in order. Verb paradigms have no CLDF component of their own.
 
 ## How the data is recorded
 

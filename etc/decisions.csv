@@ -280,3 +280,97 @@ correct,rogn,maa da schena,,,,mal di schiena,backache,"Claude inferred: lesson 1
 correct,rogn,maa da spal,,,,male alla spalla,shoulder pain,"Claude inferred: lesson 14 lists these under ""Malattie / dolori"" (maa e dulur); the Italian column gives only the body part, so maa da … is the pain, not the body part",2026-10-14
 correct,rogn,maa da urecc,,,,mal d’orecchie,earache,"Claude inferred: lesson 14 lists these under ""Malattie / dolori"" (maa e dulur); the Italian column gives only the body part, so maa da … is the pain, not the body part",2026-10-14
 correct,rogn,maa da gura o gora,,,,mal di gola,sore throat,"Claude inferred: lesson 14 lists these under ""Malattie / dolori"" (maa e dulur); the Italian column gives only the body part, so maa da … is the pain, not the body part",2026-10-14
+expression,rogn,A ghii fam? “sempru”,,,,,,"Claude inferred: a sentence (question and answer), not a dictionary word, so it belongs with the expressions",2026-10-14
+expression,rogn,a öcc e cros,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,a sem ni petul,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,a sunt pien cum'è n'öv,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,acqua ‘n boca,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al’a ciapaa na pita,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al bef cumè na pidria,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,al bef l’aqua dal cudéé,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al capita a fasöö,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al cur cumè un lechee,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,al dorma cum'è n' ghir,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è burlaa giõ in pée,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al 'è föra di strasc,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al 'è mia tutt lü,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è n'a brasa morta,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al 'è n'grand lavativ,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è n' maia ramina,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al 'è n'poru scalcinaa,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è na lizza,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è na stéla,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è tutt un carpogn,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è ul ritratt dala salüt,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è un grand ganasa,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è un grand paiascion,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è un malmusctoos,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al 'è un pantofulàtt,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al'è un poru martur,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,al fuma cumè un Turcü,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,Al to amis Soc,,,,,,"Claude inferred: the signature of a letter, not a dictionary word, so it belongs with the expressions",2026-10-14
+expression,basso-ceresio,bagnà ul bècch,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,brutt cumè ul pecaa,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,bütà la scpügna,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,car cum'è l foch,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,catif cum'è n'aspas,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,catif cum'è ul tosicc,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,che vö ‘n gelatu?” “Tücc”,,,,,,"Claude inferred: a sentence (question and answer), not a dictionary word, so it belongs with the expressions",2026-10-14
+expression,rogn,cori parché sum in ritard,,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,cum 'è ta see pedic,,,,,,"Claude inferred: an exclamation about a person, so it belongs with the expressions",2026-10-14
+expression,rogn,cumè ta set poss,,,,,,"Claude inferred: an exclamation about a person, so it belongs with the expressions",2026-10-14
+expression,rogn,cun la tescta süi scpall,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,E da indua ta set?,,,,,,"Claude inferred: a line of dialogue, so it belongs with the expressions",2026-10-14
+expression,ticinese,El Savie é el Matt,,,,,,"Claude inferred: the title of a fable, so it belongs with the expressions",2026-10-14
+expression,rogn,fa ‘l galett,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,basso-ceresio,fa ul fürbo,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,fas ‘l mazz,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,fò sü i scar,,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,frècc cum'è n biss,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,gò i cavii bianc,,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,gram cum’è ul tossich,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,i ball dal frà Lüca,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,imbranaa cumè n'õla,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,l'è la mia crus,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,l'è na röda che gira,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,l'è nai in dal balon,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,l'è pasaa par un ragg,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,l'è rivaa diss a déss,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,l'è san cumè un cornu,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,l'è un maia balõn,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,rogn,lungh 'cumè la famm,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,mangi na poma,,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,mei tardi che mai,,,,,,"Claude inferred: a proverb, so it belongs with the expressions",2026-10-14
+expression,rogn,mi mangi i tumatis,,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,moll cumè un fich,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,o sémpru duvüü adatáss.,,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,"scüsa, u mia capii",,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,sclungà ‘l brööd,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,smort cum'è n 'patüsch,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,ta runfat cumè na resèga,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,ta se una resèga,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,ta set un gran zacagn,,,,,,"Claude inferred: a description of a person, so it belongs with the expressions",2026-10-14
+expression,basso-ceresio,ta va a penèl,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,tirà la corda,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,torni indré dal laurà,,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,tremà cum 'è na foia,,,,,,"Claude inferred: a simile, so it belongs with the expressions",2026-10-14
+expression,rogn,tütt i sant jüttan,,,,,,"Claude inferred: a proverb, so it belongs with the expressions",2026-10-14
+expression,rogn,ul vent al bofa,,,,,,"Claude inferred: a sentence, so it belongs with the expressions",2026-10-14
+expression,rogn,veg ‘na marcia in pü,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,ves a la man,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,ves al verd,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,ves ‘n asan,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,ves un ors,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,rogn,riscpund pic,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,ticinese,cume sa dis,,,,,,"Claude inferred: a question, not a dictionary word, so it belongs with the expressions",2026-10-14
+expression,ticinese,fö da chi/bal,,,,,,"Claude inferred: an exclamation, so it belongs with the expressions",2026-10-14
+expression,ticinese,fö del strasc,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,ticinese,sota a cü biòtt,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
+expression,ticinese,al mè cör,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,cun la tèsta,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,in di mè sögn,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,la tua pell,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,sota la ságuma,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,la sa strevaca,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,gnanca da pensà,,,,,,"Claude inferred: a fragment of a newspaper column, so it belongs with the expressions",2026-10-14
+reject,basso-ceresio,s’ciòpp - schioppo,,,,,,"Claude inferred: a note on spelling in the glossary, not an Italian-dialect pair",2026-10-14

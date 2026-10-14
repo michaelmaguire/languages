@@ -4,9 +4,9 @@
 
 | Look up by | Columns | Entries |
 |---|---|---|
-| [Italiano](italiano.md) | Italiano → Dialett → English | 980 |
-| [Dialett](dialett.md) | Dialett → Italiano → English | 1047 |
-| [English](english.md) | English → Dialett → Italiano | 980 |
+| [Italiano](italiano.md) | Italiano → Dialett → English | 887 |
+| [Dialett](dialett.md) | Dialett → Italiano → English | 954 |
+| [English](english.md) | English → Dialett → Italiano | 887 |
 
 **[arogno-dictionary.pdf](arogno-dictionary.pdf)** has all three for printing.
 

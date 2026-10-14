@@ -8,12 +8,10 @@
 
 | Italiano | Dialett | English | Region | Note | Source |
 |---|---|---|---|---|---|
-| a occhio e croce | a öcc e cros | roughly, at a guess | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | a, in | a, denta | at |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | abbaino | lücernari | dormer window | Basso Ceresio | also: abain | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | abbastanza | asèe | enough |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | abito della festa | vestii dala festa | Sunday best | Basso Ceresio | also: vestimenta | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| acqua in bocca | acqua ‘n boca | mum's the word | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | l’afa | l’è sofic | the sultry heat | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | aglio | l'ai | garlic | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/notes_added_by_hand.csv) |
 | l’/un agnello | l’/un agnell<br>ul/un barin | the/a lamb<br>the/a lamb | Rögn<br>Rögn | i agnei<br>i barin | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx)<br>[↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
@@ -24,7 +22,6 @@
 | l’/un allocco | l’/un uroc | the/a tawny owl | Rögn | i uroc | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | allora, quindi | alura, dunca | therefore |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | alloro | laur / loiro | bay laurel | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
-| allungare il brodo | sclungà ‘l brööd | to pad something out | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | almeno | almen | at least |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | l’altroieri | l’altrèr | the day before yesterday | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | amarsi | vöras ben | to love each other | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf) |
@@ -47,7 +44,6 @@
 | l’architetto | l’architett | the architect | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | l’/un ariete | ul/un bar | the/a ram | Rögn | i bar | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | armadio | büfé<br>vestée | wardrobe<br>wardrobe | Basso Ceresio<br>Basso Ceresio | also: armadi<br>also: l’armadi | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx)<br>[↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| arrabbiato/a | fö del strasc | angry |  | lit. out of your clothes | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | asciugamano † | sügaman | towel | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | asciugatrice † | machina da sügà | tumble dryer | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | asciutta, | seca | dry, |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
@@ -63,9 +59,6 @@
 | avaro | piöcc | miser |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | avere | vegh | to have | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx) |
 | avere paura | vegh pagüra | to be afraid | Rögn | also: sc’fótiga | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| avere sete | bagnà ul bècch | to be thirsty | Basso Ceresio | also: a gò see | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| avere una marcia in più | veg ‘na marcia in pü | to have an edge | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| “Avete fame?” — “Sempre.” | A ghii fam? “sempru” | "Are you hungry?" — "Always." | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/%F0%9F%8C%B4%20100%20frasi%20utili%20per%20quattro%20persone%20in%20vacanza%20al%20mare.docx) |
 | l’avvocato | l’avucat | the lawyer | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 
 ## B
@@ -89,7 +82,6 @@
 | bere | bef | to drink | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx) |
 | berretto | barèta | cap | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | betulla | bedòla | birch | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
-| beve molto (pidria | al bef cumè na pidria | he drinks a lot | Rögn | grande imbuto per | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
 | bianco † | bianc | white | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | bicchiere † | bicèr | glass | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | bietole | cost | chard | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
@@ -104,7 +96,6 @@
 | briciole | fregüi | crumbs | Basso Ceresio | also: briciul | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | brillante | sperlüsent | shiny / brilliant | Basso Ceresio | also: brillant | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | broccolo | brocul vert | broccoli | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-| brutto come il peccato | brutt cumè ul pecaa | as ugly as sin | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
 | brutto tempo | brüt temp | bad weather | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | buco | böcc | hole |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | buona serata | bóna sirada | good evening |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
@@ -141,7 +132,6 @@
 | canzone | canzón | song |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | capelli | cavii (cis) | hair | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | capire | capì | to understand | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf) |
-| capitare a fagiolo | al capita a fasöö | to come at just the right moment | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | il capocantiere | al capcantee | the site foreman | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | cappello | capél | hat | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | il/un cappone | al/un capun | the/a capon | Rögn | i capun | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
@@ -165,8 +155,6 @@
 | castagne bollite | frü | boiled chestnuts | Basso Ceresio | also: casc`tegn büii | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | castagno | castàn | chestnut tree | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
 | catino † | cadin | basin | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
-| cattivo come il tossico | catif cum'è ul tosicc | as wicked as poison | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| cattivo come un aspide | catif cum'è n'aspas | as wicked as an asp | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
 | la/una cavalla | la/na cavala | the/a mare | Rögn | i cavall | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | la/una cavalletta | ul/un saltarot | the/a grasshopper | Rögn | i saltarot | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | cavallino (a dondolo) † | cavalin | rocking horse | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
@@ -187,10 +175,8 @@
 | cestino | cavagnöö | small basket | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | cesto | cavagna | basket | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | cetriolo | cücümar | cucumber | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-| uno che vuole fare tutto lui | l'è un maia balõn | someone who wants to do everything himself | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
 | che,cosa | cosa | what |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | chi | chi, ca | who |  | chi ca parla? = who is speaking? | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| “Chi vuole un gelato?” — “Tutti.” “Chi | che vö ‘n gelatu?” “Tücc” ⚠ |  | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/%F0%9F%8C%B4%20100%20frasi%20utili%20per%20quattro%20persone%20in%20vacanza%20al%20mare.docx) |
 | chiodi piccoli | ciudin | small nails | Basso Ceresio | also: stachett | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | chiodo | cioo | nail | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | chiusura a bottoni | pata | button fastening | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
@@ -221,15 +207,10 @@
 | coltello/coltelli † | curtel/curtei | knife/knives | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | il/un colubro | ul/un scursun | the/a colubrid snake | Rögn | i scursun | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | come | cuma | how |  | cuma nem? = how are we? | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| come sei pedante | cum 'è ta see pedic | how pedantic you are | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| come sei posso | cumè ta set poss | how stale you are | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| come si dice | cume sa dis | how do you say |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | comodino † | cumudin | bedside table | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | comperare | töla | to buy | Basso Ceresio | also: cumprála | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | comò † | cumò | chest of drawers | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | con | e, inséma, col | with |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| con la testa | cun la tèsta | with its head |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
-| con la testa sulle spalle | cun la tescta süi scpall | level-headed | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | condurre | menà | to lead | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
 | il/un coniglio | ul/un cünili | the/a rabbit | Rögn | i cünili | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | il contadino | al paesan | the farmer | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
@@ -238,9 +219,7 @@
 | coperta † | cuèrt | blanket | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | coprire | cuprí | to cover | Basso Ceresio | also: quatà | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | un corpo | un còrp | a body |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
-| corre come un corriere | al cur cumè un lechee | he runs like a courier | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | correre | cor | to run | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx) |
-| corro perché sono in ritardo | cori parché sum in ritard | I am running because I am late | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | cosi | insci | thus |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | costruire | fa sù | to build | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%203a%20leziun.docx) |
 | cotone | cuton | cotton | Basso Ceresio | also: réff | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
@@ -299,7 +278,6 @@
 | dopo | dopu | after |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | dopodomani | dopuduman | the day after tomorrow | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | doppio/a | dopi | double |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| dorme come un ghiro | al dorma cum'è n' ghir | he sleeps like a dormouse (like a log) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | dormire | dörmi | to sleep | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | dove | ’ndua | where |  | `ndua sem? = where are we? | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | dovere | duvé | to have to | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
@@ -316,36 +294,11 @@
 | elegante | elegant | elegant | Basso Ceresio | also: scich | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | l’esattore | l’esatur/al tasadu | the tax collector | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | essere | ves | to be | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx) |
-| essere al verde | ves al verd | to be broke | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| essere alla mano | ves a la man | to be easy-going, approachable | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| essere un asino | ves ‘n asan | to be a dunce (lit. to be a donkey) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| essere un orso | ves un ors | to be unsociable (lit. to be a bear) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | estate | istaa | summer | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | l’estate † | l’istaa | summer | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | è andato | l’è nai | has gone |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
-| è andato nel pallone | l'è nai in dal balon | he lost his head (got flustered) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| è antipatico (malmostoso) | al'è un malmusctoos | he is unpleasant (grumpy) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| è appena arrivato | l'è rivaa diss a déss | he has just arrived | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
 | è asciutto | l’è sücc (l’è sec) | it is dry | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| è caduto in piedi | al'è burlaa giõ in pée | he landed on his feet | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| è fuori di senno | al 'è föra di strasc | he is out of his mind | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| è il ritratto della salute | al'è ul ritratt dala salüt | he is the picture of health | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| è la mia croce | l'è la mia crus | it is my cross to bear | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| è passato per un pelo | l'è pasaa par un ragg | he got through by a hair's breadth | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| è sano come un corno | l'è san cumè un cornu | he is as fit as a fiddle | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| è tutto corrugato | al'è tutt un carpogn | it is all wrinkled | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | è umido | l’è ümid | it is damp | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| è un gran pagliaccio | al'è un grand paiascion | he is a real clown | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| è un grande lavativo | al 'è n'grand lavativ | he is a real shirker | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| è un lazzarone | al'è na lizza | he is a layabout | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| è un pantofolaio | al 'è un pantofulàtt | he is a stay-at-home | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| è un poverino | al'è un poru martur | he is a poor thing | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| è un povero scalcinato | al 'è n'poru scalcinaa | he is a poor wretch | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| è una brace spenta | al'è n'a brasa morta | he is a spent ember (has no energy) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| è una ruota che gira | l'è na röda che gira | it is a wheel that turns (what goes around comes around) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| è una stella (=persona) | al'è na stéla | he/she is a star (of a person) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| è uno che parla molto | al'è un grand ganasa | he is someone who talks a lot | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| è veramente malmesso | al bef l’aqua dal cudéé | he is in a really bad way | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 
 ## F
 
@@ -361,9 +314,6 @@
 | falcetto | fulcin | small sickle | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | il falegname | al legnamee | the carpenter (joiner) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | fare | fà | to do / make | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx) |
-| fare il furbo | fa ul fürbo | to act smart | Basso Ceresio | also: baloss-balusada | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| fare il galletto | fa ‘l galett | to show off, to strut | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| farsi il mazzo | fas ‘l mazz | to work one's socks off | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | febbraio † | febrar | February | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | fegato | fidic | liver | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | ferragosto | feragosct | the Assumption holiday (15 August) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
@@ -397,15 +347,12 @@
 | frassino | frasàn | ash tree | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
 | fratello | fredel | brother | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | il freddo | al frecc | the cold | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| freddo come una biscia | frècc cum'è n biss | as cold as a grass snake | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
 | frigorifero † | frigo/refrigèrant | fridge | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | la frutta † | la früta | fruit | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | il fruttivendolo | l’urtulan | the greengrocer | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | il fulmine | al stralüsc | the lightning | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| fuma come un turco | al fuma cumè un Turcü | he smokes like a chimney | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
 | fungo | func | mushroom | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | fuori | fö<br>föra | out<br>outside | <br> | <br> | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx)<br>[↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| fuori di qui | fö da chi/bal | get out of here |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 
 ## G
 
@@ -420,7 +367,6 @@
 | genitori | gent | parents | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | gennaio † | genar | January | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | geranio | gerani | geranium | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
-| gettare la spugna | bütà la scpügna | to throw in the towel | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | ghette | ghett | gaiters | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | la/una ghiandaia | la/na sgagia | the/a jay | Rögn | i sgac | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | il/un ghiro | la/na gira | the/a dormouse | Rögn | i gir | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
@@ -439,7 +385,6 @@
 | gorgonzola | gurgunzöla | gorgonzola | Basso Ceresio | also: strachin | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | graffiare | sgraffirala | scratch |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | graffiato | sgafrignaa | scratched | Basso Ceresio | also: sgarbelaa | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| gramo come il tossico | gram cum’è ul tossich | as nasty as poison | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | un grande sasso | sass gros | a big rock | Basso Ceresio | also: pelòcch | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | la grandine | la tempesta | the hail | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | grembiule | scusaa | apron | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
@@ -452,10 +397,7 @@
 
 | Italiano | Dialett | English | Region | Note | Source |
 |---|---|---|---|---|---|
-| ha preso una sbornia | al’a ciapaa na pita | he got drunk | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| ho i capelli bianchi | gò i cavii bianc | I have white hair | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | ho paura | gò pagüra | I am afraid | Basso Ceresio | also: aver paura | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| ho sempre dovuto adattarmi | o sémpru duvüü adatáss. | I have always had to adapt | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Frasi%20di%20ultranovantenni%20di%20Arogno.pdf) |
 
 ## I
 
@@ -516,7 +458,6 @@
 | la/una lumaca | la/na lümaga | the/a snail | Rögn | i lümac | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | il/un lumacone | ul/un nerc | the/a slug | Rögn | i nerc | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | lunedì † | lünedi | Monday | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
-| lungo come la fame | lungh 'cumè la famm | as long as hunger (very tall or long) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
 | il/un lupo | ul/un lüf | the/a wolf | Rögn | i lüf | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 
 ## M
@@ -554,13 +495,10 @@
 | mandarini | portüghai | mandarins | Basso Ceresio | also: mandarin | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | mandarino | mandarin | mandarin tree | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
 | mangiare | mangià | to eat | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
-| mangio i pomodori | mi mangi i tumatis | I eat the tomatoes | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| mangio una mela | mangi na poma | I am eating an apple | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | mangiucchiare | mangiucá | to nibble | Basso Ceresio | also: bucunà | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | mani | man | hands |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | manovale | magütt | labourer | Basso Ceresio | also: manual | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | il/un manzo | ul/un manz | the/a steer | Rögn | i manz | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
-| Marco: “E di dove sei ?” | E da indua ta set? | Marco: "And where are you from?" | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
 | marrone † | marunia | brown | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | martedì † | martedi | Tuesday | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | martello | martèll | hammer | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
@@ -569,7 +507,6 @@
 | il mattino | la matina | the morning | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | il medico | al dutor | the doctor | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | meglio | mei | better |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| meglio tardi che mai | mei tardi che mai | better late than never | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | la mela – le mele † | la poma – i pomm | apple – apples | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | melanzane | melanzan | aubergines | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | melo | la poma | apple tree | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
@@ -589,11 +526,8 @@
 | milione | miglio | million |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | mille | mila | thousand |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | un millesimo | milesim | thousandth |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| il mio cuore, | al mè cör | my heart, |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | misura abbondante | grand | generous measure | Basso Ceresio | also: agius | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| molle come un fico | moll cumè un fich | as soft as a fig | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
 | molletta per i panni † | mulèt di pagn | clothes peg | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
-| molto costoso | car cum'è l foch | very expensive | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
 | molto, tanto | móta – mügia | a lot, very much | Basso Ceresio | also: tanta | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | monello | munel | rascal | Basso Ceresio | also: barabit | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | morbido | morbid | soft | Basso Ceresio | also: murisin | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
@@ -614,8 +548,6 @@
 | il Natale | al Natal | Christmas | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | natiche | ciapp | buttocks | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | la nebbia | la nebia | the fog | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| nei miei sogni, | in di mè sögn | in my dreams, |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
-| nemmeno da pensare” | gnanca da pensà | not even to be thought of" |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-09-29-Insegn%C3%A0%20ul%20dial%C3%A8tt%20a%20sc%C3%B6la.docx) |
 | nero † | negru | black | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | nessuno | nessün | no one |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | la neve | la nef / la fioca | the snow | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
@@ -626,7 +558,6 @@
 | noce | nus – nos | walnut tree | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
 | noi | nüm | we |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | nominare | nominà | to name | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf) |
-| non è tutto lui (mattuccio) | al 'è mia tutt lü | he is not all there (a bit crazy) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
 | nonno | nonu | grandfather | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | un nono | nono | ninth |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | la notte | la nocc | the night | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
@@ -646,7 +577,6 @@
 
 | Italiano | Dialett | English | Region | Note | Source |
 |---|---|---|---|---|---|
-| (oggi) sei un frontaliere | al'è n' maia ramina | (today) you are a cross-border commuter | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
 | o | o | or |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | occhi | öcc | eyes |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | Occhi della Madonna | öcc dala Madonna | speedwell (lit. Our Lady's eyes) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
@@ -686,7 +616,6 @@
 | pagare | pagà | to pay | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
 | paiolo † | caldiröö | cauldron | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | palato | cèl dala boca | palate | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-| pallido come un pannolino | smort cum'è n 'patüsch | as pale as a sheet | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | palo di ferro | livera | iron bar | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | pane | pan | bread |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | pane cotto | pantrid | bread soup | Basso Ceresio | also: pan cott | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
@@ -824,9 +753,7 @@
 | rincorrersi | catáss | to chase each other | Basso Ceresio | also: rincorrersi | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | ringhiera † | ringhièra | railing | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | ripiano † | ripian | shelf | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
-| rispondere picche | riscpund pic | to give a flat refusal | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | ritornare | turna o torna indré | to return | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%203a%20leziun.docx) |
-| ritorno dal lavoro | torni indré dal laurà | I come back from work | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | roncola | folc | billhook | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | la/una rondine | la/na rundula | the/a swallow | Rögn | i rundul | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | rosa | rösa | rose | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
@@ -836,7 +763,6 @@
 | rubare | rubà | to steal | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf) |
 | rubinetto † | rübinet | tap | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | rugoso | strofinada | wrinkled |  | strofinada = wrinkled shirt | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| russi come una sega | ta runfat cumè na resèga | you snore like a saw | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 
 ## S
 
@@ -844,17 +770,14 @@
 |---|---|---|---|---|---|
 | sabato † | sabat | Saturday | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | la/una salamandra | la/na rösa marina | the/a salamander | Rögn | i rös marin | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
-| salgo le scale | fò sü i scar | I go up the stairs | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | salire | na sù | to go up | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%203a%20leziun.docx) |
 | salita corta | strapétt | short steep climb | Basso Ceresio | also: salita corta | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | salvadanaio | salvadane | piggy bank |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | salvietta † | salvièta | hand towel | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | sapere | savé | to know | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
 | sapone † | savon | soap | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
-| Il Savio e il Matto | El Savie é el Matt | the Wise Man and the Fool |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Favole%20in%20dialetto%20tradotta%20in%20italiano.docx) |
 | sbagliare | sbagliaa | to make a mistake | Basso Ceresio | also: ratà | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | sbattere | scbat | to slam | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%207a%20leziun.docx) |
-| sbrigarsi, darsi a fare | sota a cü biòtt | hurry up |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | scaffale † | scafaa | shelving | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | la scala | la scara / i scar | the stairs | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%207a%20leziun.docx) |
 | scalino | scalin | step (of a stair) | Basso Ceresio | also: basèll | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
@@ -877,7 +800,6 @@
 | scrivere | scrif | to write | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%203a%20leziun.docx) |
 | la/una scrofa | la/na lögia | the/a sow | Rögn | i lög | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | scure | sügurin | axe | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| scusa, non ho capito | scüsa, u mia capii | sorry, I didn't understand | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
 | secchio | sedèla (sedèl) | bucket | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | secchio della spazzatura † | sedèla dal rüüt | rubbish bin | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
 | sedano | zellar | celery | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
@@ -890,9 +812,6 @@
 | segatura | resegadüsc | sawdust | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | il segretario | al segretari | the secretary | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | sei † | ses | six | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
-| sei imbranato come un’olla | imbranaa cumè n'õla | you are as clumsy as a pot | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| sei un gran attaccabrighe | ta set un gran zacagn | you are a real troublemaker | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| sei un rompiscatole | ta se una resèga | you are a pain in the neck | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | il semestre | al semester | the semester | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | sempre | sempru | always | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | senza | senza | without |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
@@ -909,8 +828,6 @@
 | sfortunato | sc’furtünaa | unlucky | Basso Ceresio | also: scarugnàä | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | sgabello | sgabell | stool | Basso Ceresio | also: scagnèl | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | si allunga | sa slunga | stretches out |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
-| si stende (si stravacca) | la sa strevaca | stretches out (sprawls) |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
-| siamo nei pasticci | a sem ni petul | we are in a mess | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | sigaro | sigar | cigar | Basso Ceresio | also: sc’túmpach | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | il sindaco | al sindic | the mayor | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | la soffitta | al spazzacà / i spazzacà | the attic | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%207a%20leziun.docx) |
@@ -919,15 +836,12 @@
 | i soldi | la muneda, danée | money |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | solletico | suletic | tickling | Basso Ceresio | also: ghilitiga | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | sono capace a / di | sum bon (a) da | I am able to | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| sono frottole | i ball dal frà Lüca | they are tall tales | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| sono pieno come un uovo | a sunt pien cum'è n'öv | I am as full as an egg (stuffed) | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | sopra | sura | above |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | soprabito | suprabit | overcoat | Basso Ceresio | also: spolverín | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | sorella | surèla | sister | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | sorso | bevüda | sip | Basso Ceresio | also: gurada | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | sottana | cutin | petticoat | Basso Ceresio | also: sottana | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | sotto | sota | below |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| sotto la sagoma | sota la ságuma | under the outline |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | lo spazzacamino | al spazacamin | the chimney sweep | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | spazzaneve | spazzanev | snowplough | Basso Ceresio | also: cala | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | spazzolino † | spazetin | toothbrush | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%205a%20leziun.docx) |
@@ -986,10 +900,8 @@
 | un terzo | terz | third |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | testolina | crapin | little head |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | il tetto | al tecc / i tecc | the roof | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%207a%20leziun.docx) |
-| ti va bene | ta va a penèl | it suits you | Basso Ceresio | also: ta va ben | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | tiepido | tevid | lukewarm | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | tipo sveglio | intevist | sharp, quick-witted person | Basso Ceresio | also: sveltu | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
-| tirare la corda | tirà la corda | to push one's luck | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | togliere | tirà via | to remove | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf) |
 | togliersi | tiras via | to take off | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf) |
 | il/un topo | ul/un rat | the/a mouse | Rögn | i rat | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
@@ -1003,19 +915,15 @@
 | tradurre | tradü | to translate | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
 | tre † | tri | three | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | tredici † | tredas | thirteen | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
-| trema come una foglia | tremà cum 'è na foia | he is shaking like a leaf | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
 | trenta | trenta | thirty |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | triplo/a/triplice | tripli | triple |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | triste | trist | sad | Basso Ceresio | also: gnèch | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | trovare | truà | to find | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%203a%20leziun.docx) |
 | trucioli | trüciol | wood shavings | Basso Ceresio | also: büscaj | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | tu, voi | ti, vialtri | you |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| la tua pelle | la tua pell | your skin |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | tua prigione | tua presón | your prison |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | tulipano | tülipan | tulip | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
-| Il tuo amico Soc | Al to amis Soc | your friend Soc | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
 | il tuono | al trun | the thunder | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| tutti i santi aiutano | tütt i sant jüttan | all the saints help | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 | tutto | tütt | all |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | tutto, tutti | tütt, tücc | all |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 
@@ -1049,7 +957,6 @@
 | venti † | vint | twenty | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | ventidue | vintidü | twenty-two |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | ventitré | vinditre | twenty-three |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| vento soffia | ul vent al bofa | the wind blows | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 | ventuno | vintün | twenty-one |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | verde † | vert | green | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 | il/un verro | ul/un purcel | the/a boar (male pig) | Rögn | i purcei | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |

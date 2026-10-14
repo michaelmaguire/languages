@@ -2,9 +2,11 @@
 
 # varie situazioni
 
-Source document: [varie situazioni](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx)
+By **Casellini, Guido**. Source document: [varie situazioni](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx)
 
 Region: **Rögn**
+
+Line by line, in the order of the document. A poem or a story does not always divide into neat pairs, so some lines are fragments. ⚠ marks a pair the extraction script was unsure about.
 
 | Italiano | Dialett | English |
 |---|---|---|

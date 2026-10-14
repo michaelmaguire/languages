@@ -2,42 +2,47 @@
 
 # Expressions
 
-Phrases, sayings, proverbs and sentences, in the order they appear in each document. ⚠ marks a pair the extraction script was unsure about.
+Sayings, idioms and phrases from the course, grouped by topic, and the texts read in class, line by line. **[arogno-expressions.pdf](arogno-expressions.pdf)** has them all for printing.
 
-| Document | Region | Pairs |
-|---|---|---|
-| [🌴 100 frasi utili per quattro persone in vacanza al mare](100-frasi-utili-per-quattro-persone-in-vacanza-al-mare.md) | Rögn | 72 |
-| [2025-02-19-la nocc e carisna](2025-02-19-la-nocc-e-carisna.md) |  | 3 |
-| [2025-02-19-Piove governo ladro di Fausto Boffi](2025-02-19-piove-governo-ladro-di-fausto-boffi.md) |  | 18 |
-| [2025-02-19-poesie in dialetto](2025-02-19-poesie-in-dialetto.md) |  | 6 |
-| [2025-09-15-Fregüi da vita dal Mendrisiòtt](2025-09-15-fregui-da-vita-dal-mendrisiott.md) | Mendrisiotto | 53 |
-| [2025-09-22-San Martin](2025-09-22-san-martin.md) |  | 37 |
-| [2025-09-29-Insegnà ul dialètt a scöla](2025-09-29-insegna-ul-dialett-a-scola.md) |  | 37 |
-| [2025-10-06-Nümm e quii da là dal San Gòtard](2025-10-06-numm-e-quii-da-la-dal-san-gotard.md) |  | 44 |
-| [2025-10-13-articolo CdT](2025-10-13-articolo-cdt.md) | Rögn | 47 |
-| [2025-10-20-I maestri d'inlura e quii d'incöö](2025-10-20-i-maestri-d-inlura-e-quii-d-incoo.md) |  | 48 |
-| [brevi frasi](brevi-frasi.md) | Rögn | 62 |
-| [Cors da dialet da Rögn 10a leziun](cors-da-dialet-da-rogn-10a-leziun.md) | Rögn | 18 |
-| [Cors da dialet da Rögn 11a leziun (1)](cors-da-dialet-da-rogn-11a-leziun-1.md) | Rögn | 48 |
-| [Cors da dialet da Rögn 12a leziun (1)](cors-da-dialet-da-rogn-12a-leziun-1.md) | Rögn | 53 |
-| [Cors da dialet da Rögn 13a leziun](cors-da-dialet-da-rogn-13a-leziun.md) | Rögn | 54 |
-| [Cors da dialet da Rögn 14a leziun](cors-da-dialet-da-rogn-14a-leziun.md) | Rögn | 9 |
-| [Cors da dialet da Rögn 15a leziun - proverbi](cors-da-dialet-da-rogn-15a-leziun-proverbi.md) | Rögn | 88 |
-| [Cors da dialet da Rögn 7a leziun](cors-da-dialet-da-rogn-7a-leziun.md) | Rögn | 2 |
-| [Cors da dialet da Rögn 9a leziun](cors-da-dialet-da-rogn-9a-leziun.md) | Rögn | 12 |
-| [Cors da dialett da Rögn 4a leziun](cors-da-dialett-da-rogn-4a-leziun.md) | Rögn | 5 |
-| [Cors da dialett da Rögn lezium 1 e 2](cors-da-dialett-da-rogn-lezium-1-e-2.md) | Rögn | 2 |
-| [dialoghi a Lugano](dialoghi-a-lugano.md) | Rögn | 86 |
-| [Dizionario con filastrocche di R. Gaggini](dizionario-con-filastrocche-di-r-gaggini.md) | Basso Ceresio | 3 |
-| [domande di vario tipo](domande-di-vario-tipo.md) | Rögn | 24 |
-| [espressioni in italiano 2.6.2025](espressioni-in-italiano-2-6-2025.md) | Rögn | 69 |
-| [Favole in dialetto tradotta in italiano](favole-in-dialetto-tradotta-in-italiano.md) |  | 46 |
-| [Frasi di ultranovantenni di Arogno](frasi-di-ultranovantenni-di-arogno.md) | Rögn | 15 |
-| [frasi fai 1 - Copia](frasi-fai-1-copia.md) | Rögn | 75 |
-| [frasi fatte](frasi-fatte.md) | Rögn | 111 |
-| [Il Condizionale Passato](il-condizionale-passato.md) | Rögn | 8 |
-| [Il Condizionale Presente](il-condizionale-presente.md) | Rögn | 20 |
-| [il gerundio](il-gerundio.md) | Rögn | 2 |
-| [imperativo 14.4.2025](imperativo-14-4-2025.md) | Rögn | 2 |
-| [imperativo](imperativo.md) | Rögn | 42 |
-| [varie situazioni](varie-situazioni.md) | Rögn | 46 |
+Each topic page has the sayings and idioms first, then ordinary phrases (including the example sentences of the grammar sheets). The topics were assigned by Claude, expression by expression, in `etc/expression_topics.csv`. ⚠ marks a pair the extraction script was unsure about.
+
+## By topic
+
+| Topic | English | Sayings and idioms | Phrases |
+|---|---|---|---|
+| [Saluti e cortesia](saluti.md) | Greetings and courtesy | 2 | 10 |
+| [Domande ed esclamazioni](conversazione.md) | Questions and exclamations | 29 | 45 |
+| [Carattere e comportamento](carattere.md) | Character and behaviour | 142 | 3 |
+| [Sentimenti e umore](sentimenti.md) | Feelings and moods | 15 | 6 |
+| [Famiglia, amici e amore](famiglia.md) | Family, friends and love | 75 | 4 |
+| [Corpo e salute](salute.md) | Body and health | 21 | 2 |
+| [Mangiare e bere](cibo.md) | Food and drink | 26 | 45 |
+| [Casa, vestiti e faccende](casa.md) | Home, clothes and housework | 6 | 23 |
+| [Lavoro, scuola e soldi](lavoro.md) | Work, school and money | 32 | 23 |
+| [Tempo, natura e animali](meteo.md) | Weather, nature and animals | 14 | 9 |
+| [Ore, giorni ed età](tempo.md) | Time, days and age | 10 | 1 |
+| [In giro: paese, città e viaggi](fuori.md) | Out and about: village, town and travel | 16 | 14 |
+| [Vacanze, sport e tempo libero](vacanze.md) | Holidays, sport and free time | 11 | 82 |
+| [Feste, fede e tradizioni](feste.md) | Festivals, faith and tradition | 10 | 3 |
+| [La vita e la saggezza](vita.md) | Life and wisdom | 178 | 16 |
+| [Lingua e dialetto](dialetto.md) | Language and dialect | 0 | 6 |
+| [Altro](altro.md) | Other | 1 | 0 |
+
+## Texts
+
+Poems, stories, articles and dialogues, kept whole and in order.
+
+| Text | Author | Region | Lines |
+|---|---|---|---|
+| [articolo CdT](2025-10-13-articolo-cdt.md) | Casellini, Guido | Rögn | 47 |
+| [dialoghi a Lugano](dialoghi-a-lugano.md) | Casellini, Guido | Rögn | 86 |
+| [Favole in dialetto tradotta in italiano](favole-in-dialetto-tradotta-in-italiano.md) |  |  | 47 |
+| [Fregüi da vita dal Mendrisiòtt](2025-09-15-fregui-da-vita-dal-mendrisiott.md) |  | Mendrisiotto | 53 |
+| [I maestri d'inlura e quii d'incöö](2025-10-20-i-maestri-d-inlura-e-quii-d-incoo.md) |  |  | 48 |
+| [Insegnà ul dialètt a scöla](2025-09-29-insegna-ul-dialett-a-scola.md) |  |  | 38 |
+| [la nocc e carisna](2025-02-19-la-nocc-e-carisna.md) |  |  | 3 |
+| [Nümm e quii da là dal San Gòtard](2025-10-06-numm-e-quii-da-la-dal-san-gotard.md) |  |  | 44 |
+| [Piove governo ladro di Fausto Boffi](2025-02-19-piove-governo-ladro-di-fausto-boffi.md) | Boffi, Fausto |  | 18 |
+| [poesie in dialetto](2025-02-19-poesie-in-dialetto.md) |  |  | 12 |
+| [San Martin](2025-09-22-san-martin.md) |  |  | 37 |
+| [varie situazioni](varie-situazioni.md) | Casellini, Guido | Rögn | 46 |

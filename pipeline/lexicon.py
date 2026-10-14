@@ -52,7 +52,10 @@ UNSURE = {"direction?": "direction", "split?": "split", "pairing?": "pairing", "
 SUPPLIED_NOTE = "Italian and English supplied; the lesson gives the dialect only"
 NO_ITALIAN_NOTE = "the source gives no Italian; the English is shown in brackets"
 TABLE_OF = {"entries.csv": "EntryTable", "senses.csv": "SenseTable", "examples.csv": "ExampleTable",
-            "languages.csv": "LanguageTable"}
+            "languages.csv": "LanguageTable", "contributions.csv": "ContributionTable"}
+# What kind of expression a row is: set per document in etc/lesson_sources.csv (column genre), or per
+# expression in etc/expression_topics.csv. Texts are read in order; the others are grouped by topic.
+GENRES = ("phrase", "saying", "exercise", "text")
 
 
 def slug(text, limit=48):
@@ -240,6 +243,27 @@ def configure(ds):
                    {"name": "Description_English", "datatype": "string",
                     "dc:description": "English translation of the Description, which is in Italian"},
                    status("senses"), unsure, comment, source)
+    ds.add_columns("SenseTable",
+                   {"name": "Example_IDs", "propertyUrl": TERMS + "exampleReference", "separator": ";",
+                    "dc:description": "Expressions that use this word in this sense (found automatically: the "
+                                      "dialect word in the expression and its Italian in the translation)"})
+    # the TextCorpus pattern (https://github.com/cldf/cldf/tree/master/modules/TextCorpus): every expression
+    # points to the document it comes from (a contribution) and its place there
+    ds.add_component("ContributionTable",
+                     {"name": "Genre", "datatype": {"base": "string", "format": "|".join(GENRES)},
+                      "dc:description": "What the document mostly holds; an expression may override it"},
+                     source)
+    ds.add_table("topics.csv", rid, {"name": "Name", "required": True,
+                                     "dc:description": "Italian name of the topic"},
+                 {"name": "Name_English", "datatype": "string"}, primaryKey=["ID"])
+    ds.add_columns("ExampleTable",
+                   {"name": "Contribution_ID", "propertyUrl": TERMS + "contributionReference"},
+                   {"name": "Position", "propertyUrl": TERMS + "position", "datatype": "integer",
+                    "dc:description": "Line of the expression in its document (pipeline/cache/lesson_text)"},
+                   {"name": "Genre", "datatype": {"base": "string", "format": "|".join(GENRES)}},
+                   {"name": "Topic_ID", "dc:description": "What the expression is about (etc/expression_topics.csv); "
+                                                         "blank for texts, which are read in order"})
+    ds.add_foreign_key("ExampleTable", "Topic_ID", "topics.csv", "ID")
     ds.add_foreign_key("EntryTable", "Variant_Of", "EntryTable", "ID")
     ds.add_table("variants.csv", rid, {"name": "Entry_ID", "required": True}, {"name": "Form", "required": True},
                  {"name": "Kind", "datatype": {"base": "string", "format": "spelling|typo|ocr-error"}},
@@ -274,11 +298,14 @@ def apply_decisions(rows, decisions):
              not exist yet, is folded into a new target entry with the form kept as a spelling.
     correct  replaces the dialect, Italian and/or English of an entry's sense (all of them, or the one
              named in Sense) or of an expression, and marks it accepted.
+    expression  the entry is an idiom, a saying or a sentence rather than a word: it leaves the dictionary
+             and becomes an expression (examples.csv), its senses joined as the translation.
     Expressions (examples.csv) can be rejected, accepted or corrected; Form is then their dialect text.
     Returns the decisions that matched nothing, so they can be reported.
     """
     E, S, V, X = rows["entries.csv"], rows["senses.csv"], rows["variants.csv"], rows["examples.csv"]
     ids = Ids(e["ID"] for e in E)
+    xids = Ids(x["ID"] for x in X)
     vids = Ids(v["ID"] for v in V)
     unmatched = []
     key = pages.key
@@ -308,6 +335,22 @@ def apply_decisions(rows, decisions):
                             x[field] = d[col].strip()
             continue
         mine = [s for s in S if s["Entry_ID"] == e["ID"]]
+        if kind == "expression":
+            live = [s for s in mine if s["Status"] != "rejected"] or mine
+            english = [s["Description_English"] for s in live if s["Description_English"]]
+            X.append({"ID": xids.make(e["ID"]), "Language_ID": e["Language_ID"], "Primary_Text": e["Headword"],
+                      "Translated_Text": "; ".join(s["Description"] for s in live), "Meta_Language_ID": "ita",
+                      "Translated_Text_English": "; ".join(english) or None,
+                      "Status": "pending" if e["Status"] == "pending" else "accepted",
+                      "Unsure_About": next((s["Unsure_About"] for s in live if s["Unsure_About"]), None)
+                      if e["Status"] == "pending" else None,
+                      "Comment": next((s["Comment"] for s in live if s["Comment"] and s["Comment"] not in
+                                       (SUPPLIED_NOTE, NO_ITALIAN_NOTE)), None),
+                      "Source": list(e["Source"] or [])})
+            E.remove(e)
+            S[:] = [s for s in S if s["Entry_ID"] != e["ID"]]
+            V[:] = [v for v in V if v["Entry_ID"] != e["ID"]]
+            continue
         if (d.get("Sense") or "").strip():
             mine = [s for s in mine if key(s["Description"]) == key(d["Sense"])]
             if not mine:
@@ -373,16 +416,106 @@ def make(writer):
     configure(writer.cldf)
     rows, bib = candidates()
     unmatched = apply_decisions(rows, pages.read(ETC / "decisions.csv"))
+    unsorted = place_examples(rows, bib)
+    link_examples(rows)
     writer.cldf.add_sources(*bib)
     writer.objects["LanguageTable"] = [{"ID": i, "Name": n, "Glottocode": g, "ISO639P3code": iso, "Description": d}
                                        for i, n, g, iso, d, _ in LANGUAGES]
     for url, rs in rows.items():
-        writer.objects[TABLE_OF.get(url, url)] = sorted(rs, key=lambda r: r["ID"])
+        # topics keep the order of etc/topics.csv, which is the order of the pages
+        writer.objects[TABLE_OF.get(url, url)] = rs if url == "topics.csv" else sorted(rs, key=lambda r: r["ID"])
     print(f"cldf: {len(rows['entries.csv'])} entries, {len(rows['senses.csv'])} senses, "
           f"{len(rows['examples.csv'])} examples, {len(rows['variants.csv'])} variants, "
-          f"{len(rows['paradigms.csv'])} paradigm cells, {len(bib)} sources")
+          f"{len(rows['paradigms.csv'])} paradigm cells, {len(bib)} sources, "
+          f"{len(rows['contributions.csv'])} contributions, {len(rows['topics.csv'])} topics")
+    linked = [s for s in rows["senses.csv"] if s["Example_IDs"]]
+    print(f"  {len(linked)} senses linked to {len({x for s in linked for x in s['Example_IDs']})} expressions")
     for d in unmatched:
         print(f"  WARNING: decision matched nothing: {d['Decision']} {d['Language_ID']} {d['Form']!r}")
+    for t in unsorted["topics"]:
+        print(f"  WARNING: expression topic matched nothing: {t['Language_ID']} {t['Form']!r}")
+    if unsorted["examples"]:
+        print(f"  {len(unsorted['examples'])} expressions have no topic yet: add them to etc/expression_topics.csv "
+              f"(tool_expression_topics.py list)")
+
+
+def place_examples(rows, bib):
+    """The TextCorpus side of the dataset: one contribution per document that has expressions, each
+    expression's place in it (Contribution_ID, Position), its genre and its topic.
+    Returns what could not be placed: topic rows that matched nothing and expressions with no topic."""
+    meta = {source_key(r["file"]): r for r in pages.read(ETC / "lesson_sources.csv")}
+    titles = {b.id: b for b in bib}
+    topics = pages.read(ETC / "topics.csv")
+    rows["topics.csv"] = [{"ID": t["ID"], "Name": t["Name"], "Name_English": t["Name_English"] or None} for t in topics]
+    known = {t["ID"] for t in topics}
+    given = {}
+    for t in pages.read(ETC / "expression_topics.csv"):
+        given[(t["Language_ID"], pages.key(t["Form"]))] = t
+    used, unsorted, contributions = set(), [], {}
+    for x in rows["examples.csv"]:
+        m = re.match(r"([^\[]+)(?:\[l\.(\d+)\])?", (x["Source"] or [""])[0])
+        cid, line = m.group(1), m.group(2)
+        doc_genre = (meta.get(cid, {}).get("genre") or "").strip()
+        doc_genre = doc_genre if doc_genre in GENRES else "phrase"
+        if cid not in contributions:
+            b = titles.get(cid)
+            contributions[cid] = {"ID": cid, "Name": b["title"] if b else cid, "Description": None,
+                                  "Contributor": (b.get("author") if b else None) or None, "Citation": None,
+                                  "Genre": doc_genre, "Source": [cid] if b else []}
+        t = given.get((x["Language_ID"], pages.key(x["Primary_Text"])))
+        if t:
+            used.add((t["Language_ID"], pages.key(t["Form"])))
+        genre = (t or {}).get("Genre", "").strip() or doc_genre
+        topic = (t or {}).get("Topic", "").strip() or None
+        if topic and topic not in known:
+            raise SystemExit(f"etc/expression_topics.csv: unknown topic {topic!r} for {x['Primary_Text']!r}")
+        x.update({"Contribution_ID": cid, "Position": int(line) if line else None, "Genre": genre,
+                  "Topic_ID": None if genre == "text" else topic})
+        if genre != "text" and not topic and x["Status"] != "rejected":
+            unsorted.append(x)
+    rows["contributions.csv"] = list(contributions.values())
+    return {"examples": unsorted, "topics": [t for k, t in given.items() if k not in used]}
+
+
+WORD = re.compile(r"[^\W\d_]+")
+# particles of verbs such as turnà indré, nà föra: shared by many verbs, so not evidence for any one
+PARTICLES = {"indré", "indrè", "föra", "fora", "giò", "giõ", "giü", "sü", "via", "dent", "denta", "scià", "innanz", "inanz"}
+
+
+def link_examples(rows):
+    """Sense -> expressions that use it (Example_IDs). A Rögn word is linked to an expression when the
+    expression has the word (or, for a verb, one of its forms) and its Italian translation has a word
+    starting like the sense's Italian ("mangi-" for mangiare, "pomodor-" for pomodoro). Requiring both
+    sides keeps the links fairly safe; short words (under four letters) and verb particles (indré, föra)
+    are not used."""
+    tokens = lambda s: set(WORD.findall((s or "").lower().replace("’", "'")))
+    examples = [(x["ID"], tokens(x["Primary_Text"]), tokens(x["Translated_Text"]))
+                for x in rows["examples.csv"] if x["Status"] != "rejected" and x["Language_ID"] == "rogn"]
+    forms = defaultdict(set)
+    for p in rows["paradigms.csv"]:
+        last = p["Form"].split("/")[0].split()
+        if last:
+            forms[p["Entry_ID"]].add(last[-1].lower())
+    for v in rows["variants.csv"]:
+        if v["Status"] == "accepted":
+            forms[v["Entry_ID"]].add(v["Form"].lower())
+    entries = {e["ID"]: e for e in rows["entries.csv"] if e["Language_ID"] == "rogn" and e["Status"] != "rejected"}
+    for s in rows["senses.csv"]:
+        s["Example_IDs"] = []
+        e = entries.get(s["Entry_ID"])
+        if not e or s["Status"] == "rejected":
+            continue
+        verb = e["Part_Of_Speech"] == "verb"
+        head = pages.DI_ARTICLE.sub("", pages.key(e["Headword"]))
+        heads = {alt.split()[0] for alt in re.split(r"\s+o\s+|\s*[/,]\s*", head) if alt.split()}
+        mine = {w for f in forms[e["ID"]] | heads for w in WORD.findall(f) if len(w) >= 4 and w not in PARTICLES}
+        italian = pages.bare(s["Description"])
+        if " " in italian or not mine:
+            continue
+        stem = italian[:-3] if verb and italian.endswith(("are", "ere", "ire")) else italian[:max(4, len(italian) - 2)]
+        if len(stem) < 4:
+            continue
+        s["Example_IDs"] = [i for i, di, it in examples if di & mine and any(w.startswith(stem) for w in it)]
 
 
 def load():
@@ -408,6 +541,7 @@ def for_pages():
         return bib_file.get(m.group(1), m.group(1)), m.group(2) or "0"
 
     entries = {e["ID"]: e for e in rows["entries.csv"] if e["Status"] != "rejected"}
+    contributions = {c["ID"]: c for c in rows.get("contributions.csv", [])}
     uniq = []
     for s in rows["senses.csv"]:
         e = entries.get(s["Entry_ID"])
@@ -426,12 +560,14 @@ def for_pages():
         if x["Status"] == "rejected":
             continue
         src, line = origin(x["Source"])
+        c = contributions.get(x["Contribution_ID"], {})
         uniq.append({"italian": x["Translated_Text"] or "", "dialect": x["Primary_Text"],
                      "english": x["Translated_Text_English"] or "", "kind": "expression",
                      "variety": LABEL.get(x["Language_ID"]) or "",
                      "canonical": "yes" if x["Language_ID"] == "rogn" else "no", "source": src, "line": line,
                      "check": ((x["Unsure_About"] or "direction") + "?") if x["Status"] == "pending" else "",
-                     "note": x["Comment"] or ""})
+                     "note": x["Comment"] or "", "genre": x["Genre"] or "phrase", "topic": x["Topic_ID"] or "",
+                     "text": c.get("Name") or "", "author": c.get("Contributor") or ""})
 
     variants = defaultdict(list)
     for v in rows["variants.csv"]:
@@ -477,6 +613,11 @@ def for_pages():
                         "grid": grid, "forms": forms, "aux": e["Auxiliary"],
                         "sources": list(dict.fromkeys(bib_file.get(re.sub(r"\[.*", "", r), r) for r in e["Source"] or []))}
     return uniq, tables, eng
+
+
+def topics():
+    """The topics of the expressions, in the order of etc/topics.csv (as written to cldf/topics.csv)."""
+    return load()[1].get("topics.csv", [])
 
 
 def _in_word_list(sense):

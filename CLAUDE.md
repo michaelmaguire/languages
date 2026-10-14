@@ -9,15 +9,16 @@ A public GitHub repo (`michaelmaguire/languages-dialett`) that is a **cldfbench 
 from a weekly course in the Lombard dialect of Arogno (*Rögn*), Lugano district, Ticino. The owner,
 Michael Maguire, is a native English speaker who reads Italian. Until 2026-10-14 everything lived in a
 `Dialect/` folder; it was moved to the repository root so the repo follows cldfbench conventions (one
-dataset per repository, ready for a Zenodo release). `Dialect/` now only keeps copies of the two PDFs,
-whose old URLs had been shared (step 5 writes them; see `Dialect/README.md`).
+dataset per repository, ready for a Zenodo release). `Dialect/` now only keeps copies of the dictionary and verb PDFs,
+whose old URLs had been shared (step 5 writes them; see `Dialect/README.md`). The expressions PDF
+(added later) is never copied there: the owner never shared a URL for it.
 The repository itself was renamed on GitHub from `languages` to `languages-dialett` at the same time;
 GitHub redirects the old URLs, so never create a new repo called `languages`, or the shared PDF links
 break. The local checkout may still be in a folder called `languages`.
 
 Course documents (Word, PDF, some scanned) go in `raw/`. A Python pipeline turns them, with the curation
 in `etc/`, into a CLDF dataset in `cldf/`, and from that into a three-language dictionary, expression
-pages, 501-Verbs-style conjugation charts and two printable PDFs.
+pages grouped by topic, 501-Verbs-style conjugation charts and three printable PDFs.
 
 ## Layout (cldfbench conventions: raw/ → etc/ → cldf/)
 
@@ -38,9 +39,9 @@ setup.py, setup.cfg, test.py registers the dataset with cldfbench (`pip install 
                              `pytest` runs the standard pytest-cldf validation
 CONTRIBUTORS.md, LICENSE, .zenodo.json   cldfbench / Zenodo release files (hand-written)
 Dictionary/ Expressions/ Verbs/   GENERATED from cldf/ (wiped and rewritten every build), plus the PDFs
-Dialect/                     only Dialect/README.md (hand-written) and copies of the two PDFs at their old URLs
+Dialect/                     only Dialect/README.md (hand-written) and copies of the dictionary and verb PDFs at their old URLs
 ATTRIBUTIONS.md              hand-written: thanks, authors, tools, what Claude generated. Printed after the
-                             cover of both PDFs. Add a row when a new document brings in a new author.
+                             cover of all three PDFs. Add a row when a new document brings in a new author.
                              The teacher, Guido Casellini, is credited at the owner's request.
 pipeline/                    the build: README.md there has the data-flow diagram and all file roles
 ```
@@ -57,7 +58,7 @@ pipeline/build_all.sh
 | 2 | `step2_find_pairs_and_verbs.py` | the text, `etc/lesson_sources.csv`, `raw/notes_added_by_hand.csv` | `pipeline/data/extracted_*.csv`, `unparsed_lines.csv` |
 | 3 | `step3_make_cldf.py` → `cldfbench_rogn.py` → `lexicon.py` | step 2 output + all of `etc/` + owner's spreadsheet and notes (from `raw/`, else `pipeline/data/owner_*.csv`) | fresh `pipeline/data/owner_*.csv` copies when `raw/` is there; `cldf/` from scratch; then `cldf validate` (build stops if invalid) |
 | 4 | `step4_build_pages.py` | `cldf/` only | all Markdown; `pipeline/data/dictionary.csv`, `expressions.csv`, `verb_tables.csv` |
-| 5 | `step5_build_pdfs.py` | `cldf/`, `pipeline/data/dictionary.csv` (from step 4), `pipeline/templates/cover_*.html`, `ATTRIBUTIONS.md` | the two PDFs |
+| 5 | `step5_build_pdfs.py` | `cldf/`, `pipeline/data/dictionary.csv` (from step 4), `pipeline/templates/cover_*.html`, `ATTRIBUTIONS.md` | the three PDFs |
 
 Step 3 uses cldfbench's Python interface because `cldfbench makecldf` on the command line demands a local
 Glottolog catalogue, which this dataset does not use (codes set in `lexicon.py`).
@@ -76,7 +77,7 @@ sudo apt install python3-venv python3-pip poppler-utils tesseract-ocr tesseract-
 | `openpyxl`, `pycldf`, `cldfbench`, `pypdf` (pip, inside the venv) | read the owner's spreadsheet; build and validate the CLDF dataset; read back page numbers for the PDF contents pages | installed by `build_all.sh` from `requirements.txt`. The venv holds absolute paths: if the repo folder is renamed or moved, delete `pipeline/.venv` and rebuild |
 | `tesseract-ocr`, `tesseract-ocr-ita`, `tesseract-ocr-deu` | OCR of scanned lessons; German so that ü and ö survive | installed on request |
 | `poppler-utils` | `pdftotext`, `pdftoppm` | was already installed |
-| Google Chrome or Chromium | prints the two PDFs; step is skipped with a message if absent | was already installed |
+| Google Chrome or Chromium | prints the PDFs; step is skipped with a message if absent | was already installed |
 | `hunspell-it` | Italian word list (`/usr/share/hunspell/it_IT.dic`) used to tell Italian from dialect; `step2_find_pairs_and_verbs.py` falls back to a copy inside the Firefox or Thunderbird snap, then to no list | installed on request |
 | `ocrmypdf` | none | installed on request early on, but the pipeline calls tesseract directly and does not use it |
 
@@ -95,16 +96,18 @@ forms, entries without English, decisions that matched nothing) and the `git dif
 
 | File | Purpose |
 |---|---|
-| `decisions.csv` | Decisions about dictionary entries and expressions: `typo` (fold into the correct form, keep the typo as a variant), `reject`, `accept` (clear ⚠), `variant`, `correct` (fix dialect/Italian/English). Columns `Decision,Language_ID,Form,Sense,Target_Form,Target_Language_ID,Italian,English,Reason,Date`. **This is where the owner's corrections go.** Rows whose Reason starts "Claude inferred:" came from Claude's full review on 2026-10-14 (about 260 rows); the owner's have no prefix. |
+| `decisions.csv` | Decisions about dictionary entries and expressions: `typo` (fold into the correct form, keep the typo as a variant), `reject`, `accept` (clear ⚠), `variant`, `correct` (fix dialect/Italian/English), `expression` (an idiom or sentence that had landed in the dictionary: it becomes an expression). Columns `Decision,Language_ID,Form,Sense,Target_Form,Target_Language_ID,Italian,English,Reason,Date`. **This is where the owner's corrections go.** Rows whose Reason starts "Claude inferred:" came from Claude's full review on 2026-10-14 (about 260 rows, plus 93 `expression` rows); the owner's have no prefix. |
 | `pair_corrections.csv` | Delete / replace / add an extracted pair, by `source,line` from `pipeline/data/extracted_pairs.csv`. |
-| `lesson_sources.csv` | One row per document: variety, canonical yes/no, layout (`auto`, `skip`, `text_only`, `gerund`, `imperative`, `bullets`), include. New files arrive with `?`. |
+| `lesson_sources.csv` | One row per document: variety, canonical yes/no, layout (`auto`, `skip`, `text_only`, `gerund`, `imperative`, `bullets`), include, genre of its expressions (`phrase`, `saying`, `exercise`, `text`). New files arrive with `?`. |
+| `topics.csv` | The expression topics (ID, Italian name, English name), in page order. |
+| `expression_topics.csv` | One row per expression (`Language_ID,Form,Topic,Genre`, Form = dialect text): its topic, and a genre when it differs from its document's. Written by Claude on 2026-10-14; new expressions via `tool_expression_topics.py`. |
 | `english_translations.csv` | Italian → English, keyed by the Italian text. |
 | `verb_details.csv` | Per verb: dialect infinitive (attested/inferred + evidence), merges, class, stems, participle, auxiliary, tenses to ignore. |
 | `verb_forms_from_texts.csv` | Verb forms found in running text (attested) or supplied by hand (inferred). |
 | `dialect_lists_italian_supplied.csv` | Dialect-only list words (lessons 1–2, 5, 6) with Italian/English supplied by Claude; Italian shown with †. |
 
 Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_readme_intro.md`,
-`cover_verbs.html`, `cover_dictionary.html` (`{{…}}` placeholders filled at build time).
+`cover_verbs.html`, `cover_dictionary.html`, `cover_expressions.html` (`{{…}}` placeholders filled at build time).
 
 ## Decisions already made (do not relitigate)
 
@@ -116,7 +119,8 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
   rows get status `typo`/`rejected`. Sources cited as `key[l.N]` (line in `pipeline/cache/lesson_text`).
 - **Canonical variety:** the Rögn course lessons and the teacher's own exercise sheets. Other varieties
   stay in the same dictionary pages with a **Region** column.
-- **Output is Markdown** in folders at the repository root, plus the two PDFs (also copied to `Dialect/`). No spreadsheet output.
+- **Output is Markdown** in folders at the repository root, plus three PDFs (the dictionary and verb PDFs also
+  copied to `Dialect/`, the expressions PDF not). No spreadsheet output.
 - **Teacher's spelling is kept** as written, variants included. Exceptions: Word's automatic capitals
   are lowered on words and non-sentence phrases, "idem" is replaced by the text it refers to, and the
   conditional sheets' hyphens (`ciapa-ria/ress`) are written out (`ciaparia/ciaparess`).
@@ -130,6 +134,15 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
   same region is dropped (`merge_same_head()`, used by pages and PDF).
 - **Dictionary:** three pages named for the look-up language (Dialett lists every entry), verbs included
   (English as `to …`). The owner's spreadsheet and notes are ordinary sources. No mention of "Oxford 3000".
+- **Expressions (decided 2026-10-14):** grouped by **topic** (`etc/topics.csv`), not by lesson. Each topic page
+  lists sayings and idioms (genre `saying`), then phrases (`phrase`, `exercise`); the same dialect text from
+  several documents is one row with every source. Documents of genre `text` (poems, stories, articles,
+  dialogues, `varie situazioni`) keep a page each in reading order and get no topic. In `cldf/` this follows
+  the TextCorpus pattern: `contributions.csv` (one row per document) with `Contribution_ID` and `Position` on
+  each example, plus `Genre` and `Topic_ID` (FK to `topics.csv`). `senses.csv` has `Example_IDs`, linked
+  automatically (dialect word and its Italian stem must both appear). Idioms, similes and sentences do not
+  belong in the dictionary: move them with an `expression` decision. PDF `arogno-expressions.pdf`: topics in two
+  columns (dialect first, sorted by dialect), then each text as a three-column table.
 - **Verb pages:** Infinitive section (Dialett, Italiano, English), then gerund, participle and class,
   then Indicativo as two three-tense tables (A4), Condizionale, Imperativo; same sections for every verb.
   Classes follow the four Western Lombard conjugations (not from the course).
@@ -150,7 +163,10 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
    of those notes, transcribe by reading the images in the session, not with tesseract (handwriting).
 2. Classify the new rows in `etc/lesson_sources.csv` (variety, canonical, layout) and rebuild.
 3. From `pipeline/`, run `.venv/bin/python tool_missing_english.py list`, translate, save as
-   `id<TAB>english` lines and feed back with `tool_missing_english.py merge FILE`.
+   `id<TAB>english` lines and feed back with `tool_missing_english.py merge FILE`. Then give new expressions a
+   topic: `tool_expression_topics.py list`, choose a topic ID for each, `tool_expression_topics.py merge FILE`
+   (`n<TAB>topic` lines). Set the document's `genre` in `etc/lesson_sources.csv` first (texts need no topic).
+   An idiom or sentence that lands in the dictionary gets an `expression` row in `etc/decisions.csv`.
 4. Check for silently dropped lines: list every line of each canonical document that produced no pair,
    verb form or unparsed row. This is how `Grembiule: scusaa` (lesson 4) and the bulleted pairs in
    `brevi frasi` were found. Also look at `pipeline/data/unparsed_lines.csv`.
@@ -169,7 +185,14 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
   compound tenses, and futures and conditionals of -ì verbs with -is-. `TO-CHECK.md` lists them all.
 - `Paul e Ghita`, `Topolino` and other dialect-only or multi-column texts are OCR'd but not used for the
   dictionary.
-- Dialect lines on the PDF covers were written by Claude, not the teacher.
+- Dialect lines on the dictionary and verb PDF covers were written by Claude, not the teacher (the two sayings on
+  the expressions cover are from the course).
+- Expression topics are Claude's judgement (`etc/expression_topics.csv`); *La vita e la saggezza* and
+  *Carattere* are large catch-alls. A few single words are still among the expressions (13a: *falce per
+  l'erba*, *gerla*, *carro*; 14a *ciliegio*; Gaggini's *cröcc / cumãa* under Altro): no decision moves an
+  expression into the dictionary yet.
+- `Example_IDs` links only about 90 senses: the dialect word must appear in the expression exactly as
+  written (inflected adjectives and nouns are missed), and words under four letters are skipped.
 - `raw/` contains third-party material (published texts, the teacher's handouts, classmates' names).
   The owner has been told; do not add more of it to generated pages than is already there without asking.
 

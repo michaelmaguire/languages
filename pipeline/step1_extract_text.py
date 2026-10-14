@@ -17,7 +17,7 @@ from paths import RAW as SRC, ETC, CACHE as CACHE_DIR
 CACHE = CACHE_DIR / "lesson_text"
 INDEX = CACHE_DIR / "extract_index.json"
 MANIFEST = ETC / "lesson_sources.csv"
-MANIFEST_FIELDS = ["file", "variety", "canonical", "layout", "include", "notes"]
+MANIFEST_FIELDS = ["file", "variety", "canonical", "layout", "include", "genre", "notes"]
 OCR_LANGS = "ita+deu"
 
 W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
@@ -150,7 +150,7 @@ def main():
         seen_text.setdefault(info["text_sha1"], path.name)
         rows.append({"file": path.name, "variety": "?", "canonical": "?",
                      "layout": "skip" if dup else "auto",
-                     "include": "no" if dup else "yes",
+                     "include": "no" if dup else "yes", "genre": "" if dup else "?",
                      "notes": f"duplicate of {dup}" if dup else "NEW - please check variety and layout"})
         new += 1
     with MANIFEST.open("w", newline="") as f:

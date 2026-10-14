@@ -6,8 +6,11 @@ Source document: [Favole in dialetto tradotta in italiano](https://github.com/mi
 
 Region: **not identified**
 
+Line by line, in the order of the document. A poem or a story does not always divide into neat pairs, so some lines are fragments. ⚠ marks a pair the extraction script was unsure about.
+
 | Italiano | Dialett | English |
 |---|---|---|
+| Il Savio e il Matto | El Savie é el Matt | the Wise Man and the Fool |
 | In un paese vivevano due fratelli che non si assomigliavano neanche un po’. Uno era giudizioso ed era chiamato il | In d’ün paes viveva dü fradei che is someiava gnanca ün pò. Ün l’eva giüdizios é l’eva ciamá el | In a village there lived two brothers who were not alike in the slightest. One was sensible and was called the |
 | Savio, quell’altro un po’ stupido il Matto. | Saviè, quel’altre ün pò stüpit el Matt. | Wise Man; the other, a bit stupid, the Fool. |
 | Un giorno si sono messi in viaggio per andare a trovare parenti che stavano di là del bosco. Quando sono arrivati | Ün dí i s’é metü in viacc per andá a trová di parente che i stava de lá dal bosche. Quante chi ié rivàa | One day they set off to visit relatives who lived on the other side of the wood. When they got |

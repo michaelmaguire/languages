@@ -9,9 +9,11 @@ the extraction saved in `../pipeline/data/` (see the pipeline README).
 
 | File | One row per | What it decides |
 |---|---|---|
-| [`decisions.csv`](decisions.csv) | decision about a dictionary entry or an expression | Typos, rejections, corrections, acceptance of uncertain (⚠) rows, variants. Format below. |
+| [`decisions.csv`](decisions.csv) | decision about a dictionary entry or an expression | Typos, rejections, corrections, acceptance of uncertain (⚠) rows, variants, sayings moved out of the dictionary. Format below. |
 | [`pair_corrections.csv`](pair_corrections.csv) | extracted pair | Delete, replace or add a pair found by the parser: `source,line,action,italian,dialect,english,note`, where `source` and `line` come from `../pipeline/data/extracted_pairs.csv` and `action` is `delete`, `replace` or `add`. |
-| [`lesson_sources.csv`](lesson_sources.csv) | document in `raw/` | Its dialect variety, whether it is canonical Rögn course material, how to parse it (`layout`: `auto`, `skip`, `text_only`, `gerund`, `imperative`, `bullets`) and whether to include it. New documents are added automatically with `?` to fill in. |
+| [`lesson_sources.csv`](lesson_sources.csv) | document in `raw/` | Its dialect variety, whether it is canonical Rögn course material, how to parse it (`layout`: `auto`, `skip`, `text_only`, `gerund`, `imperative`, `bullets`), whether to include it, and the `genre` of its expressions: `phrase`, `saying` (proverbs, idioms, similes), `exercise` (grammar sheets) or `text` (poems, stories, articles, dialogues: read in order, no topic). New documents are added automatically with `?` to fill in. |
+| [`topics.csv`](topics.csv) | topic | The topics expressions are grouped by (`ID`, Italian `Name`, `Name_English`), in the order of the pages. |
+| [`expression_topics.csv`](expression_topics.csv) | expression | Its `Topic` (an ID from `topics.csv`), and a `Genre` when it differs from its document's (a proverb in a list of phrases). Keyed by `Language_ID` and `Form`, the dialect text as in `../cldf/examples.csv`. Added with `../pipeline/tool_expression_topics.py`. |
 | [`english_translations.csv`](english_translations.csv) | Italian text | Its English. Every translation is made once and kept here. |
 | [`verb_details.csv`](verb_details.csv) | verb needing help | Dialect infinitive (attested or inferred, with the evidence), merges of duplicate verbs, class, stems, participle, auxiliary, tenses to ignore. |
 | [`verb_forms_from_texts.csv`](verb_forms_from_texts.csv) | verb form | A form found in running text (`basis` = `attested`), or supplied by hand (`inferred`). |
@@ -27,7 +29,7 @@ correct,ticinese,böcc,,,,buco,hole,"Claude inferred: Italian misspelt ""bucco""
 
 | Column | Meaning |
 |---|---|
-| `Decision` | `typo`, `reject`, `accept` or `variant` |
+| `Decision` | `typo`, `reject`, `accept`, `variant`, `correct` or `expression` |
 | `Language_ID` | the variety of the entry the decision is about, as in `../cldf/languages.csv` (`rogn`, `basso-ceresio`, `ticinese` …) |
 | `Form` | the entry's headword, or for an expression its dialect text, as it appears in the data |
 | `Sense` | optional: the Italian of one sense of the entry, to limit `reject`, `accept` or `correct` to that sense |
@@ -43,6 +45,7 @@ correct,ticinese,böcc,,,,buco,hole,"Claude inferred: Italian misspelt ""bucco""
 | `accept` | A `pending` (⚠) entry becomes accepted and its pending senses attested. |
 | `variant` | Same variety: the form becomes an accepted spelling of the target entry. Another variety: the entry is linked to the target with `Variant_Of`, or, if the target does not exist yet, folded into a new target entry (how `avech pagüra` became the Rögn `vegh pagüra`). |
 | `correct` | Replaces the dialect, Italian and/or English of the entry's senses (or the one named in `Sense`), or of an expression, and marks it accepted. |
+| `expression` | The entry is an idiom, a saying or a sentence rather than a word (*al bef cumè na pidria*, *E da indua ta set?*): it leaves the dictionary and becomes an expression, with its senses joined as the Italian. Give it a topic in `expression_topics.csv`. |
 
 `reject`, `accept` and `correct` also work on expressions (`examples.csv`): `Form` is then the dialect
 text. A decision that matches nothing is reported as a warning when the dataset is built.

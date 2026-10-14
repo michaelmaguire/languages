@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Step 5: print-ready PDFs of the verb charts and the dictionary, from the CLDF dataset.
+"""Step 5: print-ready PDFs of the verb charts, the dictionary and the expressions, from the CLDF dataset.
 
 Reads  ../cldf (through lexicon.for_pages), data/dictionary.csv (written by step 4),
-       templates/cover_verbs.html and templates/cover_dictionary.html (title pages; {{verbs}},
-       {{inferred}}, {{words}}, {{flagged}} and {{edition}} are filled in at build time),
-       ../ATTRIBUTIONS.md (printed straight after each cover)
+       templates/cover_verbs.html, cover_dictionary.html and cover_expressions.html (title pages; {{verbs}},
+       {{inferred}}, {{words}}, {{flagged}}, {{sayings}}, {{phrases}}, {{topics}}, {{texts}} and {{edition}}
+       are filled in at build time), ../ATTRIBUTIONS.md (printed straight after each cover)
 Writes ../Verbs/arogno-verbs.pdf         cover, contents, attributions, one verb per A4 sheet
        ../Dictionary/arogno-dictionary.pdf  cover, contents, attributions, the three look-up directions
-       and a copy of each under ../Dialect/, where the PDFs were first published (old links still work)
+       ../Expressions/arogno-expressions.pdf  cover, contents, attributions, expressions by topic, then the texts
+       and a copy of the first two under ../Dialect/, where they were first published (old links still work);
+       the expressions PDF is newer and has no copy there
 Uses Chrome or Chromium in headless mode to print; skipped with a message if neither is installed.
 Each PDF is printed twice: the contents page holds {{page:ID}} placeholders, and the page numbers come
 from where the first print put the elements those IDs link to (read back with pypdf).
@@ -127,8 +129,9 @@ def main():
     document = (f'<!doctype html><meta charset="utf-8"><title>Verbi – dialett da Rögn</title>'
                 f"<style>{CSS}{TOC_CSS}</style>{cover}{contents}{credits_pages()}{''.join(sheets)}")
     print_with_contents(OUT, PAGE, document,
-                        f"arogno-verbs.pdf: cover, contents, attributions + {len(sheets)} verb sheets")
+                        f"arogno-verbs.pdf: cover, contents, attributions + {len(sheets)} verb sheets", legacy=True)
     dictionary()
+    expressions()
 
 
 CREDITS_CSS = """
@@ -197,7 +200,7 @@ def credits_pages():
             items.append(line[2:])
         elif items and line.startswith("  "):
             items[-1] += " " + line.strip()
-        elif "printed at the back of the" in line or line.startswith("two PDFs."):
+        elif "printed at the back of the" in line or re.match(r"(two|three) PDFs\.", line):
             continue
         else:
             para.append(line.strip())
@@ -205,7 +208,7 @@ def credits_pages():
     return f'<style>{CREDITS_CSS}</style><div class="credits" id="attributions">{"".join(out)}</div>'
 
 
-# one edition stamp per run, shared by both PDFs: year, month, day, hour, minute (e.g. 202610141046)
+# one edition stamp per run, shared by all the PDFs: year, month, day, hour, minute (e.g. 202610141046)
 EDITION = datetime.datetime.now().strftime("%Y%m%d%H%M")
 
 
@@ -240,9 +243,10 @@ def print_pdf(out, page):
     return True
 
 
-def print_with_contents(out, page, document, message):
+def print_with_contents(out, page, document, message, legacy=False):
     """Print document; {{page:ID}} becomes the number of the page holding the element with that id.
-    The first print uses a stand-in; then the real numbers are read from the PDF's link targets."""
+    The first print uses a stand-in; then the real numbers are read from the PDF's link targets.
+    legacy: also copy the PDF to its old place under ../Dialect/ (only the two PDFs whose links were shared)."""
     import pypdf
     ids = set(PLACEHOLDER.findall(document))
     numbers = dict.fromkeys(ids, "000")
@@ -261,6 +265,8 @@ def print_with_contents(out, page, document, message):
     if missing:
         print(f"{out.name}: no page found for {', '.join(missing[:5])}")
     print(f"{message}, {len(reader.pages)} pages -> {out}")
+    if not legacy:
+        return
     # The PDFs were first published under Dialect/ (before the dataset moved to the repository root, on
     # 2026-10-14) and those links were shared, so a copy is kept there; see Dialect/README.md.
     old = ROOT / "Dialect" / out.relative_to(ROOT)
@@ -340,7 +346,88 @@ def dictionary():
     document = (f'<!doctype html><meta charset="utf-8"><title>Dizionari – dialett da Rögn</title>'
                 f"<style>{DICT_CSS}{TOC_CSS}</style>{cover}{''.join(toc)}{credits_pages()}{''.join(body)}")
     print_with_contents(build.ROOT / "Dictionary" / "arogno-dictionary.pdf", page, document,
-                        f"arogno-dictionary.pdf: cover, contents, attributions + {len(words)} words three ways")
+                        f"arogno-dictionary.pdf: cover, contents, attributions + {len(words)} words three ways",
+                        legacy=True)
+
+
+EXPR_CSS = """
+.part h2 { font: bold 14pt "DejaVu Sans", Arial, sans-serif; margin: 6mm 0 1mm; color: #0f5c4d; break-after: avoid; column-span: all; }
+.part h2:first-of-type { margin-top: 0; }
+h3 { font: bold 8.5pt "DejaVu Sans", Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase; color: #555;
+     margin: 2.5mm 0 1.5mm; break-after: avoid; column-span: all; }
+.x { margin: 0 0 1.3mm; break-inside: avoid; }
+.x b { font-weight: bold; }
+.x i { color: #333; }
+.x .en { color: #555; }
+.x .r { font: 7pt "DejaVu Sans", Arial, sans-serif; color: #666; text-transform: uppercase; letter-spacing: .04em; }
+.text { break-before: page; }
+.text .by { font-size: 9pt; color: #444; margin: 0 0 3mm; }
+.text table { border-collapse: collapse; width: 100%; table-layout: fixed; font-size: 8.5pt; }
+.text th { font: bold 8pt "DejaVu Sans", Arial, sans-serif; text-align: left; border-bottom: .6pt solid #111; padding: .8mm 2mm .8mm 0; }
+.text td { vertical-align: top; border-bottom: .3pt solid #ccc; padding: .7mm 2mm .7mm 0; overflow-wrap: anywhere; }
+.text td:first-child { font-weight: bold; }
+"""
+
+
+def expressions():
+    """Expressions/arogno-expressions.pdf: the sayings and phrases by topic, two columns to the page, then
+    each text line by line (dialect, Italian, English)."""
+    import lexicon
+    uniq, _, _ = lexicon.for_pages()
+    topics = lexicon.topics()
+    exprs = [p for p in uniq if p["kind"] == "expression"]
+    if not exprs:
+        return
+    by_topic, texts = build.expression_groups(exprs, topics)
+    names = {t["ID"]: t for t in topics}
+
+    def entry(p):
+        flag = " ⚠" if p["check"] else ""
+        region = f' <span class="r">{esc(build.region(p))}</span>' if build.region(p) not in ("Rögn", "") else ""
+        english = f' · <span class="en">{esc(p["english"])}</span>' if p["english"] else ""
+        return f'<div class="x"><b>{esc(p["dialect"])}</b>{flag} <i>{esc(p["italian"])}</i>{english}{region}</div>'
+
+    body, toc, counts = [], [], {"saying": 0, "phrase": 0}
+    body.append('<div class="part" id="part-topics"><h1>Per argomento · By topic</h1>'
+                '<p>Sayings and idioms first, then phrases. Dialect in bold, Italian in italics, then English.</p>'
+                '<div class="entries">')
+    for tid, rows in by_topic.items():
+        t = names[tid]
+        body.append(f'<h2 id="t-{tid}">{esc(t["Name"])} · {esc(t["Name_English"])}</h2>')
+        for genre, (it, en) in (("saying", build.SAYINGS), ("phrase", build.PHRASES)):
+            # the dialect leads each entry here, so it sets the order (the Markdown pages lead with the Italian)
+            part = sorted(build.merge_expressions([p for p in rows if (p["genre"] == "saying") == (genre == "saying")]),
+                          key=lambda p: build.plain(build.DI_ARTICLE.sub("", build.key(p["dialect"]))))
+            if part:
+                counts[genre] += len(part)
+                body.append(f"<h3>{esc(it)} · {esc(en)}</h3>" + "".join(entry(p) for p in part))
+        toc.append(f'<a href="#t-{tid}"><span>{esc(t["Name"])} <span class="it">· {esc(t["Name_English"])}</span>'
+                   f'</span><span>{{{{page:t-{tid}}}}}</span></a>')
+    body.append("</div></div>")
+    text_toc = []
+    for n, (source, rows) in enumerate(texts.items(), 1):
+        by = " · ".join(x for x in (rows[0]["author"] and f"By {rows[0]['author']}", build.region(rows[0])) if x)
+        body.append(f'<div class="text" id="x-{n}"><h1>{esc(build.text_title(rows[0]))}</h1>'
+                    f'<p class="by">{esc(by)}</p><table><tr><th>Dialett</th><th>Italiano</th><th>English</th></tr>'
+                    + "".join(f'<tr><td>{esc(p["dialect"])}{" ⚠" if p["check"] else ""}</td><td>{esc(p["italian"])}</td>'
+                              f'<td>{esc(p["english"])}</td></tr>' for p in rows) + "</table></div>")
+        text_toc.append(f'<a href="#x-{n}"><span>{esc(build.text_title(rows[0]))}</span><span>{{{{page:x-{n}}}}}</span></a>')
+    contents = ('<section class="toc"><h1>Contents</h1><a class="head" href="#attributions">'
+                '<span>Attributions and thanks</span><span>{{page:attributions}}</span></a>'
+                '<a class="head" href="#part-topics"><span>Per argomento · By topic</span>'
+                '<span>{{page:part-topics}}</span></a>' + "".join(toc)
+                + '<a class="head" href="#x-1"><span>Testi · Texts</span><span>{{page:x-1}}</span></a>'
+                + "".join(text_toc) + "</section>")
+    cover = stamp((TEMPLATES / "cover_expressions.html").read_text())
+    for k, v in (("sayings", counts["saying"]), ("phrases", counts["phrase"]), ("topics", len(by_topic)),
+                 ("texts", len(texts))):
+        cover = cover.replace("{{" + k + "}}", str(v))
+    page = HERE / "cache" / "print_expressions.html"
+    document = (f'<!doctype html><meta charset="utf-8"><title>Modi da dì – dialett da Rögn</title>'
+                f"<style>{DICT_CSS}{TOC_CSS}{EXPR_CSS}</style>{cover}{contents}{credits_pages()}{''.join(body)}")
+    print_with_contents(build.ROOT / "Expressions" / "arogno-expressions.pdf", page, document,
+                        f"arogno-expressions.pdf: cover, contents, attributions + {counts['saying'] + counts['phrase']} "
+                        f"expressions in {len(by_topic)} topics and {len(texts)} texts")
 
 if __name__ == "__main__":
     sys.exit(main())

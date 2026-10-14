@@ -594,7 +594,7 @@ def for_pages():
         src, line = origin(s["Source"] or e["Source"])
         pending = "pending" in (s["Status"], e["Status"])
         shown = " / ".join([e["Headword"]] + [f for f in spellings[e["ID"]] if pages.key(f) != pages.key(e["Headword"])])
-        uniq.append({"italian": s["Description"], "dialect": shown if e["Part_Of_Speech"] != "verb" else e["Headword"],
+        uniq.append({"italian": s["Description"], "dialect": shown,
                      "english": s["Description_English"] or "",
                      "kind": "word", "variety": LABEL.get(e["Language_ID"]) or "",
                      "canonical": "yes" if e["Language_ID"] == "rogn" else "no", "source": src, "line": line,

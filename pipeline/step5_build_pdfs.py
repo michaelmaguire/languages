@@ -307,7 +307,9 @@ def dictionary():
     def entries(part, head, second, third, sort_key):
         groups = {}
         # an entry with no word in the look-up language ("[get out of]" for unknown Italian) is left out
-        for w in sorted((w for w in (words if head == "dialect" else lookup) if w[head] and not w[head].startswith("[")),
+        # in the dialect part a word written in several ways appears under each spelling (giô -> giò / giô / giõ)
+        source = words + build.cross_references(words) if head == "dialect" else lookup
+        for w in sorted((w for w in source if w[head] and not w[head].startswith("[")),
                         key=lambda w: build.plain(sort_key(w))):
             letter = (build.plain(sort_key(w)) or "#")[0].upper()
             groups.setdefault(letter if letter.isalpha() else "#", []).append(w)

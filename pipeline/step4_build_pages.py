@@ -9,7 +9,7 @@ Writes ../README.md, ../TO-CHECK.md, ../Dictionary/*.md, ../Expressions/*.md, ..
 plain-table exports data/dictionary.csv, data/expressions.csv, data/verb_tables.csv.
 Dictionary/, Expressions/ and Verbs/ are wiped and rewritten on every run: never edit them by hand.
 """
-import csv, glob, re, shutil, sys, unicodedata
+import csv, difflib, glob, re, shutil, sys, unicodedata
 from collections import OrderedDict, defaultdict
 from pathlib import Path
 from urllib.parse import quote
@@ -374,6 +374,23 @@ def lookup_table(rows, head, cols):
     return table([names[head]] + [names[c] for c in cols], body)
 
 
+SPELLINGS = re.compile(r"\s*/\s*|\s+o\s+")
+
+
+def cross_references(words):
+    """For the Dialett look-up: one extra row per alternate spelling, in its own alphabetical place, pointing
+    to the entry that has them all ('giô -> giò / giô / giõ', 'scultà -> scoltà o scultà'), so a word can be
+    found however it is written."""
+    out, seen = [], set()
+    for p in words:
+        forms = [f for f in SPELLINGS.split(p["dialect"]) if f.strip()]
+        for f in forms[1:]:
+            if (key(f), key(p["dialect"])) not in seen:
+                seen.add((key(f), key(p["dialect"])))
+                out.append(dict(p, dialect=f, italian=f"→ {p['dialect']}", english="", note="", check="", supplied=False))
+    return out
+
+
 def word_page(title, intro, words, order):
     """order: 'it' (Italian first) or 'di' (dialect first)."""
     if order == "it":
@@ -652,7 +669,9 @@ def render(uniq, tables, eng, topics=None):
     note_lookup = (note + " Looking up from Italiano or English, a word from another region is left out when the "
                    "Rögn course has a word with the same meaning; the Dialett page lists them all.")
     write(ROOT / "Dictionary/italiano.md", word_page("Italiano → Dialett → English", note_lookup, lookup, "it"))
-    write(ROOT / "Dictionary/dialett.md", word_page("Dialett → Italiano → English", note, words, "di"))
+    write(ROOT / "Dictionary/dialett.md", word_page("Dialett → Italiano → English", note + " A word written in "
+          "several ways is listed under each spelling: → points to the entry that has them all.",
+          words + cross_references(words), "di"))
 
     en_rows = sorted(lookup, key=lambda p: (not p["english"], plain(EN_ARTICLE.sub("", p["english"])),
                                             p["canonical"] != "yes", plain(p["dialect"])))  # no English: last
@@ -767,7 +786,17 @@ def render(uniq, tables, eng, topics=None):
 
     inferred_inf = [n for n in order if tables[n]["basis"] == "inferred"]
     odd_topics = [t for t in topics if "†" in (t.get("Name_Dialect") or "")]
-    questions = read(ETC / "questions_for_teacher.csv")
+    questions = read(ETC / "open_questions.csv")
+    meaning = {key(SPELLINGS.split(p["dialect"])[0]): p for p in words}
+    spelling_sets = [[" · ".join([r["Headword"]] + [v.strip() for v in r["Variants"].split(";") if v.strip()]),
+                      meaning.get(key(r["Headword"]), {}).get("italian", ""), meaning.get(key(r["Headword"]), {}).get("english", "")]
+                     for r in read(ETC / "spelling_variants.csv")]
+    spelling_sets += [[" · ".join(dict.fromkeys(tables[n]["dialect"])), n, (lambda en: f"to {en}" if en else "")(eng.get(key(n), ""))]
+                      for n in order if len(tables[n]["dialect"]) > 1 and all(       # spellings, not synonyms (cumincià, tacà)
+                          difflib.SequenceMatcher(None, plain(tables[n]["dialect"][0]), plain(d)).ratio() >= 0.7
+                          for d in tables[n]["dialect"][1:])]
+    spelling_sets = list({plain(r[0]): r for r in reversed(spelling_sets)}.values())   # a verb can be in both lists
+    spelling_sets.sort(key=lambda r: plain(r[0]))
     verb_rows, n_inferred = [], 0
     for name in order:
         e = tables[name]
@@ -801,14 +830,20 @@ def render(uniq, tables, eng, topics=None):
             [f"[{INFERRED.strip()} Inferred verb forms](#inferred-verb-forms)", n_inferred],
             [f"[{INFERRED.strip()} Italian supplied for dialect-only lists](#italian-supplied)",
              sum(1 for p in uniq if p.get("supplied"))],
-            ["[Questions for the teacher](#questions-for-the-teacher)", len(questions)],
+            ["[Open questions](#open-questions)", len(questions)],
+            ["[Preferred spellings](#preferred-spellings)", len(spelling_sets)],
             [f"[{INFERRED.strip()} Words in topic names not found in the course](#topic-names)", len(odd_topics)],
             [f"[{FLAG.strip()} Uncertain extractions](#uncertain-extractions)", len(flagged)]]),
-        "## Questions for the teacher\n",
-        "Open questions about forms and spellings, kept in `etc/questions_for_teacher.csv`. When one is "
-        "answered, record the answer in `etc/` (a decision, a verb form, a topic name) and delete its row.\n",
+        "## Open questions\n",
+        "Open questions about forms the course does not give, kept in `etc/open_questions.csv`. When one "
+        "is answered, record the answer in `etc/` (a decision, a verb form) and delete its row.\n",
         table(["Area", "About", "Question", "How it is shown for now"],
               [[q["Area"], q["About"], q["Question"], q["Current_Handling"]] for q in questions]),
+        "## Preferred spellings\n",
+        "The lessons write these words in more than one way. All the spellings are kept and can be looked up; "
+        "the answer only decides which is shown first. Record it by putting the preferred spelling first in "
+        "`etc/spelling_variants.csv` (or in `etc/verb_details.csv` for a verb).\n",
+        table(["Spellings found in the lessons", "Italiano", "English"], spelling_sets),
         "## Inferred infinitives\n",
         "The course material gives forms of these verbs but never states the infinitive.\n",
         table(["Dialett", "Italiano", "Worked out from"], manual_rows),

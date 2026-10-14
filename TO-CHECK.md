@@ -9,19 +9,57 @@ Everything in the generated pages that was not taken straight from a course docu
 | [† Inferred dialect infinitives](#inferred-infinitives) | 22 |
 | [† Inferred verb forms](#inferred-verb-forms) | 4628 |
 | [† Italian supplied for dialect-only lists](#italian-supplied) | 150 |
-| [Questions for the teacher](#questions-for-the-teacher) | 3 |
+| [Open questions](#open-questions) | 3 |
+| [Preferred spellings](#preferred-spellings) | 30 |
 | [† Words in topic names not found in the course](#topic-names) | 6 |
 | [⚠ Uncertain extractions](#uncertain-extractions) | 51 |
 
-## Questions for the teacher
+## Open questions
 
-Open questions about forms and spellings, kept in `etc/questions_for_teacher.csv`. When one is answered, record the answer in `etc/` (a decision, a verb form, a topic name) and delete its row.
+Open questions about forms the course does not give, kept in `etc/open_questions.csv`. When one is answered, record the answer in `etc/` (a decision, a verb form) and delete its row.
 
 | Area | About | Question | How it is shown for now |
 |---|---|---|---|
 | Verbs | ves (essere) | The essere table writes the 3rd person as le/lü l'è \| eva \| eva stai. Is the imperfect 'eva' / 'eva stai' as written, or 'l'eva' / 'l'eva stai' like the other verbs? | Kept as written (eva, eva stai); other verbs now show l'eva |
 | Verbs | all verbs | The subjunctive (congiuntivo presente and imperfetto) is inferred from about ten forms found in sentences (füdessa, ta siat, al naga, i faga). Is there a table, and are the patterns right (che mi paga, ta pagat; pagassa, ta pagassat)? | Shown with † |
 | Verbs | töss fö (togliersi di torno) | Is töss fö the infinitive of 'töt mia fö, töghemas mia fö, tögevas mia fö' (imperative sheet)? | Inferred, with † |
+
+## Preferred spellings
+
+The lessons write these words in more than one way. All the spellings are kept and can be looked up; the answer only decides which is shown first. Record it by putting the preferred spelling first in `etc/spelling_variants.csv` (or in `etc/verb_details.csv` for a verb).
+
+| Spellings found in the lessons | Italiano | English |
+|---|---|---|
+| barbiis · barbis | baffi | moustache |
+| capél · capèl | cappello | hat |
+| catà fö · cata fö | scegliere | to choose |
+| cöör · cör | cuore | heart |
+| denc · dencc | dente | tooth |
+| dü · düü | due | two |
+| duprà · doprà | adoperare | to use |
+| fà · fa | fare | to do / make |
+| gent · gént | genitori | parents |
+| ghett · ghet | ghette | gaiters |
+| giò · giô · giõ | giù | down |
+| ier · ièr | ieri | yesterday |
+| lünedi · lünedì | lunedì | Monday |
+| mamm · mam | madre | mother |
+| mangià · magià | mangiare | to eat |
+| met · mett | mettere | to put |
+| na · nà | andare | to go |
+| pè · pé · pée · pee | piede | foot |
+| piatt · piat | piatto | plate |
+| podé · pudé | potere | to be able to |
+| ros · ross | rosso | red |
+| scbat · scbatt | sbattere | to slam |
+| sempru · sémpru | sempre | always |
+| surèla · surela | sorella | sister |
+| töö · tö | comprare | to buy |
+| tri · trii | tre | three |
+| umbrèla · umbrela | ombrello | umbrella |
+| vegh · végh | avere | to have |
+| vert · vèrt | aprire | to open |
+| ves · véss | essere | to be |
 
 ## Inferred infinitives
 

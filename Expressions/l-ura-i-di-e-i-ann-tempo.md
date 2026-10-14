@@ -16,7 +16,7 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 | Quest’anno è proprio volato. | Quesct’an l’è propri vulaa | This year has really flown by. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | sarò lì tra un attimo | a sum li in un boff | I'll be there in a moment | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
 | sono arrivato appena in tempo | a sum rivaa a brüs | I arrived just in time | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| spaccare il minuto o il secondo | scpacà ‘l minüt o al segund ⚠ | to be punctual to the minute or the second | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| spaccare il minuto o il secondo | scpacà ‘l minüt o al segund | to be punctual to the minute or the second | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | Il tempo vola. | Al temp al vola | Time flies. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 
 ## Frasi · Phrases

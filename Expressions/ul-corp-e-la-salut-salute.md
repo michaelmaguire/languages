@@ -8,7 +8,7 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 | Italiano | Dialett | English | Region | Source |
 |---|---|---|---|---|
-| avere uno stomaco di ferro | veg ‘n stomic da fer ⚠ | to have a cast-iron stomach | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| avere uno stomaco di ferro | veg ‘n stomic da fer | to have a cast-iron stomach | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | Con la salute non si scherza. | Cun la salüd sa scherza mia | Health is no joking matter. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | dorme come un ghiro | al dorma cum'è n' ghir | he sleeps like a dormouse (like a log) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | dormire come un ghiro | durmì cumé na gira | to sleep like a log (lit. like a dormouse) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
@@ -18,12 +18,12 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 | è tutta le sera che sbadiglia | al'è tüta la sira che al scbradagia | he has been yawning all evening | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | essere malridotto (fisicamente) | ta sé cunsc cum 'è n'pilat | to be in a bad way (physically) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | essere malridotto (fisicamente) | cunsc cum 'è n'sant Quintin | to be in a bad way (physically) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| essere sano come un pesce | ves san cumé ‘n pes ⚠ | to be as fit as a fiddle | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| essere sano come un pesce | ves san cumé ‘n pes | to be as fit as a fiddle | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | essere segnato (anche baccato ....in testa) | al'è tütt macaa | to be marked (also touched… in the head) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | L’importante è bere tanta acqua. | L’important l’è bef tanta acqua | The important thing is to drink plenty of water. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | mi sono ridotto male | ma sum cunsciaa cumè n' rebatin | I am in a bad state | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
 | pallido come un pannolino | smort cum'è n 'patüsch | as pale as a sheet | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| passare la notte in bianco | pasà la nocc in bianc ⚠ | to have a sleepless night | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| passare la notte in bianco | pasà la nocc in bianc | to have a sleepless night | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | Più uno dorme e più ha sonno. | Püsée vün al dorma e püsee al gh’a sögn | The more you sleep, the sleepier you are. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | Quando c’è la salute, c’è tutto. | Quand gh’è la salüd, gh’è tütt | When you have your health, you have everything. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | quando una persona sta per morire | l'è pusée da la che da scià | when a person is about to die | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |

@@ -18,7 +18,7 @@ Topic names are given in dialect, Italian and English. The dialect names were co
 | [Ul cör e l'umur†](ul-cor-e-l-umur-sentimenti.md) | Sentimenti e umore | Feelings and moods | 15 | 6 |
 | [Famiglia, amis e amur](famiglia-amis-e-amur-famiglia.md) | Famiglia, amici e amore | Family, friends and love | 75 | 5 |
 | [Ul corp† e la salüt](ul-corp-e-la-salut-salute.md) | Corpo e salute | Body and health | 21 | 2 |
-| [Mangià e bef](mangia-e-bef-cibo.md) | Mangiare e bere | Food and drink | 27 | 70 |
+| [Mangià e bef](mangia-e-bef-cibo.md) | Mangiare e bere | Food and drink | 27 | 69 |
 | [Cà, vestii e laur da cà](ca-vestii-e-laur-da-ca-casa.md) | Casa, vestiti e faccende | Home, clothes and housework | 6 | 24 |
 | [Laurà, scöla e danée](laura-scola-e-danee-lavoro.md) | Lavoro, scuola e soldi | Work, school and money | 32 | 26 |
 | [Ul temp, la natüra e i bescti†](ul-temp-la-natura-e-i-bescti-meteo.md) | Tempo, natura e animali | Weather, nature and animals | 15 | 10 |

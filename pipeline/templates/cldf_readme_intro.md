@@ -67,7 +67,7 @@ articles) are kept here as raw material only; the generated pages and PDFs do no
   | Table | Status values |
   |---|---|
   | entries | `accepted`, `pending` (needs review), `inferred` (infinitive worked out, not stated), `rejected` |
-  | senses | `attested`, `supplied` (Italian added because the lesson gives only the dialect), `pending`, `rejected` |
+  | senses | `attested`, `supplied` (Italian added because the lesson gives only the dialect), `confirmed` (supplied, then checked by the owner), `pending`, `rejected` |
   | examples | `accepted`, `pending`, `rejected` |
   | variants | `accepted`, `pending`, `typo`, `rejected` |
   | paradigms | `attested` (found in a document), `inferred` (predicted from the patterns), `rejected` |

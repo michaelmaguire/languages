@@ -157,7 +157,6 @@ reject,rogn,/salta giô dal fic,,,,,,Claude inferred: two dialect variants of th
 reject,rogn,"mangià in bianc, mangià poc, mangià tropp, mia mangià,",,,,,,Claude inferred: two halves of a dialect list paired with each other; neither side is Italian,2026-10-14
 reject,rogn,Sesta leziun,,,,,,"Claude inferred: the lesson title, not a phrase",2026-10-14
 correct,rogn,ul canesctrel o negrisöö,,,,il mirtillo – i mirtilli,bilberry – bilberries,"Claude inferred: the Italian column held the dialect plural with ""(mirtillo)""",2026-10-14
-reject,rogn,la brügna – i brügn,,,,,,Claude inferred: plum paired with the next line (apricot); both words have their own dictionary entries,2026-10-14
 reject,ticinese,e ta capivat che | ta schisciava nca l’ògin,,,,,,Claude inferred: two lines of the same dialect poem paired with each other; neither side is Italian,2026-10-14
 reject,ticinese,anca se a scöla ndava miga maa in italian,,,,,,Claude inferred: two lines of the same dialect poem paired with each other; neither side is Italian,2026-10-14
 reject,ticinese,i sa träsan miga par parlà dala Culina d’Ora!,,,,,,Claude inferred: two lines of the same dialect poem paired with each other; neither side is Italian,2026-10-14
@@ -433,3 +432,54 @@ correct,rogn,Ah ! Dificil da dì…..chi visin ?,,,,Ah! Difficile da dire…qui 
 correct,rogn,"Al saress mei, sì.",,,,"Sarebbe meglio, sì.","That would be better, yes.","Claude inferred: the speaker's name and quotation marks removed from the translation, so the line stands alone as a phrase",2026-10-14
 correct,rogn,"Grazie anca a vialtri fiöö, divertivas",,,,"Anche a voi ragazzi, divertitevi!","You too, kids, have fun!","Claude inferred: the speaker's name and quotation marks removed from the translation, so the line stands alone as a phrase",2026-10-14
 correct,rogn,"Alura al segund semafur a sinisctra, a desctra la maceleria",,,,"Allora al secondo semaforo a sinistra, a destra la macelleria…","So, left at the second traffic light, the butcher's on the right…","Claude inferred: the speaker's name and quotation marks removed from the translation, so the line stands alone as a phrase",2026-10-14
+correct,ticinese,tarlücc,,,,"sciocco, tonto, imbranato","fool, dummy, clumsy person","Owner: Ticinese/Lombard for a fool, a clueless or clumsy person (found online); fits the spreadsheet note 'insult?'",2026-10-14
+variant,ticinese,tarlücc,,tarlücc,rogn,,,Owner: tarlücc is used in Rögn,2026-10-14
+accept,rogn,"furmagela (grasa/magra), formaggio dell’alpe",,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,tarlücc,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,la letra,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,la mia setimana,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,che vö ‘n gelatu?” “Tücc”,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,piang sul lacc bütaa via,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,fa vegnì ‘l lacc ai genöcc,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves farina dal sò sac,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,na a tüta bira,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,met tropa carn al föc,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,tirà via i castegn dal föc,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,"l’oscpit l’è cumé ‘l pes, dopu tri dì al scpüzza",,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,al fa acqua da tütt i part,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves tütt füm e nagot da rosct,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves na patata büienta,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves san cumé ‘n pes,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves da par lü cumé ‘n can,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves in quatar gatt,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves matt cumé ‘n caval,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ciapà ‘l tor par i corni/taià la tescta al tor,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,veg ‘na brüta gata da perà,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,veg la coa da paia,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,"öcc par öcc, dencc par dencc",,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,restà a boca sücia,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,veg ‘n stomic da fer,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves cun i pé par tèra,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,fa ‘l pass püsee lung dala gamba,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,mia veg pei süla lingua,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,veg un diaul par cavii,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,pasà la nocc in bianc,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,fa icunt senza l’osct,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,mia vedé l’ora,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,scpacà ‘l minüt o al segund,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,südà set camis,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,fa tant da capèl,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,durmì süi risültaa o adagias süi risültaa,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,chi dorma ciapà mia pes,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,cambià i cart in taula,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,veg scià ‘l curtel dala part dal manic,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,tiras la sapa süi pé,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,picà ‘l fer fin che l’è cald,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves in una bot da fèr,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves l’ültima röda dal car,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,veg la scpüza sôta ‘l nas,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,veg pagüra dala sua umbra,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,fà ‘l basctian cuntrari,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,ves cumé dô gott d’acqua,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,sa la canta e sa la sôna,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+accept,rogn,fà ‘l bel e ‘l brütt temp,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14

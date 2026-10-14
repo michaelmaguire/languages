@@ -7,7 +7,8 @@ helpers (key, slug, verb_tables, ...).
 
 Writes ../README.md, ../TO-CHECK.md, ../Dictionary/*.md, ../Expressions/*.md, ../Verbs/*.md and the
 plain-table exports data/dictionary.csv, data/expressions.csv, data/verb_tables.csv.
-Dictionary/, Expressions/ and Verbs/ are wiped and rewritten on every run: never edit them by hand.
+The pages in Dictionary/, Expressions/ and Verbs/ are cleared and rewritten on every run (the PDFs there are left for
+step 5 to replace): never edit them by hand.
 """
 import csv, difflib, glob, re, shutil, sys, unicodedata
 from collections import OrderedDict, defaultdict
@@ -557,7 +558,7 @@ def assemble():
             seen.add(k)
             uniq.append({"italian": r["italian"], "dialect": r["dialect"], "english": r["english"], "kind": "word",
                          "variety": "Rögn (Arogno)", "canonical": "yes", "source": r["source"], "line": r["line"],
-                         "check": "", "note": "", "supplied": True})
+                         "check": "", "note": "", "supplied": True, "confirmed": bool((r.get("confirmed") or "").strip())})
     # my own hand-made entries from the spreadsheet are dictionary words like any other
     for r in rosetta:
         k = (key(r["italian"]), key(r["mine"]))
@@ -644,8 +645,12 @@ def render(uniq, tables, eng, topics=None):
     words = [p for p in uniq if p["kind"] == "word"]
     exprs = [p for p in uniq if p["kind"] == "expression"]
 
+    # Clear the old pages, but leave the PDFs: step 5 overwrites them a minute later, and deleting them here
+    # meant a commit made in between recorded them as removed (2026-10-14)
     for d in GENERATED:
-        shutil.rmtree(ROOT / d, ignore_errors=True)
+        for f in (ROOT / d).glob("*"):
+            if f.is_file() and f.suffix != ".pdf":
+                f.unlink()
     # The master tables: everything the pages show, as plain CSV, rewritten on every build.
     # step5_build_pdfs.py prints the dictionary from dictionary.csv.
     def master(name, rows, extra=()):

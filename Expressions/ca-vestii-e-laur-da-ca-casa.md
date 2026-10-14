@@ -10,7 +10,7 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 |---|---|---|---|---|
 | Con i capelli corti hai un’aria più sbarazzina. | cun i cavii cürt ta ghè un’aria da balossa | With short hair you look more cheeky. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | è tutto sotto sopra (in disordine) | al'è tütt sott sora | it is all upside down (in a mess) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| l’ospite è come il pesce, dopo tre giorni puzza | l’oscpit l’è cumé ‘l pes, dopu tri dì al scpüzza ⚠ | A guest is like fish: after three days he stinks | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| l’ospite è come il pesce, dopo tre giorni puzza | l’oscpit l’è cumé ‘l pes, dopu tri dì al scpüzza | A guest is like fish: after three days he stinks | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | Questa casa non è un albergo. | Quescta caà l’è mia un albergo | This house is not a hotel. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | Se non ti sta bene quella è la porta. | Se ta va mia ben, quela l’è la porta | If you don't like it, there's the door. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | spiffero d’aria | spiffar | draught of air | Basso Ceresio | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |

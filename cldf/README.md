@@ -67,7 +67,7 @@ articles) are kept here as raw material only; the generated pages and PDFs do no
   | Table | Status values |
   |---|---|
   | entries | `accepted`, `pending` (needs review), `inferred` (infinitive worked out, not stated), `rejected` |
-  | senses | `attested`, `supplied` (Italian added because the lesson gives only the dialect), `pending`, `rejected` |
+  | senses | `attested`, `supplied` (Italian added because the lesson gives only the dialect), `confirmed` (supplied, then checked by the owner), `pending`, `rejected` |
   | examples | `accepted`, `pending`, `rejected` |
   | variants | `accepted`, `pending`, `typo`, `rejected` |
   | paradigms | `attested` (found in a document), `inferred` (predicted from the patterns), `rejected` |
@@ -114,7 +114,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/michaelmaguire/languages-dialett
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:michaelmaguire/languages-dialett
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:michaelmaguire/languages-dialett/tree/23d075f">git@github.com:michaelmaguire/languages-dialett  23d075f</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:michaelmaguire/languages-dialett/tree/05fd525">git@github.com:michaelmaguire/languages-dialett  05fd525</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | rogn
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -125,7 +125,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF EntryTable](http://cldf.clld.org/v1.0/terms.rdf#EntryTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1013
+[dc:extent](http://purl.org/dc/terms/extent) | 1014
 
 
 ### Columns
@@ -148,7 +148,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF SenseTable](http://cldf.clld.org/v1.0/terms.rdf#SenseTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1036
+[dc:extent](http://purl.org/dc/terms/extent) | 1037
 
 
 ### Columns
@@ -159,7 +159,7 @@ Name/Property | Datatype | Description
 [Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
 [Entry_ID](http://cldf.clld.org/v1.0/terms.rdf#entryReference) | `string` | References [entries.csv::ID](#table-entriescsv)
 `Description_English` | `string` | English translation of the Description, which is in Italian
-`Status` | `string`<br>Valid choices:<br> `attested` `supplied` `pending` `rejected` | 
+`Status` | `string`<br>Valid choices:<br> `attested` `supplied` `confirmed` `pending` `rejected` | 
 `Unsure_About` | `string`<br>Valid choices:<br> `direction` `split` `pairing` `meaning` | What the extraction was unsure about when it marked the row pending
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
@@ -191,7 +191,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1803
+[dc:extent](http://purl.org/dc/terms/extent) | 1802
 
 
 ### Columns

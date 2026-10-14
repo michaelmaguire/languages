@@ -39,7 +39,8 @@ metadata.json                cldfbench metadata: licence CC-BY-4.0, creator Mich
 setup.py, setup.cfg, test.py registers the dataset with cldfbench (`pip install -e .`, then `cldfbench ls rogn`);
                              `pytest` runs the standard pytest-cldf validation
 CONTRIBUTORS.md, LICENSE, .zenodo.json   cldfbench / Zenodo release files (hand-written)
-Dictionary/ Expressions/ Verbs/   GENERATED from cldf/ (wiped and rewritten every build), plus the PDFs
+Dictionary/ Expressions/ Verbs/   GENERATED from cldf/ (pages cleared and rewritten every build; the PDFs are
+                             kept until step 5 replaces them). Do not commit while a build is running
 Dialect/                     only Dialect/README.md (hand-written) and copies of the dictionary and verb PDFs at their old URLs
 ATTRIBUTIONS.md              hand-written: thanks, authors, tools, what Claude generated. Printed after the
                              cover of all three PDFs. Add a row when a new document brings in a new author.

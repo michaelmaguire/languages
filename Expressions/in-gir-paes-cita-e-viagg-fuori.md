@@ -8,7 +8,7 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 | Italiano | Dialett | English | Region | Source |
 |---|---|---|---|---|
-| andare a tutta birra | na a tüta bira ⚠ | to go flat out | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| andare a tutta birra | na a tüta bira | to go flat out | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 | corre come un corriere | al cur cumè un lechee | he runs like a courier | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
 | In Italia son tutti furbi. | In Italia a i è tücc fürbi | In Italy everyone's a smart alec. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 | La macchina nera d’estate diventa un forno. | La machina negra d’isctaa la diventa un fornu | A black car turns into an oven in summer. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |

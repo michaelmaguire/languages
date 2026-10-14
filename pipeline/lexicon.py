@@ -43,13 +43,14 @@ AUTHORS = {  # as in ATTRIBUTIONS.md
 }
 STATUS = {
     "entries": "accepted|pending|inferred|rejected",
-    "senses": "attested|supplied|pending|rejected",
+    "senses": "attested|supplied|confirmed|pending|rejected",
     "examples": "accepted|pending|rejected",
     "variants": "accepted|pending|typo|rejected",
     "paradigms": "attested|inferred|rejected",
 }
 UNSURE = {"direction?": "direction", "split?": "split", "pairing?": "pairing", "meaning?": "meaning"}
 SUPPLIED_NOTE = "Italian and English supplied; the lesson gives the dialect only"
+CONFIRMED_NOTE = "Italian and English supplied (the lesson gives the dialect only) and confirmed by the owner"
 NO_ITALIAN_NOTE = "the source gives no Italian; the English is shown in brackets"
 TABLE_OF = {"entries.csv": "EntryTable", "senses.csv": "SenseTable", "examples.csv": "ExampleTable",
             "languages.csv": "LanguageTable", "contributions.csv": "ContributionTable"}
@@ -215,9 +216,10 @@ def candidates():
             continue
         senses.append({"ID": ids["senses"].make(f"{e['ID']}-{italian}"), "Entry_ID": e["ID"], "Description": italian,
                        "Description_English": p["english"] or None,
-                       "Status": "supplied" if p.get("supplied") else ("pending" if unsure or missing else "attested"),
+                       "Status": ("confirmed" if p.get("confirmed") else "supplied") if p.get("supplied") else
+                                 ("pending" if unsure or missing else "attested"),
                        "Unsure_About": unsure or ("meaning" if missing else None),     # meaning: no Italian given
-                       "Comment": SUPPLIED_NOTE if p.get("supplied") else (p["note"] or NO_ITALIAN_NOTE) if missing else (p["note"] or None),
+                       "Comment": (CONFIRMED_NOTE if p.get("confirmed") else SUPPLIED_NOTE) if p.get("supplied") else (p["note"] or NO_ITALIAN_NOTE) if missing else (p["note"] or None),
                        "Source": [ref]})
     bib = [bib_entry(f, lesson_meta) for f in sorted(files)]
     return {"entries.csv": list(entries.values()), "senses.csv": senses, "examples.csv": examples,
@@ -416,9 +418,10 @@ def apply_decisions(rows, decisions):
             for v in V:
                 if v["Entry_ID"] == e["ID"]:
                     v["Entry_ID"] = target["ID"]
-            V.append({"ID": vids.make(f"{target['ID']}-{d['Form']}"), "Entry_ID": target["ID"], "Form": e["Headword"],
-                      "Kind": "typo" if kind == "typo" else "spelling", "Status": "typo" if kind == "typo" else "accepted",
-                      "Comment": note, "Source": e["Source"]})
+            if key(e["Headword"]) != key(target["Headword"]):   # moved to another variety unchanged: no new spelling
+                V.append({"ID": vids.make(f"{target['ID']}-{d['Form']}"), "Entry_ID": target["ID"], "Form": e["Headword"],
+                          "Kind": "typo" if kind == "typo" else "spelling", "Status": "typo" if kind == "typo" else "accepted",
+                          "Comment": note, "Source": e["Source"]})
             E.remove(e)
             for s in S:                                   # senses left on the folded entry (duplicates)
                 if s["Entry_ID"] == e["ID"]:
@@ -599,7 +602,7 @@ def for_pages():
                      "kind": "word", "variety": LABEL.get(e["Language_ID"]) or "",
                      "canonical": "yes" if e["Language_ID"] == "rogn" else "no", "source": src, "line": line,
                      "check": ((s["Unsure_About"] or "direction") + "?") if pending else "",
-                     "note": "" if s["Comment"] in (SUPPLIED_NOTE, NO_ITALIAN_NOTE) else
+                     "note": "" if s["Comment"] in (SUPPLIED_NOTE, CONFIRMED_NOTE, NO_ITALIAN_NOTE) else
                              (s["Comment"] or ("verb" if e["Part_Of_Speech"] == "verb" else "")),
                      "supplied": s["Status"] == "supplied"})
     for x in rows["examples.csv"]:

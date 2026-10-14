@@ -98,10 +98,3 @@ Python with [openpyxl](https://openpyxl.readthedocs.io/); the CLDF tools [pycldf
 for PDF text; [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) with its Italian and German
 models for the scanned documents; the Italian Hunspell word list for telling Italian from dialect; Google
 Chrome for printing the PDFs; and the DejaVu fonts.
-
-## The PDF covers
-
-The covers of `arogno-verbs.pdf`, `arogno-dictionary.pdf` and `arogno-expressions.pdf` are affectionate
-parodies of well-known verb books, pocket dictionaries and phrasebooks. "MAGUIRE’S" is not a real
-publisher, and no PDF is affiliated
-with or endorsed by any actual one.

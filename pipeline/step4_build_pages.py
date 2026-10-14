@@ -723,7 +723,7 @@ def render(uniq, tables, eng, topics=None):
         "## By topic\n",
         f"Topic names are given in dialect, Italian and English. The dialect names were composed by Claude "
         f"from words found in the course; {INFERRED.strip()} marks a word that does not appear in any course "
-        "document (see [TO-CHECK](../TO-CHECK.md#topic-names)).\n",
+        "document (see [TO-CHECK](../TO-CHECK.md#nomi-degli-argomenti)).\n",
         table(["Dialett", "Italiano", "English", "Sayings and idioms", "Phrases"], tindex),
         "The poems, stories, articles and dialogues read in class are not reprinted here: only the sayings "
         "and everyday phrases found in them are, under their topics. Their lines are kept as raw material in "
@@ -770,19 +770,19 @@ def render(uniq, tables, eng, topics=None):
         table(["Dialett", "Italiano", "English", "Class", "Forms found in the course material"], vindex)]))
 
     # ---- everything that needs a human eye, on one page
-    why = {"direction?": "which side is dialect", "split?": "where the line was split in two",
-           "pairing?": "whether these two lines belong together", "meaning?": "the Italian, which the source does not give"}
+    why = {"direction?": "quale lato è dialetto", "split?": "dove la riga è stata divisa in due",
+           "pairing?": "se le due righe vanno insieme", "meaning?": "l'italiano, che la fonte non dà"}
     # lines of texts are not reprinted anywhere, so they are not listed here either (they stay pending in cldf/)
     flagged = [p for p in uniq if p["check"] and p.get("genre") != "text"]
 
     def where(p):
         if p["kind"] == "word":
             if p["italian"].startswith("["):
-                return "[Dictionary](Dictionary/italiano.md#no-italian-yet)"
+                return "[Dizionario](Dictionary/italiano.md#no-italian-yet)"
             letter = (plain(bare(p["italian"])) or "#")[0]
-            return f"[Dictionary](Dictionary/italiano.md#{letter})" if letter.isalpha() else "[Dictionary](Dictionary/italiano.md)"
+            return f"[Dizionario](Dictionary/italiano.md#{letter})" if letter.isalpha() else "[Dizionario](Dictionary/italiano.md)"
         t = names.get(p["topic"]) or names.get("altro")
-        return f"[Expressions](Expressions/{quote(topic_file(t))})" if t else "[Expressions](Expressions/README.md)"
+        return f"[Espressioni](Expressions/{quote(topic_file(t))})" if t else "[Espressioni](Expressions/README.md)"
 
     inferred_inf = [n for n in order if tables[n]["basis"] == "inferred"]
     odd_topics = [t for t in topics if "†" in (t.get("Name_Dialect") or "")]
@@ -821,56 +821,58 @@ def render(uniq, tables, eng, topics=None):
                               "; ".join(whole), "<br>".join(some)])
     manual_rows = [[f"[{' / '.join(tables[n]['dialect'])}](Verbs/{verb_file(n, tables[n])})", n,
                     tables[n]["evidence"]] for n in inferred_inf]
+    # TO-CHECK.md is for checking with the teacher, so it is written in Italian
     write(ROOT / "TO-CHECK.md", "\n".join([
-        "# To check\n",
-        "Everything in the generated pages that was not taken straight from a course document, gathered in "
-        "one place so it can be checked with a teacher.\n",
-        table(["What", "How many"], [
-            [f"[{INFERRED.strip()} Inferred dialect infinitives](#inferred-infinitives)", len(inferred_inf)],
-            [f"[{INFERRED.strip()} Inferred verb forms](#inferred-verb-forms)", n_inferred],
-            [f"[{INFERRED.strip()} Italian supplied for dialect-only lists](#italian-supplied)",
+        "# Da verificare\n",
+        "Tutto ciò che nelle pagine generate non è preso direttamente da un documento del corso, raccolto in un "
+        "unico posto per verificarlo con l'insegnante.\n",
+        table(["Cosa", "Quanti"], [
+            [f"[{INFERRED.strip()} Infiniti dialettali dedotti](#infiniti-dedotti)", len(inferred_inf)],
+            [f"[{INFERRED.strip()} Forme verbali dedotte](#forme-verbali-dedotte)", n_inferred],
+            [f"[{INFERRED.strip()} Italiano aggiunto agli elenchi solo in dialetto](#italiano-aggiunto)",
              sum(1 for p in uniq if p.get("supplied"))],
-            ["[Open questions](#open-questions)", len(questions)],
-            ["[Preferred spellings](#preferred-spellings)", len(spelling_sets)],
-            [f"[{INFERRED.strip()} Words in topic names not found in the course](#topic-names)", len(odd_topics)],
-            [f"[{FLAG.strip()} Uncertain extractions](#uncertain-extractions)", len(flagged)]]),
-        "## Open questions\n",
-        "Open questions about forms the course does not give, kept in `etc/open_questions.csv`. When one "
-        "is answered, record the answer in `etc/` (a decision, a verb form) and delete its row.\n",
-        table(["Area", "About", "Question", "How it is shown for now"],
+            ["[Domande aperte](#domande-aperte)", len(questions)],
+            ["[Grafie preferite](#grafie-preferite)", len(spelling_sets)],
+            [f"[{INFERRED.strip()} Parole nei nomi degli argomenti non trovate nel corso](#nomi-degli-argomenti)", len(odd_topics)],
+            [f"[{FLAG.strip()} Estrazioni incerte](#estrazioni-incerte)", len(flagged)]]),
+        "## Domande aperte\n",
+        "Domande su forme che il corso non riporta, raccolte in `etc/open_questions.csv`. Quando una domanda ha "
+        "una risposta, la risposta va registrata in `etc/` (una decisione, una forma verbale) e la riga cancellata.\n",
+        table(["Ambito", "Riguarda", "Domanda", "Come appare per ora"],
               [[q["Area"], q["About"], q["Question"], q["Current_Handling"]] for q in questions]),
-        "## Preferred spellings\n",
-        "The lessons write these words in more than one way. All the spellings are kept and can be looked up; "
-        "the answer only decides which is shown first. Record it by putting the preferred spelling first in "
-        "`etc/spelling_variants.csv` (or in `etc/verb_details.csv` for a verb).\n",
-        table(["Spellings found in the lessons", "Italiano", "English"], spelling_sets),
-        "## Inferred infinitives\n",
-        "The course material gives forms of these verbs but never states the infinitive.\n",
-        table(["Dialett", "Italiano", "Worked out from"], manual_rows),
-        "## Inferred verb forms\n",
-        f"One row per verb that has any inferred form. *Whole tenses* are columns marked {INFERRED.strip()} in "
-        "their heading on the verb's page; *single forms* are the marked cells in columns that are otherwise "
-        f"from the course. A {INFERRED.strip()} after the auxiliary means no compound tense of that verb appears "
-        "in the lesson tables, so the choice of *ves* or *vegh* follows the general rule.\n",
-        table(["Verb", "Italiano", "Auxiliary", "Whole tenses inferred", "Single forms inferred"], verb_rows),
-        "## Italian supplied\n",
-        f"These words appear in the lessons in dialect only, in lists under an Italian heading (colours, numbers, "
-        f"the rooms of a house, the calendar). The Italian and English were supplied afterwards and carry "
-        f"{INFERRED.strip()} in the dictionary. A few words in those lists were left out because their meaning "
-        "was not clear: *portamensula*, *vestee*, *vesterett*, *pariöö*, *bièla*.\n",
-        table(["Dialett", "Italiano supplied", "English", "Source"],
+        "## Grafie preferite\n",
+        "Le lezioni scrivono queste parole in più modi. Tutte le grafie restano e si possono cercare; la risposta "
+        "decide soltanto quale compare per prima. Per registrarla, mettere la grafia preferita per prima in "
+        "`etc/spelling_variants.csv` (o in `etc/verb_details.csv` per un verbo).\n",
+        table(["Grafie trovate nelle lezioni", "Italiano", "Inglese"], spelling_sets),
+        "## Infiniti dedotti\n",
+        "Il materiale del corso dà forme di questi verbi ma non ne indica mai l'infinito.\n",
+        table(["Dialett", "Italiano", "Ricavato da"], manual_rows),
+        "## Forme verbali dedotte\n",
+        f"Una riga per ogni verbo con almeno una forma dedotta. I *tempi interi* sono le colonne segnate con "
+        f"{INFERRED.strip()} nell'intestazione sulla pagina del verbo; le *forme singole* sono le celle segnate in "
+        f"colonne per il resto tratte dal corso. Un {INFERRED.strip()} dopo l'ausiliare vuol dire che nessun tempo "
+        "composto di quel verbo compare nelle tabelle delle lezioni, quindi la scelta tra *ves* e *vegh* segue la "
+        "regola generale.\n",
+        table(["Verbo", "Italiano", "Ausiliare", "Tempi interi dedotti", "Forme singole dedotte"], verb_rows),
+        "## Italiano aggiunto\n",
+        f"Queste parole compaiono nelle lezioni solo in dialetto, in elenchi sotto un titolo italiano (colori, "
+        f"numeri, le stanze della casa, il calendario, la famiglia). L'italiano e l'inglese sono stati aggiunti "
+        f"dopo e nel dizionario portano {INFERRED.strip()}. Alcune parole di quegli elenchi sono state tralasciate "
+        "perché il significato non era chiaro: *portamensula*, *vestee*, *vesterett*, *pariöö*, *bièla*.\n",
+        table(["Dialett", "Italiano aggiunto", "Inglese", "Fonte"],
               [[p["dialect"], p["italian"], p["english"], src_link(p["source"], depth=0, text="↗")]
                for p in uniq if p.get("supplied")]),
-        "## Topic names\n",
-        f"The expressions are grouped under topics whose dialect names were composed by Claude. Words marked "
-        f"{INFERRED.strip()} were not found in any course document: the spelling is a guess.\n",
-        table(["Dialett", "Italiano", "English"],
+        "## Nomi degli argomenti\n",
+        f"Le espressioni sono raggruppate per argomenti con nomi in dialetto composti da Claude. Le parole segnate "
+        f"{INFERRED.strip()} non compaiono in nessun documento del corso: la grafia è un'ipotesi.\n",
+        table(["Dialett", "Italiano", "Inglese"],
               [[f"[{cell(t['Name_Dialect'])}](Expressions/{quote(topic_file(t))})", t["Name"], t["Name_English"]]
                for t in odd_topics]),
-        "## Uncertain extractions\n",
-        f"Entries marked {FLAG.strip()}: the script paired an Italian and a dialect text but was unsure about "
-        "the point shown. Follow *Where* to see the entry in context and ↗ for the original document.\n",
-        table(["Italiano", "Dialett", "Unsure about", "Where", "Source"],
+        "## Estrazioni incerte\n",
+        f"Voci segnate {FLAG.strip()}: lo script ha accoppiato un testo italiano e uno in dialetto ma non era sicuro "
+        "del punto indicato. *Dove* porta alla voce nel suo contesto, ↗ al documento originale.\n",
+        table(["Italiano", "Dialett", "Incertezza", "Dove", "Fonte"],
               [[p["italian"], p["dialect"], why.get(p["check"], p["check"]), where(p),
                 src_link(p["source"], depth=0, text="↗")]
                for p in sorted(flagged, key=lambda p: (p["kind"] != "word", plain(p["source"]), int(p["line"] or 0)))])]))

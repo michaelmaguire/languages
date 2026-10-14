@@ -23,7 +23,8 @@ pages grouped by topic, 501-Verbs-style conjugation charts and three printable P
 ## Layout (cldfbench conventions: raw/ → etc/ → cldf/)
 
 ```
-README.md, TO-CHECK.md       GENERATED from cldf/ (README intro from pipeline/templates/readme_intro.md)
+README.md, TO-CHECK.md       GENERATED from cldf/ (README intro from pipeline/templates/readme_intro.md);
+                             TO-CHECK.md is in Italian, for checking with the teacher (owner, 2026-10-14)
 CLAUDE.md                    this file
 raw/                         SOURCE DATA, never modified: course documents, the owner's spreadsheet
                              (Rosetta Stone_….xlsx) and notes_added_by_hand.csv (owner's handwritten notes).

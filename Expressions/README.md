@@ -8,7 +8,7 @@ Each topic page has the sayings and idioms first, then ordinary phrases (includi
 
 ## By topic
 
-Topic names are given in dialect, Italian and English. The dialect names were composed by Claude from words found in the course; † marks a word that does not appear in any course document (see [TO-CHECK](../TO-CHECK.md#topic-names)).
+Topic names are given in dialect, Italian and English. The dialect names were composed by Claude from words found in the course; † marks a word that does not appear in any course document (see [TO-CHECK](../TO-CHECK.md#nomi-degli-argomenti)).
 
 | Dialett | Italiano | English | Sayings and idioms | Phrases |
 |---|---|---|---|---|

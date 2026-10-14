@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | mangi | mangiarò | avrò mangiaa |
 | *ti* | ta mangiat | ta mangiaret | ta avret mangiaa |
-| *lü / le* | la/al mangia | la/al mangiarà | la/al avrà mangiaa |
+| *le / lü* | la/al mangia | la/al mangiarà | l’avrà mangiaa |
 | *nüm* | mangium | mangiarem | avrem mangiaa |
 | *vialtri* | mangiuf | mangiarii | avrii mangiaa |
 | *lur* | i mangian | i mangiarà | i avrà mangiaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | mangiava | u mangiaa | eva mangiaa |
 | *ti* | ta mangiavat | te mangiaa | ta evat mangiaa |
-| *lü / le* | la/al mangiava | l’a mangiaa | la/al eva mangiaa |
+| *le / lü* | la/al mangiava | l’a mangiaa | l’eva mangiaa |
 | *nüm* | mangiavum | em mangiaa | evum mangiaa |
 | *vialtri* | mangiavuf | ii mangiaa | evuf mangiaa |
 | *lur* | i mangiava | i an mangiaa | i eva mangiaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | mangiaria/mangiaressa | avria /avress mangiaa |
 | *ti* | ta mangiariat/mangiaressat | t’avriat/t’avressat |
-| *lü / le* | la/al mangiaria/mangiaressa | l’avria/l’avressa mangiaa |
+| *le / lü* | la/al mangiaria/mangiaressa | l’avria/l’avressa mangiaa |
 | *nüm* | mangiarium/mangiaressum | avrium/avressum mangiaa |
 | *vialtri* | mangiariuf/mangiaressuf | avriuf/avressuf mangiaa |
 | *lur* | i mangiarian/mangiaressan | i avrian/i avressan mangiaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | mangia | mangassa |
+| *ti* | ta mangiat | ta mangassat |
+| *le / lü* | la/al mangia | la/al mangassa |
+| *nüm* | mangium | mangassum |
+| *vialtri* | mangiuf | mangassuf |
+| *lur* | i mangian | i mangassan |
 
 ## Imperativo
 

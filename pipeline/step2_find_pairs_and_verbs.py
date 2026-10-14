@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Step 2: pull Italian/dialect pairs and verb conjugations out of the extracted text.
 
-Reads  cache/lesson_text/*.txt, ../etc/lesson_sources.csv, ../raw/notes_added_by_hand.csv
+Reads  cache/lesson_text/*.txt, ../etc/lesson_sources.csv, ../etc/parallel_texts.csv,
+       ../raw/notes_added_by_hand.csv
 Writes data/extracted_pairs.csv     one row per Italian/dialect pair (word or expression)
        data/extracted_verb_forms.csv     one row per conjugated form
        data/unparsed_lines.csv  lines that look like dialect but were not paired
@@ -477,6 +478,149 @@ def parse(doc, text):
     flush()
 
 
+# ---------------------------------------------------------------- translations in a separate document
+# A class translation (layout `parallel` in etc/lesson_sources.csv) is paired with its Italian original,
+# listed in etc/parallel_texts.csv, by aligning the two texts: sentence by sentence for prose, line by line
+# (within each canto) for verse. Dialect and Italian share most word roots, so two units are judged alike by
+# how many of their words look related (same start, or similar spelling once the dialect's sct/scp and
+# double letters are evened out), and by their length. A dynamic programme finds the best path through both
+# texts, allowing one unit to match two. A weak match is marked `pairing?` (⚠).
+CANTO = re.compile(r"^\s*Canto\s+([IVXL]+)\b", re.I)
+
+
+def cognate_key(w):
+    w = unicodedata.normalize("NFD", w.lower())
+    w = "".join(c for c in w if not unicodedata.combining(c))
+    w = w.replace("sct", "st").replace("scp", "sp").replace("sc", "s").replace("gh", "g").replace("ch", "c")
+    return re.sub(r"(.)\1+", r"\1", w)
+
+
+_RELATED = {}
+
+
+def related(a, b):
+    k = (a, b)
+    if k not in _RELATED:
+        _RELATED[k] = (a[:4] == b[:4] and len(a) >= 4 and len(b) >= 4) or (
+            len(a) >= 3 and len(b) >= 3 and abs(len(a) - len(b)) <= 3
+            and difflib.SequenceMatcher(None, a, b).ratio() >= 0.72)
+    return _RELATED[k]
+
+
+def keys(text):
+    return tuple(cognate_key(w) for w in WORD.findall(text) if len(w) >= 3)
+
+
+def unit_similarity(di, it):
+    """Share of the words of two units that have a related word on the other side (0 to 1)."""
+    a, b = keys(di), keys(it)
+    if not a or not b:
+        return 0.0
+    hits = sum(any(related(x, y) for y in b) for x in a) + sum(any(related(x, y) for x in a) for y in b)
+    return hits / (len(a) + len(b))
+
+
+def numbered(text):
+    return [(n, re.sub(r"\s+", " ", raw).strip()) for n, raw in enumerate(text.split("\n"), 1)]
+
+
+def units(lines, unit):
+    """[(first line number, text)]: sentences (prose) or lines (verse) from numbered lines."""
+    out, buf, start = [], [], None
+    for n, line in lines:
+        if not line:
+            continue
+        if unit == "line":
+            out.append((n, line))
+            continue
+        for piece in re.split(r"(?<=[.!?…])\s+(?=[\"“«‘'(–-]?[A-ZÀ-Ü])", line):
+            if start is None:
+                start = n
+            buf.append(piece)
+            if re.search(r"[.!?…][\"”»’')]*$", piece):
+                out.append((start, " ".join(buf)))
+                buf, start = [], None
+    if buf:
+        out.append((start, " ".join(buf)))
+    return out
+
+
+def sections(lines, unit, whole=None):
+    """{section: numbered lines}: cantos for verse (a document without canto headings is the canto named in
+    etc/parallel_texts.csv `part`), the whole text otherwise. Text before the first heading is left out."""
+    if unit != "line":
+        return {"": lines}
+    parts, name = {}, whole
+    for n, line in lines:
+        m = CANTO.match(line)
+        if m:
+            name = m.group(1).upper()
+        elif name:
+            parts.setdefault(name, []).append((n, line))
+    return parts
+
+
+def align(di_units, it_units):
+    """Best monotone pairing of two lists of (line, text); returns [(di_units, it_units, similarity)]."""
+    n, m = len(di_units), len(it_units)
+    NEG = float("-inf")
+    best = [[NEG] * (m + 1) for _ in range(n + 1)]
+    back = [[None] * (m + 1) for _ in range(n + 1)]
+    best[0][0] = 0.0
+    join = lambda us: " ".join(t for _, t in us)
+
+    def gain(a, b):
+        da, ib = join(a), join(b)
+        lp = abs((len(da) + 1) / (len(ib) + 1) - 1)
+        return unit_similarity(da, ib) - 0.15 * min(lp, 2)
+
+    band = max(12, abs(n - m) + 8)                    # translations keep the order: stay near the diagonal
+    for i in range(n + 1):
+        centre = round(i * m / n) if n else 0
+        for j in range(max(0, centre - band), min(m, centre + band) + 1):
+            if best[i][j] == NEG:
+                continue
+            for di, dj in ((1, 1), (2, 1), (1, 2), (1, 0), (0, 1)):
+                if i + di > n or j + dj > m:
+                    continue
+                g = -0.12 if 0 in (di, dj) else gain(di_units[i:i + di], it_units[j:j + dj]) - (0.04 if di + dj == 3 else 0)
+                if best[i][j] + g > best[i + di][j + dj]:
+                    best[i + di][j + dj] = best[i][j] + g
+                    back[i + di][j + dj] = (di, dj)
+    out, i, j = [], n, m
+    while i or j:
+        di, dj = back[i][j]
+        if di and dj:
+            a, b = di_units[i - di:i], it_units[j - dj:j]
+            out.append((a, b, unit_similarity(join(a), join(b))))
+        i, j = i - di, j - dj
+    return out[::-1]
+
+
+def parallel_pairs(row, meta):
+    """Pairs from one dialect document and its Italian original (one row of etc/parallel_texts.csv)."""
+    di_path, it_path = TEXT / (row["dialect_file"] + ".txt"), TEXT / (row["italian_file"] + ".txt")
+    if not (di_path.exists() and it_path.exists()):
+        print(f"  parallel: missing text for {row['dialect_file']} or {row['italian_file']}")
+        return []
+    unit = row.get("unit") or "sentence"
+    di_parts = sections(numbered(di_path.read_text()), unit, (row.get("part") or "").upper() or None)
+    it_parts = sections(numbered(it_path.read_text()), unit)
+    pairs = []
+    for name, di_lines in di_parts.items():
+        if name not in it_parts:
+            print(f"  parallel: {row['dialect_file']}: section {name or '(whole text)'} not in {row['italian_file']}")
+            continue
+        for a, b, sim in align(units(di_lines, unit), units(it_parts[name], unit)):
+            di, it = clean(" ".join(t for _, t in a)), clean(" ".join(t for _, t in b))
+            if di and it:
+                pairs.append({"italian": it, "dialect": di, "kind": "expression",
+                              "variety": meta.get("variety", ""), "canonical": meta.get("canonical", ""),
+                              "source": row["dialect_file"], "line": a[0][0], "check": "" if sim >= 0.12 else "pairing?",
+                              "note": "", "italian_source": row["italian_file"], "italian_line": b[0][0]})
+    return pairs
+
+
 def main():
     from paths import raw_available
     if not raw_available():           # would overwrite the saved extraction with almost nothing
@@ -487,7 +631,7 @@ def main():
     pairs, verbs, unparsed = [], [], []
     for meta in manifest:
         path = TEXT / (meta["file"] + ".txt")
-        if meta["include"].strip().lower() != "yes" or meta["layout"] in ("skip", "text_only") or not path.exists():
+        if meta["include"].strip().lower() != "yes" or meta["layout"] in ("skip", "text_only", "parallel") or not path.exists():
             continue
         doc = Doc(meta["file"], meta)
         parse(doc, path.read_text())
@@ -495,6 +639,16 @@ def main():
         doc.expand_idem()
         print(f"{len(doc.pairs):5} pairs {len(doc.verbs):5} verb forms {len(doc.unparsed):4} unparsed  {meta['file']}")
         pairs += doc.pairs; verbs += doc.verbs; unparsed += doc.unparsed
+
+    by_file = {m["file"]: m for m in manifest}
+    for row in csv.DictReader((ETC / "parallel_texts.csv").open()) if (ETC / "parallel_texts.csv").exists() else []:
+        meta = by_file.get(row["dialect_file"], {})
+        if meta.get("include", "").strip().lower() != "yes" or meta.get("layout") != "parallel":
+            continue
+        found = parallel_pairs(row, meta)
+        flagged = sum(bool(p["check"]) for p in found)
+        print(f"{len(found):5} pairs aligned ({flagged} weak)  {row['dialect_file']}  <->  {row['italian_file']}")
+        pairs += found
 
     # vocabulary the owner typed in from their own notes: already paired, nothing to guess
     notes = RAW / "notes_added_by_hand.csv"
@@ -511,7 +665,7 @@ def main():
         if not rows:
             continue
         with (DATA / f"{name}.csv").open("w", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=list(rows[0]))
+            w = csv.DictWriter(f, fieldnames=list(dict.fromkeys(k for r in rows for k in r)))
             w.writeheader()
             w.writerows(rows)
     print(f"TOTAL {len(pairs)} pairs, {len(verbs)} verb forms, {len(unparsed)} unparsed lines")

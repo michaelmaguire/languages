@@ -53,8 +53,8 @@ In words:
 
 | Step | Script | Reads | Writes |
 |---|---|---|---|
-| 1 | `step1_extract_text.py` | `../raw/*.docx`, `*.pdf` | `cache/lesson_text/*.txt` (cached by file hash); new rows in `../etc/lesson_sources.csv` |
-| 2 | `step2_find_pairs_and_verbs.py` | the text, `../etc/lesson_sources.csv`, `../raw/notes_added_by_hand.csv` | `data/extracted_pairs.csv`, `data/extracted_verb_forms.csv`, `data/unparsed_lines.csv` |
+| 1 | `step1_extract_text.py` | `../raw/*.docx`, `*.pdf`, `*.txt` | `cache/lesson_text/*.txt` (cached by file hash); new rows in `../etc/lesson_sources.csv` |
+| 2 | `step2_find_pairs_and_verbs.py` | the text, `../etc/lesson_sources.csv`, `../etc/parallel_texts.csv`, `../raw/notes_added_by_hand.csv` | `data/extracted_pairs.csv`, `data/extracted_verb_forms.csv`, `data/unparsed_lines.csv` |
 | 3 | `step3_make_cldf.py` → `../cldfbench_rogn.py` → `lexicon.py` | step 2's output, all of `../etc/`, the owner's spreadsheet and notes (from `../raw/`, or without it from the copies `data/owner_*.csv`) | `data/owner_spreadsheet.csv` and `data/owner_notes.csv` (fresh copies, when `../raw/` is there); `../cldf/`, rebuilt from scratch; then checked with `cldf validate`, and the build stops if it is not valid |
 | 4 | `step4_build_pages.py` | `../cldf/` only | all Markdown pages; plain-table exports `data/dictionary.csv`, `data/expressions.csv`, `data/verb_tables.csv` |
 | 5 | `step5_build_pdfs.py` | `../cldf/`, `data/dictionary.csv`, `templates/cover_*.html`, `../ATTRIBUTIONS.md` | `../Dictionary/arogno-dictionary.pdf`, `../Verbs/arogno-verbs.pdf` (both also copied to `../Dialect/`), `../Expressions/arogno-expressions.pdf` |
@@ -126,7 +126,7 @@ warning during the build. Other files in `etc/` handle other kinds of decision; 
 | `build_all.sh` | Runs steps 1–5 and regenerates `../cldf/README.md`; creates `.venv` with `openpyxl`, `pycldf`, `cldfbench` and `pypdf` on first run. |
 | `paths.py` | Where `raw/`, `etc/`, `cldf/` and the rest are; every script uses it. |
 | `step1_extract_text.py` | Word and PDF text, OCR for scans; registers new documents in `../etc/lesson_sources.csv`. |
-| `step2_find_pairs_and_verbs.py` | Finds pairs (word lists, alternating lines, two sentences on one line, bullets, tables) and verb tables. Decides which side is dialect by scoring both against an Italian word list. |
+| `step2_find_pairs_and_verbs.py` | Finds pairs (word lists, alternating lines, two sentences on one line, bullets, tables) and verb tables. Decides which side is dialect by scoring both against an Italian word list. Aligns a class translation with its Italian original in another document (`../etc/parallel_texts.csv`): sentence by sentence or line by line, scoring shared word roots and length; a weak match is marked ⚠. |
 | `step3_make_cldf.py` | Runs the dataset's `makecldf` through cldfbench (see the decisions below for why not the command line). |
 | `lexicon.py` | The conversion to CLDF: builds entries, senses, examples, variants and paradigms, applies `../etc/decisions.csv`, places each expression in its document with a genre and topic (`place_examples`), links senses to the expressions that use them (`link_examples`), declares the metadata; also reads the dataset back for steps 4 and 5. |
 | `verb_conjugator.py` | Predicts missing verb forms from the model paradigms in lessons 8, 17 and 18. A form found in a document always wins over a prediction. |

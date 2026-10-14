@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | disi † | disarò | avrò dii |
 | *ti* | ta disat | ta disaret | ta avret dii |
-| *lü / le* | la/al dis | la/al disarà | la/al avrà dii |
+| *le / lü* | la/al dis | la/al disarà | l’avrà dii |
 | *nüm* | disum † | disarem | avrem dii |
 | *vialtri* | disuf | disarii | avrii dii |
 | *lur* | i disan | i disaran | i avran dii |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | diseva | u dii | eva dii |
 | *ti* | ta disevat | te dii | ta evat dii |
-| *lü / le* | la/al diseva | l’a dii | la/al eva dii |
+| *le / lü* | la/al diseva | l’a dii | l’eva dii |
 | *nüm* | disevum | em dii | evum dii |
 | *vialtri* | disevuf | ii dii | evuf dii |
 | *lur* | i disevan | i an dii | i evan dii |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | disaria/disaressa | avria/avress dii |
 | *ti* | ta disariat/disaressat | t’avriat/t’avressat dii |
-| *lü / le* | la/al disaria/disaressa | l’avria/l’avressa dii |
+| *le / lü* | la/al disaria/disaressa | l’avria/l’avressa dii |
 | *nüm* | disarium/disaressum | avrium/avressum dii |
 | *vialtri* | disariuf/disaressuf | avriuf/avressuf dii |
 | *lur* | i disarian/disaressan | i avrian/i avressan dii |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | diga | disessa |
+| *ti* | ta digat | ta disessat |
+| *le / lü* | la/al diga | la/al disessa |
+| *nüm* | digum | disessum |
+| *vialtri* | diguf | disessuf |
+| *lur* | i digan | i disessan |
 
 ## Imperativo
 

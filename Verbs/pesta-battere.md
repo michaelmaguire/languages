@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | pesti | pestarò | avrò pestaa |
 | *ti* | ta pestat | ta pestaret | ta avret pestaa |
-| *lü / le* | al/la pesta | la/al pestarà | la/al avrà pestaa |
+| *le / lü* | la/al pesta | la/al pestarà | l’avrà pestaa |
 | *nüm* | pestun | pestarem | avrem pestaa |
 | *vialtri* | pestuf | pestarii | avrii pestaa |
 | *lur* | i pesta | i pestaran | i avran pestaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | pestava | u pestaa | eva pestaa |
 | *ti* | ta pestavat | te pestaa | ta evat pestaa |
-| *lü / le* | la/al pestava | l’a pestaa | la/al eva pestaa |
+| *le / lü* | la/al pestava | l’a pestaa | l’eva pestaa |
 | *nüm* | pestavum | em pestaa | evum pestaa |
 | *vialtri* | pestavuf | ii pestaa | evuf pestaa |
 | *lur* | i pestavan | i an pestaa | i evan pestaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | pestaria/pestaressa | avria/avress pestaa |
 | *ti* | ta pestariat/pestaressat | t’avriat/t’avressat pestaa |
-| *lü / le* | la/al pestaria/pestaressa | l’avria/l’avressa pestaa |
+| *le / lü* | la/al pestaria/pestaressa | l’avria/l’avressa pestaa |
 | *nüm* | pestarium/pestaressum | avrium/avressum pestaa |
 | *vialtri* | pestariuf/pestaressuf | avriuf/avressuf pestaa |
 | *lur* | i pestarian/pestaressan | i avrian/i avressan pestaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | pesta | pestassa |
+| *ti* | ta pestat | ta pestassat |
+| *le / lü* | la/al pesta | la/al pestassa |
+| *nüm* | pestum | pestassum |
+| *vialtri* | pestuf | pestassuf |
+| *lur* | i pestan | i pestassan |
 
 ## Imperativo
 

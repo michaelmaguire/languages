@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | ma sa seti giò | ma sa setarò giò | ma sarò setaa giò |
 | *ti* | ta sa setat giò | ta sa setaret giò | ta sa saret setaa giò |
-| *lü / le* | sa seta giò / la/al sa seta giò | la/al sa setarà giò | la/al sa sarà setaa giò |
+| *le / lü* | sa seta giò / la/al sa seta giò | la/al sa setarà giò | la/al sa sarà setaa giò |
 | *nüm* | sa setum giò | sa setarem giò | sa sarem setaa giò |
 | *vialtri* | sa setuf giò | sa setarii giò | sa sarii setaa giò |
 | *lur* | i sa setan giò | i sa setaran giò | i sa saran setaa giò |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | ma sa setava giò | ma sum setaa giò | ma seva setaa giò |
 | *ti* | ta sa setavat giò | ta sa set setaa giò | ta sa sevat setaa giò |
-| *lü / le* | la/al sa setava giò | la/al s’è setaa giò | la/al s’eva setaa giò |
+| *le / lü* | la/al sa setava giò | la/al s’è setaa giò | la/al s’eva setaa giò |
 | *nüm* | sa setavum giò | sa sem setaa giò | sa sevum setaa giò |
 | *vialtri* | sa setavuf giò | sa sii setaa giò | sa sevuf setaa giò |
 | *lur* | i sa setavan giò | i s’è setaa giò | i s’evan setaa giò |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | ma sa setaria/setaressa giò | ma saria/saress setaa giò |
 | *ti* | ta sa setariat/setaressat giò | ta sa sariat/saressat setaa giò |
-| *lü / le* | la/al sa setaria/setaressa giò | la/al sa saria/saressa setaa giò |
+| *le / lü* | la/al sa setaria/setaressa giò | la/al sa saria/saressa setaa giò |
 | *nüm* | sa setarium/setaressum giò | sa sarium/saressum setaa giò |
 | *vialtri* | sa setariuf/setaressuf giò | sa sariuf/saressuf setaa giò |
 | *lur* | i sa setarian/setaressan giò | i sa sarian/saressan setaa giò |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | ma sa seta giò | ma sa setassa giò |
+| *ti* | ta sa setat giò | ta sa setassat giò |
+| *le / lü* | la/al sa seta giò | la/al sa setassa giò |
+| *nüm* | sa setum giò | sa setassum giò |
+| *vialtri* | sa setuf giò | sa setassuf giò |
+| *lur* | i sa setan giò | i sa setassan giò |
 
 ## Imperativo
 

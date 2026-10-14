@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | capisi | capisarò | avrò capii |
 | *ti* | ta capisat | ta capisaret | ta avret capii |
-| *lü / le* | la/al capis | la/al capisarà | la/al avrà capii |
+| *le / lü* | la/al capis | la/al capisarà | l’avrà capii |
 | *nüm* | capisum | capisarem | avrem capii |
 | *vialtri* | capisuf | capisarii | avrii capii |
 | *lur* | i capis | i capisaran | i avran capii |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | capiva | u capii | eva capii |
 | *ti* | ta capivat | te capii | ta evat capii |
-| *lü / le* | la/al capiva | l’a capii | la/al eva capii |
+| *le / lü* | la/al capiva | l’a capii | l’eva capii |
 | *nüm* | capivum | em capii | evum capii |
 | *vialtri* | capivuf | ii capii | evuf capii |
 | *lur* | i capivan | i an capii | i evan capii |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | capisaria/capisaressa | avria/avress capii |
 | *ti* | ta capisariat/capisaressat | t’avriat/t’avressat capii |
-| *lü / le* | la/al capisaria/capisaressa | l’avria/l’avressa capii |
+| *le / lü* | la/al capisaria/capisaressa | l’avria/l’avressa capii |
 | *nüm* | capisarium/capisaressum | avrium/avressum capii |
 | *vialtri* | capisariuf/capisaressuf | avriuf/avressuf capii |
 | *lur* | i capisarian/capisaressan | i avrian/i avressan capii |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | capisa | capissa |
+| *ti* | ta capisat | ta capissat |
+| *le / lü* | la/al capisa | la/al capissa |
+| *nüm* | capisum | capissum |
+| *vialtri* | capisuf | capissuf |
+| *lur* | i capisan | i capissan |
 
 ## Imperativo
 

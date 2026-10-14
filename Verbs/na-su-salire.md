@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vo sü | naroo sù / narò sù | sarò nai (a) sù |
 | *ti* | ta ve sü | ta naré sù | ta saré nai (a) sù |
-| *lü / le* | la/al va sü | la/al narà sù | la/al sarà nai (a) sù |
+| *le / lü* | la/al va sü | la/al narà sù | la/al sarà nai (a) sù |
 | *nüm* | vem sü | narem sù | sarem nai sù |
 | *vialtri* | vii sü | narii sù | sarii nai sù |
 | *lur* | i va(n) sü | i naran sù | i saran nai sù |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | nava sù | sum nai (femminile = naia) sù | seva nai (a) sù |
 | *ti* | ta navat sù | ta sé nai (femminile = naia) sù | ta sevat nai (a) sù |
-| *lü / le* | la/al nava sù | l’è naia (lü l’è nai) sù | la/al eva nai (a) sù |
+| *le / lü* | la/al nava sù | l’è naia (lü l’è nai) sù | l’eva nai (a) sù |
 | *nüm* | navum sù | sem nai sù | sevum nai sù |
 | *vialtri* | navuf sù | sii nai sù | sevuf nai sù |
 | *lur* | i navan sù | ié nai sù | i evan nai sù |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | naria/naressa sù | saria/saress nai sù |
 | *ti* | ta naressat sù | ta sariat/ta saressat nai sù |
-| *lü / le* | naria/naressa sù | la/al saria/saressa nai sù |
+| *le / lü* | naria/naressa sù | la/al saria/saressa nai sù |
 | *nüm* | naressum sù | sarium/saressum nai sù |
 | *vialtri* | naressuf sù | sariuf/saressuf nai sù |
 | *lur* | narian/naressan sù | i sarian/i saressan nai sù |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | naga sù | nassa sù |
+| *ti* | ta nagat sù | ta nassat sù |
+| *le / lü* | la/al naga sù | la/al nassa sù |
+| *nüm* | nagum sù | nassum sù |
+| *vialtri* | naguf sù | nassuf sù |
+| *lur* | i nagan sù | i nassan sù |
 
 ## Imperativo
 

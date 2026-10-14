@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | mövi | mövarò | avrò mövüü |
 | *ti* | ta mövat | ta mövaret | ta avret mövüü |
-| *lü / le* | la /al möv | la/al mövarà | la/al avrà mövüü |
+| *le / lü* | la/al möv | la/al mövarà | l’avrà mövüü |
 | *nüm* | mövum | mövarem | avrem mövüü |
 | *vialtri* | mövuf | mövarii | avrii mövüü |
 | *lur* | i möva(n) /möf | i mövaran | i avran mövüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | möveva | u mövüü | eva mövüü |
 | *ti* | ta mövevat | te mövüü | ta evat mövüü |
-| *lü / le* | la/al möveva | l’a mövüü | la/al eva mövüü |
+| *le / lü* | la/al möveva | l’a mövüü | l’eva mövüü |
 | *nüm* | mövevum | em mövüü | evum mövüü |
 | *vialtri* | mövevuf | ii mövüü | evuf mövüü |
 | *lur* | i mövevan | i an mövüü | i evan mövüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | mövaria/mövaressa | avria/avress mövüü |
 | *ti* | ta mövariat/mövaressat | t’avriat/t’avressat mövüü |
-| *lü / le* | la/al mövaria/mövaressa | l’avria/l’avressa mövüü |
+| *le / lü* | la/al mövaria/mövaressa | l’avria/l’avressa mövüü |
 | *nüm* | mövarium/mövaressum | avrium/avressum mövüü |
 | *vialtri* | mövariuf/mövaressuf | avriuf/avressuf mövüü |
 | *lur* | i mövarian/mövaressan | i avrian/i avressan mövüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | möva | mövessa |
+| *ti* | ta mövat | ta mövessat |
+| *le / lü* | la/al möva | la/al mövessa |
+| *nüm* | mövum | mövessum |
+| *vialtri* | mövuf | mövessuf |
+| *lur* | i mövan | i mövessan |
 
 ## Imperativo
 

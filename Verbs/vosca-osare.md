@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | voschi | voscaroo | avrò voscaa |
 | *ti* | ta voscat | voscaré | ta avret voscaa |
-| *lü / le* | al/la vosca | voscarà | la/al avrà voscaa |
+| *le / lü* | la/al vosca | voscarà | l’avrà voscaa |
 | *nüm* | voscum | voscarem | avrem voscaa |
 | *vialtri* | voscuf | voscarii | avrii voscaa |
 | *lur* | vosca (n) | voscarà (n) | i avran voscaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | vuscava | u voscaa | eva voscaa |
 | *ti* | ta vuscavat | te voscaa | ta evat voscaa |
-| *lü / le* | la/al vuscava | l’a voscaa | la/al eva voscaa |
+| *le / lü* | la/al vuscava | l’a voscaa | l’eva voscaa |
 | *nüm* | vuscavum | em voscaa | evum voscaa |
 | *vialtri* | vuscavuf | ii voscaa | evuf voscaa |
 | *lur* | i vuscavan | ia(n) voscaa | i evan voscaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | voscaria/voscaressa | avria/avress voscaa |
 | *ti* | ta voscariat/voscaressat | t’avriat/t’avressat voscaa |
-| *lü / le* | la/al voscaria/voscaressa | l’avria/l’avressa voscaa |
+| *le / lü* | la/al voscaria/voscaressa | l’avria/l’avressa voscaa |
 | *nüm* | voscarium/voscaressum | avrium/avressum voscaa |
 | *vialtri* | voscariuf/voscaressuf | avriuf/avressuf voscaa |
 | *lur* | i voscarian/voscaressan | i avrian/i avressan voscaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | vosca | vuscassa |
+| *ti* | ta voscat | ta vuscassat |
+| *le / lü* | la/al vosca | la/al vuscassa |
+| *nüm* | voscum | vuscassum |
+| *vialtri* | voscuf | vuscassuf |
+| *lur* | i voscan | i vuscassan |
 
 ## Imperativo
 

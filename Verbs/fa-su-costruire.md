@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | fò sü | faroo sù / farò sù | avrò fai (a) sù |
 | *ti* | ta fé sü | ta faré sù | ta avré fai (a) sù |
-| *lü / le* | la/al fa sü | la/al farà sù | la/al avrà fai (a) sù |
+| *le / lü* | la/al fa sü | la/al farà sù | l’avrà fai (a) sù |
 | *nüm* | fem sü | farem sù | avrem fai sù |
 | *vialtri* | fii sü | farii sù | avrii fai sù |
 | *lur* | i fa(n) sü | i faran sù | i avran fai sù |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | fava sù | u fai sù | eva fai (a) sù |
 | *ti* | ta favat sù | te fai sù | ta evat fai (a) sù |
-| *lü / le* | la/al fava sù | la fai sù | la/al eva fai (a) sù |
+| *le / lü* | la/al fava sù | la fai sù | l’eva fai (a) sù |
 | *nüm* | favum sù | em fai sù | evum fai sù |
 | *vialtri* | favuf sù | ii fai sù | evuf fai sù |
 | *lur* | i favan sù | ia (n) fai sù | i evan fai sù |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | faria/faress sù | avria/avress fai sù |
 | *ti* | fariat/faressat sù | t’avriat/t’avressat fai sù |
-| *lü / le* | faria/faressa sù | l’avria/l’avressa fai sù |
+| *le / lü* | faria/faressa sù | l’avria/l’avressa fai sù |
 | *nüm* | farium/faressum sù | avrium/avressum fai sù |
 | *vialtri* | fariuf/faressuf sù | avriuf/avressuf fai sù |
 | *lur* | farian/faressan sù | i avrian/i avressan fai sù |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | faga sù | fassa sù |
+| *ti* | ta fagat sù | ta fassat sù |
+| *le / lü* | la/al faga sù | la/al fassa sù |
+| *nüm* | fagum sù | fassum sù |
+| *vialtri* | faguf sù | fassuf sù |
+| *lur* | i fagan sù | i fassan sù |
 
 ## Imperativo
 

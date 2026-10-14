@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | scolti /sculti(?) | scoltarò | avrò scultaa |
 | *ti* | ta scoltat | ta scoltaret | ta avret scultaa |
-| *lü / le* | al/la scolta | la/al scoltarà | la/al avrà scultaa |
+| *le / lü* | la/al scolta | la/al scoltarà | l’avrà scultaa |
 | *nüm* | scoltum | scoltarem | avrem scultaa |
 | *vialtri* | scoltuf | scoltarii | avrii scultaa |
 | *lur* | i scolta(n) | i scoltaran | i avran scultaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | scultava | u scultaa | eva scultaa |
 | *ti* | ta scultavat | te scultaa | ta evat scultaa |
-| *lü / le* | la/al scultava | l’a scultaa | la/al eva scultaa |
+| *le / lü* | la/al scultava | l’a scultaa | l’eva scultaa |
 | *nüm* | scultavum | em scultaa | evum scultaa |
 | *vialtri* | scultavuf | ii scultaa | evuf scultaa |
 | *lur* | i scultavan | i an scultaa | i evan scultaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | scoltaria/scoltaressa | avria/avress scultaa |
 | *ti* | ta scoltariat/scoltaressat | t’avriat/t’avressat scultaa |
-| *lü / le* | la/al scoltaria/scoltaressa | l’avria/l’avressa scultaa |
+| *le / lü* | la/al scoltaria/scoltaressa | l’avria/l’avressa scultaa |
 | *nüm* | scoltarium/scoltaressum | avrium/avressum scultaa |
 | *vialtri* | scoltariuf/scoltaressuf | avriuf/avressuf scultaa |
 | *lur* | i scoltarian/scoltaressan | i avrian/i avressan scultaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | scolta | scultassa |
+| *ti* | ta scoltat | ta scultassat |
+| *le / lü* | la/al scolta | la/al scultassa |
+| *nüm* | scoltum | scultassum |
+| *vialtri* | scoltuf | scultassuf |
+| *lur* | i scoltan | i scultassan |
 
 ## Imperativo
 

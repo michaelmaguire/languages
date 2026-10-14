@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | torni in dré | tornarò | sarò turnaa |
 | *ti* | ta tornat in dré | ta tornaret | ta saret turnaa |
-| *lü / le* | la/al torna in dré | la/al tornarà | la/al sarà turnaa |
+| *le / lü* | la/al torna in dré | la/al tornarà | la/al sarà turnaa |
 | *nüm* | tornum in dré | tornarem | sarem turnaa |
 | *vialtri* | tornuf in dré | tornarii | sarii turnaa |
 | *lur* | i torna(n) in dré | i tornaran | i saran turnaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | turnava | sum turnaa | seva turnaa |
 | *ti* | ta turnavat | ta se/set turnaa | ta sevat turnaa |
-| *lü / le* | la/al turnava | l’è turnaa | la/al eva turnaa |
+| *le / lü* | la/al turnava | l’è turnaa | l’eva turnaa |
 | *nüm* | turnavum | sem turnaa | sevum turnaa |
 | *vialtri* | turnavuf | sii turnaa | sevuf turnaa |
 | *lur* | i turnavan | i è turnaa | i evan turnaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | tornaria/tornaressa | saria/saress turnaa |
 | *ti* | ta tornariat/tornaressat | ta sariat/ta saressat turnaa |
-| *lü / le* | la/al tornaria/tornaressa | la/al saria/saressa turnaa |
+| *le / lü* | la/al tornaria/tornaressa | la/al saria/saressa turnaa |
 | *nüm* | tornarium/tornaressum | sarium/saressum turnaa |
 | *vialtri* | tornariuf/tornaressuf | sariuf/saressuf turnaa |
 | *lur* | i tornarian/tornaressan | i sarian/i saressan turnaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | torna | turnassa |
+| *ti* | ta tornat | ta turnassat |
+| *le / lü* | la/al torna | la/al turnassa |
+| *nüm* | tornum | turnassum |
+| *vialtri* | tornuf | turnassuf |
+| *lur* | i tornan | i turnassan |
 
 ## Imperativo
 

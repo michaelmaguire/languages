@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | so | savarò | avrò savüü |
 | *ti* | ta set † | ta savaret | ta avret savüü |
-| *lü / le* | la/al sa † | la/al savarà | la/al avrà savüü |
+| *le / lü* | la/al sa † | la/al savarà | l’avrà savüü |
 | *nüm* | savum † | savarem | avrem savüü |
 | *vialtri* | savuf † | savarii | avrii savüü |
 | *lur* | i sa † | i savaran | i avran savüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | saveva | u savüü | eva savüü |
 | *ti* | ta savevat | te savüü | ta evat savüü |
-| *lü / le* | la/al saveva | l’a savüü | la/al eva savüü |
+| *le / lü* | la/al saveva | l’a savüü | l’eva savüü |
 | *nüm* | savevum | em savüü | evum savüü |
 | *vialtri* | savevuf | ii savüü | evuf savüü |
 | *lur* | i savevan | i an savüü | i evan savüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | savaria/savaressa | avria/avress savüü |
 | *ti* | ta savaressat | t’avriat/t’avressat savüü |
-| *lü / le* | savaria/savaressa | l’avria/l’avressa savüü |
+| *le / lü* | savaria/savaressa | l’avria/l’avressa savüü |
 | *nüm* | savaressum | avrium/avressum savüü |
 | *vialtri* | savaressuf | avriuf/avressuf savüü |
 | *lur* | savarian/savaressan | i avrian/i avressan savüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | sapia | savessa |
+| *ti* | ta sapiat | ta savessat |
+| *le / lü* | la/al sapia | la/al savessa |
+| *nüm* | sapium | savessum |
+| *vialtri* | sapiuf | savessuf |
+| *lur* | i sapian | i savessan |
 
 ## Imperativo
 

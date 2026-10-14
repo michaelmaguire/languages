@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | nodi | nodarò | avrò nodaa |
 | *ti* | ta nodat | ta nodaret | ta avret nodaa |
-| *lü / le* | la/al noda | la/al nodarà | la/al avrà nodaa |
+| *le / lü* | la/al noda | la/al nodarà | l’avrà nodaa |
 | *nüm* | nodum | nodarem | avrem nodaa |
 | *vialtri* | noduf | nodarii | avrii nodaa |
 | *lur* | i noda(n) | i nodaran | i avran nodaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | nodava | u nodaa | eva nodaa |
 | *ti* | ta nodavat | te nodaa | ta evat nodaa |
-| *lü / le* | la/al nodava | l’a nodaa | la/al eva nodaa |
+| *le / lü* | la/al nodava | l’a nodaa | l’eva nodaa |
 | *nüm* | nodavum | em nodaa | evum nodaa |
 | *vialtri* | nodavuf | ii nodaa | evuf nodaa |
 | *lur* | i nodavan | i an nodaa | i evan nodaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | nodaria/nodaressa | avria/avress nodaa |
 | *ti* | ta nodariat/nodaressat | t’avriat/t’avressat nodaa |
-| *lü / le* | la/al nodaria/nodaressa | l’avria/l’avressa nodaa |
+| *le / lü* | la/al nodaria/nodaressa | l’avria/l’avressa nodaa |
 | *nüm* | nodarium/nodaressum | avrium/avressum nodaa |
 | *vialtri* | nodariuf/nodaressuf | avriuf/avressuf nodaa |
 | *lur* | i nodarian/nodaressan | i avrian/i avressan nodaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | noda | nodassa |
+| *ti* | ta nodat | ta nodassat |
+| *le / lü* | la/al noda | la/al nodassa |
+| *nüm* | nodum | nodassum |
+| *vialtri* | noduf | nodassuf |
+| *lur* | i nodan | i nodassan |
 
 ## Imperativo
 

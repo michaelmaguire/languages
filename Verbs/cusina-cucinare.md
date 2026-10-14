@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | fò da mangià | cüsinarò | avrò cüsinaa |
 | *ti* | ta fé da mangià | ta cüsinaret | ta avret cüsinaa |
-| *lü / le* | la/al fa da mangià | la/al cüsinarà | la/al avrà cüsinaa |
+| *le / lü* | la/al fa da mangià | la/al cüsinarà | l’avrà cüsinaa |
 | *nüm* | fem da mangià | cüsinarem | avrem cüsinaa |
 | *vialtri* | fii da mangià | cüsinarii | avrii cüsinaa |
 | *lur* | i fa(n) da mangià | i cüsinaran | i avran cüsinaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | cüsinava | u cüsinaa | eva cüsinaa |
 | *ti* | ta cüsinavat | te cüsinaa | ta evat cüsinaa |
-| *lü / le* | la/al cüsinava | l’a cüsinaa | la/al eva cüsinaa |
+| *le / lü* | la/al cüsinava | l’a cüsinaa | l’eva cüsinaa |
 | *nüm* | cüsinavum | em cüsinaa | evum cüsinaa |
 | *vialtri* | cüsinavuf | ii cüsinaa | evuf cüsinaa |
 | *lur* | i cüsinavan | i an cüsinaa | i evan cüsinaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | cüsinaria/cüsinaressa | avria/avress cüsinaa |
 | *ti* | ta cüsinariat/cüsinaressat | t’avriat/t’avressat cüsinaa |
-| *lü / le* | la/al cüsinaria/cüsinaressa | l’avria/l’avressa cüsinaa |
+| *le / lü* | la/al cüsinaria/cüsinaressa | l’avria/l’avressa cüsinaa |
 | *nüm* | cüsinarium/cüsinaressum | avrium/avressum cüsinaa |
 | *vialtri* | cüsinariuf/cüsinaressuf | avriuf/avressuf cüsinaa |
 | *lur* | i cüsinarian/cüsinaressan | i avrian/i avressan cüsinaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | cüsina | cüsinassa |
+| *ti* | ta cüsinat | ta cüsinassat |
+| *le / lü* | la/al cüsina | la/al cüsinassa |
+| *nüm* | cüsinum | cüsinassum |
+| *vialtri* | cüsinuf | cüsinassuf |
+| *lur* | i cüsinan | i cüsinassan |
 
 ## Imperativo
 

@@ -14,20 +14,20 @@
 
 ## Indicativo
 
-|  | Presente † | Futuro † | Futuro prossimo † |
+|  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | pagari | pagariarò | avrò pagaa |
-| *ti* | ta pagariat | ta pagariaret | ta avret pagaa |
-| *lü / le* | la/al pagaria | la/al pagariarà | la/al avrà pagaa |
-| *nüm* | pagarium | pagariarem | avrem pagaa |
-| *vialtri* | pagariuf | pagariarii | avrii pagaa |
-| *lur* | i pagarian | i pagariaran | i avran pagaa |
+| *mi* | paghi | pagarò | avrò pagaa |
+| *ti* | ta pagat † | ta pagaret | ta avret pagaa |
+| *le / lü* | la/al paga † | la/al pagarà | l’avrà pagaa |
+| *nüm* | pagum † | pagarem | avrem pagaa |
+| *vialtri* | paguf † | pagarii | avrii pagaa |
+| *lur* | i pagan † | i pagaran | i avran pagaa |
 
 |  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
 |---|---|---|---|
 | *mi* | pagava | u pagaa | eva pagaa |
 | *ti* | ta pagavat | te pagaa | ta evat pagaa |
-| *lü / le* | la/al pagava | l’a pagaa | la/al eva pagaa |
+| *le / lü* | la/al pagava | l’a pagaa | l’eva pagaa |
 | *nüm* | pagavum | em pagaa | evum pagaa |
 | *vialtri* | pagavuf | ii pagaa | evuf pagaa |
 | *lur* | i pagavan | i an pagaa | i evan pagaa |
@@ -38,16 +38,27 @@
 |---|---|---|
 | *mi* | pagaria/pagaressa | avria/avress pagaa |
 | *ti* | pagaressat | t’avriat/t’avressat pagaa |
-| *lü / le* | pagaria/pagaressa | l’avria/l’avressa pagaa |
+| *le / lü* | pagaria/pagaressa | l’avria/l’avressa pagaa |
 | *nüm* | pagaressum | avrium/avressum pagaa |
 | *vialtri* | pagaressuf | avriuf/avressuf pagaa |
 | *lur* | i pagarian/pagaressan | i avrian/i avressan pagaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | paga | pagassa |
+| *ti* | ta pagat | ta pagassat |
+| *le / lü* | la/al paga | la/al pagassa |
+| *nüm* | pagum | pagassum |
+| *vialtri* | paguf | pagassuf |
+| *lur* | i pagan | i pagassan |
 
 ## Imperativo
 
 |  | Imperativo † | Imperativo negativo † |
 |---|---|---|
-| *ti* | pagaria | pagaria mia |
+| *ti* | paga | paga mia |
 | *nüm* | paghem | paghem mia |
 | *vialtri* | paghii | paghii mia |
 

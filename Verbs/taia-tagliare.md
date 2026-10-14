@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | tai | taiaroo | avrò taiaa |
 | *ti* | ta taiat | taiare | ta avret taiaa |
-| *lü / le* | la/al taia | taiarà | la/al avrà taiaa |
+| *le / lü* | la/al taia | taiarà | l’avrà taiaa |
 | *nüm* | taium | taiarem | avrem taiaa |
 | *vialtri* | taiuf | taiarii | avrii taiaa |
 | *lur* | i taia | taiarà (n) | i avran taiaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | taiava | u taiaa | eva taiaa |
 | *ti* | ta taiavat | te taiaa | ta evat taiaa |
-| *lü / le* | la/al taiava | l’a taiaa | la/al eva taiaa |
+| *le / lü* | la/al taiava | l’a taiaa | l’eva taiaa |
 | *nüm* | taiavum | em taiaa | evum taiaa |
 | *vialtri* | taiavuf | ii taiaa | evuf taiaa |
 | *lur* | i taiavan | ia (n) taiaa | i evan taiaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | taiaria/taiaressa | avria/avress taiaa |
 | *ti* | ta taiariat/taiaressat | t’avriat/t’avressat taiaa |
-| *lü / le* | la/al taiaria/taiaressa | l’avria/l’avressa taiaa |
+| *le / lü* | la/al taiaria/taiaressa | l’avria/l’avressa taiaa |
 | *nüm* | taiarium/taiaressum | avrium/avressum taiaa |
 | *vialtri* | taiariuf/taiaressuf | avriuf/avressuf taiaa |
 | *lur* | i taiarian/taiaressan | i avrian/i avressan taiaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | taia | taiassa |
+| *ti* | ta taiat | ta taiassat |
+| *le / lü* | la/al taia | la/al taiassa |
+| *nüm* | taium | taiassum |
+| *vialtri* | taiuf | taiassuf |
+| *lur* | i taian | i taiassan |
 
 ## Imperativo
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Step 1: turn every course document into plain text.
 
-Reads  ../raw/*.docx, *.pdf
+Reads  ../raw/*.docx, *.pdf, *.txt (plain text, e.g. a public-domain original to align a translation with)
 Writes cache/lesson_text/<file name>.txt   (only for new or changed files)
        etc/lesson_sources.csv                  (adds a row for every file it has not seen before)
 
@@ -110,13 +110,17 @@ def pdf_text(path):
     return "\n\f\n".join(pages), "ocr"
 
 
+def plain_text(path):
+    return path.read_text(encoding="utf-8"), "text"
+
+
 def main():
     from paths import raw_available
     if not raw_available():
         sys.exit("step 1: no source documents in raw/ (the submodule is not checked out); nothing to extract")
     CACHE.mkdir(parents=True, exist_ok=True)
     index = json.loads(INDEX.read_text()) if INDEX.exists() else {}
-    files = sorted(p for p in SRC.iterdir() if p.suffix.lower() in (".docx", ".pdf"))
+    files = sorted(p for p in SRC.iterdir() if p.suffix.lower() in (".docx", ".pdf", ".txt"))
     for path in files:
         digest = hashlib.sha1(path.read_bytes()).hexdigest()
         out = CACHE / (path.name + ".txt")
@@ -124,7 +128,7 @@ def main():
             continue
         print("extracting", path.name, flush=True)
         try:
-            text, how = (docx_text if path.suffix.lower() == ".docx" else pdf_text)(path)
+            text, how = {".docx": docx_text, ".txt": plain_text}.get(path.suffix.lower(), pdf_text)(path)
         except Exception as e:                # keep going; report at the end
             print("  FAILED:", e)
             continue

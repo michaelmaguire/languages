@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | devi † | devarò | avrò duvüü |
 | *ti* | ta devat | ta devaret | ta avret duvüü |
-| *lü / le* | la/al dev † | la/al devarà | la/al avrà duvüü |
+| *le / lü* | la/al dev † | la/al devarà | l’avrà duvüü |
 | *nüm* | devum | devarem | avrem duvüü |
 | *vialtri* | devuf | devarii | avrii duvüü |
 | *lur* | i devan † | i devaran | i avran duvüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | duveva | u duvüü | eva duvüü |
 | *ti* | ta duvevat | te duvüü | ta evat duvüü |
-| *lü / le* | la/al duveva | l’a duvüü | la/al eva duvüü |
+| *le / lü* | la/al duveva | l’a duvüü | l’eva duvüü |
 | *nüm* | duvevum | em duvüü | evum duvüü |
 | *vialtri* | duvevuf | ii duvüü | evuf duvüü |
 | *lur* | i duvevan | i an duvüü | i evan duvüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | duaria/duaressa | avria/avress duvüü |
 | *ti* | ta duaressat | t’avriat/t’avressat duvüü |
-| *lü / le* | duaria/duaressa | l’avria/l’avressa duvüü |
+| *le / lü* | duaria/duaressa | l’avria/l’avressa duvüü |
 | *nüm* | duaressum | avrium/avressum duvüü |
 | *vialtri* | duaressuf | avriuf/avressuf duvüü |
 | *lur* | duarian/duaressan | i avrian/i avressan duvüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | deva | duvessa |
+| *ti* | ta devat | ta duvessat |
+| *le / lü* | la/al deva | la/al duvessa |
+| *nüm* | devum | duvessum |
+| *vialtri* | devuf | duvessuf |
+| *lur* | i devan | i duvessan |
 
 ## Imperativo
 

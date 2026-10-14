@@ -9,6 +9,18 @@ import unicodedata
 
 PERSONS = ["1s", "2s", "3s", "1p", "2p", "3p"]
 SIMPLE = ["presente", "imperfetto", "futuro", "condizionale presente"]
+SUBJUNCTIVE = ["congiuntivo presente", "congiuntivo imperfetto"]
+# The course has no subjunctive table; these patterns come from the few forms found in its sentences:
+# imperfect 'füdessa, al füdess, füdessum' (like the conditional's -essa endings), present 'che al naga,
+# che i ma faga, che i ma daga, ta siat, sian'. Regular verbs: present = stressed stem + a/at/a/um/uf/an,
+# imperfect = unstressed stem + ass/ess/iss + the same endings.
+SUBJ_ENDINGS = ["a", "at", "a", "um", "uf", "an"]
+SUBJ_VOWEL = {"1": "a", "2": "e", "3": "e", "4": "i", "4i": "i"}
+SUBJ_IRREGULAR = {  # infinitive -> (present stem, imperfect stem)
+    "ves": ("si", "füdess"), "vegh": ("gh’abi", "gh’avess"), "na": ("nag", "nass"), "nà": ("nag", "nass"),
+    "fa": ("fag", "fass"), "fà": ("fag", "fass"), "dà": ("dag", "dass"), "stà": ("stag", "stass"),
+    "dì": ("dig", "disess"), "savé": ("sapi", "savess"), "podé": ("pod", "pudess"), "vöré": ("vör", "vuress"),
+}
 COMPOUND = ["passato prossimo", "trapassato prossimo", "futuro prossimo", "condizionale passato"]
 CLITIC = {"2s": "ta ", "3s": "la/al ", "3p": "i "}
 REFLEXIVE = ["ma sa ", "ta sa ", "la/al sa ", "sa ", "sa ", "i sa "]
@@ -124,8 +136,10 @@ def derive(inf_head, cls, forms, reflexive):
         w = first("presente", "1s")
         stressed = ok(unharden(w[:-1]) if w.endswith(("i", "í")) and cls != "4i" and not guess.endswith("i") else "")
     if not stressed:
+        # the conditional is written out in full by now (paga-ria -> pagaria): take its ending off
         w = re.split(r"-", first("condizionale presente", "1s"))[0]
-        stressed = ok(w[:-1] if w.endswith("a") else "")
+        stressed = ok(unharden(cut(w, ["aressa", "aress", "aria", "eressa", "eress", "eria", "iressa", "iress", "iria",
+                                       "ressa", "ress", "ria"])))
     unstressed = ok(cut(first("gerundio", "-"), ["ando", "andu", "and", "andos", "andus", "endo", "endu", "endos", "endus"]))
     if not unstressed:
         unstressed = ok(unharden(cut(first("imperativo negativo", "1p"), ["em", "emas"])))
@@ -183,9 +197,30 @@ def conjugate(infinitive, cls, forms, p):
             imp[0] = head
     out["imperativo"] = {person: f"{w}{tail}" for person, w in zip(("2s", "1p", "2p"), imp)}
     out["imperativo negativo"] = {person: f"{w} mia{tail}" for person, w in zip(("2s", "1p", "2p"), imp)}
+    out.update(subjunctive_rows(simple, ss + ("is" if cls == "4i" else ""), us + SUBJ_VOWEL[cls] + "ss"))
     out["gerundio"] = {"-": join(us, E["gerund"]) + ("s" if reflexive else "") + tail}
     out["participio passato"] = {"-": participle}
     return out
+
+
+def subjunctive_rows(simple, present_stem, imperfect_stem):
+    return {"congiuntivo presente": simple("congiuntivo presente", SUBJ_ENDINGS, present_stem),
+            "congiuntivo imperfetto": simple("congiuntivo imperfetto", SUBJ_ENDINGS, imperfect_stem)}
+
+
+def irregular_subjunctive(infinitive):
+    """Subjunctive of ves, vegh, na, fa, dà, stà, dì, savé, podé, vöré (and their compounds: na giò)."""
+    head, particle = split_infinitive(infinitive)
+    reflexive = head.endswith("as") and len(head) > 3
+    stems = SUBJ_IRREGULAR.get(head[:-2] if reflexive else head)
+    if not stems:
+        return {}
+    tail = f" {particle}" if particle else ""
+
+    def simple(tense, endings, stem):
+        return {person: f"{(REFLEXIVE[i] if reflexive else CLITIC.get(person, ''))}{stem}{ending}{tail}"
+                for i, (person, ending) in enumerate(zip(PERSONS, endings))}
+    return subjunctive_rows(simple, *stems)
 
 
 def compound_only(participle, essere):

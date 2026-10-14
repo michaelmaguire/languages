@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | credi | credarò | avrò credüü |
 | *ti* | ta credat | ta credaret | ta avret credüü |
-| *lü / le* | la/al cred | la/al credarà | la/al avrà credüü |
+| *le / lü* | la/al cred | la/al credarà | l’avrà credüü |
 | *nüm* | credum | credarem | avrem credüü |
 | *vialtri* | creduf | credarii | avrii credüü |
 | *lur* | i credan | i credaran | i avran credüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | credeva | u credüü | eva credüü |
 | *ti* | ta credevat | te credüü | ta evat credüü |
-| *lü / le* | la/al credeva | l’a credüü | la/al eva credüü |
+| *le / lü* | la/al credeva | l’a credüü | l’eva credüü |
 | *nüm* | credevum | em credüü | evum credüü |
 | *vialtri* | credevuf | ii credüü | evuf credüü |
 | *lur* | i credevan | i an credüü | i evan credüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | credaria/credaressa | avria/avress credüü |
 | *ti* | ta credariat/credaressat | t’avriat/t’avressat credüü |
-| *lü / le* | la/al credaria/credaressa | l’avria/l’avressa credüü |
+| *le / lü* | la/al credaria/credaressa | l’avria/l’avressa credüü |
 | *nüm* | credarium/credaressum | avrium/avressum credüü |
 | *vialtri* | credariuf/credaressuf | avriuf/avressuf credüü |
 | *lur* | i credarian/credaressan | i avrian/i avressan credüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | creda | credessa |
+| *ti* | ta credat | ta credessat |
+| *le / lü* | la/al creda | la/al credessa |
+| *nüm* | credum | credessum |
+| *vialtri* | creduf | credessuf |
+| *lur* | i credan | i credessan |
 
 ## Imperativo
 

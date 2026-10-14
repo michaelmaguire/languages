@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vo innanz | naroo innanz / narò innanz | sarò nai (a) innanz |
 | *ti* | ta ve innanz | ta naré innanz | ta saré nai (a) innanz |
-| *lü / le* | la/al va innanz | la/al narà innanz | la/al sarà nai (a) innanz |
+| *le / lü* | la/al va innanz | la/al narà innanz | la/al sarà nai (a) innanz |
 | *nüm* | vem innanz / nem innanz | narem innanz | sarem nai innanz |
 | *vialtri* | vii innanz | narii innanz | sarii nai innanz |
 | *lur* | i van innanz | i naran innanz | i saran nai innanz |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | nava innanz | sum nai (femminile = naia) innanz | seva nai (a) innanz |
 | *ti* | ta navat innanz | ta sé nai (femminile = naia) innanz | ta sevat nai (a) innanz |
-| *lü / le* | la/al nava innanz | l’è naia (lü l’è nai) innanz | la/al eva nai (a) innanz |
+| *le / lü* | la/al nava innanz | l’è naia (lü l’è nai) innanz | l’eva nai (a) innanz |
 | *nüm* | navum innanz | sem nai innanz | sevum nai innanz |
 | *vialtri* | navuf innanz | sii nai innanz | sevuf nai innanz |
 | *lur* | i navan innanz | ié nai innanz | i evan nai innanz |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | naria/naressa innanz | saria/saress nai innanz |
 | *ti* | ta naressat innanz | ta sariat/ta saressat nai innanz |
-| *lü / le* | naria/naressa innanz | la/al saria/saressa nai innanz |
+| *le / lü* | naria/naressa innanz | la/al saria/saressa nai innanz |
 | *nüm* | naressum innanz | sarium/saressum nai innanz |
 | *vialtri* | naressuf innanz | sariuf/saressuf nai innanz |
 | *lur* | narian/naressan innanz | i sarian/i saressan nai innanz |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | naga innanz | nassa innanz |
+| *ti* | ta nagat innanz | ta nassat innanz |
+| *le / lü* | la/al naga innanz | la/al nassa innanz |
+| *nüm* | nagum innanz | nassum innanz |
+| *vialtri* | naguf innanz | nassuf innanz |
+| *lur* | i nagan innanz | i nassan innanz |
 
 ## Imperativo
 

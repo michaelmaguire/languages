@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | le(n)gi | lengarò | avrò lengiüü |
 | *ti* | ta le(n)giat | ta lengaret | ta avret lengiüü |
-| *lü / le* | la/al le(n)g (?) | la/al lengarà | la/al avrà lengiüü |
+| *le / lü* | la/al le(n)g (?) | la/al lengarà | l’avrà lengiüü |
 | *nüm* | le(n)gium | lengarem | avrem lengiüü |
 | *vialtri* | le(n)giuf | lengarii | avrii lengiüü |
 | *lur* | i le(n)gian | i lengaran | i avran lengiüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | lengheva | u lengiüü | eva lengiüü |
 | *ti* | ta lenghevat | te lengiüü | ta evat lengiüü |
-| *lü / le* | la/al lengheva | l’a lengiüü | la/al eva lengiüü |
+| *le / lü* | la/al lengheva | l’a lengiüü | l’eva lengiüü |
 | *nüm* | lenghevum | em lengiüü | evum lengiüü |
 | *vialtri* | lenghevuf | ii lengiüü | evuf lengiüü |
 | *lur* | i lenghevan | i an lengiüü | i evan lengiüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | lengaria/lengaressa | avria/avress lengiüü |
 | *ti* | ta lengariat/lengaressat | t’avriat/t’avressat lengiüü |
-| *lü / le* | la/al lengaria/lengaressa | l’avria/l’avressa lengiüü |
+| *le / lü* | la/al lengaria/lengaressa | l’avria/l’avressa lengiüü |
 | *nüm* | lengarium/lengaressum | avrium/avressum lengiüü |
 | *vialtri* | lengariuf/lengaressuf | avriuf/avressuf lengiüü |
 | *lur* | i lengarian/lengaressan | i avrian/i avressan lengiüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | lenga | lengessa |
+| *ti* | ta lengat | ta lengessat |
+| *le / lü* | la/al lenga | la/al lengessa |
+| *nüm* | lengum | lengessum |
+| *vialtri* | lenguf | lengessuf |
+| *lur* | i lengan | i lengessan |
 
 ## Imperativo
 

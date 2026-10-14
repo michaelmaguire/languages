@@ -98,12 +98,16 @@ forms, entries without English, decisions that matched nothing) and the `git dif
 |---|---|
 | `decisions.csv` | Decisions about dictionary entries and expressions: `typo` (fold into the correct form, keep the typo as a variant), `reject`, `accept` (clear ⚠), `variant`, `correct` (fix dialect/Italian/English), `expression` (an idiom or sentence that had landed in the dictionary: it becomes an expression). Columns `Decision,Language_ID,Form,Sense,Target_Form,Target_Language_ID,Italian,English,Reason,Date`. **This is where the owner's corrections go.** Rows whose Reason starts "Claude inferred:" came from Claude's full review on 2026-10-14 (about 260 rows, plus 93 `expression` rows); the owner's have no prefix. |
 | `pair_corrections.csv` | Delete / replace / add an extracted pair, by `source,line` from `pipeline/data/extracted_pairs.csv`. |
-| `lesson_sources.csv` | One row per document: variety, canonical yes/no, layout (`auto`, `skip`, `text_only`, `gerund`, `imperative`, `bullets`), include, genre of its expressions (`phrase`, `saying`, `exercise`, `text`). New files arrive with `?`. |
+| `lesson_sources.csv` | One row per document: variety, canonical yes/no, layout (`auto`, `skip`, `text_only`, `gerund`, `imperative`, `bullets`, `parallel`), include, genre of its expressions (`phrase`, `saying`, `exercise`, `text`). New files arrive with `?`. |
 | `topics.csv` | The expression topics (ID, dialect name, Italian name, English name), in page order. Dialect names composed by Claude from course words; † on a word not found in any course document (listed in `TO-CHECK.md`). |
 | `expression_topics.csv` | One row per expression (`Language_ID,Form,Topic,Genre`, Form = dialect text): its topic, and a genre when it differs from its document's. Written by Claude on 2026-10-14; new expressions via `tool_expression_topics.py`. |
+| `spelling_variants.csv` | Spellings of one word that all occur in the lessons (`giò;giô;giõ`); all accepted as `spelling` variants and shown together in the dictionary. |
+| `questions_for_teacher.csv` | Open questions for the teacher (Area, About, Question, Current_Handling, Date), shown at the top of `TO-CHECK.md`. Only real uncertainties (owner: do not be pedantic with the teacher); never spellings, which the lessons settle by using them (see `spelling_variants.csv`). Delete a row once answered and recorded. |
 | `english_translations.csv` | Italian → English, keyed by the Italian text. |
 | `verb_details.csv` | Per verb: dialect infinitive (attested/inferred + evidence), merges, class, stems, participle, auxiliary, tenses to ignore. |
-| `verb_forms_from_texts.csv` | Verb forms found in running text (attested) or supplied by hand (inferred). |
+| `verb_forms_from_texts.csv` | Verb forms found in running text (attested, with `source,line`) or supplied by hand (inferred). With a `verb_details.csv` row, enough to give an untabled verb a page (*töö*, *duprà*). |
+| `verb_forms_reassigned.csv` | Moves extracted forms to another verb when two dialect verbs share an Italian infinitive (*töö* vs *ciapà* for *prendere*). |
+| `parallel_texts.csv` | Class translations and their Italian originals in other documents, aligned by step 2 (*I düü magnan*, Inferno I–VI against `raw/Divina Commedia Inferno I-VI (Dante, Project Gutenberg).txt`). |
 | `dialect_lists_italian_supplied.csv` | Dialect-only list words (lessons 1–2, 5, 6) with Italian/English supplied by Claude; Italian shown with †. |
 
 Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_readme_intro.md`,
@@ -122,8 +126,11 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
 - **Output is Markdown** in folders at the repository root, plus three PDFs (the dictionary and verb PDFs also
   copied to `Dialect/`, the expressions PDF not). No spreadsheet output.
 - **Teacher's spelling is kept** as written, variants included. Exceptions: Word's automatic capitals
-  are lowered on words and non-sentence phrases, "idem" is replaced by the text it refers to, and the
-  conditional sheets' hyphens (`ciapa-ria/ress`) are written out (`ciaparia/ciaparess`).
+  are lowered on words and non-sentence phrases, "idem" is replaced by the text it refers to, the
+  conditional sheets' hyphens (`ciapa-ria/ress`) are written out (`ciaparia/ciaparess`), and the third
+  person is always `la/al` (feminine first, as the teacher mostly writes it; the few `al/la` are normalised)
+  under the label *le / lü* (owner, 2026-10-14). `l'a` in compound tenses is the auxiliary (*lü l'a
+  credüü*), not the feminine clitic.
 - **Markers:** ⚠ = `pending` (the extraction was unsure: direction, split or pairing). † = inferred, not
   found in a document (verb forms, verb infinitives, Italian supplied for dialect-only lists). On verb
   pages a fully inferred column carries † in its heading only. Marker explanations live only in the

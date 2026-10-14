@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | ma sa vöri ben | ma sa vörarò ben | ma sarò vurüü ben |
 | *ti* | ta sa vörat ben | ta sa vöraret ben | ta sa saret vurüü ben |
-| *lü / le* | la/al sa vör ben | la/al sa vörarà ben | la/al sa sarà vurüü ben |
+| *le / lü* | la/al sa vör ben | la/al sa vörarà ben | la/al sa sarà vurüü ben |
 | *nüm* | sa vörum ben | sa vörarem ben | sa sarem vurüü ben |
 | *vialtri* | sa vöruf ben | sa vörarii ben | sa sarii vurüü ben |
 | *lur* | i sa vöran ben | i sa vöraran ben | i sa saran vurüü ben |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | ma sa vureva ben | ma sum vurüü ben | ma seva vurüü ben |
 | *ti* | ta sa vurevat ben | ta sa set vurüü ben | ta sa sevat vurüü ben |
-| *lü / le* | la/al sa vureva ben | la/al s’è vurüü ben | la/al s’eva vurüü ben |
+| *le / lü* | la/al sa vureva ben | la/al s’è vurüü ben | la/al s’eva vurüü ben |
 | *nüm* | sa vurevum ben | sa sem vurüü ben | sa sevum vurüü ben |
 | *vialtri* | sa vurevuf ben | sa sii vurüü ben | sa sevuf vurüü ben |
 | *lur* | i sa vurevan ben | i s’è vurüü ben | i s’evan vurüü ben |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | ma sa vöraria/vöraressa ben | ma saria/saress vurüü ben |
 | *ti* | ta sa vörariat/vöraressat ben | ta sa sariat/saressat vurüü ben |
-| *lü / le* | la/al sa vöraria/vöraressa ben | la/al sa saria/saressa vurüü ben |
+| *le / lü* | la/al sa vöraria/vöraressa ben | la/al sa saria/saressa vurüü ben |
 | *nüm* | sa vörarium/vöraressum ben | sa sarium/saressum vurüü ben |
 | *vialtri* | sa vörariuf/vöraressuf ben | sa sariuf/saressuf vurüü ben |
 | *lur* | i sa vörarian/vöraressan ben | i sa sarian/saressan vurüü ben |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | ma sa vöra ben | ma sa vuressa ben |
+| *ti* | ta sa vörat ben | ta sa vuressat ben |
+| *le / lü* | la/al sa vöra ben | la/al sa vuressa ben |
+| *nüm* | sa vörum ben | sa vuressum ben |
+| *vialtri* | sa vöruf ben | sa vuressuf ben |
+| *lur* | i sa vöran ben | i sa vuressan ben |
 
 ## Imperativo
 

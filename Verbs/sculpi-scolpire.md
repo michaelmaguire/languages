@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | sculpisi | sculpisarò | avrò sculpii |
 | *ti* | ta sculpisat | ta sculpisaret | ta avret sculpii |
-| *lü / le* | la/al sculpis | la/al sculpisarà | la/al avrà sculpii |
+| *le / lü* | la/al sculpis | la/al sculpisarà | l’avrà sculpii |
 | *nüm* | sculpisum | sculpisarem | avrem sculpii |
 | *vialtri* | sculpisuf | sculpisarii | avrii sculpii |
 | *lur* | i sculpis | i sculpisaran | i avran sculpii |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | sculpiva | u sculpii | eva sculpii |
 | *ti* | ta sculpivat | te sculpii | ta evat sculpii |
-| *lü / le* | la/al sculpiva | l’a sculpii | la/al eva sculpii |
+| *le / lü* | la/al sculpiva | l’a sculpii | l’eva sculpii |
 | *nüm* | sculpivum | em sculpii | evum sculpii |
 | *vialtri* | sculpivuf | ii sculpii | evuf sculpii |
 | *lur* | i sculpivan | i an sculpii | i evan sculpii |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | sculpisaria/sculpisaressa | avria/avress sculpii |
 | *ti* | ta sculpisariat/sculpisaressat | t’avriat/t’avressat sculpii |
-| *lü / le* | la/al sculpisaria/sculpisaressa | l’avria/l’avressa sculpii |
+| *le / lü* | la/al sculpisaria/sculpisaressa | l’avria/l’avressa sculpii |
 | *nüm* | sculpisarium/sculpisaressum | avrium/avressum sculpii |
 | *vialtri* | sculpisariuf/sculpisaressuf | avriuf/avressuf sculpii |
 | *lur* | i sculpisarian/sculpisaressan | i avrian/i avressan sculpii |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | sculpisa | sculpissa |
+| *ti* | ta sculpisat | ta sculpissat |
+| *le / lü* | la/al sculpisa | la/al sculpissa |
+| *nüm* | sculpisum | sculpissum |
+| *vialtri* | sculpisuf | sculpissuf |
+| *lur* | i sculpisan | i sculpissan |
 
 ## Imperativo
 

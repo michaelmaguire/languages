@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | scrisighi / scbrisighi | scbrisigarò | avrò scbrisigaa |
 | *ti* | ta scrisigat / ta scbrisigat | ta scbrisigaret | ta avret scbrisigaa |
-| *lü / le* | la/al scrisiga / la/al scbrisiga | la/al scbrisigarà | la/al avrà scbrisigaa |
+| *le / lü* | la/al scrisiga / la/al scbrisiga | la/al scbrisigarà | l’avrà scbrisigaa |
 | *nüm* | scrisigum / scbrisigum | scbrisigarem | avrem scbrisigaa |
 | *vialtri* | scrisiguf / scbrisiguf | scbrisigarii | avrii scbrisigaa |
 | *lur* | i scrisigan / i scbrisigan | i scbrisigarà | i avran scbrisigaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | scbrisigava | u scbrisigaa | eva scbrisigaa |
 | *ti* | ta scbrisigavat | te scbrisigaa | ta evat scbrisigaa |
-| *lü / le* | la/al scbrisigava | l’a scbrisigaa | la/al eva scbrisigaa |
+| *le / lü* | la/al scbrisigava | l’a scbrisigaa | l’eva scbrisigaa |
 | *nüm* | scbrisigavum | em scbrisigaa | evum scbrisigaa |
 | *vialtri* | scbrisigavuf | ii scbrisigaa | evuf scbrisigaa |
 | *lur* | i scbrisigava | i an scbrisigaa | i eva scbrisigaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | scrisigaria/scrisigaressa | avria/avress scbrisigaa |
 | *ti* | ta scrisigariat/scrisigaressat | t’avriat/t’avressat scbrisigaa |
-| *lü / le* | la/al scrisigaria/scrisigaressa | l’avria/l’avressa scbrisigaa |
+| *le / lü* | la/al scrisigaria/scrisigaressa | l’avria/l’avressa scbrisigaa |
 | *nüm* | scrisigarium/scrisigaressum | avrium/avressum scbrisigaa |
 | *vialtri* | scrisigariuf/scrisigaressuf | avriuf/avressuf scbrisigaa |
 | *lur* | i scrisigarian/scrisigaressan | i avrian/i avressan scbrisigaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | scrisiga | sbrisigassa |
+| *ti* | ta scrisigat | ta sbrisigassat |
+| *le / lü* | la/al scrisiga | la/al sbrisigassa |
+| *nüm* | scrisigum | sbrisigassum |
+| *vialtri* | scrisiguf | sbrisigassuf |
+| *lur* | i scrisigan | i sbrisigassan |
 
 ## Imperativo
 

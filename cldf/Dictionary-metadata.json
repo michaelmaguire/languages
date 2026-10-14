@@ -19,7 +19,7 @@
         {
             "rdf:about": "git@github.com:michaelmaguire/languages-dialett",
             "rdf:type": "prov:Entity",
-            "dc:created": "9d0f546",
+            "dc:created": "e59c84c",
             "dc:title": "Repository"
         }
     ],
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 989,
+            "dc:extent": 1013,
             "tableSchema": {
                 "columns": [
                     {
@@ -137,7 +137,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 1010,
+            "dc:extent": 1036,
             "tableSchema": {
                 "columns": [
                     {
@@ -296,6 +296,7 @@
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "name": "Description"
                     }
                 ],
@@ -307,7 +308,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 1407,
+            "dc:extent": 1803,
             "tableSchema": {
                 "columns": [
                     {
@@ -487,7 +488,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
-            "dc:extent": 42,
+            "dc:extent": 45,
             "tableSchema": {
                 "columns": [
                     {
@@ -553,6 +554,7 @@
                             "base": "string",
                             "format": "[a-zA-Z0-9_\\-]+"
                         },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "ID"
                     },
@@ -563,6 +565,7 @@
                     },
                     {
                         "dc:description": "Italian name of the topic",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "required": true,
                         "name": "Name"
                     },
@@ -578,7 +581,7 @@
             "url": "topics.csv"
         },
         {
-            "dc:extent": 32,
+            "dc:extent": 62,
             "tableSchema": {
                 "columns": [
                     {
@@ -586,14 +589,17 @@
                             "base": "string",
                             "format": "[a-zA-Z0-9_\\-]+"
                         },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "ID"
                     },
                     {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#entryReference",
                         "required": true,
                         "name": "Entry_ID"
                     },
                     {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
                         "required": true,
                         "name": "Form"
                     },
@@ -643,7 +649,7 @@
             "url": "variants.csv"
         },
         {
-            "dc:extent": 4816,
+            "dc:extent": 5931,
             "tableSchema": {
                 "columns": [
                     {
@@ -651,10 +657,12 @@
                             "base": "string",
                             "format": "[a-zA-Z0-9_\\-]+"
                         },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
                         "name": "ID"
                     },
                     {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#entryReference",
                         "required": true,
                         "name": "Entry_ID"
                     },
@@ -670,6 +678,7 @@
                         "name": "Person"
                     },
                     {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
                         "required": true,
                         "name": "Form"
                     },

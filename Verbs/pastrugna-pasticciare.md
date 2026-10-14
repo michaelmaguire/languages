@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | pastrügni | pastügnarò | avrò pastrügnaa |
 | *ti* | ta pastrügnat | ta pastügnaret | ta avret pastrügnaa |
-| *lü / le* | la/al pastrügnà (?) | la/al pastügnarà | la/al avrà pastrügnaa |
+| *le / lü* | la/al pastrügnà (?) | la/al pastügnarà | l’avrà pastrügnaa |
 | *nüm* | pastügnum | pastügnarem | avrem pastrügnaa |
 | *vialtri* | pastrügnuf | pastügnarii | avrii pastrügnaa |
 | *lur* | i pastrügna(n) | i pastügnaran | i avran pastrügnaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | pastrügnava | u pastrügnaa | eva pastrügnaa |
 | *ti* | ta pastrügnavat | te pastrügnaa | ta evat pastrügnaa |
-| *lü / le* | la/al pastrügnava | l’a pastrügnaa | la/al eva pastrügnaa |
+| *le / lü* | la/al pastrügnava | l’a pastrügnaa | l’eva pastrügnaa |
 | *nüm* | pastrügnavum | em pastrügnaa | evum pastrügnaa |
 | *vialtri* | pastrügnavuf | ii pastrügnaa | evuf pastrügnaa |
 | *lur* | i pastrügnavan | i an pastrügnaa | i evan pastrügnaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | pastügnaria/pastügnaressa | avria/avress pastrügnaa |
 | *ti* | ta pastügnariat/pastügnaressat | t’avriat/t’avressat pastrügnaa |
-| *lü / le* | la/al pastügnaria/pastügnaressa | l’avria/l’avressa pastrügnaa |
+| *le / lü* | la/al pastügnaria/pastügnaressa | l’avria/l’avressa pastrügnaa |
 | *nüm* | pastügnarium/pastügnaressum | avrium/avressum pastrügnaa |
 | *vialtri* | pastügnariuf/pastügnaressuf | avriuf/avressuf pastrügnaa |
 | *lur* | i pastügnarian/pastügnaressan | i avrian/i avressan pastrügnaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | pastügna | pastrügnassa |
+| *ti* | ta pastügnat | ta pastrügnassat |
+| *le / lü* | la/al pastügna | la/al pastrügnassa |
+| *nüm* | pastügnum | pastrügnassum |
+| *vialtri* | pastügnuf | pastrügnassuf |
+| *lur* | i pastügnan | i pastrügnassan |
 
 ## Imperativo
 

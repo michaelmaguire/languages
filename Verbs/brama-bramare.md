@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | brami | bramarò | avrò bramaa |
 | *ti* | ta bramat | ta bramaret | ta avret bramaa |
-| *lü / le* | la/al brama | la/al bramarà | la/al avrà bramaa |
+| *le / lü* | la/al brama | la/al bramarà | l’avrà bramaa |
 | *nüm* | bramum | bramarem | avrem bramaa |
 | *vialtri* | bramuf | bramarii | avrii bramaa |
 | *lur* | i braman | i bramaran | i avran bramaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | bramava | u bramaa | eva bramaa |
 | *ti* | ta bramavat | te bramaa | ta evat bramaa |
-| *lü / le* | la/al bramava | l’a bramaa | la/al eva bramaa |
+| *le / lü* | la/al bramava | l’a bramaa | l’eva bramaa |
 | *nüm* | bramavum | em bramaa | evum bramaa |
 | *vialtri* | bramavuf | ii bramaa | evuf bramaa |
 | *lur* | i bramavan | i an bramaa | i evan bramaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | bramaria/bramaressa | avria/avress bramaa |
 | *ti* | ta bramariat/bramaressat | t’avriat/t’avressat bramaa |
-| *lü / le* | la/al bramaria/bramaressa | l’avria/l’avressa bramaa |
+| *le / lü* | la/al bramaria/bramaressa | l’avria/l’avressa bramaa |
 | *nüm* | bramarium/bramaressum | avrium/avressum bramaa |
 | *vialtri* | bramariuf/bramaressuf | avriuf/avressuf bramaa |
 | *lur* | i bramarian/bramaressan | i avrian/i avressan bramaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | brama | bramassa |
+| *ti* | ta bramat | ta bramassat |
+| *le / lü* | la/al brama | la/al bramassa |
+| *nüm* | bramum | bramassum |
+| *vialtri* | bramuf | bramassuf |
+| *lur* | i braman | i bramassan |
 
 ## Imperativo
 

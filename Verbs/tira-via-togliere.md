@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | tiri via | tirarò via | avrò tiraa via |
 | *ti* | ta tirat via | ta tiraret via | ta avret tiraa via |
-| *lü / le* | la/al tira via | la/al tirarà via | la/al avrà tiraa via |
+| *le / lü* | la/al tira via | la/al tirarà via | l’avrà tiraa via |
 | *nüm* | tirum via | tirarem via | avrem tiraa via |
 | *vialtri* | tiruf via | tirarii via | avrii tiraa via |
 | *lur* | i tiran via | i tiraran via | i avran tiraa via |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | tirava via | u tiraa via | eva tiraa via |
 | *ti* | ta tiravat via | te tiraa via | ta evat tiraa via |
-| *lü / le* | la/al tirava via | l’a tiraa via | la/al eva tiraa via |
+| *le / lü* | la/al tirava via | l’a tiraa via | l’eva tiraa via |
 | *nüm* | tiravum via | em tiraa via | evum tiraa via |
 | *vialtri* | tiravuf via | ii tiraa via | evuf tiraa via |
 | *lur* | i tiravan via | i an tiraa via | i evan tiraa via |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | tiraria/tiraressa via | avria/avress tiraa via |
 | *ti* | ta tirariat/tiraressat via | t’avriat/t’avressat tiraa via |
-| *lü / le* | la/al tiraria/tiraressa via | l’avria/l’avressa tiraa via |
+| *le / lü* | la/al tiraria/tiraressa via | l’avria/l’avressa tiraa via |
 | *nüm* | tirarium/tiraressum via | avrium/avressum tiraa via |
 | *vialtri* | tirariuf/tiraressuf via | avriuf/avressuf tiraa via |
 | *lur* | i tirarian/tiraressan via | i avrian/i avressan tiraa via |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | tira via | tirassa via |
+| *ti* | ta tirat via | ta tirassat via |
+| *le / lü* | la/al tira via | la/al tirassa via |
+| *nüm* | tirum via | tirassum via |
+| *vialtri* | tiruf via | tirassuf via |
+| *lur* | i tiran via | i tirassan via |
 
 ## Imperativo
 

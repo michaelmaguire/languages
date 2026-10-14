@@ -10,27 +10,27 @@
 
 | Gerundio † | Participio passato | Verb class |
 |---|---|---|
-| corendo | curüü | 3rd conjugation: infinitive with no ending (Italian -ere, unstressed ending) |
+| corendo | curüü / corüü | 3rd conjugation: infinitive with no ending (Italian -ere, unstressed ending) |
 
 ## Indicativo
 
-|  | Presente | Futuro † | Futuro prossimo † |
+|  | Presente | Futuro | Futuro prossimo |
 |---|---|---|---|
-| *mi* | cori | corarò | avrò curüü |
-| *ti* | ta corat | ta coraret | ta avret curüü |
-| *lü / le* | la/al cor | la/al corarà | la/al avrà curüü |
-| *nüm* | corum | corarem | avrem curüü |
-| *vialtri* | coruf | corarii | avrii curüü |
-| *lur* | i cor / coran | i coraran | i avran curüü |
+| *mi* | cori | corarò | avrò corüü / sarò corüü |
+| *ti* | ta corat | ta coraré | ta avré corüü / ta saré corüü |
+| *le / lü* | la/al cor | la/al corarà | l’avrà corüü / la/al sarà corüü |
+| *nüm* | corum | corarem | avrem corüü / sarem corüü |
+| *vialtri* | coruf | corarii | avrii corüü / sarii corüü |
+| *lur* | i cor / coran | i coraran | i avran corüü / i saran corüü |
 
-|  | Imperfetto | Passato prossimo | Trapassato prossimo † |
+|  | Imperfetto | Passato prossimo | Trapassato prossimo |
 |---|---|---|---|
-| *mi* | coreva | u curüü / sum curüü (da/f) | eva curüü |
-| *ti* | ta corevat | te curüü / ta se curüü (da/f) | ta evat curüü |
-| *lü / le* | la/al coreva † | la curüü / l’è curüü (da/f) | la/al eva curüü |
-| *nüm* | corevum † | em curüü / sem curüü | evum curüü |
-| *vialtri* | corevuf † | ii curüü / sii curüü | evuf curüü |
-| *lur* | i corevan † | ia (n) curüü / ié curüü | i evan curüü |
+| *mi* | coreva | u curüü / sum curüü (da/f) | eva corüü / seva corüü |
+| *ti* | ta corevat | te curüü / ta se curüü (da/f) | ta evat corüü / ta sevat corüü |
+| *le / lü* | la/al coreva | la curüü / l’è curüü (da/f) | l’eva corüü (da) |
+| *nüm* | corevum | em curüü / sem curüü | evum corüü / sevum corüü |
+| *vialtri* | corevuf | ii curüü / sii curüü | evuf corüü / sevuf corüü |
+| *lur* | i corevan | ia (n) curüü / ié curüü | i evan corüü / i eva corüü |
 
 ## Condizionale
 
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | coraria/coraressa | avria/avress curüü |
 | *ti* | ta corariat/coraressat | t’avriat/t’avressat curüü |
-| *lü / le* | la/al coraria/coraressa | l’avria/l’avressa curüü |
+| *le / lü* | la/al coraria/coraressa | l’avria/l’avressa curüü |
 | *nüm* | corarium/coraressum | avrium/avressum curüü |
 | *vialtri* | corariuf/coraressuf | avriuf/avressuf curüü |
 | *lur* | i corarian/coraressan | i avrian/i avressan curüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | cora | coressa |
+| *ti* | ta corat | ta coressat |
+| *le / lü* | la/al cora | la/al coressa |
+| *nüm* | corum | coressum |
+| *vialtri* | coruf | coressuf |
+| *lur* | i coran | i coressan |
 
 ## Imperativo
 

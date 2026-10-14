@@ -10,27 +10,27 @@
 
 | Gerundio † | Participio passato † | Verb class |
 |---|---|---|
-| tegnariendo | tegnüü | 4th conjugation: infinitive in -ì (Italian -ire) |
+| tegnendo | tegnüü | 4th conjugation: infinitive in -ì (Italian -ire) |
 
 ## Indicativo
 
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | tegnari | tegnariarò | avrò tegnüü |
-| *ti* | ta tegnariat | ta tegnariaret | ta avret tegnüü |
-| *lü / le* | la/al tegnaria | la/al tegnariarà | la/al avrà tegnüü |
-| *nüm* | tegnarium | tegnariarem | avrem tegnüü |
-| *vialtri* | tegnariuf | tegnariarii | avrii tegnüü |
-| *lur* | i tegnarian | i tegnariaran | i avran tegnüü |
+| *mi* | tegni | tegnarò | avrò tegnüü |
+| *ti* | ta tegnat | ta tegnaret | ta avret tegnüü |
+| *le / lü* | la/al tegna | la/al tegnarà | l’avrà tegnüü |
+| *nüm* | tegnum | tegnarem | avrem tegnüü |
+| *vialtri* | tegnuf | tegnarii | avrii tegnüü |
+| *lur* | i tegnan | i tegnaran | i avran tegnüü |
 
 |  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
 |---|---|---|---|
-| *mi* | tegnariva | u tegnüü | eva tegnüü |
-| *ti* | ta tegnarivat | te tegnüü | ta evat tegnüü |
-| *lü / le* | la/al tegnariva | l’a tegnüü | la/al eva tegnüü |
-| *nüm* | tegnarivum | em tegnüü | evum tegnüü |
-| *vialtri* | tegnarivuf | ii tegnüü | evuf tegnüü |
-| *lur* | i tegnarivan | i an tegnüü | i evan tegnüü |
+| *mi* | tegniva | u tegnüü | eva tegnüü |
+| *ti* | ta tegnivat | te tegnüü | ta evat tegnüü |
+| *le / lü* | la/al tegniva | l’a tegnüü | l’eva tegnüü |
+| *nüm* | tegnivum | em tegnüü | evum tegnüü |
+| *vialtri* | tegnivuf | ii tegnüü | evuf tegnüü |
+| *lur* | i tegnivan | i an tegnüü | i evan tegnüü |
 
 ## Condizionale
 
@@ -38,18 +38,29 @@
 |---|---|---|
 | *mi* | tegnaria/tegnaressa | avria/avress tegnüü |
 | *ti* | tegnariat/tegnaressat | t’avriat/t’avressat tegnüü |
-| *lü / le* | tegnaria/tegnaressa | l’avria/l’avressa tegnüü |
+| *le / lü* | tegnaria/tegnaressa | l’avria/l’avressa tegnüü |
 | *nüm* | tegnarium/tegnaressum | avrium/avressum tegnüü |
 | *vialtri* | tegnariuf/tegnaressuf | avriuf/avressuf tegnüü |
 | *lur* | tegnarian/tegnaressan | i avrian/i avressan tegnüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | tegna | tegnissa |
+| *ti* | ta tegnat | ta tegnissat |
+| *le / lü* | la/al tegna | la/al tegnissa |
+| *nüm* | tegnum | tegnissum |
+| *vialtri* | tegnuf | tegnissuf |
+| *lur* | i tegnan | i tegnissan |
 
 ## Imperativo
 
 |  | Imperativo † | Imperativo negativo † |
 |---|---|---|
-| *ti* | tegnaria | tegnaria mia |
-| *nüm* | tegnariem | tegnariem mia |
-| *vialtri* | tegnarii | tegnarii mia |
+| *ti* | tegna | tegna mia |
+| *nüm* | tegnem | tegnem mia |
+| *vialtri* | tegnii | tegnii mia |
 
 **Sources:** [Il Condizionale Presente](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx)
 

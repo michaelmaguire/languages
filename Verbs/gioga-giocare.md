@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | giöghi | giögarò | avrò giügaa |
 | *ti* | ta giögat | ta giögaret | ta avret giügaa |
-| *lü / le* | la/al giöga | la/al giögarà | la/al avrà giügaa |
+| *le / lü* | la/al giöga | la/al giögarà | l’avrà giügaa |
 | *nüm* | giögum | giögarem | avrem giügaa |
 | *vialtri* | giöguf | giögarii | avrii giügaa |
 | *lur* | i giöga(n) | i giögaran | i avran giügaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | giügava | u giügaa | eva giügaa |
 | *ti* | ta giügavat | te giügaa | ta evat giügaa |
-| *lü / le* | la/al giügava | l’a giügaa | la/al eva giügaa |
+| *le / lü* | la/al giügava | l’a giügaa | l’eva giügaa |
 | *nüm* | giügavum | em giügaa | evum giügaa |
 | *vialtri* | giügavuf | ii giügaa | evuf giügaa |
 | *lur* | i giügavan | i an giügaa | i evan giügaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | giögaria/giögaressa | avria/avress giügaa |
 | *ti* | ta giögariat/giögaressat | t’avriat/t’avressat giügaa |
-| *lü / le* | la/al giögaria/giögaressa | l’avria/l’avressa giügaa |
+| *le / lü* | la/al giögaria/giögaressa | l’avria/l’avressa giügaa |
 | *nüm* | giögarium/giögaressum | avrium/avressum giügaa |
 | *vialtri* | giögariuf/giögaressuf | avriuf/avressuf giügaa |
 | *lur* | i giögarian/giögaressan | i avrian/i avressan giügaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | giöga | giügassa |
+| *ti* | ta giögat | ta giügassat |
+| *le / lü* | la/al giöga | la/al giügassa |
+| *nüm* | giögum | giügassum |
+| *vialtri* | giöguf | giügassuf |
+| *lur* | i giögan | i giügassan |
 
 ## Imperativo
 

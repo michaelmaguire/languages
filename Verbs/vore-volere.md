@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vöri | vurarò | avrò vurüü |
 | *ti* | ta vörat | ta vuraret | ta avret vurüü |
-| *lü / le* | la/al vö | la/al vurarà | la/al avrà vurüü |
+| *le / lü* | la/al vö | la/al vurarà | l’avrà vurüü |
 | *nüm* | vörum | vurarem | avrem vurüü |
 | *vialtri* | vöruf | vurarii | avrii vurüü |
 | *lur* | i vörlan / i vöran | i vurarà | i avrà vurüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | vureva | u vurüü | eva vurüü |
 | *ti* | ta vurevat | te vurüü | ta evat vurüü |
-| *lü / le* | la/al vureva | l’a vurüü | la/al eva vurüü |
+| *le / lü* | la/al vureva | l’a vurüü | l’eva vurüü |
 | *nüm* | vurevum | em vurüü | evum vurüü |
 | *vialtri* | vurevuf | ii vurüü | evuf vurüü |
 | *lur* | i vurevan | i an vurüü | i eva vurüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | vöraria/vöraressa | avria/avress vurüü |
 | *ti* | vörariat/vöraressat | t’avriat/t’avressat vurüü |
-| *lü / le* | vöraria/vöraressa | l’avria/l’avressa vurüü |
+| *le / lü* | vöraria/vöraressa | l’avria/l’avressa vurüü |
 | *nüm* | vörarium/vöraressum | avrium/avressum vurüü |
 | *vialtri* | vörariuf/vöraressuf | avriuf/avressuf vurüü |
 | *lur* | vörarian/vöraressan | i avrian/i avressan vurüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | vöra | vuressa |
+| *ti* | ta vörat | ta vuressat |
+| *le / lü* | la/al vöra | la/al vuressa |
+| *nüm* | vörum | vuressum |
+| *vialtri* | vöruf | vuressuf |
+| *lur* | i vöran | i vuressan |
 
 ## Imperativo
 

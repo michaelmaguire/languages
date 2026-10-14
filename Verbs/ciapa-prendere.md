@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | ciapí | ciaparoo / ciaparò | avrò ciapaa |
 | *ti* | ta ciapat | ta ciaparé | ta avré ciapaa |
-| *lü / le* | la/al ciapa | la/al ciaparà | la/al avrà ciapaa |
+| *le / lü* | la/al ciapa | la/al ciaparà | l’avrà ciapaa |
 | *nüm* | ciapum | ciaparem | avrem ciapaa |
 | *vialtri* | ciapuf | ciaparii | avrii ciapaa |
 | *lur* | i ciapa / i ciapan | i ciaparan | i avran ciapaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | ciapava | u ciapaa | eva ciapaa |
 | *ti* | ta ciapavat | te ciapaa | ta evat ciapaa |
-| *lü / le* | la/al ciapava | la ciapaa | la/al eva ciapaa |
+| *le / lü* | la/al ciapava | la ciapaa | l’eva ciapaa |
 | *nüm* | ciapavum | em ciapaa | evum ciapaa |
 | *vialtri* | ciapavuf | ii ciapaa | evuf ciapaa |
 | *lur* | i ciapavan | ia (n) ciapaa | i evan ciapaa |
@@ -38,19 +38,30 @@
 |---|---|---|
 | *mi* | ciaparia/ciaparess | avria/avress ciapaa |
 | *ti* | ta ciaparessat | t’avriat/t’avressat ciapaa |
-| *lü / le* | al/la ciaparessa | l’avria/l’avressa ciapaa |
+| *le / lü* | la/al ciaparessa | l’avria/l’avressa ciapaa |
 | *nüm* | ciaparessum | avrium/avressum ciapaa |
 | *vialtri* | ciaparessuf | avriuf/avressuf ciapaa |
 | *lur* | ciaparian/ciaparessan | i avrian/i avressan ciapaa |
 
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | ciapa | ciapassa |
+| *ti* | ta ciapat | ta ciapassat |
+| *le / lü* | la/al ciapa | la/al ciapassa |
+| *nüm* | ciapum | ciapassum |
+| *vialtri* | ciapuf | ciapassuf |
+| *lur* | i ciapan | i ciapassan |
+
 ## Imperativo
 
-|  | Imperativo † | Imperativo negativo |
+|  | Imperativo † | Imperativo negativo † |
 |---|---|---|
-| *ti* | ciapa | tö mia |
-| *nüm* | ciapem | töghem mia |
-| *vialtri* | ciapii | töghii mia |
+| *ti* | ciapa | ciapa mia |
+| *nüm* | ciapem | ciapem mia |
+| *vialtri* | ciapii | ciapii mia |
 
-**Sources:** [Cors da dialet da Rögn 8a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx); [Cors da dialett da Rögn lezium 1 e 2](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx); [Il Condizionale Presente](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx); [cors da dialet da Rögn 17a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/cors%20da%20dialet%20da%20R%C3%B6gn%2017a%20leziun.pdf); [il gerundio](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf); [imperativo](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf)
+**Sources:** [Cors da dialet da Rögn 8a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx); [Cors da dialett da Rögn lezium 1 e 2](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx); [Il Condizionale Presente](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx); [cors da dialet da Rögn 17a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/cors%20da%20dialet%20da%20R%C3%B6gn%2017a%20leziun.pdf); [il gerundio](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf)
 
 [← all verbs](README.md)

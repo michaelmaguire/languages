@@ -1,33 +1,63 @@
 ID,Entry_ID,Form,Kind,Status,Comment,Source
+barbiis-barbis,barbiis,barbis,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.86]
 brugn-brugn-frutto-la-brugna,brugn,brügn frutto la brügna,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree, brügn; the fruit is la brügna; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.14]
 caco-caco-frutto-cachi,caco,caco frutto cachi,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree; the fruit is cachi; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.18]
+capel-capel,capel,capèl,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.56]
 castan-castan-frutto-castegn,castan,"castàn, frutto castègn",typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree, castàn; the fruit is castègn; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.3]
 cata-fo-cata-fo,cata-fo,cata fö,spelling,accepted,"Claude inferred: lesson 8 spelling of the verb catà fö, without the accent; decided 2026-10-14",cors-da-dialet-da-rogn-8a-leziun[l.108]
+coor-cor,coor,cör,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.107]
 cumincia-taca,cumincia,tacà,spelling,accepted,,il-gerundio;imperativo
 dal-suu-ticinese-2-dal-suu,dal-suu-ticinese-2,"dal suu,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.68]
 dal-vent-ticinese-2-dal-vent,dal-vent-ticinese-2,"dal vent,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.78]
+denc-dencc,denc,dencc,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.96]
+du-duu,du,düü,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-lezium-1-e-2[l.233]
+dupra-dopra,dupra,doprà,spelling,accepted,,dialoghi-a-lugano;varie-situazioni;imperativo;frasi-fai-1-copia;ul-nos-topolino
 fa-fa,fa,fa,spelling,accepted,"Claude inferred: lesson 8 spelling of the verb fà, without the accent; decided 2026-10-14",cors-da-dialet-da-rogn-8a-leziun[l.27]
 furesta-ticinese-2-furesta,furesta-ticinese-2,"furèsta,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.73]
+gent-gent,gent,gént,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.134]
+ghett-ghet,ghett,ghet,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.52]
+gio-gio,gio,giô,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-9a-leziun[l.10]
+gio-gio-2,gio,giõ,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-9a-leziun[l.10]
 giravolt-ticinese-2-giravolt,giravolt-ticinese-2,"giravòlt,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.10]
+ier-ier,ier,ièr,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-9a-leziun[l.37]
 in-gir-ticinese-2-in-gir,in-gir-ticinese-2,"in gir,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.7]
 l-aranz-l-aranz-frutto-aranz-o-portugal,l-aranz,l’aranz frutto aranz o portugal,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree; the fruit is aranz o portugal; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.20]
 la-letra-soc-la-letra,la-letra,(soc) La letra,typo,typo,"Claude inferred: leading ""(soc)"" is a speaker label, not part of the word; decided 2026-10-14",varie-situazioni[l.11]
 la-mia-setimana-2-la-mia-setimana,la-mia-setimana-2,() la mia setimana,typo,typo,"Claude inferred: leading ""()"" is left over from the speaker label; decided 2026-10-14",varie-situazioni[l.94]
 la-nocc-ticinese-2-la-nocc,la-nocc-ticinese-2,lA NÒCC,typo,typo,"Claude inferred: a title in capitals, with the caps-lock mix-up lA; decided 2026-10-14",2025-02-19-la-nocc-e-carisna[l.1]
+lunedi-lunedi,lunedi,lünedì,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-6a-leziun[l.87]
+mamm-mam,mamm,mam,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.118]
 mangia-magia,mangia,magià,spelling,accepted,"Claude inferred: lesson 1–2 spells the verb mangià as magià (""mangiare (magià)""); decided 2026-10-14",cors-da-dialett-da-rogn-lezium-1-e-2[l.165]
+met-mett,met,mett,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo;cors-da-dialett-da-rogn-3a-leziun[l.200]
 na-gio-n-agio,na-gio,n agiò,typo,typo,Claude inferred: same verb as na giò; the space is in the wrong place; decided 2026-10-14,cors-da-dialett-da-rogn-lezium-1-e-2[l.140]
+na-na,na,nà,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-8a-leziun;cors-da-dialett-da-rogn-lezium-1-e-2;il-condizionale-presente;cors-da-dialet-da-rogn-17a-leziun;il-gerundio;imperativo;cors-da-dialet-da-rogn-8a-leziun[l.57]
 ndua-ticinese-2-ndua,ndua-ticinese-2,`ndua,typo,typo,Claude inferred: backtick typed for the apostrophe; decided 2026-10-14,owner-spreadsheet
 nebion-ticinese-2-nebion,nebion-ticinese-2,nebión.,typo,typo,Claude inferred: full stop from the end of the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.19]
 occ-baloss-ticinese-2-occ-baloss,occ-baloss-ticinese-2,"öcc balòss,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.44]
+pe-pe,pe,pé,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.113]
+pe-pee,pe,pée,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.113]
+pe-pee-2,pe,pee,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.113]
 per-per-frutto-pera,per,per frutto pèra,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree; the fruit is pèra; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.23]
+piatt-piat,piatt,piat,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-5a-leziun[l.29]
 pode-pude,pode,pudé,spelling,accepted,,cors-da-dialett-da-rogn-lezium-1-e-2;il-condizionale-presente;cors-da-dialet-da-rogn-18a-leziun
 pode-pude-2,pode,pudé,spelling,accepted,Claude inferred: lesson 18 spelling of the verb podé; decided 2026-10-14,cors-da-dialet-da-rogn-18a-leziun[l.18]
 produ-fa,produ,fà,spelling,accepted,,il-condizionale-presente
+ros-ross,ros,ross,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-lezium-1-e-2[l.218]
 rovra-ruvra-rogora-rovra-ruvra-rogora-frutto-gia,rovra-ruvra-rogora,rovra (ruvra-rogora) frutto: gianda da…,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree; the fruit is gianda; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.4]
+scbat-scbatt,scbat,scbatt,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-7a-leziun
 seca-ticinese-2-seca,seca-ticinese-2,"seca,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.16]
 sempru-semper,sempru,semper,typo,typo,"Typo in the owner's spreadsheet; the course writes sempru (about 50 times, also sémpru); decided 2026-10-14",owner-spreadsheet
+sempru-sempru,sempru,sémpru,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",owner-spreadsheet
 sum-bon-a-da-2-sum-bon-a-da,sum-bon-a-da-2,sum bon (a) da……….,typo,typo,"Claude inferred: dots for the blank to fill in, not part of the phrase; decided 2026-10-14",cors-da-dialet-da-rogn-9a-leziun[l.19]
+surela-surela,surela,surela,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.131]
+too-to,too,tö,spelling,accepted,,imperativo
+tri-trii,tri,trii,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-lezium-1-e-2[l.234]
 trusa-ruga,trusa,rügà,spelling,accepted,,cors-da-dialett-da-rogn-3a-leziun
 ulif-ulif-frutto-l-uliva,ulif,ulif frutto l’uliva,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree; the fruit is l’uliva; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.24]
+umbrela-umbrela,umbrela,umbrela,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.75]
 un-di-ticinese-2-un-di,un-di-ticinese-2,"un dì,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.50]
 vegh-pagura-avech-pagura,vegh-pagura,avech pagüra,spelling,accepted,Owner: the Rögn form is vegh pagüra (the course writes veg pagüra in espressioni in italiano); decided 2026-10-14,dizionario-con-filastrocche-di-r-gaggini[l.236]
+vegh-vegh,vegh,végh,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-8a-leziun;cors-da-dialett-da-rogn-lezium-1-e-2;il-condizionale-passato;il-condizionale-presente;cors-da-dialet-da-rogn-17a-leziun;il-gerundio;imperativo;cors-da-dialet-da-rogn-8a-leziun[l.17]
+vert-2-vert,vert-2,vèrt,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-lezium-1-e-2[l.221]
+vert-vert,vert,vèrt,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",il-gerundio;imperativo
+ves-vess,ves,véss,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-8a-leziun;cors-da-dialett-da-rogn-lezium-1-e-2;il-condizionale-passato;il-condizionale-presente;cors-da-dialet-da-rogn-17a-leziun;il-gerundio;imperativo;cors-da-dialet-da-rogn-8a-leziun[l.7]

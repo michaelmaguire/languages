@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | dormi | dormarò | avrò dormii |
 | *ti* | ta dormat | ta dormaret | ta avret dormii |
-| *lü / le* | la/al dorma | la/al dormarà | la/al avrà dormii |
+| *le / lü* | la/al dorma | la/al dormarà | l’avrà dormii |
 | *nüm* | dormum | dormarem | avrem dormii |
 | *vialtri* | dormuf | dormarii | avrii dormii |
 | *lur* | i dorman / i dorma | i dormarà | i avrà dormii |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | dormiva | u dormii | eva dormii |
 | *ti* | ta dormivat | te dormii | ta evat dormii |
-| *lü / le* | la/al dormiva | l’a dormii | la/al eva dormii |
+| *le / lü* | la/al dormiva | l’a dormii | l’eva dormii |
 | *nüm* | dormivum | em dormii | evum dormii |
 | *vialtri* | dormivuf | ii dormii | evuf dormii |
 | *lur* | i dormiva | i an dormii | i eva dormii |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | dormaria/dormaressa | avria/avress dormii |
 | *ti* | ta dormariat/dormaressat | t’avriat/t’avressat dormii |
-| *lü / le* | la/al dormaria/dormaressa | l’avria/l’avressa dormii |
+| *le / lü* | la/al dormaria/dormaressa | l’avria/l’avressa dormii |
 | *nüm* | dormarium/dormaressum | avrium/avressum dormii |
 | *vialtri* | dormariuf/dormaressuf | avriuf/avressuf dormii |
 | *lur* | i dormarian/dormaressan | i avrian/i avressan dormii |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | dorma | durmissa |
+| *ti* | ta dormat | ta durmissat |
+| *le / lü* | la/al dorma | la/al durmissa |
+| *nüm* | dormum | durmissum |
+| *vialtri* | dormuf | durmissuf |
+| *lur* | i dorman | i durmissan |
 
 ## Imperativo
 

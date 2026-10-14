@@ -1,4 +1,5 @@
 english,italian,dialect,region,note,check,source,line
+,Celso Tantardini,01-01-2024,Rögn,,,NUVANT'ANN.pdf,62
 at,"a, in","a, denta",,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 only,"appena, solo","a pena, dumà",,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 just,appena,a pena,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
@@ -9,6 +10,7 @@ the shoemaker,il calzolaio,al bagat / al sciavatin,Rögn,,,Cors da dialet da Rö
 the banker,il banchiere,al banchéé,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,122
 the barber,il barbiere,al barbee,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,140
 the gravedigger,il becchino,al bechin,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,138
+great-grandfather,il bisnonno †,al biscnonu,Rögn,,,cors da dialet da Rögn 19a leziun.docx,7
 the heat,il caldo,al cald,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,75
 the site foreman,il capocantiere,al capcantee,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,151
 the cardinal,il cardinale,al cardinaa,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,135
@@ -18,7 +20,9 @@ the doctor,il medico,al dutor,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,117
 the blacksmith,il fabbro,al faree,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,144
 the florist,il fiorista,al fiuriscta,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,132
 the cold,il freddo,al frecc,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,74
+brother – brothers,il fratello – i fratelli †,al fredèl – i fredei,Rögn,,,cors da dialet da Rögn 19a leziun.docx,57
 the cheesemaker,il casaro,al furmagiatt,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,133
+son-in-law,il genero †,al gener,Rögn,,,cors da dialet da Rögn 19a leziun.docx,59
 it is drizzling,pioviggina,al gota,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,70
 the thief,il ladro,al ladru,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,148
 the tinsmith,il lattoniere,al latunéé,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,126
@@ -29,6 +33,7 @@ the tinker,lo stagnino,al magnan,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,
 the month,il mese,al mès,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,40
 the bricklayer,il muratore,al müradu,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,149
 Christmas,il Natale,al Natal,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,86
+"grandson, nephew",il nipote †,al neut,Rögn,,,cors da dialet da Rögn 19a leziun.docx,33
 the farmer,il contadino,al paesan,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,121
 the sleet,il nevischio,al parpaia,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,68
 the pastry chef,il pasticciere,al pasticiéé,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,119
@@ -69,6 +74,7 @@ the/a pigeon,il/un piccione,al/un piviun,Rögn,i piviun,,Cors da dialet da Rögn
 the/a chick,il/un pulcino,al/un puiöö,Rögn,i puiöö,,Cors da dialet da Rögn 6a leziun.docx,8
 the/a turkey,il/un tacchino,al/un tachin,Rögn,i tachin,,Cors da dialet da Rögn 6a leziun.docx,10
 the bishop,il vescovo,al vescuf,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,136
+uncle,lo zio †,al ziu,Rögn,,,cors da dialet da Rögn 19a leziun.docx,23
 "simple, unpretentious",alla buona,ala bôna,Basso Ceresio,also: andant,,Dizionario con filastrocche di R. Gaggini.docx,78
 apricots,albicocche,albicocch,Basso Ceresio,also: remignagh,,Dizionario con filastrocche di R. Gaggini.docx,211
 at least,almeno,almen,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
@@ -84,12 +90,12 @@ ironing board,asse da stiro †,as da stir,Rögn,,,Cors da dialett da Rögn 5a l
 enough,abbastanza,asèe,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 board,asse,ass/asett,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,39
 autumn,autunno,autün,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,45
-to be afraid,avere paura,vegh pagüra,Rögn,also: sc’fótiga,,Dizionario con filastrocche di R. Gaggini.docx,236
+to be afraid,avere paura,vegh pagüra / avech pagüra,Rögn,also: sc’fótiga,,Dizionario con filastrocche di R. Gaggini.docx,236
 old,vecchio,bacüch,Basso Ceresio,also: vecc,,Dizionario con filastrocche di R. Gaggini.docx,83
 wet,bagnato,bagnaa,Basso Ceresio,also: masaraa,,Dizionario con filastrocche di R. Gaggini.docx,170
 nudist,nudista,bala biòtt,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 canopy,baldacchino †,baldüchin,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,10
-moustache,baffi,barbiis,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,86
+moustache,baffi,barbiis / barbis,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,86
 cap,berretto,barèta,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,69
 bonnet / woolly hat,cuffia,barèta (scüffia),Rögn,,,Cors da dialett da Rögn 4a leziun.docx,73
 to kiss,baciarsi,basás,Basso Ceresio,also: baciarsi,,Dizionario con filastrocche di R. Gaggini.docx,164
@@ -146,7 +152,7 @@ dog,cane †,can,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,19
 to sing,cantare,cantà,Rögn,verb,,Cors da dialett da Rögn lezium 1 e 2.docx,0
 ankle,caviglia,canvèla,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,112
 song,canzone,canzón,,,,2025-02-19-poesie in dialetto.docx,71
-hat,cappello,capél,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,56
+hat,cappello,capél / capèl,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,56
 to understand,capire,capì,Rögn,verb,,il gerundio.pdf,0
 sweets,caramelle,caramell,Basso Ceresio,also: bum bon,,Dizionario con filastrocche di R. Gaggini.docx,102
 wheelbarrow,carriola,carèta,Rögn,,,Cors da dialet da Rögn 13a leziun.docx,101
@@ -194,7 +200,7 @@ tuft,ciuffo,ciüff,Basso Ceresio,also: züff,,Dizionario con filastrocche di R. 
 colic,coliche,colic,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,57
 neck,collo,coll,Basso Ceresio,also: cruvatin,,Dizionario con filastrocche di R. Gaggini.docx,124
 neck / nape,collo-nuca,coll,Basso Ceresio,also: cupin,,Dizionario con filastrocche di R. Gaggini.docx,125
-heart,cuore,cöör,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,107
+heart,cuore,cöör / cör,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,107
 to run,correre,cor,Rögn,verb,,Cors da dialet da Rögn 8a leziun.docx,0
 heart,cuore,cör,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 what,"che,cosa",cosa,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
@@ -247,7 +253,7 @@ money,denaro,danee,Basso Ceresio,also: palanc,,Dizionario con filastrocche di R.
 windowsill,davanzale,davanzal,Basso Ceresio,also: scoss,,Dizionario con filastrocche di R. Gaggini.docx,242
 tenth,un decimo,decim,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 dandelion,dente di leone,denc da lèon,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,35
-tooth,dente,denc,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,96
+tooth,dente,denc / dencc,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,96
 inside,dentro,denta,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 in,in,denta,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 seventeen,diciassette †,dersett,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,248
@@ -267,9 +273,11 @@ double,doppio/a,dopi,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 after,dopo,dopu,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 the day after tomorrow,dopodomani,dopuduman,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,36
 to sleep,dormire,dörmi,Rögn,verb,,Cors da dialett da Rögn lezium 1 e 2.docx,0
-two,due †,dü,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,233
+two,due †,dü / düü,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,233
 tomorrow,domani,duman,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,35
 Sunday,domenica †,dumeniga,Rögn,,,Cors da dialet da Rögn 6a leziun.docx,87
+to use,adoperare,duprà,Rögn,verb,,dialoghi a Lugano.pdf,0
+,usare,duprà,Rögn,Italian synonym of adoperare,,dialoghi a Lugano.pdf,0
 to have to,dovere,duvé,Rögn,verb,,Il Condizionale Presente.docx,0
 with,con,"e, inséma, col",,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 moreover,inoltre,e pö,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
@@ -325,13 +333,15 @@ daffodil,narciso,garland,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,28
 January,gennaio,genaar,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 son-in-law,genero,genar,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,127
 January,gennaio †,genar,Rögn,,,Cors da dialet da Rögn 6a leziun.docx,88
-parents,genitori,gent,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,134
+parents,genitori,gent / gént,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,134
 geranium,geranio,gerani,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,31
-gaiters,ghette,ghett,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,52
+gaiters,ghette,ghett / ghet,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,52
+,quando abbiamo potuto siamo tornat,"ghéva pòsct par tücc,",Rögn,,,NUVANT'ANN.pdf,24
 already,già,gìa,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 cardigan,golfino,giachetin,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,67
 yellow,giallo †,giall,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,217
 knee,ginocchio,ginöcc (genöcc),Rögn,,,Cors da dialett da Rögn 4a leziun.docx,111
+down,giù †,giò / giô / giõ,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,10
 to play,giocare,giögà,Rögn,verb,,Cors da dialett da Rögn 3a leziun.docx,0
 vest / undershirt,maglietta,gipunin,Basso Ceresio,also: maglietta,,Dizionario con filastrocche di R. Gaggini.docx,153
 woollen vest,canottiera di lana,gipunin da lana,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,59
@@ -348,10 +358,14 @@ godfather,padrino,güdazz,Basso Ceresio,also: padrin,,Dizionario con filastrocch
 elbow,gomito,gumbat,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,100
 gorgonzola,gorgonzola,gurgunzöla,Basso Ceresio,also: strachin,,Dizionario con filastrocche di R. Gaggini.docx,253
 sharpened,appuntite,güzaa,,,,2025-02-19-poesie in dialetto.docx,77
+great-grandparents,i bisnonni †,i biscnoni,Rögn,,,cors da dialet da Rögn 19a leziun.docx,9
+"grandchildren, nephews and nieces",i nipoti †,i neut,Rögn,,,cors da dialet da Rögn 19a leziun.docx,35
+grandparents,i nonni †,i noni,Rögn,,,cors da dialet da Rögn 19a leziun.docx,17
 numbers,i numeri †,i nümar,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,10
 the stars,le stelle,i stell,,,,2025-02-19-poesie in dialetto.docx,35
+uncles and aunts,gli zii †,i zii,Rögn,,,cors da dialet da Rögn 19a leziun.docx,25
 plumber,idraulico,idraulic,Basso Ceresio,also: trumbée,,Dizionario con filastrocche di R. Gaggini.docx,269
-yesterday,ieri,ier,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,37
+yesterday,ieri,ier / ièr,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,37
 funnel,imbuto,imbüt,Basso Ceresio,also: pedriöö,,Dizionario con filastrocche di R. Gaggini.docx,189
 around,in giro,in gir,,,,2025-02-19-poesie in dialetto.docx,7
 in hand,in mano,in man,,,,2025-02-19-poesie in dialetto.docx,17
@@ -391,9 +405,11 @@ the/a tawny owl,l’/un allocco,l’/un uroc,Rögn,i uroc,,Cors da dialet da Rö
 the greengrocer,il fruttivendolo,l’urtulan,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,139
 the watchmaker,l’orologiaio,l’urulugee,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,146
 the hairdresser,la parrucchiera,la barbèra,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,142
+great-grandmother,la bisnonna †,la biscnona,Rögn,,,cors da dialet da Rögn 19a leziun.docx,8
 the mouth,la bocca,la boca,,,,2025-02-19-poesie in dialetto.docx,15
 the cashier,la cassiera,la casèra,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,156
 breakfast,la colazione,la culaziun,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,51
+cousin (female),la cugina †,la cüsina,Rögn,,,cors da dialet da Rögn 19a leziun.docx,51
 the housewife,la casalinga,la dona da cà,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,129
 Mother's Day,la Festa della Mamma,la Festa dala Mamm,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,88
 fruit,la frutta †,la früta,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,17
@@ -427,8 +443,10 @@ the/a wasp,la/una vespa,la/na vespa,Rögn,i vesp,,Cors da dialet da Rögn 6a lez
 the/a bee,l’/un’ape,la/na vigia,Rögn,i vigg,,Cors da dialet da Rögn 6a leziun.docx,74
 the fog,la nebbia,la nebia,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,73
 the snow,la neve,la nef / la fioca,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,63
+"granddaughter, niece",la nipote †,la neuda,Rögn,,,cors da dialet da Rögn 19a leziun.docx,34
 the night,la notte,la nocc,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,32
 the night,la notte,la nocc,,,,2025-02-19-la nocc e carisna.docx,1
+grandmother,la nonna †,la nona,Rögn,,,cors da dialet da Rögn 19a leziun.docx,16
 Easter Monday,la Pasquetta,la Pasquèta,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,85
 pear – pears,la pera – le pere †,la pera – i per,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,17
 apple – apples,la mela – le mele †,la poma – i pomm,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,17
@@ -440,8 +458,11 @@ dinner,la cena,la scena,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,54
 cherry – cherries,la ciliegia – le ciliegie †,la sciresa – i scires,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,17
 the week,la settimana,la setimana,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,39
 the evening,la sera,la sira,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,31
+mother-in-law,la suocera †,la sösura,Rögn,,,cors da dialet da Rögn 19a leziun.docx,47
+sister – sisters,la sorella – le sorelle †,la surèla – i surell,Rögn,,,cors da dialet da Rögn 19a leziun.docx,58
 the hail,la grandine,la tempesta,Rögn,,,Cors da dialet da Rögn 9a leziun.docx,65
 the/a hen,la/una gallina,la/una galina,Rögn,i galin; coccodee,,Cors da dialet da Rögn 6a leziun.docx,6
+aunt,la zia †,la zia,Rögn,,,cors da dialet da Rögn 19a leziun.docx,24
 lips,labbra,labri,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,92
 lamp,lampada †,lampada,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,31
 larch,larice,laras,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,11
@@ -460,7 +481,7 @@ vegetable garden,orto,löch,Basso Ceresio,also: ort,,Dizionario con filastrocche
 dormer window,abbaino,lücernari,Basso Ceresio,also: abain,,Dizionario con filastrocche di R. Gaggini.docx,165
 of the Lugano area,luganese,luganès,Rögn,,,2025-10-13-articolo CdT.docx,1
 July,luglio †,lüi,Rögn,,,Cors da dialet da Rögn 6a leziun.docx,88
-Monday,lunedì †,lünedi,Rögn,,,Cors da dialet da Rögn 6a leziun.docx,87
+Monday,lunedì †,lünedi / lünedì,Rögn,,,Cors da dialet da Rögn 6a leziun.docx,87
 Monday,lunedi,lünedí,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 far,lontano,luntan,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 they,loro,lur,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
@@ -491,7 +512,7 @@ strawberries,fragole,magiôstri,Basso Ceresio,also: fragul,,Dizionario con filas
 labourer,manovale,magütt,Basso Ceresio,also: manual,,Dizionario con filastrocche di R. Gaggini.docx,169
 never,mai,mai,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 mother / grandmother,madre-nonna,mam- nöna,Basso Ceresio,also: regióra,,Dizionario con filastrocche di R. Gaggini.docx,210
-mother,madre,mamm,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,118
+mother,madre,mamm / mam,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,118
 hands,mani,man,,,,2025-02-19-poesie in dialetto.docx,76
 to swallow,ingerire,manda giò,Rögn,verb,,Cors da dialett da Rögn 3a leziun.docx,0
 mandarin tree,mandarino,mandarin,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,21
@@ -562,6 +583,7 @@ November,novembre †,nuembar,Rögn,,,Cors da dialet da Rögn 6a leziun.docx,88
 we,noi,nüm,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 clouds,nuvole,nüri,Basso Ceresio,also: nivul,,Dizionario con filastrocche di R. Gaggini.docx,180
 walnut tree,noce,nus – nos,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,17
+,novant’anni,nUVANT’ANN,Rögn,,,NUVANT'ANN.pdf,1
 November,novembre,nuvembar,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 or,o,o,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 "cunning eyes,","occhi furbi,",öcc balòss,,,,2025-02-19-poesie in dialetto.docx,44
@@ -589,7 +611,7 @@ cape,pellerina,pastran,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,72
 to make a mess,pasticciare,pastrügnà,Rögn,verb,,Cors da dialett da Rögn 3a leziun.docx,0
 button fastening,chiusura a bottoni,pata,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,48
 potato,patata,patati,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,11
-foot,piede,pè,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,113
+foot,piede,pè / pé / pée / pee,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,113
 shame,peccato,pecàa,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 skirt,gonna,pedàgn,Basso Ceresio,also: gonna,,Dizionario con filastrocche di R. Gaggini.docx,188
 skirt,gonna,pedagn,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,51
@@ -614,7 +636,7 @@ plants and flowers,piante e fiori,piant e fioo,Rögn,,,Cors da dialet da Rögn 1
 plants,piante †,piant,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,19
 saucer,piattino †,piatin,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,29
 serving dish,piatto da portata †,piatt da purtada,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,29
-plate,piatto †,piatt,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,29
+plate,piatto †,piatt / piat,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,29
 pickaxe,piccone,"pic, sapun",Rögn,,,Cors da dialet da Rögn 13a leziun.docx,74
 to hit,picchiare,picà,Rögn,verb,,Cors da dialet da Rögn 7a leziun.docx,0
 roadside marker stone,paracarro,picöc,Basso Ceresio,also: paracar,,Dizionario con filastrocche di R. Gaggini.docx,192
@@ -643,6 +665,7 @@ early,presto,presct,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 before,"prima, già","prima, gìa",,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 to produce,produrre,prodü,Rögn,verb,,Il Condizionale Presente.docx,0
 ham,prosciutto,prosciütt,Basso Ceresio,also: giambôn,,Dizionario con filastrocche di R. Gaggini.docx,149
+,provvidenza divina.”,pruvidenza divina”,Rögn,,,NUVANT'ANN.pdf,59
 more,più,pü,,,,2025-02-19-poesie in dialetto.docx,65
 very little,pochissimo,puchisimm,Basso Ceresio,also: zichinin,,Dizionario con filastrocche di R. Gaggini.docx,279
 to clean,pulire,puliss,Basso Ceresio,also: netà,,Dizionario con filastrocche di R. Gaggini.docx,181
@@ -677,7 +700,7 @@ rake,rastrello,restell,Rögn,,,Cors da dialet da Rögn 13a leziun.docx,68
 railing,ringhiera †,ringhièra,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,18
 shelf,ripiano †,ripian,Rögn,,,Cors da dialett da Rögn 5a leziun.docx,25
 to laugh,ridere,rit,Basso Ceresio,also: ghignà,,Dizionario con filastrocche di R. Gaggini.docx,151
-red,rosso †,ros,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,218
+red,rosso †,ros / ross,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,218
 rose,rosa,rösa,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,27
 broken,rotto,rott,Basso Ceresio,also: sc’ciapá,,Dizionario con filastrocche di R. Gaggini.docx,233
 oak,quercia,rovra (ruvra-rogora),Rögn,,,Cors da dialet da Rögn 14a leziun.docx,4
@@ -735,7 +758,7 @@ rubbish bin,secchio della spazzatura †,sedèla dal rüüt,Rögn,,,Cors da dial
 bucket,secchio,sedèla (sedèl),Rögn,,,Cors da dialet da Rögn 13a leziun.docx,83
 sickle,falcetta,"segez, falcet",,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 sickle for reaping,mezzaluna per mietere,seghezz,Rögn,,,Cors da dialet da Rögn 13a leziun.docx,70
-always,sempre,sempru,Rögn,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
+always,sempre,sempru / sémpru,Rögn,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 without stars,senza stelle,senza stell,,,,2025-02-19-poesie in dialetto.docx,22
 without,senza,senza,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 six,sei †,ses,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,237
@@ -791,7 +814,7 @@ I am able to,sono capace a / di,sum bon (a) da,Rögn,,,Cors da dialet da Rögn 9
 overcoat,soprabito,suprabit,Basso Ceresio,also: spolverín,,Dizionario con filastrocche di R. Gaggini.docx,251
 on,su,"süra, sü",,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 above,sopra,sura,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
-sister,sorella,surèla,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,131
+sister,sorella,surèla / surela,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,131
 woken up,svegliata,svegliada,,,,2025-02-19-poesie in dialetto.docx,49
 to wake up,svegliarsi,sveglias,Basso Ceresio,also: désedass,,Dizionario con filastrocche di R. Gaggini.docx,134
 be quiet,taci,taass,Basso Ceresio,also: taci,,Dizionario con filastrocche di R. Gaggini.docx,121
@@ -821,13 +844,16 @@ braces,bretelle,tirant,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,66
 to take off,togliersi,tiras via,Rögn,verb,,il gerundio.pdf,0
 catapult / slingshot,fionda,tirasass,Rögn,,,Cors da dialet da Rögn 13a leziun.docx,79
 to buy,comperare,töla,Basso Ceresio,also: cumprála,,Dizionario con filastrocche di R. Gaggini.docx,268
+to buy,comprare,töö,Rögn,verb,,imperativo.pdf,0
+to take,prendere,töö,Rögn,Italian synonym of comprare,,imperativo.pdf,0
+to get out of the way,togliersi di torno,töss fö,Rögn,verb,,imperativo.pdf,0
 among,tra,tra,,"tra da nüm = among us, tra mi e ti = between you and me",,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 translated,tradotto,tradott,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 to translate,tradurre,tradü,Rögn,verb,,Il Condizionale Presente.docx,0
 thirteen,tredici †,tredas,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,244
 thirty,trenta,trenta,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 three,tre,tri(m) tre(f),,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
-three,tre †,tri,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,234
+three,tre †,tri / trii,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,234
 triple,triplo/a/triplice,tripli,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 sad,triste,trist,Basso Ceresio,also: gnèch,,Dizionario con filastrocche di R. Gaggini.docx,154
 to find,trovare,truà,Rögn,verb,,Cors da dialett da Rögn 3a leziun.docx,0
@@ -891,7 +917,7 @@ the/a mole,la/una talpa,ul/un trapüscee,Rögn,i trapüscee,,Cors da dialet da R
 the/a calf,il/un vitello,ul/un vedel,Rögn,i vedei,,Cors da dialet da Rögn 6a leziun.docx,33
 the green,il verde,ul verd,,,,2025-02-19-poesie in dialetto.docx,26
 olive tree,ulivo,ulif,Rögn,,,Cors da dialet da Rögn 14a leziun.docx,24
-umbrella,ombrello,umbrèla,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,75
+umbrella,ombrello,umbrèla / umbrela,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,75
 a body,un corpo,un còrp,,,,2025-02-19-poesie in dialetto.docx,3
 "one day,","un giorno,",un dì,,,,2025-02-19-poesie in dialetto.docx,50
 penny,centesimo,"un ghel, dü ghep",,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
@@ -920,7 +946,7 @@ to come,venire,vegnì,Rögn,verb,,Cors da dialett da Rögn lezium 1 e 2.docx,0
 aged,invecchiato,vegnüü vecc,Basso Ceresio,also: invegii,,Dizionario con filastrocche di R. Gaggini.docx,162
 Friday,venerdi,venerdí,,,,"Rosetta Stone_ English, Italian, Ticino Dialect.xlsx",0
 Friday,venerdì †,venerdi,Rögn,,,Cors da dialet da Rögn 6a leziun.docx,87
-green,verde †,vert,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,221
+green,verde †,vert / vèrt,Rögn,,,Cors da dialett da Rögn lezium 1 e 2.docx,221
 to open,aprire,vert,Rögn,verb,,il gerundio.pdf,0
 cabbage,cavolo,verza,Rögn,,,Cors da dialett da Rögn 4a leziun.docx,5
 to be,essere,ves,Rögn,verb,,Cors da dialet da Rögn 8a leziun.docx,0

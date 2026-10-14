@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | ma sa lavi | lavarò | sarò lavaa (da) |
 | *ti* | ta sa lavat | ta lavaret | ta saret lavaa (da) |
-| *lü / le* | sa lava / la/al sa lava | la/al lavarà | la/al sarà lavaa (da) |
+| *le / lü* | sa lava / la/al sa lava | la/al lavarà | la/al sarà lavaa (da) |
 | *nüm* | sa lavum | lavarem | sarem lavaa |
 | *vialtri* | sa lavut | lavarii | sarii lavaa |
 | *lur* | i sa lavan | i lavarà | i sarà lavaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | lavava | ma sum lavaa | seva lavaa (da) |
 | *ti* | ta lavavat | ta sa set lavaa | ta sevat lavaa (da) |
-| *lü / le* | la/al lavava | la/al s’è lavaa | la/al seva lavaa (da) |
+| *le / lü* | la/al lavava | la/al s’è lavaa | la/al seva lavaa (da) |
 | *nüm* | lavavum | sa sem lavaa | sevum lavaa |
 | *vialtri* | lavavuf | sa sii lavaa | sevuf lavaa |
 | *lur* | i lavava | i s’è lavaa | i sevan lavaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | ma sa lavaria/lavaressa | ma saria/saress lavaa |
 | *ti* | ta sa lavariat/lavaressat | ta sa sariat/saressat lavaa |
-| *lü / le* | la/al sa lavaria/lavaressa | la/al sa saria/saressa lavaa |
+| *le / lü* | la/al sa lavaria/lavaressa | la/al sa saria/saressa lavaa |
 | *nüm* | sa lavarium/lavaressum | sa sarium/saressum lavaa |
 | *vialtri* | sa lavariuf/lavaressuf | sa sariuf/saressuf lavaa |
 | *lur* | i sa lavarian/lavaressan | i sa sarian/saressan lavaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | ma sa lava | ma sa lavassa |
+| *ti* | ta sa lavat | ta sa lavassat |
+| *le / lü* | la/al sa lava | la/al sa lavassa |
+| *nüm* | sa lavum | sa lavassum |
+| *vialtri* | sa lavuf | sa lavassuf |
+| *lur* | i sa lavan | i sa lavassan |
 
 ## Imperativo
 

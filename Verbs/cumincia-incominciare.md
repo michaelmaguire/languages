@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | cuminci | cuminciarò | avrò cuminciaa |
 | *ti* | ta cuminciat | ta cuminciaret | ta avret cuminciaa |
-| *lü / le* | la/al cumincia | la/al cuminciarà | la/al avrà cuminciaa |
+| *le / lü* | la/al cumincia | la/al cuminciarà | l’avrà cuminciaa |
 | *nüm* | cumincium | cuminciarem | avrem cuminciaa |
 | *vialtri* | cuminciuf | cuminciarii | avrii cuminciaa |
 | *lur* | i cumincian | i cuminciaran | i avran cuminciaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | cuminciava | u cuminciaa | eva cuminciaa |
 | *ti* | ta cuminciavat | te cuminciaa | ta evat cuminciaa |
-| *lü / le* | la/al cuminciava | l’a cuminciaa | la/al eva cuminciaa |
+| *le / lü* | la/al cuminciava | l’a cuminciaa | l’eva cuminciaa |
 | *nüm* | cuminciavum | em cuminciaa | evum cuminciaa |
 | *vialtri* | cuminciavuf | ii cuminciaa | evuf cuminciaa |
 | *lur* | i cuminciavan | i an cuminciaa | i evan cuminciaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | cuminciaria/cuminciaressa | avria/avress cuminciaa |
 | *ti* | ta cuminciariat/cuminciaressat | t’avriat/t’avressat cuminciaa |
-| *lü / le* | la/al cuminciaria/cuminciaressa | l’avria/l’avressa cuminciaa |
+| *le / lü* | la/al cuminciaria/cuminciaressa | l’avria/l’avressa cuminciaa |
 | *nüm* | cuminciarium/cuminciaressum | avrium/avressum cuminciaa |
 | *vialtri* | cuminciariuf/cuminciaressuf | avriuf/avressuf cuminciaa |
 | *lur* | i cuminciarian/cuminciaressan | i avrian/i avressan cuminciaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | cumincia | cuminciassa |
+| *ti* | ta cuminciat | ta cuminciassat |
+| *le / lü* | la/al cumincia | la/al cuminciassa |
+| *nüm* | cumincium | cuminciassum |
+| *vialtri* | cuminciuf | cuminciassuf |
+| *lur* | i cumincian | i cuminciassan |
 
 ## Imperativo
 

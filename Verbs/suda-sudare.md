@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | südi | südarò | avrò sudaa |
 | *ti* | ta südat | ta südaret | ta avret sudaa |
-| *lü / le* | la/al süda | la/al südarà | la/al avrà sudaa |
+| *le / lü* | la/al süda | la/al südarà | l’avrà sudaa |
 | *nüm* | südum | südarem | avrem sudaa |
 | *vialtri* | süduf | südarii | avrii sudaa |
 | *lur* | i süda(n) | i südaran | i avran sudaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | sudava | u sudaa | eva sudaa |
 | *ti* | ta sudavat | te sudaa | ta evat sudaa |
-| *lü / le* | la/al sudava | l’a sudaa | la/al eva sudaa |
+| *le / lü* | la/al sudava | l’a sudaa | l’eva sudaa |
 | *nüm* | sudavum | em sudaa | evum sudaa |
 | *vialtri* | sudavuf | ii sudaa | evuf sudaa |
 | *lur* | i sudavan | i an sudaa | i evan sudaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | südaria/südaressa | avria/avress sudaa |
 | *ti* | ta südariat/südaressat | t’avriat/t’avressat sudaa |
-| *lü / le* | la/al südaria/südaressa | l’avria/l’avressa sudaa |
+| *le / lü* | la/al südaria/südaressa | l’avria/l’avressa sudaa |
 | *nüm* | südarium/südaressum | avrium/avressum sudaa |
 | *vialtri* | südariuf/südaressuf | avriuf/avressuf sudaa |
 | *lur* | i südarian/südaressan | i avrian/i avressan sudaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | süda | sudassa |
+| *ti* | ta südat | ta sudassat |
+| *le / lü* | la/al süda | la/al sudassa |
+| *nüm* | südum | sudassum |
+| *vialtri* | süduf | sudassuf |
+| *lur* | i südan | i sudassan |
 
 ## Imperativo
 

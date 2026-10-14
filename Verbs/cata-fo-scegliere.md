@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | cati fö | cataroo fö | avrò catà fö |
 | *ti* | ta catat fö | ta cataré fö | ta avret catà fö |
-| *lü / le* | la/al cata fö | catarà fö | la/al avrà catà fö |
+| *le / lü* | la/al cata fö | catarà fö | l’avrà catà fö |
 | *nüm* | catum fö | catarem fö | avrem catà fö |
 | *vialtri* | catuf fö | catarii fö | avrii catà fö |
 | *lur* | i cata/catan fö | catarà (n) fö | i avran catà fö |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | catava fö | u catà fö | eva catà fö |
 | *ti* | ta catavat fö | te catà fö | ta evat catà fö |
-| *lü / le* | la/al catava fö | catà fö | la/al eva catà fö |
+| *le / lü* | la/al catava fö | catà fö | l’eva catà fö |
 | *nüm* | catavum fö | em catà fö | evum catà fö |
 | *vialtri* | catavuf fö | ii catà fö | evuf catà fö |
 | *lur* | i catavan fö | ia (n) catà fö | i evan catà fö |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | cataria/cataressa fö | avria/avress catà fö |
 | *ti* | ta catariat/cataressat fö | t’avriat/t’avressat catà fö |
-| *lü / le* | la/al cataria/cataressa fö | l’avria/l’avressa catà fö |
+| *le / lü* | la/al cataria/cataressa fö | l’avria/l’avressa catà fö |
 | *nüm* | catarium/cataressum fö | avrium/avressum catà fö |
 | *vialtri* | catariuf/cataressuf fö | avriuf/avressuf catà fö |
 | *lur* | i catarian/cataressan fö | i avrian/i avressan catà fö |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | cata fö | catassa fö |
+| *ti* | ta catat fö | ta catassat fö |
+| *le / lü* | la/al cata fö | la/al catassa fö |
+| *nüm* | catum fö | catassum fö |
+| *vialtri* | catuf fö | catassuf fö |
+| *lur* | i catan fö | i catassan fö |
 
 ## Imperativo
 

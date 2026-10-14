@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | partisi | partisarò | sarò partii |
 | *ti* | ta partisat | ta partisaret | ta saret partii |
-| *lü / le* | la/al partis | la/al partisarà | la/al sarà partii |
+| *le / lü* | la/al partis | la/al partisarà | la/al sarà partii |
 | *nüm* | partisum | partisarem | sarem partii |
 | *vialtri* | partisuf | partisarii | sarii partii |
 | *lur* | i partis | i partisaran | i saran partii |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | partiva | sum partii | seva partii |
 | *ti* | ta partivat | ta se/set partii | ta sevat partii |
-| *lü / le* | la/al partiva | l’è partii | la/al eva partii |
+| *le / lü* | la/al partiva | l’è partii | l’eva partii |
 | *nüm* | partivum | sem partii | sevum partii |
 | *vialtri* | partivuf | sii partii | sevuf partii |
 | *lur* | i partivan | i è partii | i evan partii |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | partisaria/partisaress | saria/saress partii |
 | *ti* | partisaressat | ta sariat/ta saressat partii |
-| *lü / le* | al/la partisaressa | la/al saria/saressa partii |
+| *le / lü* | la/al partisaressa | la/al saria/saressa partii |
 | *nüm* | partisaressum | sarium/saressum partii |
 | *vialtri* | partisaressuf | sariuf/saressuf partii |
 | *lur* | partisarian/partisaressan | i sarian/i saressan partii |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | partisa | partissa |
+| *ti* | ta partisat | ta partissat |
+| *le / lü* | la/al partisa | la/al partissa |
+| *nüm* | partisum | partissum |
+| *vialtri* | partisuf | partissuf |
+| *lur* | i partisan | i partissan |
 
 ## Imperativo
 

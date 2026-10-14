@@ -16,18 +16,18 @@
 
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | pensari | pensariarò | avrò pensaa |
-| *ti* | ta pensariat | ta pensariaret | ta avret pensaa |
-| *lü / le* | la/al pensaria | la/al pensariarà | la/al avrà pensaa |
-| *nüm* | pensarium | pensariarem | avrem pensaa |
-| *vialtri* | pensariuf | pensariarii | avrii pensaa |
-| *lur* | i pensarian | i pensariaran | i avran pensaa |
+| *mi* | pensi | pensarò | avrò pensaa |
+| *ti* | ta pensat | ta pensaret | ta avret pensaa |
+| *le / lü* | la/al pensa | la/al pensarà | l’avrà pensaa |
+| *nüm* | pensum | pensarem | avrem pensaa |
+| *vialtri* | pensuf | pensarii | avrii pensaa |
+| *lur* | i pensan | i pensaran | i avran pensaa |
 
 |  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
 |---|---|---|---|
 | *mi* | pensava | u pensaa | eva pensaa |
 | *ti* | ta pensavat | te pensaa | ta evat pensaa |
-| *lü / le* | la/al pensava | l’a pensaa | la/al eva pensaa |
+| *le / lü* | la/al pensava | l’a pensaa | l’eva pensaa |
 | *nüm* | pensavum | em pensaa | evum pensaa |
 | *vialtri* | pensavuf | ii pensaa | evuf pensaa |
 | *lur* | i pensavan | i an pensaa | i evan pensaa |
@@ -38,16 +38,27 @@
 |---|---|---|
 | *mi* | pensaria / ress | avria/avress pensaa |
 | *ti* | ta pensa ressat | t’avriat/t’avressat pensaa |
-| *lü / le* | al /la pensaressa | l’avria/l’avressa pensaa |
+| *le / lü* | la/al pensaressa | l’avria/l’avressa pensaa |
 | *nüm* | pensaressum | avrium/avressum pensaa |
 | *vialtri* | pensaressuf | avriuf/avressuf pensaa |
 | *lur* | i pensarian/pensaressan | i avrian/i avressan pensaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | pensa | pensassa |
+| *ti* | ta pensat | ta pensassat |
+| *le / lü* | la/al pensa | la/al pensassa |
+| *nüm* | pensum | pensassum |
+| *vialtri* | pensuf | pensassuf |
+| *lur* | i pensan | i pensassan |
 
 ## Imperativo
 
 |  | Imperativo † | Imperativo negativo † |
 |---|---|---|
-| *ti* | pensaria | pensaria mia |
+| *ti* | pensa | pensa mia |
 | *nüm* | pensem | pensem mia |
 | *vialtri* | pensii | pensii mia |
 

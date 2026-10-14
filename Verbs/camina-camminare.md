@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | camini | caminarò | avrò caminaa |
 | *ti* | ta caminat | ta caminaret | ta avret caminaa |
-| *lü / le* | la/al camina | la/al caminarà | la/al avrà caminaa |
+| *le / lü* | la/al camina | la/al caminarà | l’avrà caminaa |
 | *nüm* | caminum | caminarem | avrem caminaa |
 | *vialtri* | caminuf | caminarii | avrii caminaa |
 | *lur* | i caminan | i caminaran | i avran caminaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | caminava | u caminaa | eva caminaa |
 | *ti* | ta caminavat | te caminaa | ta evat caminaa |
-| *lü / le* | la/al caminava | l’a caminaa | la/al eva caminaa |
+| *le / lü* | la/al caminava | l’a caminaa | l’eva caminaa |
 | *nüm* | caminavum | em caminaa | evum caminaa |
 | *vialtri* | caminavuf | ii caminaa | evuf caminaa |
 | *lur* | i caminavan | i an caminaa | i evan caminaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | caminaria/caminaressa | avria/avress caminaa |
 | *ti* | ta caminariat/caminaressat | t’avriat/t’avressat caminaa |
-| *lü / le* | la/al caminaria/caminaressa | l’avria/l’avressa caminaa |
+| *le / lü* | la/al caminaria/caminaressa | l’avria/l’avressa caminaa |
 | *nüm* | caminarium/caminaressum | avrium/avressum caminaa |
 | *vialtri* | caminariuf/caminaressuf | avriuf/avressuf caminaa |
 | *lur* | i caminarian/caminaressan | i avrian/i avressan caminaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | camina | caminassa |
+| *ti* | ta caminat | ta caminassat |
+| *le / lü* | la/al camina | la/al caminassa |
+| *nüm* | caminum | caminassum |
+| *vialtri* | caminuf | caminassuf |
+| *lur* | i caminan | i caminassan |
 
 ## Imperativo
 

@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | dò / do | darò | avrò dai |
 | *ti* | ta de | ta daré | ta avret dai |
-| *lü / le* | la/al da | la/al darà | la/al avrà dai |
+| *le / lü* | la/al da | la/al darà | l’avrà dai |
 | *nüm* | dem | darem | avrem dai |
 | *vialtri* | dii | darii | avrii dai |
 | *lur* | i da(n) | i darà | i avrà dai |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | dava | u dai | eva dai |
 | *ti* | ta davat | te dai | ta evat dai |
-| *lü / le* | la/al dava | l’a dai | la/al eva dai |
+| *le / lü* | la/al dava | l’a dai | l’eva dai |
 | *nüm* | davum | em dai | evum dai |
 | *vialtri* | davuf | ii dai | evuf dai |
 | *lur* | i dava | i an dai | i eva dai |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | daria/daress | avria/avress dai |
 | *ti* | dariat/daressat | t’avriat/t’avressat dai |
-| *lü / le* | daria/daressa | l’avria/l’avressa dai |
+| *le / lü* | daria/daressa | l’avria/l’avressa dai |
 | *nüm* | darium/daressum | avrium/avressum dai |
 | *vialtri* | dariuf/daressuf | avriuf/avressuf dai |
 | *lur* | darian/daressan | i avrian/i avressan dai |
+
+## Congiuntivo
+
+|  | Congiuntivo presente | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | daga † | dassa |
+| *ti* | ta dagat † | ta dassat |
+| *le / lü* | la/al daga † | la/al dassa |
+| *nüm* | dagum † | dassum |
+| *vialtri* | daguf † | dassuf |
+| *lur* | i daga | i dassan |
 
 ## Imperativo
 

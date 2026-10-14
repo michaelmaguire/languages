@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vo giò | narò giò | sarò nai (a) giò |
 | *ti* | ta vet giò | ta naré giò | ta saré nai (a) giò |
-| *lü / le* | la/al va giò | la/al narà giò | la/al sarà nai (a) giò |
+| *le / lü* | la/al va giò | la/al narà giò | la/al sarà nai (a) giò |
 | *nüm* | vem giò | narem giò | sarem nai giò |
 | *vialtri* | vii giò | narii giò | sarii nai giò |
 | *lur* | i van giò | i narà giò | i sarà nai giò |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | nava giò | sum nai (femminile = naia) giò | seva nai (a) giò |
 | *ti* | ta navat giò | ta sé nai (femminile = naia) giò | ta sevat nai (aI) giò |
-| *lü / le* | la/al nava giò | l’è naia (lü l’è nai) giò | la/al eva nai (a) giò |
+| *le / lü* | la/al nava giò | l’è naia (lü l’è nai) giò | l’eva nai (a) giò |
 | *nüm* | navum giò | sem nai giò | sevum nai giò |
 | *vialtri* | navuf giò | sii nai giò | sevuf nai giò |
 | *lur* | i nava giò | ié nai giò | i eva nai giò |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | naria/naressa giò | saria/saress nai giò |
 | *ti* | ta naressat giò | ta sariat/ta saressat nai giò |
-| *lü / le* | naria/naressa giò | la/al saria/saressa nai giò |
+| *le / lü* | naria/naressa giò | la/al saria/saressa nai giò |
 | *nüm* | naressum giò | sarium/saressum nai giò |
 | *vialtri* | naressuf giò | sariuf/saressuf nai giò |
 | *lur* | narian/naressan giò | i sarian/i saressan nai giò |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | naga giò | nassa giò |
+| *ti* | ta nagat giò | ta nassat giò |
+| *le / lü* | la/al naga giò | la/al nassa giò |
+| *nüm* | nagum giò | nassum giò |
+| *vialtri* | naguf giò | nassuf giò |
+| *lur* | i nagan giò | i nassan giò |
 
 ## Imperativo
 

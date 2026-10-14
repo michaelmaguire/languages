@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | cüsisi | cüsisarò | avrò cüsii |
 | *ti* | ta cüsisat | ta cüsisaret | ta avret cüsii |
-| *lü / le* | la/al cüsis | la/al cüsisarà | la/al avrà cüsii |
+| *le / lü* | la/al cüsis | la/al cüsisarà | l’avrà cüsii |
 | *nüm* | cüsisum | cüsisarem | avrem cüsii |
 | *vialtri* | cüsisuf | cüsisarii | avrii cüsii |
 | *lur* | i cüsis | i cüsisaran | i avran cüsii |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | cüsiva | u cüsii | eva cüsii |
 | *ti* | ta cüsivat | te cüsii | ta evat cüsii |
-| *lü / le* | la/al cüsiva | l’a cüsii | la/al eva cüsii |
+| *le / lü* | la/al cüsiva | l’a cüsii | l’eva cüsii |
 | *nüm* | cüsivum | em cüsii | evum cüsii |
 | *vialtri* | cüsivuf | ii cüsii | evuf cüsii |
 | *lur* | i cüsivan | i an cüsii | i evan cüsii |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | cüsisaria/cüsisaressa | avria/avress cüsii |
 | *ti* | ta cüsisariat/cüsisaressat | t’avriat/t’avressat cüsii |
-| *lü / le* | la/al cüsisaria/cüsisaressa | l’avria/l’avressa cüsii |
+| *le / lü* | la/al cüsisaria/cüsisaressa | l’avria/l’avressa cüsii |
 | *nüm* | cüsisarium/cüsisaressum | avrium/avressum cüsii |
 | *vialtri* | cüsisariuf/cüsisaressuf | avriuf/avressuf cüsii |
 | *lur* | i cüsisarian/cüsisaressan | i avrian/i avressan cüsii |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | cüsisa | cüsissa |
+| *ti* | ta cüsisat | ta cüsissat |
+| *le / lü* | la/al cüsisa | la/al cüsissa |
+| *nüm* | cüsisum | cüsissum |
+| *vialtri* | cüsisuf | cüsissuf |
+| *lur* | i cüsisan | i cüsissan |
 
 ## Imperativo
 

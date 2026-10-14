@@ -27,7 +27,7 @@ DAGGER = "†"
 CSS = """
 @page { size: A4; margin: 14mm 15mm 12mm 15mm; }
 * { box-sizing: border-box; }
-body { font: 10.5pt/1.35 "DejaVu Serif", Georgia, serif; color: #111; margin: 0; }
+body { font: 9.6pt/1.25 "DejaVu Serif", Georgia, serif; color: #111; margin: 0; }
 section { page-break-after: always; height: 268mm; position: relative; overflow: hidden; }
 h1 { font-size: 24pt; margin: 0 0 1mm; font-weight: bold; }
 h1 sup, th sup { font-size: 60%; font-weight: normal; }
@@ -35,12 +35,12 @@ h1 sup, th sup { font-size: 60%; font-weight: normal; }
 .sub i { color: #444; }
 .meta { font-size: 9.5pt; color: #333; margin: 0 0 4mm; padding-bottom: 3mm; border-bottom: 1.2pt solid #111; }
 .meta b { font-weight: bold; color: #111; }
-h2 { font: bold 9.5pt "DejaVu Sans", Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase;
-     margin: 5mm 0 1.5mm; color: #111; }
-table { border-collapse: collapse; width: 100%; margin: 0 0 3mm; table-layout: fixed; }
+h2 { font: bold 9pt "DejaVu Sans", Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase;
+     margin: 3mm 0 1mm; color: #111; }
+table { border-collapse: collapse; width: 100%; margin: 0 0 2mm; table-layout: fixed; }
 th { font: bold 8.5pt "DejaVu Sans", Arial, sans-serif; text-align: left; padding: 1mm 2mm 1mm 0;
      border-bottom: .6pt solid #111; }
-td { padding: .9mm 2mm .9mm 0; vertical-align: top; border-bottom: .3pt solid #bbb; overflow-wrap: anywhere; }
+td { padding: .55mm 2mm .55mm 0; vertical-align: top; border-bottom: .3pt solid #bbb; overflow-wrap: anywhere; }
 td.p, th.p { width: 17mm; color: #555; font-style: italic; }
 .foot { position: absolute; bottom: 0; left: 0; right: 0; font-size: 8pt; color: #555;
         display: flex; justify-content: space-between; border-top: .3pt solid #bbb; padding-top: 1.5mm; }
@@ -93,6 +93,8 @@ def verb_sheet(name, e, eng, number):
         tense_table(g, ["imperfetto", "passato prossimo", "trapassato prossimo"], PERSONS),
         "<h2>Condizionale</h2>",
         tense_table(g, build.CONDITIONAL, PERSONS),
+        "<h2>Congiuntivo</h2>",
+        tense_table(g, build.SUBJUNCTIVE, PERSONS),
         "<h2>Imperativo</h2>",
         tense_table(g, ["imperativo", build.IMPERATIVE], IMPERATIVE_PERSONS),
         f'<div class="foot"><span></span><span>{{{{page:v-{number}}}}}</span></div></section>'])
@@ -351,8 +353,7 @@ def dictionary():
 
 
 EXPR_CSS = """
-.part h2 { font: bold 14pt "DejaVu Sans", Arial, sans-serif; margin: 6mm 0 1mm; color: #0f5c4d; break-after: avoid; column-span: all; }
-.part h2:first-of-type { margin-top: 0; }
+.topic h1 { color: #0f5c4d; font-size: 17pt; margin-bottom: 3mm; padding-bottom: 2mm; border-bottom: 1.2pt solid #0f5c4d; }
 h3 { font: bold 8.5pt "DejaVu Sans", Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase; color: #555;
      margin: 2.5mm 0 1.5mm; break-after: avoid; column-span: all; }
 .x { margin: 0 0 1.3mm; break-inside: avoid; }
@@ -382,12 +383,10 @@ def expressions():
         return f'<div class="x"><b>{esc(p["dialect"])}</b>{flag} <i>{esc(p["italian"])}</i>{english}{region}</div>'
 
     body, toc, counts = [], [], {"saying": 0, "phrase": 0}
-    body.append('<div class="part" id="part-topics"><h1>Per argomento · By topic</h1>'
-                '<p>Sayings and idioms first, then phrases. Dialect in bold, Italian in italics, then English.</p>'
-                '<div class="entries">')
+    # every topic starts on a new page, with its own two columns
     for tid, rows in by_topic.items():
         t = names[tid]
-        body.append(f'<h2 id="t-{tid}">{esc(build.topic_title(t))}</h2>')
+        body.append(f'<div class="part topic" id="t-{tid}"><h1>{esc(build.topic_title(t))}</h1><div class="entries">')
         for genre, (it, en) in (("saying", build.SAYINGS), ("phrase", build.PHRASES)):
             # the dialect leads each entry here, so it sets the order (the Markdown pages lead with the Italian)
             part = sorted(build.merge_expressions([p for p in rows if (p["genre"] == "saying") == (genre == "saying")]),
@@ -395,13 +394,16 @@ def expressions():
             if part:
                 counts[genre] += len(part)
                 body.append(f"<h3>{esc(it)} · {esc(en)}</h3>" + "".join(entry(p) for p in part))
+        body.append("</div></div>")
         toc.append(f'<a href="#t-{tid}"><span>{esc(t.get("Name_Dialect") or t["Name"])} <span class="it">· {esc(t["Name"])} · {esc(t["Name_English"])}</span>'
                    f'</span><span>{{{{page:t-{tid}}}}}</span></a>')
-    body.append("</div></div>")
+    first = next(iter(by_topic), "")
     contents = ('<section class="toc"><h1>Contents</h1><a class="head" href="#attributions">'
                 '<span>Attributions and thanks</span><span>{{page:attributions}}</span></a>'
-                '<a class="head" href="#part-topics"><span>Per argomento · By topic</span>'
-                '<span>{{page:part-topics}}</span></a>' + "".join(toc) + "</section>")
+                f'<a class="head" href="#t-{first}"><span>Per argomento · By topic</span>'
+                f'<span>{{{{page:t-{first}}}}}</span></a>' + "".join(toc)
+                + '<p class="letters">One topic to a page: sayings and idioms first, then phrases. Dialect in bold, '
+                'Italian in italics, then English.</p></section>')
     cover = stamp((TEMPLATES / "cover_expressions.html").read_text())
     for k, v in (("sayings", counts["saying"]), ("phrases", counts["phrase"]), ("topics", len(by_topic))):
         cover = cover.replace("{{" + k + "}}", str(v))

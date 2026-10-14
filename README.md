@@ -17,23 +17,23 @@ and, where available, the English.
 
 | Section | What is in it | Size |
 |---|---|---|
-| [Dictionary](Dictionary/README.md) | Single words and short terms: Italiano ↔ Dialett, with English where available and a Region column; also as a [printable PDF](Dictionary/arogno-dictionary.pdf) | 954 entries |
+| [Dictionary](Dictionary/README.md) | Single words and short terms: Italiano ↔ Dialett, with English where available and a Region column; also as a [printable PDF](Dictionary/arogno-dictionary.pdf) | 980 entries |
 | [Expressions](Expressions/README.md) | Sayings, idioms and phrases grouped by topic; also as a [printable PDF](Expressions/arogno-expressions.pdf) | 960 expressions |
-| [Verbs](Verbs/README.md) | Conjugation charts, one page per verb; also as a [printable PDF](Verbs/arogno-verbs.pdf) | 86 verbs |
-| [To check](TO-CHECK.md) | Every inferred form and uncertain extraction, for checking with a teacher | 3626 items |
-| [CLDF dataset](cldf/README.md) | The master data set behind these pages, in the [CLDF](https://cldf.clld.org/) (Cross-Linguistic Data Formats) Dictionary format: words, meanings, examples, verb forms, sources and decisions on variants | 989 entries |
-| [Raw sources](https://github.com/michaelmaguire/languages-dialett-raw) | The original course documents, and the owner's own spreadsheet and notes (a separate repository, private for now) | 86 files |
+| [Verbs](Verbs/README.md) | Conjugation charts, one page per verb; also as a [printable PDF](Verbs/arogno-verbs.pdf) | 89 verbs |
+| [To check](TO-CHECK.md) | Every inferred form and uncertain extraction, for checking with a teacher | 4701 items |
+| [CLDF dataset](cldf/README.md) | The master data set behind these pages, in the [CLDF](https://cldf.clld.org/) (Cross-Linguistic Data Formats) Dictionary format: words, meanings, examples, verb forms, sources and decisions on variants | 1013 entries |
+| [Raw sources](https://github.com/michaelmaguire/languages-dialett-raw) | The original course documents, and the owner's own spreadsheet and notes (a separate repository, private for now) | 87 files |
 | [Curation](etc/README.md) | Every decision and correction applied when building the data set |  |
 | [Attributions](ATTRIBUTIONS.md) | Who wrote what, and what was generated |  |
 
 ## Reading the pages
 
 - Everything in `Dictionary/`, `Expressions/` and `Verbs/` is **generated automatically** from the documents in `raw/`. It has not been proofread line by line and will contain mistakes.
-- ⚠ marks an entry where the script was unsure which side is dialect or where a line was split (52 of 2313 entries).
+- ⚠ marks an entry where the script was unsure which side is dialect or where a line was split (102 of 2736 entries).
 - **Region** shows which dialect an entry is: *Rögn* for the course, another name for material from elsewhere in Ticino, blank where the variety has not been identified.
 - ↗ links to the source document, which is always the authority.
 - The teacher's spelling is kept exactly as written, including variants (`dialet` / `dialett`, `ul` / `al`).
-- English is present for 2274 of 2313 entries so far.
+- English is present for 2295 of 2736 entries so far.
 - Verb charts have the same sections for every verb. † marks a form that is inferred from the patterns in the course material rather than found in a document.
 
 ## Source documents
@@ -44,7 +44,7 @@ and, where available, the English.
 |---|---|---|---|
 | [🌴 100 frasi utili per quattro persone in vacanza al mare](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/%F0%9F%8C%B4%20100%20frasi%20utili%20per%20quattro%20persone%20in%20vacanza%20al%20mare.docx) | Rögn (Arogno) | extracted | teacher's exercise sheet |
 | [2025-10-13-articolo CdT](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-10-13-articolo%20CdT.docx) | Rögn (Arogno) | extracted | class translation - my guess that it is canonical, please confirm |
-| [2025-12-01-Canto 1 della Divina Commedia](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-12-01-Canto%201%20della%20Divina%20Commedia.docx) | Rögn (Arogno) | reading text only | class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
+| [2025-12-01-Canto 1 della Divina Commedia](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-12-01-Canto%201%20della%20Divina%20Commedia.docx) | Rögn (Arogno) | extracted | class translation of Inferno I; aligned with the Italian original (etc/parallel_texts.csv) |
 | [brevi frasi](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) | Rögn (Arogno) | extracted | teacher's exercise sheet |
 | [Cors da dialet da Rögn 10a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) | Rögn (Arogno) | extracted | Rögn course lesson |
 | [Cors da dialet da Rögn 11a leziun (1)](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) | Rögn (Arogno) | extracted | Rögn course lesson |
@@ -71,7 +71,7 @@ and, where available, the English.
 | [frasi fai 1 - Copia](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fai%201%20-%20Copia.docx) | Rögn (Arogno) | extracted | teacher's exercise sheet |
 | [frasi fai 1](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fai%201.docx) | Rögn (Arogno) | extracted | teacher's exercise sheet |
 | [frasi fatte](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) | Rögn (Arogno) | extracted | teacher's exercise sheet |
-| [I düü magnan](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/I%20d%C3%BC%C3%BC%20magnan.docx) | Rögn (Arogno) | extracted | class translation - my guess that it is canonical, please confirm |
+| [I düü magnan](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/I%20d%C3%BC%C3%BC%20magnan.docx) | Rögn (Arogno) | extracted | class translation; aligned with the Italian original I due Magnani.pdf (etc/parallel_texts.csv) |
 | [Il Condizionale Passato](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Passato.docx) | Rögn (Arogno) | extracted | teacher's grammar sheet |
 | [Il Condizionale Presente](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) | Rögn (Arogno) | extracted | teacher's grammar sheet |
 | [il congiüntif](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20congi%C3%BCntif.docx) | Rögn (Arogno) | extracted | teacher's grammar sheet |
@@ -79,12 +79,12 @@ and, where available, the English.
 | [imperativo 14.4.2025](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo%2014.4.2025.pdf) | Rögn (Arogno) | extracted | teacher's grammar sheet |
 | [imperativo](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) | Rögn (Arogno) | extracted | teacher's grammar sheet |
 | [l Condizionale Presente](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/l%20Condizionale%20Presente.docx) | Rögn (Arogno) | extracted | teacher's grammar sheet |
-| [NUVANT'ANN](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/NUVANT%27ANN.pdf) | Rögn (Arogno) | reading text only | Arogno text - my guess that it is canonical; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
-| [topolino prima parte](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/topolino%20prima%20parte.pdf) | Rögn (Arogno) | reading text only | class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
-| [ul nos Topolino](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/ul%20nos%20Topolino.pdf) | Rögn (Arogno) | reading text only | class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
+| [NUVANT'ANN](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/NUVANT%27ANN.pdf) | Rögn (Arogno) | extracted | Arogno text - my guess that it is canonical; dialect and Italian line by line (partly in two columns) |
+| [topolino prima parte](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/topolino%20prima%20parte.pdf) | Rögn (Arogno) | not used | first part of ul nos Topolino.pdf |
+| [ul nos Topolino](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/ul%20nos%20Topolino.pdf) | Rögn (Arogno) | reading text only | class translation; kept as reading text: the Italian original (topolino testo originale.pdf) is an OCR of a comic, too garbled to align with |
 | [Ul prevosct senza crapa](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Ul%20prevosct%20senza%20crapa.docx) | Rögn (Arogno) | extracted | class translation - my guess that it is canonical, please confirm |
-| [vari canti Divina Commedia (1)](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/vari%20canti%20Divina%20Commedia%20%281%29.pdf) | Rögn (Arogno) | reading text only | class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
-| [vari canti Divina Commedia](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/vari%20canti%20Divina%20Commedia.pdf) | Rögn (Arogno) | reading text only | class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
+| [vari canti Divina Commedia (1)](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/vari%20canti%20Divina%20Commedia%20%281%29.pdf) | Rögn (Arogno) | not used | shorter copy of vari canti Divina Commedia.pdf (no Canto II) |
+| [vari canti Divina Commedia](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/vari%20canti%20Divina%20Commedia.pdf) | Rögn (Arogno) | extracted | class translation of Inferno II-VI; aligned with the Italian original (etc/parallel_texts.csv) |
 | [varie situazioni](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) | Rögn (Arogno) | extracted | teacher's exercise sheet |
 
 ### Other material
@@ -109,19 +109,20 @@ and, where available, the English.
 | [2025-10-20-I maestri d'inlura e quii d'incöö](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-10-20-I%20maestri%20d%27inlura%20e%20quii%20d%27inc%C3%B6%C3%B6.docx) | other / unverified | extracted | variety not verified - please set |
 | [2025-11-17-dialett da Lumin](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-11-17-dialett%20da%20Lumin.pdf) | Lumino (Bellinzonese) | reading text only | kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
 | [2025-11-24-dialett da Lumin 2](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-11-24-dialett%20da%20Lumin%202.pdf) | Lumino (Bellinzonese) | reading text only | kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
-| [2026-05-04-I düü magnan](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2026-05-04-I%20d%C3%BC%C3%BC%20magnan.pdf) | other / unverified | reading text only | variety not verified - please set; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
+| [2026-05-04-I düü magnan](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2026-05-04-I%20d%C3%BC%C3%BC%20magnan.pdf) | Italian only | not used | same Italian text as I due Magnani.pdf |
 | [CDE_come_si_scrive_in_dialetto](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/CDE_come_si_scrive_in_dialetto.pdf) | reference | not used | CDE spelling guide - reference, not vocabulary |
 | [Chi che l'è un vero ticinés](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Chi%20che%20l%27%C3%A8%20un%20vero%20ticin%C3%A9s.docx) | other / unverified | reading text only | variety not verified - please set; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
 | [concorso Vacallo](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/concorso%20Vacallo.pdf) | other / unverified | extracted | variety not verified - please set |
 | [Cors da dialet da Rögn 11a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun.docx) | - | not used | duplicate of Cors da dialet da Rögn 11a leziun (1).docx |
 | [Cors da dialet da Rögn 12a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun.docx) | - | not used | duplicate of Cors da dialet da Rögn 12a leziun (1).docx |
 | [dialett-poesia-Spartaco-Arigoni](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialett-poesia-Spartaco-Arigoni.pdf) | other / unverified | extracted | variety not verified - please set |
+| [Divina Commedia Inferno I-VI (Dante, Project Gutenberg)](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Divina%20Commedia%20Inferno%20I-VI%20%28Dante%2C%20Project%20Gutenberg%29.txt) | Italian only | not used | Dante's Italian, public domain (Project Gutenberg #1000), used only to align the class translation |
 | [Dizionario con filastrocche di R. Gaggini](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) | Basso Ceresio | extracted | Gaggini glossary |
 | [espressioni in italiano](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano.docx) | Italian only | not used | Italian only (exercise before translation) |
 | [Favole in dialetto tradotta in italiano](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Favole%20in%20dialetto%20tradotta%20in%20italiano.docx) | unknown (el/ra articles) | extracted | variety not identified |
 | [Filatrocca di Carlino](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Filatrocca%20di%20Carlino.docx) | other / unverified | extracted | variety not verified - please set |
 | [GP Lavelli 2x](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/GP%20Lavelli%202x.docx) | Val Morobbia? | reading text only | OCR of image; variety is my guess; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
-| [I due Magnani](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/I%20due%20Magnani.pdf) | other / unverified | reading text only | variety not verified - please set; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
+| [I due Magnani](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/I%20due%20Magnani.pdf) | Italian only | not used | Italian original of I düü magnan.docx, used only to align it (etc/parallel_texts.csv) |
 | [la nocc e carisna](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/la%20nocc%20e%20carisna.docx) | - | not used | duplicate of 2025-02-19-la nocc e carisna.docx |
 | [L'appetito vien mangiando](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/L%27appetito%20vien%20mangiando.docx) | Italian only | not used | Italian only (exercise before translation) |
 | [Letra ala sciura Trudi - Copia](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Letra%20ala%20sciura%20Trudi%20-%20Copia.docx) | other / unverified | reading text only | variety not verified - please set; kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
@@ -132,7 +133,7 @@ and, where available, the English.
 | [Piove governo ladro di Fausto Boffi](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Piove%20governo%20ladro%20di%20Fausto%20Boffi.docx) | - | not used | duplicate of 2025-02-19-Piove governo ladro di Fausto Boffi.docx |
 | [poesie in dialetto](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/poesie%20in%20dialetto.docx) | - | not used | duplicate of 2025-02-19-poesie in dialetto.docx |
 | [testi dal Burghett di Giubiasco](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/testi%20dal%20Burghett%20di%20Giubiasco.docx) | Giubiasco | reading text only | kept as reading text: no line-by-line Italian to pair with (or multi-column layout) |
-| [topolino testo originale](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/topolino%20testo%20originale.pdf) | Italian only | not used | Italian original (scan) |
+| [topolino testo originale](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/topolino%20testo%20originale.pdf) | Italian only | not used | Italian original (scan) of ul nos Topolino.pdf, used only to align it |
 
 ## Rebuilding
 

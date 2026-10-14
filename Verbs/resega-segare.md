@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | resèghi | resègarò | avrò resegaa |
 | *ti* | ta resègat | ta resègaret | ta avret resegaa |
-| *lü / le* | la/al resèga | la/al resègarà | la/al avrà resegaa |
+| *le / lü* | la/al resèga | la/al resègarà | l’avrà resegaa |
 | *nüm* | resègum | resègarem | avrem resegaa |
 | *vialtri* | resèguf | resègarii | avrii resegaa |
 | *lur* | i resèga(n) | i resègaran | i avran resegaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | resegava | u resegaa | eva resegaa |
 | *ti* | ta resegavat | te resegaa | ta evat resegaa |
-| *lü / le* | la/al resegava | l’a resegaa | la/al eva resegaa |
+| *le / lü* | la/al resegava | l’a resegaa | l’eva resegaa |
 | *nüm* | resegavum | em resegaa | evum resegaa |
 | *vialtri* | resegavuf | ii resegaa | evuf resegaa |
 | *lur* | i resegavan | i an resegaa | i evan resegaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | resègaria/resègaressa | avria/avress resegaa |
 | *ti* | ta resègariat/resègaressat | t’avriat/t’avressat resegaa |
-| *lü / le* | la/al resègaria/resègaressa | l’avria/l’avressa resegaa |
+| *le / lü* | la/al resègaria/resègaressa | l’avria/l’avressa resegaa |
 | *nüm* | resègarium/resègaressum | avrium/avressum resegaa |
 | *vialtri* | resègariuf/resègaressuf | avriuf/avressuf resegaa |
 | *lur* | i resègarian/resègaressan | i avrian/i avressan resegaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | resèga | resegassa |
+| *ti* | ta resègat | ta resegassat |
+| *le / lü* | la/al resèga | la/al resegassa |
+| *nüm* | resègum | resegassum |
+| *vialtri* | resèguf | resegassuf |
+| *lur* | i resègan | i resegassan |
 
 ## Imperativo
 

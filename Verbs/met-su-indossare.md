@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | meti sü | metarò sü | avrò metüü sü |
 | *ti* | ta metat sü | ta metaret sü | ta avret metüü sü |
-| *lü / le* | la/al met sü | la/al metarà sü | la/al avrà metüü sü |
+| *le / lü* | la/al met sü | la/al metarà sü | l’avrà metüü sü |
 | *nüm* | metum sü | metarem sü | avrem metüü sü |
 | *vialtri* | metuf sü | metarii sü | avrii metüü sü |
 | *lur* | i met (metan) sü | i metaran sü | i avran metüü sü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | meteva sü | u metüü sü | eva metüü sü |
 | *ti* | ta metevat sü | te metüü sü | ta evat metüü sü |
-| *lü / le* | la/al meteva sü | l’a metüü sü | la/al eva metüü sü |
+| *le / lü* | la/al meteva sü | l’a metüü sü | l’eva metüü sü |
 | *nüm* | metevum sü | em metüü sü | evum metüü sü |
 | *vialtri* | metevuf sü | ii metüü sü | evuf metüü sü |
 | *lur* | i metevan sü | i an metüü sü | i evan metüü sü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | metaria/metaressa sü | avria/avress metüü sü |
 | *ti* | ta metariat/metaressat sü | t’avriat/t’avressat metüü sü |
-| *lü / le* | la/al metaria/metaressa sü | l’avria/l’avressa metüü sü |
+| *le / lü* | la/al metaria/metaressa sü | l’avria/l’avressa metüü sü |
 | *nüm* | metarium/metaressum sü | avrium/avressum metüü sü |
 | *vialtri* | metariuf/metaressuf sü | avriuf/avressuf metüü sü |
 | *lur* | i metarian/metaressan sü | i avrian/i avressan metüü sü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | meta sü | metessa sü |
+| *ti* | ta metat sü | ta metessat sü |
+| *le / lü* | la/al meta sü | la/al metessa sü |
+| *nüm* | metum sü | metessum sü |
+| *vialtri* | metuf sü | metessuf sü |
+| *lur* | i metan sü | i metessan sü |
 
 ## Imperativo
 

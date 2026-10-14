@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | nomini | nominarò | avrò nominaa |
 | *ti* | ta nominat | ta nominaret | ta avret nominaa |
-| *lü / le* | la/al nomina | la/al nominarà | la/al avrà nominaa |
+| *le / lü* | la/al nomina | la/al nominarà | l’avrà nominaa |
 | *nüm* | nominum | nominarem | avrem nominaa |
 | *vialtri* | nominuf | nominarii | avrii nominaa |
 | *lur* | i nominan | i nominaran | i avran nominaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | nominava | u nominaa | eva nominaa |
 | *ti* | ta nominavat | te nominaa | ta evat nominaa |
-| *lü / le* | la/al nominava | l’a nominaa | la/al eva nominaa |
+| *le / lü* | la/al nominava | l’a nominaa | l’eva nominaa |
 | *nüm* | nominavum | em nominaa | evum nominaa |
 | *vialtri* | nominavuf | ii nominaa | evuf nominaa |
 | *lur* | i nominavan | i an nominaa | i evan nominaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | nominaria/nominaressa | avria/avress nominaa |
 | *ti* | ta nominariat/nominaressat | t’avriat/t’avressat nominaa |
-| *lü / le* | la/al nominaria/nominaressa | l’avria/l’avressa nominaa |
+| *le / lü* | la/al nominaria/nominaressa | l’avria/l’avressa nominaa |
 | *nüm* | nominarium/nominaressum | avrium/avressum nominaa |
 | *vialtri* | nominariuf/nominaressuf | avriuf/avressuf nominaa |
 | *lur* | i nominarian/nominaressan | i avrian/i avressan nominaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | nomina | nominassa |
+| *ti* | ta nominat | ta nominassat |
+| *le / lü* | la/al nomina | la/al nominassa |
+| *nüm* | nominum | nominassum |
+| *vialtri* | nominuf | nominassuf |
+| *lur* | i nominan | i nominassan |
 
 ## Imperativo
 

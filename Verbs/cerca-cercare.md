@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | cerchi | cercarò | avrò cercaa |
 | *ti* | ta cercat | ta cercaret | ta avret cercaa |
-| *lü / le* | la/al cerca | la/al cercarà | la/al avrà cercaa |
+| *le / lü* | la/al cerca | la/al cercarà | l’avrà cercaa |
 | *nüm* | cercum | cercarem | avrem cercaa |
 | *vialtri* | cercuf | cercarii | avrii cercaa |
 | *lur* | i cercan | i cercaran | i avran cercaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | cercava | u cercaa | eva cercaa |
 | *ti* | ta cercavat | te cercaa | ta evat cercaa |
-| *lü / le* | la/al cercava | l’a cercaa | la/al eva cercaa |
+| *le / lü* | la/al cercava | l’a cercaa | l’eva cercaa |
 | *nüm* | cercavum | em cercaa | evum cercaa |
 | *vialtri* | cercavuf | ii cercaa | evuf cercaa |
 | *lur* | i cercavan | i an cercaa | i evan cercaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | cercaria/cercaressa | avria/avress cercaa |
 | *ti* | ta cercaressat | t’avriat/t’avressat cercaa |
-| *lü / le* | al/la cercaria/cercaressa | l’avria/l’avressa cercaa |
+| *le / lü* | la/al cercaria/cercaressa | l’avria/l’avressa cercaa |
 | *nüm* | cercaressum | avrium/avressum cercaa |
 | *vialtri* | cercaressuf | avriuf/avressuf cercaa |
 | *lur* | i cercarian/cercaressan | i avrian/i avressan cercaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | cerca | cercassa |
+| *ti* | ta cercat | ta cercassat |
+| *le / lü* | la/al cerca | la/al cercassa |
+| *nüm* | cercum | cercassum |
+| *vialtri* | cercuf | cercassuf |
+| *lur* | i cercan | i cercassan |
 
 ## Imperativo
 

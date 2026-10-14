@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vegni | vegnarò | sarò vegnüü (da) |
 | *ti* | ta vegnat | ta vegnaret | ta saret vegnüü (da) |
-| *lü / le* | la/al vegn | la/al vegnarà | la/al sarà vegnüü (da) |
+| *le / lü* | la/al vegn | la/al vegnarà | la/al sarà vegnüü (da) |
 | *nüm* | vegnum | vegnarem | sarem vegnüü |
 | *vialtri* | vegnuf | vegnarii | sarii vegnüü |
 | *lur* | i vegnan | i vegnarà | i sarà vegnüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | vegniva | sum vegnüü | seva vegnüü (da) |
 | *ti* | ta vegnivat | ta se/set vegnüü | ta sevat vegnüü (da) |
-| *lü / le* | la/al vegniva | l’è vegnüü | la/al eva vegnüü (da) |
+| *le / lü* | la/al vegniva | l’è vegnüü | l’eva vegnüü (da) |
 | *nüm* | vegnivum | sem vegnüü | sevum vegnüü |
 | *vialtri* | vegnivuf | sii vegnüü | sevuf vegnüü |
 | *lur* | i vegniva | i è vegnüü | i eva vegnüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | vegnaria/vegnaressa | saria/saress vegnüü /da |
 | *ti* | vegnariat/vegnaressat | ta sariat/ta saressat vegnüü /da |
-| *lü / le* | vegnaria/vegnaressa | al/la saria/al /la saressa vegnüü /da |
+| *le / lü* | vegnaria/vegnaressa | la/al saria/la/al saressa vegnüü /da |
 | *nüm* | vegnarium/vegnaressum | sarium/saressum vegnüü |
 | *vialtri* | vegnariuf/vegnaressuf | sariuf/saressuf vegnüü |
 | *lur* | vegnarian/vegnaressan | i sarian / i saressan vegnüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | vegna | vegnissa |
+| *ti* | ta vegnat | ta vegnissat |
+| *le / lü* | la/al vegna | la/al vegnissa |
+| *nüm* | vegnum | vegnissum |
+| *vialtri* | vegnuf | vegnissuf |
+| *lur* | i vegnan | i vegnissan |
 
 ## Imperativo
 

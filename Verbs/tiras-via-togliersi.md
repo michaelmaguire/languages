@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | ma sa tiri via | ma sa tirarò via | ma sarò tiraa via |
 | *ti* | ta sa tirat via | ta sa tiraret via | ta sa saret tiraa via |
-| *lü / le* | la/al sa tira via | la/al sa tirarà via | la/al sa sarà tiraa via |
+| *le / lü* | la/al sa tira via | la/al sa tirarà via | la/al sa sarà tiraa via |
 | *nüm* | sa tirum via | sa tirarem via | sa sarem tiraa via |
 | *vialtri* | sa tiruf via | sa tirarii via | sa sarii tiraa via |
 | *lur* | i sa tiran via | i sa tiraran via | i sa saran tiraa via |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | ma sa tirava via | ma sum tiraa via | ma seva tiraa via |
 | *ti* | ta sa tiravat via | ta sa set tiraa via | ta sa sevat tiraa via |
-| *lü / le* | la/al sa tirava via | la/al s’è tiraa via | la/al s’eva tiraa via |
+| *le / lü* | la/al sa tirava via | la/al s’è tiraa via | la/al s’eva tiraa via |
 | *nüm* | sa tiravum via | sa sem tiraa via | sa sevum tiraa via |
 | *vialtri* | sa tiravuf via | sa sii tiraa via | sa sevuf tiraa via |
 | *lur* | i sa tiravan via | i s’è tiraa via | i s’evan tiraa via |
@@ -38,19 +38,30 @@
 |---|---|---|
 | *mi* | ma sa tiraria/tiraressa via | ma saria/saress tiraa via |
 | *ti* | ta sa tirariat/tiraressat via | ta sa sariat/saressat tiraa via |
-| *lü / le* | la/al sa tiraria/tiraressa via | la/al sa saria/saressa tiraa via |
+| *le / lü* | la/al sa tiraria/tiraressa via | la/al sa saria/saressa tiraa via |
 | *nüm* | sa tirarium/tiraressum via | sa sarium/saressum tiraa via |
 | *vialtri* | sa tirariuf/tiraressuf via | sa sariuf/saressuf tiraa via |
 | *lur* | i sa tirarian/tiraressan via | i sa sarian/saressan tiraa via |
 
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | ma sa tira via | ma sa tirassa via |
+| *ti* | ta sa tirat via | ta sa tirassat via |
+| *le / lü* | la/al sa tira via | la/al sa tirassa via |
+| *nüm* | sa tirum via | sa tirassum via |
+| *vialtri* | sa tiruf via | sa tirassuf via |
+| *lur* | i sa tiran via | i sa tirassan via |
+
 ## Imperativo
 
-|  | Imperativo † | Imperativo negativo |
+|  | Imperativo † | Imperativo negativo † |
 |---|---|---|
-| *ti* | töt fö | töt mia fö |
-| *nüm* | töghemas fö | töghemas mia fö |
-| *vialtri* | tögevas fö | tögevas mia fö |
+| *ti* | tirat via | tirat mia via |
+| *nüm* | tiremas via | tiremas mia via |
+| *vialtri* | tirevas via | tirevas mia via |
 
-**Sources:** [il gerundio](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf); [imperativo](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf)
+**Sources:** [il gerundio](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf)
 
 [← all verbs](README.md)

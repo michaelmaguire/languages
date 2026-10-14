@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | trövi | trövarò | avrò truaa |
 | *ti* | ta trövat | ta trövaret | ta avret truaa |
-| *lü / le* | la/al tröva (?) | la/al trövarà | la/al avrà truaa |
+| *le / lü* | la/al tröva (?) | la/al trövarà | l’avrà truaa |
 | *nüm* | trövum (?) | trövarem | avrem truaa |
 | *vialtri* | trövuf | trövarii | avrii truaa |
 | *lur* | i tröva(n) | i trövaran | i avran truaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | truava | u truaa | eva truaa |
 | *ti* | ta truavat | te truaa | ta evat truaa |
-| *lü / le* | la/al truava | l’a truaa | la/al eva truaa |
+| *le / lü* | la/al truava | l’a truaa | l’eva truaa |
 | *nüm* | truavum | em truaa | evum truaa |
 | *vialtri* | truavuf | ii truaa | evuf truaa |
 | *lur* | i truavan | i an truaa | i evan truaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | trövaria/trövaressa | avria/avress truaa |
 | *ti* | ta trövariat/trövaressat | t’avriat/t’avressat truaa |
-| *lü / le* | la/al trövaria/trövaressa | l’avria/l’avressa truaa |
+| *le / lü* | la/al trövaria/trövaressa | l’avria/l’avressa truaa |
 | *nüm* | trövarium/trövaressum | avrium/avressum truaa |
 | *vialtri* | trövariuf/trövaressuf | avriuf/avressuf truaa |
 | *lur* | i trövarian/trövaressan | i avrian/i avressan truaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | tröva | truassa |
+| *ti* | ta trövat | ta truassat |
+| *le / lü* | la/al tröva | la/al truassa |
+| *nüm* | trövum | truassum |
+| *vialtri* | trövuf | truassuf |
+| *lur* | i trövan | i truassan |
 
 ## Imperativo
 

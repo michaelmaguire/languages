@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | ma sa mövi | ma sa mövarò | ma sarò mövüü |
 | *ti* | ta sa mövat | ta sa mövaret | ta sa saret mövüü |
-| *lü / le* | la/al sa möv | la/al sa mövarà | la/al sa sarà mövüü |
+| *le / lü* | la/al sa möv | la/al sa mövarà | la/al sa sarà mövüü |
 | *nüm* | sa mövum | sa mövarem | sa sarem mövüü |
 | *vialtri* | sa mövuf | sa mövarii | sa sarii mövüü |
 | *lur* | i sa mövan | i sa mövaran | i sa saran mövüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | ma sa möveva | ma sum mövüü | ma seva mövüü |
 | *ti* | ta sa mövevat | ta sa set mövüü | ta sa sevat mövüü |
-| *lü / le* | la/al sa möveva | la/al s’è mövüü | la/al s’eva mövüü |
+| *le / lü* | la/al sa möveva | la/al s’è mövüü | la/al s’eva mövüü |
 | *nüm* | sa mövevum | sa sem mövüü | sa sevum mövüü |
 | *vialtri* | sa mövevuf | sa sii mövüü | sa sevuf mövüü |
 | *lur* | i sa mövevan | i s’è mövüü | i s’evan mövüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | ma sa mövaria/mövaressa | ma saria/saress mövüü |
 | *ti* | ta sa mövariat/mövaressat | ta sa sariat/saressat mövüü |
-| *lü / le* | la/al sa mövaria/mövaressa | la/al sa saria/saressa mövüü |
+| *le / lü* | la/al sa mövaria/mövaressa | la/al sa saria/saressa mövüü |
 | *nüm* | sa mövarium/mövaressum | sa sarium/saressum mövüü |
 | *vialtri* | sa mövariuf/mövaressuf | sa sariuf/saressuf mövüü |
 | *lur* | i sa mövarian/mövaressan | i sa sarian/saressan mövüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | ma sa möva | ma sa mövessa |
+| *ti* | ta sa mövat | ta sa mövessat |
+| *le / lü* | la/al sa möva | la/al sa mövessa |
+| *nüm* | sa mövum | sa mövessum |
+| *vialtri* | sa mövuf | sa mövessuf |
+| *lur* | i sa mövan | i sa mövessan |
 
 ## Imperativo
 

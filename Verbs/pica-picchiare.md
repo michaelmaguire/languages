@@ -16,9 +16,9 @@
 
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | pichi / meni, ti ta menat, lü/ al/la mena, nüm menum, vialtri menuf, lur i mena | picarò | avrò picaa |
+| *mi* | pichi / meni, ti ta menat, lü/ la/al mena, nüm menum, vialtri menuf, lur i mena | picarò | avrò picaa |
 | *ti* | ta picat | ta picaret | ta avret picaa |
-| *lü / le* | al/la pica | la/al picarà | la/al avrà picaa |
+| *le / lü* | la/al pica | la/al picarà | l’avrà picaa |
 | *nüm* | picum | picarem | avrem picaa |
 | *vialtri* | picuf | picarii | avrii picaa |
 | *lur* | i pican | i picaran | i avran picaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | picava | u picaa | eva picaa |
 | *ti* | ta picavat | te picaa | ta evat picaa |
-| *lü / le* | la/al picava | l’a picaa | la/al eva picaa |
+| *le / lü* | la/al picava | l’a picaa | l’eva picaa |
 | *nüm* | picavum | em picaa | evum picaa |
 | *vialtri* | picavuf | ii picaa | evuf picaa |
 | *lur* | i picavan | i an picaa | i evan picaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | picaria/picaressa | avria/avress picaa |
 | *ti* | ta picariat/picaressat | t’avriat/t’avressat picaa |
-| *lü / le* | la/al picaria/picaressa | l’avria/l’avressa picaa |
+| *le / lü* | la/al picaria/picaressa | l’avria/l’avressa picaa |
 | *nüm* | picarium/picaressum | avrium/avressum picaa |
 | *vialtri* | picariuf/picaressuf | avriuf/avressuf picaa |
 | *lur* | i picarian/picaressan | i avrian/i avressan picaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | pica | picassa |
+| *ti* | ta picat | ta picassat |
+| *le / lü* | la/al pica | la/al picassa |
+| *nüm* | picum | picassum |
+| *vialtri* | picuf | picassuf |
+| *lur* | i pican | i picassan |
 
 ## Imperativo
 

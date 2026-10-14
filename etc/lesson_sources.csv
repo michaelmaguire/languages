@@ -18,8 +18,8 @@ file,variety,canonical,layout,include,genre,notes
 2025-10-20-I maestri d'inlura e quii d'incöö.docx,other / unverified,no,auto,yes,text,variety not verified - please set
 2025-11-17-dialett da Lumin.pdf,Lumino (Bellinzonese),no,text_only,yes,,kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
 2025-11-24-dialett da Lumin 2.pdf,Lumino (Bellinzonese),no,text_only,yes,,kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
-2025-12-01-Canto 1 della Divina Commedia.docx,Rögn (Arogno),yes,text_only,yes,,"class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)"
-2026-05-04-I düü magnan.pdf,other / unverified,no,text_only,yes,,variety not verified - please set; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
+2025-12-01-Canto 1 della Divina Commedia.docx,Rögn (Arogno),yes,parallel,yes,text,class translation of Inferno I; aligned with the Italian original (etc/parallel_texts.csv)
+2026-05-04-I düü magnan.pdf,Italian only,no,skip,no,,same Italian text as I due Magnani.pdf
 CDE_come_si_scrive_in_dialetto.pdf,reference,no,skip,no,,"CDE spelling guide - reference, not vocabulary"
 Chi che l'è un vero ticinés.docx,other / unverified,no,text_only,yes,,variety not verified - please set; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
 Cors da dialet da Rögn 10a leziun.docx,Rögn (Arogno),yes,auto,yes,saying,Rögn course lesson
@@ -44,13 +44,13 @@ Favole in dialetto tradotta in italiano.docx,unknown (el/ra articles),no,auto,ye
 Filatrocca di Carlino.docx,other / unverified,no,auto,yes,text,variety not verified - please set
 Frasi di ultranovantenni di Arogno.pdf,Rögn (Arogno),yes,auto,yes,phrase,Arogno text - my guess that it is canonical
 GP Lavelli 2x.docx,Val Morobbia?,no,text_only,yes,,OCR of image; variety is my guess; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
-I due Magnani.pdf,other / unverified,no,text_only,yes,,variety not verified - please set; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
-I düü magnan.docx,Rögn (Arogno),yes,auto,yes,text,"class translation - my guess that it is canonical, please confirm"
+I due Magnani.pdf,Italian only,no,skip,no,,"Italian original of I düü magnan.docx, used only to align it (etc/parallel_texts.csv)"
+I düü magnan.docx,Rögn (Arogno),yes,parallel,yes,text,class translation; aligned with the Italian original I due Magnani.pdf (etc/parallel_texts.csv)
 Il Condizionale Passato.docx,Rögn (Arogno),yes,auto,yes,exercise,teacher's grammar sheet
 Il Condizionale Presente.docx,Rögn (Arogno),yes,auto,yes,exercise,teacher's grammar sheet
 L'appetito vien mangiando.docx,Italian only,no,skip,no,,Italian only (exercise before translation)
 Letra ala sciura Trudi - Copia.docx,other / unverified,no,text_only,yes,,variety not verified - please set; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
-NUVANT'ANN.pdf,Rögn (Arogno),yes,text_only,yes,,Arogno text - my guess that it is canonical; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
+NUVANT'ANN.pdf,Rögn (Arogno),yes,auto,yes,text,Arogno text - my guess that it is canonical; dialect and Italian line by line (partly in two columns)
 Paul e Ghita a Lügan 1a e 2a parte.pdf,Lugano (old printed play),no,text_only,yes,,"OCR; dialect only, Italian glosses in brackets; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)"
 Paul e Ghita a Lügan 3a parte.pdf,Lugano (old printed play),no,text_only,yes,,"OCR; dialect only, Italian glosses in brackets; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)"
 Paul e Ghita a Lügan 4a parte.pdf,Lugano (old printed play),no,text_only,yes,,"OCR; dialect only, Italian glosses in brackets; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)"
@@ -78,10 +78,11 @@ l Condizionale Presente.docx,Rögn (Arogno),yes,auto,yes,exercise,teacher's gram
 la nocc e carisna.docx,-,no,skip,no,,duplicate of 2025-02-19-la nocc e carisna.docx
 poesie in dialetto.docx,-,no,skip,no,,duplicate of 2025-02-19-poesie in dialetto.docx
 testi dal Burghett di Giubiasco.docx,Giubiasco,no,text_only,yes,,kept as reading text: no line-by-line Italian to pair with (or multi-column layout)
-topolino prima parte.pdf,Rögn (Arogno),yes,text_only,yes,,"class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)"
-topolino testo originale.pdf,Italian only,no,skip,no,,Italian original (scan)
-ul nos Topolino.pdf,Rögn (Arogno),yes,text_only,yes,,"class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)"
-vari canti Divina Commedia (1).pdf,Rögn (Arogno),yes,text_only,yes,,"class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)"
-vari canti Divina Commedia.pdf,Rögn (Arogno),yes,text_only,yes,,"class translation - my guess that it is canonical, please confirm; kept as reading text: no line-by-line Italian to pair with (or multi-column layout)"
+topolino prima parte.pdf,Rögn (Arogno),yes,skip,no,,first part of ul nos Topolino.pdf
+topolino testo originale.pdf,Italian only,no,skip,no,,"Italian original (scan) of ul nos Topolino.pdf, used only to align it"
+ul nos Topolino.pdf,Rögn (Arogno),yes,text_only,yes,,"class translation; kept as reading text: the Italian original (topolino testo originale.pdf) is an OCR of a comic, too garbled to align with"
+vari canti Divina Commedia (1).pdf,Rögn (Arogno),yes,skip,no,,shorter copy of vari canti Divina Commedia.pdf (no Canto II)
+vari canti Divina Commedia.pdf,Rögn (Arogno),yes,parallel,yes,text,class translation of Inferno II-VI; aligned with the Italian original (etc/parallel_texts.csv)
 varie situazioni.docx,Rögn (Arogno),yes,auto,yes,text,teacher's exercise sheet
 🌴 100 frasi utili per quattro persone in vacanza al mare.docx,Rögn (Arogno),yes,auto,yes,phrase,teacher's exercise sheet
+"Divina Commedia Inferno I-VI (Dante, Project Gutenberg).txt",Italian only,no,skip,no,,"Dante's Italian, public domain (Project Gutenberg #1000), used only to align the class translation"

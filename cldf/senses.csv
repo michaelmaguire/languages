@@ -1,4 +1,5 @@
 ID,Description,Entry_ID,Description_English,Status,Unsure_About,Comment,Source,Example_IDs
+01-01-2024-celso-tantardini,Celso Tantardini,01-01-2024,,attested,,,nuvant-ann[l.62],
 a-denta-ticinese-a-in,"a, in",a-denta-ticinese,at,attested,,,owner-spreadsheet,
 a-n-gran-ticinese-ad-una-grande,ad una grande,a-n-gran-ticinese,to a great,attested,,,2025-02-19-poesie-in-dialetto[l.18],
 a-pena-duma-ticinese-appena-solo,"appena, solo",a-pena-duma-ticinese,only,attested,,,owner-spreadsheet,
@@ -10,7 +11,8 @@ al-bagat-al-sciavatin-il-calzolaio,il calzolaio,al-bagat-al-sciavatin,the shoema
 al-banchee-il-banchiere,il banchiere,al-banchee,the banker,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.122],
 al-barbee-il-barbiere,il barbiere,al-barbee,the barber,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.140],
 al-bechin-il-becchino,il becchino,al-bechin,the gravedigger,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.138],
-al-cald-il-caldo,il caldo,al-cald,the heat,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.75],cors-da-dialet-da-rogn-1-144;espressioni-in-italiano-537;frasi-fatte-docx-82;imperativo-pdf-186
+al-biscnonu-il-bisnonno,il bisnonno,al-biscnonu,great-grandfather,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.7],
+al-cald-il-caldo,il caldo,al-cald,the heat,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.75],cors-da-dialet-da-rogn-1-144;espressioni-in-italiano-537;frasi-fatte-docx-82;imperativo-pdf-186;i-duu-magnan-docx-11;i-duu-magnan-docx-52
 al-capcantee-il-capocantiere,il capocantiere,al-capcantee,the site foreman,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.151],
 al-cardinaa-il-cardinale,il cardinale,al-cardinaa,the cardinal,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.135],
 al-carnevaa-il-carnevale,il carnevale,al-carnevaa,carnival,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.83],
@@ -21,17 +23,20 @@ al-e-na-stela-basso-ceresio-al-e-na-pioda,al‘è na pioda,al-e-na-stela-basso-c
 al-faree-il-fabbro,il fabbro,al-faree,the blacksmith,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.144],
 al-fiuriscta-il-fiorista,il fiorista,al-fiuriscta,the florist,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.132],
 al-frecc-il-freddo,il freddo,al-frecc,the cold,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.74],cors-da-dialet-da-rogn-1-36-2;cors-da-dialet-da-rogn-1-22-4;cors-da-dialet-da-rogn-1-74-2;imperativo-pdf-190;varie-situazioni-docx-52
+al-fredel-i-fredei-il-fratello-i-fratelli,il fratello – i fratelli,al-fredel-i-fredei,brother – brothers,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.57],
 al-furmagiatt-il-casaro,il casaro,al-furmagiatt,the cheesemaker,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.133],
+al-gener-il-genero,il genero,al-gener,son-in-law,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.59],frasi-fai-1-copia-docx-25
 al-gota-pioviggina,pioviggina,al-gota,it is drizzling,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.70],
 al-ladru-il-ladro,il ladro,al-ladru,the thief,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.148],
 al-latunee-il-lattoniere,il lattoniere,al-latunee,the tinsmith,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.126],
 al-legnamee-il-falegname,il falegname,al-legnamee,the carpenter (joiner),attested,,,cors-da-dialet-da-rogn-9a-leziun[l.145],
 al-macelar-il-macellaio,il macellaio,al-macelar,the butcher,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.115],
-al-maesctru-il-maestro,il maestro,al-maesctru,the teacher,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.116],
+al-maesctru-il-maestro,il maestro,al-maesctru,the teacher,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.116],vari-canti-divina-commed-108;vari-canti-divina-commed-160;vari-canti-divina-commed-183;vari-canti-divina-commed-207
 al-magnan-lo-stagnino,lo stagnino,al-magnan,the tinker,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.158],
 al-mes-il-mese,il mese,al-mes,the month,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.40],
 al-muradu-il-muratore,il muratore,al-muradu,the bricklayer,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.149],
 al-natal-il-natale,il Natale,al-natal,Christmas,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.86],brevi-frasi-pdf-42
+al-neut-il-nipote,il nipote,al-neut,"grandson, nephew",supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.33],
 al-paesan-il-contadino,il contadino,al-paesan,the farmer,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.121],
 al-parpaia-il-nevischio,il nevischio,al-parpaia,the sleet,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.68],
 al-pasticiee-il-pasticciere,il pasticciere,al-pasticiee,the pastry chef,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.119],
@@ -72,6 +77,7 @@ al-un-piviun-il-un-piccione,il/un piccione,al-un-piviun,the/a pigeon,attested,,i
 al-un-puioo-il-un-pulcino,il/un pulcino,al-un-puioo,the/a chick,attested,,i puiöö,cors-da-dialet-da-rogn-6a-leziun[l.8],
 al-un-tachin-il-un-tacchino,il/un tacchino,al-un-tachin,the/a turkey,attested,,i tachin,cors-da-dialet-da-rogn-6a-leziun[l.10],
 al-vescuf-il-vescovo,il vescovo,al-vescuf,the bishop,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.136],cors-da-dialet-da-rogn-1-27-2
+al-ziu-lo-zio,lo zio,al-ziu,uncle,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.23],
 ala-bona-basso-ceresio-alla-buona,alla buona,ala-bona-basso-ceresio,"simple, unpretentious",attested,,also: andant,dizionario-con-filastrocche-di-r-gaggini[l.78],
 albicocch-basso-ceresio-albicocche,albicocche,albicocch-basso-ceresio,apricots,attested,,also: remignagh,dizionario-con-filastrocche-di-r-gaggini[l.211],
 almen-ticinese-almeno,almeno,almen-ticinese,at least,attested,,,owner-spreadsheet,
@@ -95,7 +101,7 @@ bacuch-basso-ceresio-vecchio,vecchio,bacuch-basso-ceresio,old,attested,,also: ve
 bagnaa-basso-ceresio-bagnato,bagnato,bagnaa-basso-ceresio,wet,attested,,also: masaraa,dizionario-con-filastrocche-di-r-gaggini[l.170],
 bala-biott-ticinese-nudist,nudista,bala-biott-ticinese,nudist,attested,,,owner-spreadsheet,
 balduchin-baldacchino,baldacchino,balduchin,canopy,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.10],
-barbiis-baffi,baffi,barbiis,moustache,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.86],
+barbiis-baffi,baffi,barbiis,moustache,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.86],cors-da-dialet-da-rogn-1-102-2
 bareta-berretto,berretto,bareta,cap,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.69],
 bareta-scuffia-cuffia,cuffia,bareta-scuffia,bonnet / woolly hat,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.73],
 basas-basso-ceresio-limuna,baciarsi,basas-basso-ceresio,to kiss,attested,,also: baciarsi,dizionario-con-filastrocche-di-r-gaggini[l.164],
@@ -105,7 +111,7 @@ beige-beige,beige,beige,beige,supplied,,Italian and English supplied; the lesson
 bel-temp-bel-tempo,bel tempo,bel-temp,good weather,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.60],
 ben-ticinese-bene-ben,bene/ben,ben-ticinese,well,attested,,,owner-spreadsheet,
 bevuda-basso-ceresio-sorso,sorso,bevuda-basso-ceresio,sip,attested,,also: gurada,dizionario-con-filastrocche-di-r-gaggini[l.158],
-bianc-bianco,bianco,bianc,white,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.219],cors-da-dialet-da-rogn-1-77;espressioni-in-italiano-395;frasi-fatte-docx-240;go-i-cavii-bianc
+bianc-bianco,bianco,bianc,white,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.219],cors-da-dialet-da-rogn-1-77;espressioni-in-italiano-395;frasi-fatte-docx-240;i-duu-magnan-docx-38-2;i-duu-magnan-docx-98;go-i-cavii-bianc
 bicer-bicchiere,bicchiere,bicer,glass,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.29],cors-da-dialet-da-rogn-1-67-3
 bicerin-basso-ceresio-piccolo-bicchiere,piccolo bicchiere,bicerin-basso-ceresio,small glass,attested,,also: cichétt,dizionario-con-filastrocche-di-r-gaggini[l.117],
 biott-ticinese-lombrico,lombrico,biott-ticinese,earthworm,attested,,,owner-spreadsheet,
@@ -113,7 +119,7 @@ biott-ticinese-nudo,nudo,biott-ticinese,naked,attested,,,owner-spreadsheet,
 biroll-basso-ceresio-castagne,castagne,biroll-basso-ceresio,chestnuts,attested,,also: castégn,dizionario-con-filastrocche-di-r-gaggini[l.91],
 blo-blu,blu,blo,blue,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.216],
 blusc-blusa-da-lavoro,blusa (da lavoro),blusc,work smock,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.63],
-boca-bocca,bocca,boca,mouth,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.95],espressioni-in-italiano-237;espressioni-in-italiano-296;acqua-n-boca
+boca-bocca,bocca,boca,mouth,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.95],espressioni-in-italiano-237;espressioni-in-italiano-296;i-duu-magnan-docx-17;vari-canti-divina-commed-523;acqua-n-boca
 bocc-ticinese-bucco,buco,bocc-ticinese,hole,attested,,,owner-spreadsheet,
 bona-sirada-ticinese-buona-serata,buona serata,bona-sirada-ticinese,good evening,attested,,,owner-spreadsheet,
 bonisim-ticinese-buonissima,buonissima,bonisim-ticinese,very good,attested,,,owner-spreadsheet,
@@ -143,8 +149,8 @@ calzon-basso-ceresio-calzone,calzone,calzon-basso-ceresio,trouser leg,attested,,
 calzon-braag-pantaloni,pantaloni,calzon-braag,trousers,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.45],
 calzon-pantaloni,pantaloni,calzon,trousers,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.25],
 calzular-basso-ceresio-calzolaio,calzolaio,calzular-basso-ceresio,shoemaker,attested,,also: bagátt,dizionario-con-filastrocche-di-r-gaggini[l.94],
-camin-camino,camino,camin,fireplace,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.31],cors-da-dialet-da-rogn-9-11
-camina-camminare,camminare,camina,to walk,attested,,,il-gerundio;imperativo,varie-situazioni-docx-97
+camin-camino,camino,camin,fireplace,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.31],cors-da-dialet-da-rogn-9-11;i-duu-magnan-docx-13
+camina-camminare,camminare,camina,to walk,attested,,,il-gerundio;imperativo,varie-situazioni-docx-97;vari-canti-divina-commed-28
 camisa-camicia,camicia,camisa,shirt,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.49],cors-da-dialet-da-rogn-1-55-2;varie-situazioni-docx-54;varie-situazioni-docx-82
 camisa-camis-camicia-camicie,camicia/camicie,camisa-camis,shirt/shirts,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.25],
 camisetta-camicetta,camicetta,camisetta,blouse,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.50],
@@ -152,7 +158,7 @@ can-cane,cane,can,dog,supplied,,Italian and English supplied; the lesson gives t
 canta-cantare,cantare,canta,to sing,attested,,,cors-da-dialett-da-rogn-lezium-1-e-2;cors-da-dialet-da-rogn-18a-leziun;il-gerundio;imperativo,cors-da-dialet-da-rogn-1-265;cors-da-dialet-da-rogn-1-327;espressioni-in-italiano-607;frasi-fatte-docx-53
 canvela-caviglia,caviglia,canvela,ankle,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.112],
 canzon-ticinese-canzone,canzone,canzon-ticinese,song,attested,,,2025-02-19-poesie-in-dialetto[l.71],
-capel-cappello,cappello,capel,hat,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.56],
+capel-cappello,cappello,capel,hat,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.56],espressioni-in-italiano-469
 capi-capire,capire,capi,to understand,attested,,,il-gerundio,
 caramell-basso-ceresio-caramelle,caramelle,caramell-basso-ceresio,sweets,attested,,also: bum bon,dizionario-con-filastrocche-di-r-gaggini[l.102],
 careta-carriola,carriola,careta,wheelbarrow,attested,,,cors-da-dialet-da-rogn-13a-leziun[l.101],
@@ -186,7 +192,7 @@ cherubini-bin-basso-ceresio-achille-chile,Achille Chile,cherubini-bin-basso-cere
 chi-ca-ticinese-chi,chi,chi-ca-ticinese,who,attested,,chi ca parla? = who is speaking?,owner-spreadsheet,
 chi-ticinese-qui-precise-qua-imprecise,"qui (precise), qua (imprecise)",chi-ticinese,here,attested,,,owner-spreadsheet,
 ciao-salut-ticinese-ciao,ciao,ciao-salut-ticinese,goodbye,attested,,,owner-spreadsheet,
-ciapa-prendere,prendere,ciapa,to take,attested,,,cors-da-dialet-da-rogn-8a-leziun;cors-da-dialett-da-rogn-lezium-1-e-2;il-condizionale-presente;cors-da-dialet-da-rogn-17a-leziun;il-gerundio;imperativo,2025-10-13-articolo-cdt-55;cors-da-dialet-da-rogn-1-35;cors-da-dialet-da-rogn-1-58-2;il-condizionale-presente-103;brevi-frasi-pdf-137;dialoghi-a-lugano-pdf-554;espressioni-in-italiano-104;espressioni-in-italiano-191;espressioni-in-italiano-214;espressioni-in-italiano-254;imperativo-14-4-2025-pdf-38
+ciapa-prendere,prendere,ciapa,to take,attested,,,cors-da-dialet-da-rogn-8a-leziun;cors-da-dialett-da-rogn-lezium-1-e-2;il-condizionale-presente;cors-da-dialet-da-rogn-17a-leziun;il-gerundio,2025-10-13-articolo-cdt-55;cors-da-dialet-da-rogn-1-35;cors-da-dialet-da-rogn-1-58-2;il-condizionale-presente-103;brevi-frasi-pdf-137;dialoghi-a-lugano-pdf-554;espressioni-in-italiano-104;espressioni-in-italiano-191;espressioni-in-italiano-214;espressioni-in-italiano-254;imperativo-14-4-2025-pdf-38
 ciapaa-dal-lavor-basso-ceresio-preso-dal-lavoro,preso dal lavoro,ciapaa-dal-lavor-basso-ceresio,caught up in work,attested,,also: cataa dal lavor,dizionario-con-filastrocche-di-r-gaggini[l.109],
 ciapar-take-myself-ticinese-prendere,prendere,ciapar-take-myself-ticinese,take,attested,,"ciapàmm, ciapàtt, ciapàll, ciapànn, ciapàv, ciapài",owner-spreadsheet,
 ciapp-natiche,natiche,ciapp,buttocks,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.109],
@@ -210,7 +216,7 @@ cosa-ticinese-che-cosa,"che,cosa",cosa-ticinese,what,attested,,,owner-spreadshee
 cost-bietole,bietole,cost,chard,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.2],
 cramp-basso-ceresio-crampo,crampo,cramp-basso-ceresio,cramp,attested,,also: ranf,dizionario-con-filastrocche-di-r-gaggini[l.205],
 crapin-ticinese-testolina,testolina,crapin-ticinese,little head,attested,,,2025-02-19-poesie-in-dialetto[l.66],
-cred-credere,credere,cred,to believe,attested,,,il-gerundio;imperativo,il-condizionale-passato-38;il-condizionale-passato-43;dialoghi-a-lugano-pdf-197;domande-di-vario-tipo-do-23;domande-di-vario-tipo-do-83;frasi-fai-1-copia-docx-19;frasi-fai-1-copia-docx-37
+cred-credere,credere,cred,to believe,attested,,,il-gerundio;imperativo,il-condizionale-passato-38;il-condizionale-passato-43;dialoghi-a-lugano-pdf-197;domande-di-vario-tipo-do-23;domande-di-vario-tipo-do-83;frasi-fai-1-copia-docx-19;frasi-fai-1-copia-docx-37;vari-canti-divina-commed-220
 crem-ticinese-panna,panna,crem-ticinese,cream,attested,,,owner-spreadsheet,
 cribbiu-scurin-scolapasta,scolapasta,cribbiu-scurin,colander,attested,,,cors-da-dialett-da-rogn-5a-leziun[l.46],
 cucumar-cetriolo,cetriolo,cucumar,cucumber,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.26],
@@ -218,12 +224,12 @@ cuert-coperta,coperta,cuert,blanket,supplied,,Italian and English supplied; the 
 cugiaa-cucchiaio,cucchiaio,cugiaa,spoon,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.29],
 cugiaa-da-legn-cucchiai-di-legno,cucchiai di legno,cugiaa-da-legn,wooden spoons,attested,,,cors-da-dialett-da-rogn-5a-leziun[l.40],
 cugiarin-cucchiaino,cucchiaino,cugiarin,teaspoon,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.29],
-cugnaa-cognato,cognato,cugnaa,brother-in-law,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.124],
+cugnaa-cognato,cognato,cugnaa,brother-in-law,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.124],vari-canti-divina-commed-541
 cugnada-cognata,cognata,cugnada,sister-in-law,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.125],
 cugnoss-ticinese-conosce,conosce,cugnoss-ticinese,know,attested,,,owner-spreadsheet,
-culor-o-culur-colore,colore,culor-o-culur,colour,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.215],frasi-fai-1-copia-docx-16;frasi-fatte-docx-222;varie-situazioni-docx-76;varie-situazioni-docx-77;varie-situazioni-docx-79;100-frasi-utili-per-qu-4;100-frasi-utili-per-qu-56
+culor-o-culur-colore,colore,culor-o-culur,colour,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.215],frasi-fai-1-copia-docx-16;frasi-fatte-docx-222;varie-situazioni-docx-76;varie-situazioni-docx-77;varie-situazioni-docx-79;100-frasi-utili-per-qu-4;100-frasi-utili-per-qu-56;vari-canti-divina-commed-104
 cuma-ticinese-come,come,cuma-ticinese,how,attested,,cuma nem? = how are we?,owner-spreadsheet,
-cumincia-incominciare,incominciare,cumincia,to begin,attested,,,il-gerundio;imperativo,
+cumincia-incominciare,incominciare,cumincia,to begin,attested,,,il-gerundio;imperativo,vari-canti-divina-commed-311
 cumo-como,comò,cumo,chest of drawers,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.10],
 cumudin-comodino,comodino,cumudin,bedside table,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.9],
 cuntra-ticinese-contro,contro,cuntra-ticinese,against,attested,,,owner-spreadsheet,
@@ -238,7 +244,7 @@ cusi-basso-ceresio-cucire,cucire,cusi-basso-ceresio,sew,attested,,also: punciá,
 cusi-cucire,cucire,cusi,to sew,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,
 cusin-cugino,cugino,cusin,cousin (male),attested,,,cors-da-dialett-da-rogn-4a-leziun[l.132],
 cusin-cuscino,cuscino,cusin,pillow,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.10],
-cusina-cucinare,cucinare,cusina,to cook,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,cors-da-dialet-da-rogn-9-12;dialoghi-a-lugano-pdf-285;domande-di-vario-tipo-do-23;domande-di-vario-tipo-do-93;imperativo-pdf-185
+cusina-cucinare,cucinare,cusina,to cook,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,cors-da-dialet-da-rogn-9-12;dialoghi-a-lugano-pdf-285;domande-di-vario-tipo-do-23;domande-di-vario-tipo-do-93;imperativo-pdf-185;i-duu-magnan-docx-6
 cutin-basso-ceresio-sutana,sottana,cutin-basso-ceresio,petticoat,attested,,also: sottana,dizionario-con-filastrocche-di-r-gaggini[l.127],
 cuton-basso-ceresio-cotone,cotone,cuton-basso-ceresio,cotton,attested,,also: réff,dizionario-con-filastrocche-di-r-gaggini[l.206],
 cuu-basso-ceresio-culo,culo,cuu-basso-ceresio,arse,attested,,also: tafanari,dizionario-con-filastrocche-di-r-gaggini[l.261],
@@ -259,7 +265,7 @@ danee-basso-ceresio-denaro,denaro,danee-basso-ceresio,money,attested,,also: pala
 davanzal-basso-ceresio-davanzale,davanzale,davanzal-basso-ceresio,windowsill,attested,,also: scoss,dizionario-con-filastrocche-di-r-gaggini[l.242],
 decim-ticinese-un-decimo,un decimo,decim-ticinese,tenth,attested,,,owner-spreadsheet,
 denc-da-leon-dente-di-leone,dente di leone,denc-da-leon,dandelion,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.35],
-denc-dente,dente,denc,tooth,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.96],
+denc-dente,dente,denc,tooth,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.96],espressioni-in-italiano-291
 denta-ticinese-dentro,dentro,denta-ticinese,inside,attested,,,owner-spreadsheet,
 denta-ticinese-in,in,denta-ticinese,in,attested,,,owner-spreadsheet,
 dersett-diciassette,diciassette,dersett,seventeen,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.248],varie-situazioni-docx-6
@@ -285,6 +291,8 @@ dormi-dormire,dormire,dormi,to sleep,attested,,,cors-da-dialett-da-rogn-lezium-1
 du-due,due,du,two,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.233],
 duman-domani,domani,duman,tomorrow,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.35],cors-da-dialet-da-rogn-1-43;il-condizionale-passato-33;il-condizionale-presente-49;il-condizionale-presente-111;il-condizionale-presente-124;frasi-fai-1-copia-docx-81;frasi-fatte-docx-33;imperativo-pdf-206;varie-situazioni-docx-20;varie-situazioni-docx-47;varie-situazioni-docx-48;varie-situazioni-docx-55;100-frasi-utili-per-qu-9;100-frasi-utili-per-qu-49;100-frasi-utili-per-qu-72
 dumeniga-domenica,domenica,dumeniga,Sunday,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-6a-leziun[l.87],
+dupra-adoperare,adoperare,dupra,to use,attested,,,dialoghi-a-lugano;varie-situazioni;imperativo;frasi-fai-1-copia;ul-nos-topolino,
+dupra-usare,usare,dupra,,attested,,Italian synonym of adoperare,dialoghi-a-lugano;varie-situazioni;imperativo;frasi-fai-1-copia;ul-nos-topolino,
 duve-dovere,dovere,duve,to have to,attested,,,il-condizionale-presente,
 e-insema-col-ticinese-con,con,e-insema-col-ticinese,with,attested,,,owner-spreadsheet,
 e-po-ticinese-inoltre,inoltre,e-po-ticinese,moreover,attested,,,owner-spreadsheet,
@@ -314,7 +322,7 @@ fidic-fegato,fegato,fidic,liver,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.1
 fina-quant-ticinese-finche,finché,fina-quant-ticinese,as long as,attested,,,owner-spreadsheet,
 finestra-finestra,finestra,finestra,window,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.14],
 fioo-basso-ceresio-ragazzi,ragazzi,fioo-basso-ceresio,boys / kids,attested,,also: bagaj,dizionario-con-filastrocche-di-r-gaggini[l.82],
-fioo-figlio,figlio,fioo,son,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.119],cors-da-dialet-da-rogn-1-32-5;frasi-fatte-docx-226;varie-situazioni-docx-6
+fioo-figlio,figlio,fioo,son,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.119],cors-da-dialet-da-rogn-1-32-5;frasi-fatte-docx-226;varie-situazioni-docx-6;i-duu-magnan-docx-6
 fischia-basso-ceresio-fischiare,fischiare,fischia-basso-ceresio,to whistle,attested,,also: cifulá,dizionario-con-filastrocche-di-r-gaggini[l.118],
 fo-faggio,faggio,fo,beech,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.5],
 fo-ticinese-fuori,fuori,fo-ticinese,out,attested,,,owner-spreadsheet,
@@ -348,13 +356,15 @@ garland-narciso,narciso,garland,daffodil,attested,,,cors-da-dialet-da-rogn-14a-l
 genaar-ticinese-gennaio,gennaio,genaar-ticinese,January,attested,,,owner-spreadsheet,
 genar-genero,genero,genar,son-in-law,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.127],
 genar-gennaio,gennaio,genar,January,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-6a-leziun[l.88],
-gent-genitori,genitori,gent,parents,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.134],dialoghi-a-lugano-pdf-541;varie-situazioni-docx-39
+gent-genitori,genitori,gent,parents,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.134],frasi-di-ultranovantenni-34;dialoghi-a-lugano-pdf-541;varie-situazioni-docx-39
 gerani-geranio,geranio,gerani,geranium,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.31],
 ghett-ghette,ghette,ghett,gaiters,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.52],
+gheva-posct-par-tucc-quando-abbiamo-potuto-siamo,quando abbiamo potuto siamo tornat,gheva-posct-par-tucc,,attested,,,nuvant-ann[l.24],
 gia-ticinese-gia,già,gia-ticinese,already,attested,,,owner-spreadsheet,
 giachetin-golfino,golfino,giachetin,cardigan,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.67],
 giall-giallo,giallo,giall,yellow,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.217],
 ginocc-genocc-ginocchio,ginocchio,ginocc-genocc,knee,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.111],
+gio-giu,giù,gio,down,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-9a-leziun[l.10],
 gioga-giocare,giocare,gioga,to play,attested,,,cors-da-dialett-da-rogn-3a-leziun,
 giovanni-nani-basso-ceresio-simona-simo,Simona Simo,giovanni-nani-basso-ceresio,,attested,,,dizionario-con-filastrocche-di-r-gaggini[l.55],
 gipunin-basso-ceresio-maieta,maglietta,gipunin-basso-ceresio,vest / undershirt,attested,,also: maglietta,dizionario-con-filastrocche-di-r-gaggini[l.153],
@@ -369,14 +379,18 @@ giuseppe-pepp-pepin-basso-ceresio-gianni-iani,Gianni Iani,giuseppe-pepp-pepin-ba
 go-pagura-basso-ceresio-scuagia,ho paura,go-pagura-basso-ceresio,I am afraid,attested,,also: aver paura,dizionario-con-filastrocche-di-r-gaggini[l.243],
 grand-basso-ceresio-misura-abbondante,misura abbondante,grand-basso-ceresio,generous measure,attested,,also: agius,dizionario-con-filastrocche-di-r-gaggini[l.81],
 gris-grigio,grigio,gris,grey,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.226],cors-da-dialet-da-rogn-1-147;frasi-fatte-docx-240
-guarda-guardare,guardare,guarda,to look at,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,cors-da-dialet-da-rogn-1-38-2;brevi-frasi-pdf-18;brevi-frasi-pdf-96;dialoghi-a-lugano-pdf-261;frasi-fai-1-copia-docx-144;varie-situazioni-docx-89;varie-situazioni-docx-97;100-frasi-utili-per-qu-20;100-frasi-utili-per-qu-56;100-frasi-utili-per-qu-99
+guarda-guardare,guardare,guarda,to look at,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,cors-da-dialet-da-rogn-1-38-2;brevi-frasi-pdf-18;brevi-frasi-pdf-96;dialoghi-a-lugano-pdf-261;frasi-fai-1-copia-docx-144;varie-situazioni-docx-89;varie-situazioni-docx-97;100-frasi-utili-per-qu-20;100-frasi-utili-per-qu-56;100-frasi-utili-per-qu-99;i-duu-magnan-docx-16;i-duu-magnan-docx-44;2025-12-01-canto-1-della-17;vari-canti-divina-commed-297
 gudazz-basso-ceresio-padrino,padrino,gudazz-basso-ceresio,godfather,attested,,also: padrin,dizionario-con-filastrocche-di-r-gaggini[l.157],
 gumbat-gomito,gomito,gumbat,elbow,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.100],cors-da-dialet-da-rogn-1-73
 gurgunzola-basso-ceresio-gorgonzola,gorgonzola,gurgunzola-basso-ceresio,gorgonzola,attested,,also: strachin,dizionario-con-filastrocche-di-r-gaggini[l.253],
 guzaa-ticinese-appuntite,appuntite,guzaa-ticinese,sharpened,attested,,,2025-02-19-poesie-in-dialetto[l.77],
-i-numar-i-numeri,i numeri,i-numar,numbers,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.10],
+i-biscnoni-i-bisnonni,i bisnonni,i-biscnoni,great-grandparents,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.9],
+i-neut-i-nipoti,i nipoti,i-neut,"grandchildren, nephews and nieces",supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.35],
+i-noni-i-nonni,i nonni,i-noni,grandparents,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.17],
+i-numar-i-numeri,i numeri,i-numar,numbers,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.10],nuvant-ann-pdf-3
 i-scires-la-sciresa,la sciresa,i-scires,the cherry,pending,split,,cors-da-dialett-da-rogn-lezium-1-e-2[l.259],
 i-stell-ticinese-le-stelle,le stelle,i-stell-ticinese,the stars,attested,,,2025-02-19-poesie-in-dialetto[l.35],
+i-zii-gli-zii,gli zii,i-zii,uncles and aunts,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.25],
 idraulic-basso-ceresio-idraulico,idraulico,idraulic-basso-ceresio,plumber,attested,,also: trumbée,dizionario-con-filastrocche-di-r-gaggini[l.269],
 ier-ieri,ieri,ier,yesterday,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.37],
 imbut-basso-ceresio-imbuto,imbuto,imbut-basso-ceresio,funnel,attested,,also: pedriöö,dizionario-con-filastrocche-di-r-gaggini[l.189],
@@ -424,15 +438,17 @@ l-un-uroc-l-un-allocco,l’/un allocco,l-un-uroc,the/a tawny owl,attested,,i uro
 l-urtulan-il-fruttivendolo,il fruttivendolo,l-urtulan,the greengrocer,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.139],
 l-urulugee-l-orologiaio,l’orologiaio,l-urulugee,the watchmaker,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.146],
 la-barbera-la-parrucchiera,la parrucchiera,la-barbera,the hairdresser,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.142],
+la-biscnona-la-bisnonna,la bisnonna,la-biscnona,great-grandmother,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.8],
 la-boca-ticinese-la-bocca,la bocca,la-boca-ticinese,the mouth,attested,,,2025-02-19-poesie-in-dialetto[l.15],
 la-brugna-i-brugn-la-prugna-le-prugne,la prugna – le prugne,la-brugna-i-brugn,plum – plums,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.17],
 la-casera-la-cassiera,la cassiera,la-casera,the cashier,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.156],
 la-culaziun-la-colazione,la colazione,la-culaziun,breakfast,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.51],
+la-cusina-la-cugina,la cugina,la-cusina,cousin (female),supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.51],
 la-dona-da-ca-la-casalinga,la casalinga,la-dona-da-ca,the housewife,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.129],
 la-festa-dala-mamm-la-festa-della-mamma,la Festa della Mamma,la-festa-dala-mamm,Mother's Day,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.88],
 la-fruta-la-frutta,la frutta,la-fruta,fruit,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.17],espressioni-in-italiano-75;varie-situazioni-docx-37
 la-magiosctra-i-magiosctri-la-fragola-le-fragole,la fragola – le fragole,la-magiosctra-i-magiosctri,strawberry – strawberries,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.17],
-la-matina-il-mattino,il mattino,la-matina,the morning,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.28],cors-da-dialet-da-rogn-1-5-2;cors-da-dialet-da-rogn-1-306;cors-da-dialet-da-rogn-1-309;cors-da-dialet-da-rogn-1-315;frasi-fai-1-copia-docx-100;frasi-fai-1-copia-docx-140;frasi-fai-1-copia-docx-146;varie-situazioni-docx-99
+la-matina-il-mattino,il mattino,la-matina,the morning,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.28],cors-da-dialet-da-rogn-1-5-2;cors-da-dialet-da-rogn-1-306;cors-da-dialet-da-rogn-1-309;cors-da-dialet-da-rogn-1-315;frasi-fai-1-copia-docx-100;frasi-fai-1-copia-docx-140;frasi-fai-1-copia-docx-146;varie-situazioni-docx-99;i-duu-magnan-docx-23
 la-mia-setimana-la-mia-settimana,la mia settimana,la-mia-setimana-2,my week,pending,split,,varie-situazioni[l.94],
 la-muneda-danee-ticinese-i-soldi,i soldi,la-muneda-danee-ticinese,money,attested,,,owner-spreadsheet,
 la-na-bisa-la-una-biscia,la/una biscia,la-na-bisa,the/a grass snake,attested,,i biss,cors-da-dialet-da-rogn-6a-leziun[l.77],
@@ -461,8 +477,10 @@ la-na-vespa-la-una-vespa,la/una vespa,la-na-vespa,the/a wasp,attested,,i vesp,co
 la-na-vigia-l-un-ape,l’/un’ape,la-na-vigia,the/a bee,attested,,i vigg,cors-da-dialet-da-rogn-6a-leziun[l.74],
 la-nebia-la-nebbia,la nebbia,la-nebia,the fog,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.73],
 la-nef-la-fioca-la-neve,la neve,la-nef-la-fioca,the snow,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.63],
-la-nocc-la-notte,la notte,la-nocc,the night,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.32],cors-da-dialet-da-rogn-1-32-3;espressioni-in-italiano-395;frasi-fatte-docx-88
+la-neuda-la-nipote,la nipote,la-neuda,"granddaughter, niece",supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.34],
+la-nocc-la-notte,la notte,la-nocc,the night,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.32],cors-da-dialet-da-rogn-1-32-3;espressioni-in-italiano-395;frasi-fatte-docx-88;i-duu-magnan-docx-1;i-duu-magnan-docx-11
 la-nocc-ticinese-la-notte,la notte,la-nocc-ticinese-2,the night,attested,,,2025-02-19-la-nocc-e-carisna[l.1],
+la-nona-la-nonna,la nonna,la-nona,grandmother,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.16],
 la-pasqueta-la-pasquetta,la Pasquetta,la-pasqueta,Easter Monday,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.85],
 la-pera-i-per-la-pera-le-pere,la pera – le pere,la-pera-i-per,pear – pears,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.17],
 la-poma-i-pomm-la-mela-le-mele,la mela – le mele,la-poma-i-pomm,apple – apples,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.17],
@@ -473,9 +491,12 @@ la-scara-i-scar-la-scala,la scala,la-scara-i-scar,the stairs,attested,,,cors-da-
 la-scena-la-cena,la cena,la-scena,dinner,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.54],brevi-frasi-pdf-31;frasi-fai-1-copia-docx-146
 la-sciresa-i-scires-la-ciliegia-le-ciliegie,la ciliegia – le ciliegie,la-sciresa-i-scires,cherry – cherries,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.17],
 la-setimana-la-settimana,la settimana,la-setimana,the week,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.39],2025-10-13-articolo-cdt-53;varie-situazioni-docx-14;varie-situazioni-docx-39;100-frasi-utili-per-qu-10;100-frasi-utili-per-qu-101
-la-sira-la-sera,la sera,la-sira,the evening,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.31],cors-da-dialet-da-rogn-1-57;cors-da-dialet-da-rogn-1-31-2;cors-da-dialet-da-rogn-1-306;cors-da-dialet-da-rogn-1-309;cors-da-dialet-da-rogn-1-315;brevi-frasi-pdf-7;dialoghi-a-lugano-pdf-193;dialoghi-a-lugano-pdf-518;dialoghi-a-lugano-pdf-578;imperativo-pdf-206;varie-situazioni-docx-47;varie-situazioni-docx-48;varie-situazioni-docx-97;varie-situazioni-docx-99;100-frasi-utili-per-qu-53
+la-sira-la-sera,la sera,la-sira,the evening,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.31],cors-da-dialet-da-rogn-1-57;cors-da-dialet-da-rogn-1-31-2;cors-da-dialet-da-rogn-1-306;cors-da-dialet-da-rogn-1-309;cors-da-dialet-da-rogn-1-315;brevi-frasi-pdf-7;dialoghi-a-lugano-pdf-193;dialoghi-a-lugano-pdf-518;dialoghi-a-lugano-pdf-578;imperativo-pdf-206;varie-situazioni-docx-47;varie-situazioni-docx-48;varie-situazioni-docx-97;varie-situazioni-docx-99;100-frasi-utili-per-qu-53;i-duu-magnan-docx-72-4
+la-sosura-la-suocera,la suocera,la-sosura,mother-in-law,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.47],
+la-surela-i-surell-la-sorella-le-sorelle,la sorella – le sorelle,la-surela-i-surell,sister – sisters,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.58],
 la-tempesta-la-grandine,la grandine,la-tempesta,the hail,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.65],
 la-una-galina-la-una-gallina,la/una gallina,la-una-galina,the/a hen,attested,,i galin; coccodee,cors-da-dialet-da-rogn-6a-leziun[l.6],cors-da-dialet-da-rogn-1-108
+la-zia-la-zia,la zia,la-zia,aunt,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-19a-leziun[l.24],
 labri-labbra,labbra,labri,lips,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.92],
 lacc-latte-basso-ceresio-si-pronunciano-sempre-d,si pronunciano sempre dolci:,lacc-latte-basso-ceresio,always pronounced soft:,attested,,tecc – tetto; magg - maggio,dizionario-con-filastrocche-di-r-gaggini[l.31],
 lampada-lampada,lampada,lampada,lamp,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.31],
@@ -483,20 +504,20 @@ laras-larice,larice,laras,larch,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.1
 laur-loiro-alloro,alloro,laur-loiro,bay laurel,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.12],
 lava-lavare,lavare,lava,to wash,attested,,,il-gerundio,
 lavandin-lavandino,lavandino,lavandin,sink,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.23],
-lavas-lavarsi,lavarsi,lavas,to wash oneself,attested,,,cors-da-dialett-da-rogn-lezium-1-e-2;cors-da-dialet-da-rogn-18a-leziun;il-gerundio;imperativo,
+lavas-lavarsi,lavarsi,lavas,to wash oneself,attested,,,cors-da-dialett-da-rogn-lezium-1-e-2;cors-da-dialet-da-rogn-18a-leziun;il-gerundio;imperativo,i-duu-magnan-docx-44-2
 le-lula-al-cor-coreva,coreva,le-lula-al-cor,,pending,direction,eva corüü (da); eva; corarà; avrà corüü; sarà,cors-da-dialet-da-rogn-17a-leziun[l.63],
-lecc-o-lencc-leggere,leggere,lecc-o-lencc,to read,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,
+lecc-o-lencc-leggere,leggere,lecc-o-lencc,to read,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,vari-canti-divina-commed-515;vari-canti-divina-commed-527
 lengua-lingua,lingua,lengua,tongue,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.93],
-lenzoo-lenzuolo,lenzuolo,lenzoo,sheet,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.10],
+lenzoo-lenzuolo,lenzuolo,lenzoo,sheet,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.10],i-duu-magnan-docx-87;i-duu-magnan-docx-89
 letin-lettino,lettino,letin,"cot, small bed",supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.6],
-lett-lecc-letto,letto,lett-lecc,bed,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.9],frasi-fai-1-copia-docx-13;frasi-fai-1-copia-docx-100;imperativo-pdf-198;varie-situazioni-docx-89
+lett-lecc-letto,letto,lett-lecc,bed,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.9],frasi-fai-1-copia-docx-13;frasi-fai-1-copia-docx-100;imperativo-pdf-198;varie-situazioni-docx-89;i-duu-magnan-docx-75;i-duu-magnan-docx-87;i-duu-magnan-docx-96
 lisiva-detersivo-lisciva,detersivo (lisciva),lisiva,washing powder,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.21],
 livera-palo-di-ferro,palo di ferro,livera,iron bar,attested,,,cors-da-dialet-da-rogn-13a-leziun[l.94],
 loch-basso-ceresio-orto,orto,loch-basso-ceresio,vegetable garden,attested,,also: ort,dizionario-con-filastrocche-di-r-gaggini[l.166],
 lucernari-basso-ceresio-abbaino,abbaino,lucernari-basso-ceresio,dormer window,attested,,also: abain,dizionario-con-filastrocche-di-r-gaggini[l.165],
 luganes-luganese,luganese,luganes,of the Lugano area,attested,,,2025-10-13-articolo-cdt[l.1],
 lui-luglio,luglio,lui,July,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-6a-leziun[l.88],
-lunedi-lunedi,lunedì,lunedi,Monday,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-6a-leziun[l.87],
+lunedi-lunedi,lunedì,lunedi,Monday,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-6a-leziun[l.87],frasi-fai-1-copia-docx-10;frasi-fatte-docx-51
 lunedi-ticinese-lunedi,lunedi,lunedi-ticinese,Monday,attested,,,owner-spreadsheet,
 luntan-ticinese-lontano,lontano,luntan-ticinese,far,attested,,,owner-spreadsheet,
 lur-ticinese-loro,loro,lur-ticinese,they,attested,,,owner-spreadsheet,
@@ -551,7 +572,7 @@ mena-condurre,condurre,mena,to lead,attested,,,il-condizionale-presente,
 merculdi-mercoledi,mercoledì,merculdi,Wednesday,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialet-da-rogn-6a-leziun[l.87],
 merculdi-ticinese-mercoledi,mercoledi,merculdi-ticinese,Wednesday,attested,,,owner-spreadsheet,
 met-insema-unire,unire,met-insema,to join,attested,,,cors-da-dialett-da-rogn-3a-leziun,
-met-mettere,mettere,met,to put,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,frasi-fatte-docx-51;frasi-fatte-docx-69;frasi-fatte-docx-148;varie-situazioni-docx-52;varie-situazioni-docx-53;100-frasi-utili-per-qu-17;100-frasi-utili-per-qu-88
+met-mettere,mettere,met,to put,attested,,,cors-da-dialett-da-rogn-3a-leziun;il-gerundio;imperativo,cors-da-dialet-da-rogn-1-36-3;frasi-fatte-docx-51;frasi-fatte-docx-69;frasi-fatte-docx-148;varie-situazioni-docx-52;varie-situazioni-docx-53;varie-situazioni-docx-84;100-frasi-utili-per-qu-17;100-frasi-utili-per-qu-88;i-duu-magnan-docx-35;i-duu-magnan-docx-38
 met-su-indossare,indossare,met-su,to put on / wear,attested,,,cors-da-dialet-da-rogn-9a-leziun,
 mez-ticinese-mezzo-a-meta,mezzo/a/metà,mez-ticinese,half,attested,,,owner-spreadsheet,
 mezzanocc-mezzanotte,mezzanotte,mezzanocc,midnight,attested,,,cors-da-dialet-da-rogn-9a-leziun[l.33],
@@ -604,6 +625,7 @@ nuembar-novembre,novembre,nuembar,November,supplied,,Italian and English supplie
 num-ticinese-noi,noi,num-ticinese,we,attested,,,owner-spreadsheet,
 nuri-basso-ceresio-nuvole,nuvole,nuri-basso-ceresio,clouds,attested,,also: nivul,dizionario-con-filastrocche-di-r-gaggini[l.180],
 nus-nos-noce,noce,nus-nos,walnut tree,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.17],
+nuvant-ann-novant-anni,novant’anni,nuvant-ann,,attested,,,nuvant-ann[l.1],
 nuvembar-ticinese-novembre,novembre,nuvembar-ticinese,November,attested,,,owner-spreadsheet,
 o-ticinese-o,o,o-ticinese,or,attested,,,owner-spreadsheet,
 occ-baloss-ticinese-occhi-furbi,"occhi furbi,",occ-baloss-ticinese-2,"cunning eyes,",attested,,,2025-02-19-poesie-in-dialetto[l.44],
@@ -639,7 +661,7 @@ pedagn-gonna,gonna,pedagn,skirt,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.5
 pedrio-ticinese-imbuto,imbuto,pedrio-ticinese,funnel,attested,,,owner-spreadsheet,
 pedrioo-imbuto,imbuto,pedrioo,funnel,attested,,,cors-da-dialet-da-rogn-13a-leziun[l.92],
 pegg-ticinese-peggio,peggio,pegg-ticinese,worse,attested,,,owner-spreadsheet,
-pensa-pensare,pensare,pensa,to think,attested,,,il-condizionale-presente,il-condizionale-passato-40;frasi-fai-1-copia-docx-7;frasi-fai-1-copia-docx-116;frasi-fai-1-copia-docx-146;varie-situazioni-docx-68;100-frasi-utili-per-qu-36
+pensa-pensare,pensare,pensa,to think,attested,,,il-condizionale-presente,il-condizionale-passato-40;brevi-frasi-pdf-31;dialoghi-a-lugano-pdf-193;dialoghi-a-lugano-pdf-562;domande-di-vario-tipo-do-40;domande-di-vario-tipo-do-126;frasi-fai-1-copia-docx-7;frasi-fai-1-copia-docx-72;frasi-fai-1-copia-docx-100;frasi-fai-1-copia-docx-116;frasi-fai-1-copia-docx-140;frasi-fai-1-copia-docx-146;frasi-fatte-docx-31;varie-situazioni-docx-18;varie-situazioni-docx-47;varie-situazioni-docx-68;100-frasi-utili-per-qu-36;i-duu-magnan-docx-72-4;i-duu-magnan-docx-78;vari-canti-divina-commed-450
 per-frutto-pera-pero,pero,per,pear tree,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.23],
 peraa-senza-capelli,senza capelli,peraa,bald,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.85],
 perche-ticinese-perche,perché,perche-ticinese,why,attested,,,owner-spreadsheet,
@@ -687,6 +709,7 @@ pressa-e-la-nocc-ticinese-fretta-e-la-notte,"fretta e la notte,",pressa-e-la-noc
 prima-gia-ticinese-prima-gia,"prima, già",prima-gia-ticinese,before,attested,,,owner-spreadsheet,
 produ-produrre,produrre,produ,to produce,attested,,,il-condizionale-presente,
 prosciutt-basso-ceresio-prosciutto,prosciutto,prosciutt-basso-ceresio,ham,attested,,also: giambôn,dizionario-con-filastrocche-di-r-gaggini[l.149],
+pruvidenza-divina-provvidenza-divina,provvidenza divina.”,pruvidenza-divina,,attested,,,nuvant-ann[l.59],
 pu-ticinese-piu,più,pu-ticinese,more,attested,,,2025-02-19-poesie-in-dialetto[l.65],
 puchisimm-basso-ceresio-pochissimo,pochissimo,puchisimm-basso-ceresio,very little,attested,,also: zichinin,dizionario-con-filastrocche-di-r-gaggini[l.279],
 pude-potere,potere,pode,be able to,rejected,,duplicate of a sense of pode,cors-da-dialet-da-rogn-18a-leziun[l.18],
@@ -724,7 +747,7 @@ ringhiera-ringhiera,ringhiera,ringhiera,railing,supplied,,Italian and English su
 ripian-ripiano,ripiano,ripian,shelf,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.25],
 rit-basso-ceresio-ridere,ridere,rit-basso-ceresio,to laugh,attested,,also: ghignà,dizionario-con-filastrocche-di-r-gaggini[l.151],
 romeo-meo-basso-ceresio-guglielmo-elmo,Guglielmo Elmo,romeo-meo-basso-ceresio,,attested,,,dizionario-con-filastrocche-di-r-gaggini[l.55],
-ros-rosso,rosso,ros,red,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.218],
+ros-rosso,rosso,ros,red,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.218],varie-situazioni-docx-52;varie-situazioni-docx-79;varie-situazioni-docx-84
 rosa-rosa,rosa,rosa,rose,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.27],
 rott-basso-ceresio-rotto,rotto,rott-basso-ceresio,broken,attested,,also: sc’ciapá,dizionario-con-filastrocche-di-r-gaggini[l.233],
 rovra-ruvra-rogora-frutto-gianda-da-quercia,quercia,rovra-ruvra-rogora,oak,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.4],
@@ -757,7 +780,7 @@ scarp-basso-ceresio-scarpe,scarpe,scarp-basso-ceresio,shoes,attested,,also: scia
 scarp-scarpa,scarpa,scarp,shoe,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.43],varie-situazioni-docx-53
 scarpuscia-inciampare,inciampare,scarpuscia,to trip,attested,,,cors-da-dialett-da-rogn-lezium-1-e-2;cors-da-dialet-da-rogn-18a-leziun;il-gerundio;imperativo,
 scatula-scatola,scatola,scatula,box,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-5a-leziun[l.27],frasi-fai-1-copia-docx-91
-scbat-sbattere,sbattere,scbat,to slam,attested,,,cors-da-dialet-da-rogn-7a-leziun,
+scbat-sbattere,sbattere,scbat,to slam,attested,,,cors-da-dialet-da-rogn-7a-leziun,frasi-fai-1-copia-docx-94
 scbrisiga-scivolare,scivolare,scbrisiga,to slip,attested,,,cors-da-dialett-da-rogn-lezium-1-e-2;cors-da-dialet-da-rogn-18a-leziun;il-gerundio;imperativo,
 scervisc-schiumarola,schiumarola,scervisc,skimmer,attested,,,cors-da-dialett-da-rogn-5a-leziun[l.38],
 scfurtunaa-basso-ceresio-sfortunato,sfortunato,scfurtunaa-basso-ceresio,unlucky,attested,,also: disclipaa,dizionario-con-filastrocche-di-r-gaggini[l.136],
@@ -783,7 +806,7 @@ sedela-dal-ruut-secchio-della-spazzatura,secchio della spazzatura,sedela-dal-ruu
 sedela-sedel-secchio,secchio,sedela-sedel,bucket,attested,,,cors-da-dialet-da-rogn-13a-leziun[l.83],
 segez-falcet-ticinese-falcetta,falcetta,segez-falcet-ticinese,sickle,attested,,,owner-spreadsheet,
 seghezz-mezzaluna-per-mietere,mezzaluna per mietere,seghezz,sickle for reaping,attested,,,cors-da-dialet-da-rogn-13a-leziun[l.70],
-semper-ticinese-sempre,sempre,sempru,always,attested,,,owner-spreadsheet,il-condizionale-presente-47;frasi-fai-1-copia-docx-7;frasi-fai-1-copia-docx-31;frasi-fai-1-copia-docx-37;frasi-fai-1-copia-docx-81;frasi-fai-1-copia-docx-110;frasi-fai-1-copia-docx-160;frasi-fatte-docx-59;frasi-fatte-docx-88;frasi-fatte-docx-90;frasi-fatte-docx-144;frasi-fatte-docx-146;frasi-fatte-docx-152;frasi-fatte-docx-154;frasi-fatte-docx-166;varie-situazioni-docx-20;varie-situazioni-docx-79;varie-situazioni-docx-84;a-ghii-fam-sempru
+semper-ticinese-sempre,sempre,sempru,always,attested,,,owner-spreadsheet,cors-da-dialet-da-rogn-1-77-2;il-condizionale-presente-47;frasi-fai-1-copia-docx-7;frasi-fai-1-copia-docx-31;frasi-fai-1-copia-docx-37;frasi-fai-1-copia-docx-81;frasi-fai-1-copia-docx-110;frasi-fai-1-copia-docx-160;frasi-fatte-docx-59;frasi-fatte-docx-88;frasi-fatte-docx-90;frasi-fatte-docx-144;frasi-fatte-docx-146;frasi-fatte-docx-152;frasi-fatte-docx-154;frasi-fatte-docx-166;varie-situazioni-docx-20;varie-situazioni-docx-79;varie-situazioni-docx-84;i-duu-magnan-docx-48;2025-12-01-canto-1-della-31;vari-canti-divina-commed-152;vari-canti-divina-commed-282;a-ghii-fam-sempru;o-sempru-duvuu-adatass
 senza-stell-ticinese-senza-stelle,senza stelle,senza-stell-ticinese,without stars,attested,,,2025-02-19-poesie-in-dialetto[l.22],
 senza-ticinese-senza,senza,senza-ticinese,without,attested,,,owner-spreadsheet,
 ses-sei,sei,ses,six,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.237],
@@ -841,7 +864,7 @@ sum-bon-a-da-sono-capace-a-di,sono capace a / di,sum-bon-a-da-2,I am able to,att
 suprabit-basso-ceresio-soprabito,soprabito,suprabit-basso-ceresio,overcoat,attested,,also: spolverín,dizionario-con-filastrocche-di-r-gaggini[l.251],
 sura-su-ticinese-su,su,sura-su-ticinese,on,attested,,,owner-spreadsheet,
 sura-ticinese-sopra,sopra,sura-ticinese,above,attested,,,owner-spreadsheet,
-surela-sorella,sorella,surela,sister,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.131],
+surela-sorella,sorella,surela,sister,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.131],varie-situazioni-docx-84
 svegliada-ticinese-svegliata,svegliata,svegliada-ticinese,woken up,attested,,,2025-02-19-poesie-in-dialetto[l.49],
 sveglias-basso-ceresio-svegliarsi,svegliarsi,sveglias-basso-ceresio,to wake up,attested,,also: désedass,dizionario-con-filastrocche-di-r-gaggini[l.134],
 ta-sentaru-ticinese-non-ti-sentiro,non ti sentirò,ta-sentaru-ticinese,I will not hear you,attested,,,2025-02-19-poesie-in-dialetto[l.69],
@@ -872,19 +895,22 @@ tira-gio-basso-ceresio-cogliere,cogliere,tira-gio-basso-ceresio,to pick,attested
 tira-su-basso-ceresio-raccogliere,raccogliere,tira-su-basso-ceresio,to gather,attested,,also: catà sü,dizionario-con-filastrocche-di-r-gaggini[l.110],
 tira-via-togliere,togliere,tira-via,to remove,attested,,,il-gerundio,espressioni-in-italiano-86
 tirant-bretelle,bretelle,tirant,braces,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.66],
-tiras-via-togliersi,togliersi,tiras-via,to take off,attested,,,il-gerundio;imperativo,
+tiras-via-togliersi,togliersi,tiras-via,to take off,attested,,,il-gerundio,
 tirasass-fionda,fionda,tirasass,catapult / slingshot,attested,,,cors-da-dialet-da-rogn-13a-leziun[l.79],
 tola-basso-ceresio-comperare,comperare,tola-basso-ceresio,to buy,attested,,also: cumprála,dizionario-con-filastrocche-di-r-gaggini[l.268],
+too-comprare,comprare,too,to buy,attested,,,imperativo,
+too-prendere,prendere,too,to take,attested,,Italian synonym of comprare,imperativo,
+toss-fo-togliersi-di-torno,togliersi di torno,toss-fo,to get out of the way,attested,,,imperativo,
 tra-ticinese-tra,tra,tra-ticinese,among,attested,,"tra da nüm = among us, tra mi e ti = between you and me",owner-spreadsheet,
 tradott-ticinese-tradotto,tradotto,tradott-ticinese,translated,attested,,,owner-spreadsheet,
-tradu-tradurre,tradurre,tradu,to translate,attested,,,il-condizionale-presente,
+tradu-tradurre,tradurre,tradu,to translate,attested,,,il-condizionale-presente,il-condizionale-presente-84
 tredas-tredici,tredici,tredas,thirteen,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.244],
 trenta-ticinese-trenta,trenta,trenta-ticinese,thirty,attested,,,owner-spreadsheet,
 tri-m-tre-f-ticinese-tre,tre,tri-m-tre-f-ticinese,three,attested,,,owner-spreadsheet,
 tri-tre,tre,tri,three,supplied,,Italian and English supplied; the lesson gives the dialect only,cors-da-dialett-da-rogn-lezium-1-e-2[l.234],
 tripli-ticinese-triplo-a-triplice,triplo/a/triplice,tripli-ticinese,triple,attested,,,owner-spreadsheet,
 trist-basso-ceresio-triste,triste,trist-basso-ceresio,sad,attested,,also: gnèch,dizionario-con-filastrocche-di-r-gaggini[l.154],
-trua-trovare,trovare,trua,to find,attested,,,cors-da-dialett-da-rogn-3a-leziun,cors-da-dialet-da-rogn-9-13;brevi-frasi-pdf-88;dialoghi-a-lugano-pdf-444;dialoghi-a-lugano-pdf-448;dialoghi-a-lugano-pdf-452;dialoghi-a-lugano-pdf-456;dialoghi-a-lugano-pdf-490;dialoghi-a-lugano-pdf-526;dialoghi-a-lugano-pdf-566;domande-di-vario-tipo-do-45;frasi-fai-1-copia-docx-19;frasi-fatte-docx-86;varie-situazioni-docx-91;100-frasi-utili-per-qu-20
+trua-trovare,trovare,trua,to find,attested,,,cors-da-dialett-da-rogn-3a-leziun,cors-da-dialet-da-rogn-9-13;brevi-frasi-pdf-88;dialoghi-a-lugano-pdf-444;dialoghi-a-lugano-pdf-448;dialoghi-a-lugano-pdf-452;dialoghi-a-lugano-pdf-456;dialoghi-a-lugano-pdf-490;dialoghi-a-lugano-pdf-526;dialoghi-a-lugano-pdf-566;domande-di-vario-tipo-do-45;frasi-fai-1-copia-docx-19;frasi-fatte-docx-86;varie-situazioni-docx-91;100-frasi-utili-per-qu-20;i-duu-magnan-docx-72-3;2025-12-01-canto-1-della-9
 truciol-basso-ceresio-trucioli,trucioli,truciol-basso-ceresio,wood shavings,attested,,also: büscaj,dizionario-con-filastrocche-di-r-gaggini[l.98],
 trusa-basso-ceresio-mescolare,mescolare,trusa-basso-ceresio,mix,attested,,also: mesculà,dizionario-con-filastrocche-di-r-gaggini[l.270],
 trusa-mescolare,mescolare,trusa,to mix,attested,,,cors-da-dialett-da-rogn-3a-leziun,
@@ -946,7 +972,7 @@ ul-un-trapuscee-la-una-talpa,la/una talpa,ul-un-trapuscee,the/a mole,attested,,i
 ul-un-vedel-il-un-vitello,il/un vitello,ul-un-vedel,the/a calf,attested,,i vedei,cors-da-dialet-da-rogn-6a-leziun[l.33],
 ul-verd-ticinese-il-verde,il verde,ul-verd-ticinese,the green,attested,,,2025-02-19-poesie-in-dialetto[l.26],
 ulif-frutto-l-uliva-ulivo,ulivo,ulif,olive tree,attested,,,cors-da-dialet-da-rogn-14a-leziun[l.24],
-umbrela-ombrello,ombrello,umbrela,umbrella,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.75],
+umbrela-ombrello,ombrello,umbrela,umbrella,attested,,,cors-da-dialett-da-rogn-4a-leziun[l.75],imperativo-pdf-177
 un-corp-ticinese-un-corpo,un corpo,un-corp-ticinese,a body,attested,,,2025-02-19-poesie-in-dialetto[l.3],
 un-di-ticinese-un-giorno,"un giorno,",un-di-ticinese-2,"one day,",attested,,,2025-02-19-poesie-in-dialetto[l.50],
 un-ghel-du-ghep-ticinese-centesimo,centesimo,un-ghel-du-ghep-ticinese,penny,attested,,,owner-spreadsheet,
@@ -994,7 +1020,7 @@ visin-ticinese-vicino,vicino,visin-ticinese,close,attested,,,owner-spreadsheet,
 volentera-ticinese-voluntieri,volentieri,volentera-ticinese,willingly,attested,,,owner-spreadsheet,
 voras-ben-amarsi,amarsi,voras-ben,to love each other,attested,,,il-gerundio;imperativo,
 vore-volere,volere,vore,to want,attested,,,cors-da-dialett-da-rogn-lezium-1-e-2;il-condizionale-presente;cors-da-dialet-da-rogn-18a-leziun,
-vosa-o-vusa-gridare,gridare,vosa-o-vusa,to shout,attested,,,cors-da-dialet-da-rogn-8a-leziun;cors-da-dialett-da-rogn-lezium-1-e-2;il-gerundio;imperativo,cors-da-dialet-da-rogn-1-59
+vosa-o-vusa-gridare,gridare,vosa-o-vusa,to shout,attested,,,cors-da-dialet-da-rogn-8a-leziun;cors-da-dialett-da-rogn-lezium-1-e-2;il-gerundio;imperativo,cors-da-dialet-da-rogn-1-59;i-duu-magnan-docx-42;vari-canti-divina-commed-299
 vosa-o-vusa-urlare,urlare,vosa-o-vusa,to yell,attested,,Italian synonym of gridare,cors-da-dialet-da-rogn-8a-leziun;cors-da-dialett-da-rogn-lezium-1-e-2;il-gerundio;imperativo,
 vosca-osare,osare,vosca,to dare,attested,,,cors-da-dialet-da-rogn-8a-leziun;il-gerundio,
 voschi-osare,osare,voschi,dare,attested,,verb,cors-da-dialet-da-rogn-8a-leziun[l.129],

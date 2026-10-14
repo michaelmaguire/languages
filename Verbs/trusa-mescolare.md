@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | rüghi/trüsi | trüsarò | avrò trüsaa |
 | *ti* | ta rügat/trüsat | ta trüsaret | ta avret trüsaa |
-| *lü / le* | la/al rüga/trüsa | la/al trüsarà | la/al avrà trüsaa |
+| *le / lü* | la/al rüga/trüsa | la/al trüsarà | l’avrà trüsaa |
 | *nüm* | rügum/trüsum | trüsarem | avrem trüsaa |
 | *vialtri* | rüguf/trüsuf | trüsarii | avrii trüsaa |
 | *lur* | i rüga/trüsa | i trüsaran | i avran trüsaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | trüsava | u trüsaa | eva trüsaa |
 | *ti* | ta trüsavat | te trüsaa | ta evat trüsaa |
-| *lü / le* | la/al trüsava | l’a trüsaa | la/al eva trüsaa |
+| *le / lü* | la/al trüsava | l’a trüsaa | l’eva trüsaa |
 | *nüm* | trüsavum | em trüsaa | evum trüsaa |
 | *vialtri* | trüsavuf | ii trüsaa | evuf trüsaa |
 | *lur* | i trüsavan | i an trüsaa | i evan trüsaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | trüsaria/trüsaressa | avria/avress trüsaa |
 | *ti* | ta trüsariat/trüsaressat | t’avriat/t’avressat trüsaa |
-| *lü / le* | la/al trüsaria/trüsaressa | l’avria/l’avressa trüsaa |
+| *le / lü* | la/al trüsaria/trüsaressa | l’avria/l’avressa trüsaa |
 | *nüm* | trüsarium/trüsaressum | avrium/avressum trüsaa |
 | *vialtri* | trüsariuf/trüsaressuf | avriuf/avressuf trüsaa |
 | *lur* | i trüsarian/trüsaressan | i avrian/i avressan trüsaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | trüsa | trüsassa |
+| *ti* | ta trüsat | ta trüsassat |
+| *le / lü* | la/al trüsa | la/al trüsassa |
+| *nüm* | trüsum | trüsassum |
+| *vialtri* | trüsuf | trüsassuf |
+| *lur* | i trüsan | i trüsassan |
 
 ## Imperativo
 

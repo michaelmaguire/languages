@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | scarpüsci | scarpüsciarò | avrò scarpüsciaa |
 | *ti* | ta scarpüsciat | ta scarpüsiaret | ta avret scarpüsciaa |
-| *lü / le* | la/al scarpüscia | la/al scarpüsciarà | la/al avrà scarpüsciaa |
+| *le / lü* | la/al scarpüscia | la/al scarpüsciarà | l’avrà scarpüsciaa |
 | *nüm* | scarpüscium | scarpüsciarem | avrem scarpüsciaa |
 | *vialtri* | scarpüsciuf | scarpüsciarii | avrii scarpüsciaa |
 | *lur* | i scarpüscian | i scarpüscirà | i avran scarpüsciaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | scarpüsciava | u scarpüsciaa | eva scarpüsciaa |
 | *ti* | ta scarpüsciavat | te scarpüsciaa | ta evat scarpüsciaa |
-| *lü / le* | la/al scarpüsciava | l’a scarpüsciaa | la/al eva scarpüsciaa |
+| *le / lü* | la/al scarpüsciava | l’a scarpüsciaa | l’eva scarpüsciaa |
 | *nüm* | scarpüsciavum | em scarpüsciaa | evum scarpüsciaa |
 | *vialtri* | scarpüsciavuf | ii scarpüsciaa | evuf scarpüsciaa |
 | *lur* | i scarpüsciava | i an scarpüsciaa | i eva scarpüsciaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | scarpüsciaria/scarpüsciaressa | avria/avress scarpüsciaa |
 | *ti* | ta scarpüsciariat/scarpüsciaressat | t’avriat/t’avressat scarpüsciaa |
-| *lü / le* | la/al scarpüsciaria/scarpüsciaressa | l’avria/l’avressa scarpüsciaa |
+| *le / lü* | la/al scarpüsciaria/scarpüsciaressa | l’avria/l’avressa scarpüsciaa |
 | *nüm* | scarpüsciarium/scarpüsciaressum | avrium/avressum scarpüsciaa |
 | *vialtri* | scarpüsciariuf/scarpüsciaressuf | avriuf/avressuf scarpüsciaa |
 | *lur* | i scarpüsciarian/scarpüsciaressan | i avrian/i avressan scarpüsciaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | scarpüscia | scarpüsciassa |
+| *ti* | ta scarpüsciat | ta scarpüsciassat |
+| *le / lü* | la/al scarpüscia | la/al scarpüsciassa |
+| *nüm* | scarpüscium | scarpüsciassum |
+| *vialtri* | scarpüsciuf | scarpüsciassuf |
+| *lur* | i scarpüscian | i scarpüsciassan |
 
 ## Imperativo
 

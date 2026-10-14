@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | rôbi | rôbarò | avrò rubaa |
 | *ti* | ta rôbat | ta rôbaret | ta avret rubaa |
-| *lü / le* | la/al rôba | la/al rôbarà | la/al avrà rubaa |
+| *le / lü* | la/al rôba | la/al rôbarà | l’avrà rubaa |
 | *nüm* | rôbum | rôbarem | avrem rubaa |
 | *vialtri* | rôbuf | rôbarii | avrii rubaa |
 | *lur* | i rôban | i rôbaran | i avran rubaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | rubava | u rubaa | eva rubaa |
 | *ti* | ta rubavat | te rubaa | ta evat rubaa |
-| *lü / le* | la/al rubava | l’a rubaa | la/al eva rubaa |
+| *le / lü* | la/al rubava | l’a rubaa | l’eva rubaa |
 | *nüm* | rubavum | em rubaa | evum rubaa |
 | *vialtri* | rubavuf | ii rubaa | evuf rubaa |
 | *lur* | i rubavan | i an rubaa | i evan rubaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | rôbaria/rôbaressa | avria/avress rubaa |
 | *ti* | ta rôbariat/rôbaressat | t’avriat/t’avressat rubaa |
-| *lü / le* | la/al rôbaria/rôbaressa | l’avria/l’avressa rubaa |
+| *le / lü* | la/al rôbaria/rôbaressa | l’avria/l’avressa rubaa |
 | *nüm* | rôbarium/rôbaressum | avrium/avressum rubaa |
 | *vialtri* | rôbariuf/rôbaressuf | avriuf/avressuf rubaa |
 | *lur* | i rôbarian/rôbaressan | i avrian/i avressan rubaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | rôba | rubassa |
+| *ti* | ta rôbat | ta rubassat |
+| *le / lü* | la/al rôba | la/al rubassa |
+| *nüm* | rôbum | rubassum |
+| *vialtri* | rôbuf | rubassuf |
+| *lur* | i rôban | i rubassan |
 
 ## Imperativo
 

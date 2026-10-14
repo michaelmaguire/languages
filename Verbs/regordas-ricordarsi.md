@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | ma sa regordi | ma sa regordarò | ma sarò regurdaa |
 | *ti* | ta sa regordat | ta sa regordaret | ta sa saret regurdaa |
-| *lü / le* | la/al sa regorda | la/al sa regordarà | la/al sa sarà regurdaa |
+| *le / lü* | la/al sa regorda | la/al sa regordarà | la/al sa sarà regurdaa |
 | *nüm* | sa regordum | sa regordarem | sa sarem regurdaa |
 | *vialtri* | sa regorduf | sa regordarii | sa sarii regurdaa |
 | *lur* | i sa regordan | i sa regordaran | i sa saran regurdaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | ma sa regurdava | ma sum regurdaa | ma seva regurdaa |
 | *ti* | ta sa regurdavat | ta sa set regurdaa | ta sa sevat regurdaa |
-| *lü / le* | la/al sa regurdava | la/al s’è regurdaa | la/al s’eva regurdaa |
+| *le / lü* | la/al sa regurdava | la/al s’è regurdaa | la/al s’eva regurdaa |
 | *nüm* | sa regurdavum | sa sem regurdaa | sa sevum regurdaa |
 | *vialtri* | sa regurdavuf | sa sii regurdaa | sa sevuf regurdaa |
 | *lur* | i sa regurdavan | i s’è regurdaa | i s’evan regurdaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | ma sa regordaria/regordaressa | ma saria/saress regurdaa |
 | *ti* | ta sa regordariat/regordaressat | ta sa sariat/saressat regurdaa |
-| *lü / le* | la/al sa regordaria/regordaressa | la/al sa saria/saressa regurdaa |
+| *le / lü* | la/al sa regordaria/regordaressa | la/al sa saria/saressa regurdaa |
 | *nüm* | sa regordarium/regordaressum | sa sarium/saressum regurdaa |
 | *vialtri* | sa regordariuf/regordaressuf | sa sariuf/saressuf regurdaa |
 | *lur* | i sa regordarian/regordaressan | i sa sarian/saressan regurdaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | ma sa regorda | ma sa regurdassa |
+| *ti* | ta sa regordat | ta sa regurdassat |
+| *le / lü* | la/al sa regorda | la/al sa regurdassa |
+| *nüm* | sa regordum | sa regurdassum |
+| *vialtri* | sa regorduf | sa regurdassuf |
+| *lur* | i sa regordan | i sa regurdassan |
 
 ## Imperativo
 

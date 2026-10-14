@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vosi | vosaroo | avrò vusaa |
 | *ti* | ta vosat | vosaré | ta avret vusaa |
-| *lü / le* | la/al vosa | vosarà | la/al avrà vusaa |
+| *le / lü* | la/al vosa | vosarà | l’avrà vusaa |
 | *nüm* | vosum | vosarem | avrem vusaa |
 | *vialtri* | vosuf | vosarii | avrii vusaa |
 | *lur* | i vosa / vosan | vosarà (n) | i avran vusaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | vusava | u vusaa | eva vusaa |
 | *ti* | ta vusavat | te vusaa | ta evat vusaa |
-| *lü / le* | la/al vusava | l’a vusaa | la/al eva vusaa |
+| *le / lü* | la/al vusava | l’a vusaa | l’eva vusaa |
 | *nüm* | vusavum | em vusaa | evum vusaa |
 | *vialtri* | vusavuf | ii vusaa | evuf vusaa |
 | *lur* | i vusavan | ia (n) vusaa | i evan vusaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | vosaria/vosaressa | avria/avress vusaa |
 | *ti* | ta vosariat/vosaressat | t’avriat/t’avressat vusaa |
-| *lü / le* | la/al vosaria/vosaressa | l’avria/l’avressa vusaa |
+| *le / lü* | la/al vosaria/vosaressa | l’avria/l’avressa vusaa |
 | *nüm* | vosarium/vosaressum | avrium/avressum vusaa |
 | *vialtri* | vosariuf/vosaressuf | avriuf/avressuf vusaa |
 | *lur* | i vosarian/vosaressan | i avrian/i avressan vusaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | vosa | vusassa |
+| *ti* | ta vosat | ta vusassat |
+| *le / lü* | la/al vosa | la/al vusassa |
+| *nüm* | vosum | vusassum |
+| *vialtri* | vosuf | vusassuf |
+| *lur* | i vosan | i vusassan |
 
 ## Imperativo
 

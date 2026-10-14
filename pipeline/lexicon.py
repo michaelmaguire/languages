@@ -84,12 +84,12 @@ def source_key(name):
         return "owner-notes"
     if name.startswith("Rosetta Stone"):
         return "owner-spreadsheet"
-    return slug(re.sub(r"\.(docx|pdf)$", "", name), 60)
+    return slug(re.sub(r"\.(docx|pdf|txt)$", "", name), 60)
 
 
 def bib_entry(name, lesson_meta):
     meta = lesson_meta.get(name, {})
-    fields = {"title": re.sub(r"\.(docx|pdf)$", "", name), "note": f"raw/{name}"}
+    fields = {"title": re.sub(r"\.(docx|pdf|txt)$", "", name), "note": f"raw/{name}"}
     if name.startswith("Rosetta Stone"):
         fields["title"] = "Rosetta Stone: English, Italian, Ticino dialect (owner's own spreadsheet)"
     elif name == "notes_added_by_hand.csv":
@@ -142,13 +142,22 @@ def candidates():
     verb_rows = pages.read(DATA / "extracted_verb_forms.csv")
     seen_at = defaultdict(list)
     for v in verb_rows:
-        seen_at[(v["tense"], v["person"], pages.key(v["form"]))].append(cite(v["source"], v["line"]))
+        seen_at[(v["tense"], v["person"], pages.key(pages.clitic_order(v["form"])))].append(cite(v["source"], v["line"]))
         files.add(v["source"])
+    for v in pages.read(ETC / "verb_forms_from_texts.csv"):     # forms found in running text, where noted
+        if v.get("source") and v.get("basis") == "attested":
+            seen_at[(v["tense"], v["person"], pages.key(pages.clitic_order(v["form"])))].append(cite(v["source"], v["line"]))
+            files.add(v["source"])
+    aux_essere = {pages.key(r["italian"]): r.get("aux") == "essere" for r in pages.read(ETC / "verb_details.csv")}
     for name in sorted(tables):
         t = tables[name]
         head = t["dialect"][0] if t["dialect"] else name
         grid = t["grid"]
         aux = "ves" if re.match(r"(ma )?(sum|ta se|l’è)\b", grid["passato prossimo"]["1s"][0]) else "vegh"
+        if grid["passato prossimo"]["1s"][0] == "–":    # no compound tense to read it from: the general rule
+            head_word = head.split()[0]
+            aux = "ves" if aux_essere.get(pages.key(name)) or (head_word.endswith("ss") or
+                                                                head_word.endswith("as") and len(head_word) > 3) else "vegh"
         e = entry_for(head, "rogn", verb=True, Part_Of_Speech="verb", Conjugation_Class=t["class"].split(":")[0],
                       Auxiliary=aux, Status="inferred" if t["basis"] == "inferred" else "accepted",
                       Comment=t.get("evidence") or None)
@@ -178,13 +187,17 @@ def candidates():
         language = VARIETY_OF.get(p.get("variety") or "") or \
             VARIETY_OF.get(lesson_meta.get(p["source"], {}).get("variety", "")) or "ticinese"
         ref = cite(p["source"], p["line"])
+        # a translation aligned with its Italian original (etc/parallel_texts.csv) cites both documents
+        refs = [ref] + ([cite(p["italian_source"], p.get("italian_line"))] if p.get("italian_source") else [])
+        if p.get("italian_source"):
+            files.add(p["italian_source"])
         unsure = UNSURE.get(p["check"]) if p["check"] else None
         if p["kind"] == "expression":
             examples.append({"ID": ids["examples"].make(f"{p['source'][:24]}-{p['line']}"), "Language_ID": language,
                              "Primary_Text": p["dialect"], "Translated_Text": p["italian"], "Meta_Language_ID": "ita",
                              "Translated_Text_English": p["english"] or None,
                              "Status": "pending" if unsure else "accepted", "Unsure_About": unsure,
-                             "Comment": p["note"] or None, "Source": [ref]})
+                             "Comment": p["note"] or None, "Source": refs})
             continue
         # a word pair whose Italian is one of a verb's infinitives belongs to that verb ("andare = na")
         vk = (pages.key(p["dialect"]), language, "verb")
@@ -220,7 +233,10 @@ def configure(ds):
     status = lambda t: {"name": "Status", "datatype": {"base": "string", "format": STATUS[t]}}
     unsure = {"name": "Unsure_About", "datatype": {"base": "string", "format": "direction|split|pairing|meaning"},
               "dc:description": "What the extraction was unsure about when it marked the row pending"}
-    rid = {"name": "ID", "required": True, "datatype": {"base": "string", "format": "[a-zA-Z0-9_\\-]+"}}
+    rid = {"name": "ID", "required": True, "propertyUrl": TERMS + "id",
+           "datatype": {"base": "string", "format": "[a-zA-Z0-9_\\-]+"}}
+    entry_ref = {"name": "Entry_ID", "required": True, "propertyUrl": TERMS + "entryReference"}
+    form = {"name": "Form", "required": True, "propertyUrl": TERMS + "form"}
     ds.properties.update({
         "dc:title": "Lexicon of the dialect of Rögn (Arogno), Ticino",
         "dc:description": "Dialect entries, senses (Italian with English), examples and verb paradigms from "
@@ -228,7 +244,7 @@ def configure(ds):
         "dc:creator": "Michael Maguire",
         "dc:contributor": "Guido Casellini (course material) and the other authors listed in ATTRIBUTIONS.md",
     })
-    ds.add_component("LanguageTable", {"name": "Description", "datatype": "string"})
+    ds.add_component("LanguageTable", {"name": "Description", "propertyUrl": TERMS + "description", "datatype": "string"})
     ds.add_component("ExampleTable",
                      {"name": "Translated_Text_English", "datatype": "string",
                       "dc:description": "English translation, added; Translated_Text is the Italian"},
@@ -257,7 +273,7 @@ def configure(ds):
                  {"name": "Name_Dialect", "datatype": "string",
                   "dc:description": "Rögn name of the topic, composed by Claude from words of the course; "
                                     "† marks a word not found in any course document"},
-                 {"name": "Name", "required": True, "dc:description": "Italian name of the topic"},
+                 {"name": "Name", "required": True, "propertyUrl": TERMS + "name", "dc:description": "Italian name of the topic"},
                  {"name": "Name_English", "datatype": "string"}, primaryKey=["ID"])
     ds.add_columns("ExampleTable",
                    {"name": "Contribution_ID", "propertyUrl": TERMS + "contributionReference"},
@@ -268,14 +284,12 @@ def configure(ds):
                                                          "blank for texts, which are read in order"})
     ds.add_foreign_key("ExampleTable", "Topic_ID", "topics.csv", "ID")
     ds.add_foreign_key("EntryTable", "Variant_Of", "EntryTable", "ID")
-    ds.add_table("variants.csv", rid, {"name": "Entry_ID", "required": True}, {"name": "Form", "required": True},
+    ds.add_table("variants.csv", rid, entry_ref, form,
                  {"name": "Kind", "datatype": {"base": "string", "format": "spelling|typo|ocr-error"}},
                  status("variants"), comment, source, primaryKey=["ID"])
-    ds.add_foreign_key("variants.csv", "Entry_ID", "EntryTable", "ID")
-    ds.add_table("paradigms.csv", rid, {"name": "Entry_ID", "required": True}, {"name": "Tense", "required": True},
+    ds.add_table("paradigms.csv", rid, entry_ref, {"name": "Tense", "required": True},
                  {"name": "Person", "datatype": {"base": "string", "format": "1s|2s|3s|1p|2p|3p"}},
-                 {"name": "Form", "required": True}, status("paradigms"), comment, source, primaryKey=["ID"])
-    ds.add_foreign_key("paradigms.csv", "Entry_ID", "EntryTable", "ID")
+                 form, status("paradigms"), comment, source, primaryKey=["ID"])
 
 
 def apply_decisions(rows, decisions):
@@ -419,6 +433,7 @@ def make(writer):
     configure(writer.cldf)
     rows, bib = candidates()
     unmatched = apply_decisions(rows, pages.read(ETC / "decisions.csv"))
+    missing_spellings = add_spellings(rows)
     unsorted = place_examples(rows, bib)
     link_examples(rows)
     writer.cldf.add_sources(*bib)
@@ -433,6 +448,8 @@ def make(writer):
           f"{len(rows['contributions.csv'])} contributions, {len(rows['topics.csv'])} topics")
     linked = [s for s in rows["senses.csv"] if s["Example_IDs"]]
     print(f"  {len(linked)} senses linked to {len({x for s in linked for x in s['Example_IDs']})} expressions")
+    for r in missing_spellings:
+        print(f"  WARNING: spelling variant row matched no entry: {r['Language_ID']} {r['Headword']!r}")
     for d in unmatched:
         print(f"  WARNING: decision matched nothing: {d['Decision']} {d['Language_ID']} {d['Form']!r}")
     for t in unsorted["topics"]:
@@ -440,6 +457,25 @@ def make(writer):
     if unsorted["examples"]:
         print(f"  {len(unsorted['examples'])} expressions have no topic yet: add them to etc/expression_topics.csv "
               f"(tool_expression_topics.py list)")
+
+
+def add_spellings(rows):
+    """etc/spelling_variants.csv: other spellings of an entry that the lessons use (giò, giô, giõ). All are
+    accepted, none is preferred: each goes into variants.csv with Kind and Status spelling/accepted, and the
+    dictionary shows them together. Returns the rows that matched no entry."""
+    E, V = rows["entries.csv"], rows["variants.csv"]
+    ids, missing = Ids(v["ID"] for v in V), []
+    for r in pages.read(ETC / "spelling_variants.csv"):
+        matches = [e for e in E if pages.key(e["Headword"]) == pages.key(r["Headword"]) and e["Language_ID"] == r["Language_ID"]]
+        if not matches:
+            missing.append(r)
+        for e in matches:                      # homographs (vert, to open / green) share the spellings
+            have = {pages.key(v["Form"]) for v in V if v["Entry_ID"] == e["ID"]} | {pages.key(e["Headword"])}
+            for form in (f.strip() for f in r["Variants"].split(";")):
+                if form and pages.key(form) not in have:
+                    V.append({"ID": ids.make(f"{e['ID']}-{form}"), "Entry_ID": e["ID"], "Form": form, "Kind": "spelling",
+                              "Status": "accepted", "Comment": r.get("Evidence") or None, "Source": list(e["Source"] or [])})
+    return missing
 
 
 def place_examples(rows, bib):
@@ -546,6 +582,10 @@ def for_pages():
 
     entries = {e["ID"]: e for e in rows["entries.csv"] if e["Status"] != "rejected"}
     contributions = {c["ID"]: c for c in rows.get("contributions.csv", [])}
+    spellings = defaultdict(list)                  # all accepted spellings, shown together: giò / giô / giõ
+    for v in rows["variants.csv"]:
+        if v["Status"] == "accepted" and v["Kind"] == "spelling":
+            spellings[v["Entry_ID"]].append(v["Form"])
     uniq = []
     for s in rows["senses.csv"]:
         e = entries.get(s["Entry_ID"])
@@ -553,7 +593,9 @@ def for_pages():
             continue
         src, line = origin(s["Source"] or e["Source"])
         pending = "pending" in (s["Status"], e["Status"])
-        uniq.append({"italian": s["Description"], "dialect": e["Headword"], "english": s["Description_English"] or "",
+        shown = " / ".join([e["Headword"]] + [f for f in spellings[e["ID"]] if pages.key(f) != pages.key(e["Headword"])])
+        uniq.append({"italian": s["Description"], "dialect": shown if e["Part_Of_Speech"] != "verb" else e["Headword"],
+                     "english": s["Description_English"] or "",
                      "kind": "word", "variety": LABEL.get(e["Language_ID"]) or "",
                      "canonical": "yes" if e["Language_ID"] == "rogn" else "no", "source": src, "line": line,
                      "check": ((s["Unsure_About"] or "direction") + "?") if pending else "",

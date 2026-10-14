@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | schisci | schisciarò | avrò schisciaa |
 | *ti* | ta schisciat | ta schisciaret | ta avret schisciaa |
-| *lü / le* | al/la schiscia | la/al schisciarà | la/al avrà schisciaa |
+| *le / lü* | la/al schiscia | la/al schisciarà | l’avrà schisciaa |
 | *nüm* | schiscium | schisciarem | avrem schisciaa |
 | *vialtri* | schisciuf | schisciarii | avrii schisciaa |
 | *lur* | i schiascia | i schisciaran | i avran schisciaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | schisciava | u schisciaa | eva schisciaa |
 | *ti* | ta schisciavat | te schisciaa | ta evat schisciaa |
-| *lü / le* | la/al schisciava | l’a schisciaa | la/al eva schisciaa |
+| *le / lü* | la/al schisciava | l’a schisciaa | l’eva schisciaa |
 | *nüm* | schisciavum | em schisciaa | evum schisciaa |
 | *vialtri* | schisciavuf | ii schisciaa | evuf schisciaa |
 | *lur* | i schisciavan | i an schisciaa | i evan schisciaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | schisciaria/schisciaressa | avria/avress schisciaa |
 | *ti* | ta schisciariat/schisciaressat | t’avriat/t’avressat schisciaa |
-| *lü / le* | la/al schisciaria/schisciaressa | l’avria/l’avressa schisciaa |
+| *le / lü* | la/al schisciaria/schisciaressa | l’avria/l’avressa schisciaa |
 | *nüm* | schisciarium/schisciaressum | avrium/avressum schisciaa |
 | *vialtri* | schisciariuf/schisciaressuf | avriuf/avressuf schisciaa |
 | *lur* | i schisciarian/schisciaressan | i avrian/i avressan schisciaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | schiscia | schisciassa |
+| *ti* | ta schisciat | ta schisciassat |
+| *le / lü* | la/al schiscia | la/al schisciassa |
+| *nüm* | schiscium | schisciassum |
+| *vialtri* | schisciuf | schisciassuf |
+| *lur* | i schiscian | i schisciassan |
 
 ## Imperativo
 

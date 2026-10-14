@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | meti insema | metarò insema | avrò metüü insema |
 | *ti* | ta metat insema | ta metaret insema | ta avret metüü insema |
-| *lü / le* | la/al meta insema | la/al metarà insema | la/al avrà metüü insema |
+| *le / lü* | la/al meta insema | la/al metarà insema | l’avrà metüü insema |
 | *nüm* | metum insema | metarem insema | avrem metüü insema |
 | *vialtri* | metuf insema | metarii insema | avrii metüü insema |
 | *lur* | i met insema | i metaran insema | i avran metüü insema |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | meteva insema | u metüü insema | eva metüü insema |
 | *ti* | ta metevat insema | te metüü insema | ta evat metüü insema |
-| *lü / le* | la/al meteva insema | l’a metüü insema | la/al eva metüü insema |
+| *le / lü* | la/al meteva insema | l’a metüü insema | l’eva metüü insema |
 | *nüm* | metevum insema | em metüü insema | evum metüü insema |
 | *vialtri* | metevuf insema | ii metüü insema | evuf metüü insema |
 | *lur* | i metevan insema | i an metüü insema | i evan metüü insema |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | metaria/metaressa insema | avria/avress metüü insema |
 | *ti* | ta metariat/metaressat insema | t’avriat/t’avressat metüü insema |
-| *lü / le* | la/al metaria/metaressa insema | l’avria/l’avressa metüü insema |
+| *le / lü* | la/al metaria/metaressa insema | l’avria/l’avressa metüü insema |
 | *nüm* | metarium/metaressum insema | avrium/avressum metüü insema |
 | *vialtri* | metariuf/metaressuf insema | avriuf/avressuf metüü insema |
 | *lur* | i metarian/metaressan insema | i avrian/i avressan metüü insema |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | meta insema | metessa insema |
+| *ti* | ta metat insema | ta metessat insema |
+| *le / lü* | la/al meta insema | la/al metessa insema |
+| *nüm* | metum insema | metessum insema |
+| *vialtri* | metuf insema | metessuf insema |
+| *lur* | i metan insema | i metessan insema |
 
 ## Imperativo
 

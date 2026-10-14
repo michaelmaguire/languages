@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vedi | vedarò | avrò visct |
 | *ti* | ta vedat | ta vedaret | ta avret visct |
-| *lü / le* | la/al ved | la/al vedarà | la/al avrà visct |
+| *le / lü* | la/al ved | la/al vedarà | l’avrà visct |
 | *nüm* | vedum | vedarem | avrem visct |
 | *vialtri* | veduf | vedarii | avrii visct |
 | *lur* | i veda(n) | i vedaran | i avran visct |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | vedeva | u visct | eva visct |
 | *ti* | ta vedevat | te visct | ta evat visct |
-| *lü / le* | la/al vedeva | l’a visct | la/al eva visct |
+| *le / lü* | la/al vedeva | l’a visct | l’eva visct |
 | *nüm* | vedevum | em visct | evum visct |
 | *vialtri* | vedevuf | ii visct | evuf visct |
 | *lur* | i vedevan | i an visct | i evan visct |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | vedaria/vedaressa | avria/avress visct |
 | *ti* | ta vedaressat | t’avriat/t’avressat visct |
-| *lü / le* | vedaria/vedaressa | l’avria/l’avressa visct |
+| *le / lü* | vedaria/vedaressa | l’avria/l’avressa visct |
 | *nüm* | vedaressum | avrium/avressum visct |
 | *vialtri* | vedaressuf | avriuf/avressuf visct |
 | *lur* | vedarian/vedaressan | i’avrian /i’avaressan visct |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | veda | vedessa |
+| *ti* | ta vedat | ta vedessat |
+| *le / lü* | la/al veda | la/al vedessa |
+| *nüm* | vedum | vedessum |
+| *vialtri* | veduf | vedessuf |
+| *lur* | i vedan | i vedessan |
 
 ## Imperativo
 

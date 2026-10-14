@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | unori | unorarò | avrò unuraa |
 | *ti* | ta unorat | ta unoraret | ta avret unuraa |
-| *lü / le* | la/al unora | la/al unorarà | la/al avrà unuraa |
+| *le / lü* | l’unora | l’unorarà | l’avrà unuraa |
 | *nüm* | unorum | unorarem | avrem unuraa |
 | *vialtri* | unoruf | unorarii | avrii unuraa |
 | *lur* | i unoran | i unoraran | i avran unuraa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | unurava | u unuraa | eva unuraa |
 | *ti* | ta unuravat | te unuraa | ta evat unuraa |
-| *lü / le* | la/al unurava | l’a unuraa | la/al eva unuraa |
+| *le / lü* | l’unurava | l’a unuraa | l’eva unuraa |
 | *nüm* | unuravum | em unuraa | evum unuraa |
 | *vialtri* | unuravuf | ii unuraa | evuf unuraa |
 | *lur* | i unuravan | i an unuraa | i evan unuraa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | unoraria/unoraressa | avria/avress unuraa |
 | *ti* | ta unorariat/unoraressat | t’avriat/t’avressat unuraa |
-| *lü / le* | la/al unoraria/unoraressa | l’avria/l’avressa unuraa |
+| *le / lü* | l’unoraria/unoraressa | l’avria/l’avressa unuraa |
 | *nüm* | unorarium/unoraressum | avrium/avressum unuraa |
 | *vialtri* | unorariuf/unoraressuf | avriuf/avressuf unuraa |
 | *lur* | i unorarian/unoraressan | i avrian/i avressan unuraa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | unora | unurassa |
+| *ti* | ta unorat | ta unurassat |
+| *le / lü* | l’unora | l’unurassa |
+| *nüm* | unorum | unurassum |
+| *vialtri* | unoruf | unurassuf |
+| *lur* | i unoran | i unurassan |
 
 ## Imperativo
 

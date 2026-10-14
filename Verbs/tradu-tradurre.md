@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | tradüsi | tradüsarò | avrò tradüsüü |
 | *ti* | ta tradüsat | ta tradüsaret | ta avret tradüsüü |
-| *lü / le* | la/al tradüs | la/al tradüsarà | la/al avrà tradüsüü |
+| *le / lü* | la/al tradüs | la/al tradüsarà | l’avrà tradüsüü |
 | *nüm* | tradüsum | tradüsarem | avrem tradüsüü |
 | *vialtri* | tradüsuf | tradüsarii | avrii tradüsüü |
 | *lur* | i tradüsan | i tradüsaran | i avran tradüsüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | tradüseva | u tradüsüü | eva tradüsüü |
 | *ti* | ta tradüsevat | te tradüsüü | ta evat tradüsüü |
-| *lü / le* | la/al tradüseva | l’a tradüsüü | la/al eva tradüsüü |
+| *le / lü* | la/al tradüseva | l’a tradüsüü | l’eva tradüsüü |
 | *nüm* | tradüsevum | em tradüsüü | evum tradüsüü |
 | *vialtri* | tradüsevuf | ii tradüsüü | evuf tradüsüü |
 | *lur* | i tradüsevan | i an tradüsüü | i evan tradüsüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | tradüsaria/tradüsaressa | avria/avress tradüsüü |
 | *ti* | tradüsariat/tradüsaressat | t’avriat/t’avressat tradüsüü |
-| *lü / le* | tradüsaria/tradüsaressa | l’avria/l’avressa tradüsüü |
+| *le / lü* | tradüsaria/tradüsaressa | l’avria/l’avressa tradüsüü |
 | *nüm* | tradüsarium/tradüsaressum | avrium/avressum tradüsüü |
 | *vialtri* | tradüsariuf/tradüsaressuf | avriuf/avressuf tradüsüü |
 | *lur* | tradüsarian/tradüsaressan | i avrian/i avressan tradüsüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | tradüsa | tradüsessa |
+| *ti* | ta tradüsat | ta tradüsessat |
+| *le / lü* | la/al tradüsa | la/al tradüsessa |
+| *nüm* | tradüsum | tradüsessum |
+| *vialtri* | tradüsuf | tradüsessuf |
+| *lur* | i tradüsan | i tradüsessan |
 
 ## Imperativo
 

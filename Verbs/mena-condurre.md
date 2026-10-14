@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | meni | menarò | avrò menaa |
 | *ti* | ta menat | ta menaret | ta avret menaa |
-| *lü / le* | la/al mena | la/al menarà | la/al avrà menaa |
+| *le / lü* | la/al mena | la/al menarà | l’avrà menaa |
 | *nüm* | menum | menarem | avrem menaa |
 | *vialtri* | menuf | menarii | avrii menaa |
 | *lur* | i mena | i menaran | i avran menaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | menava | u menaa | eva menaa |
 | *ti* | ta menavat | te menaa | ta evat menaa |
-| *lü / le* | la/al menava | l’a menaa | la/al eva menaa |
+| *le / lü* | la/al menava | l’a menaa | l’eva menaa |
 | *nüm* | menavum | em menaa | evum menaa |
 | *vialtri* | menavuf | ii menaa | evuf menaa |
 | *lur* | i menavan | i an menaa | i evan menaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | menaria/menaressa | avria/avress menaa |
 | *ti* | menariat/menaressat | t’avriat/t’avressat menaa |
-| *lü / le* | menaria/menaressa | l’avria/l’avressa menaa |
+| *le / lü* | menaria/menaressa | l’avria/l’avressa menaa |
 | *nüm* | menarium/menaressum | avrium/avressum menaa |
 | *vialtri* | menariuf/menaressuf | avriuf/avressuf menaa |
 | *lur* | menarian/menaressan | i avrian/i avressan menaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | mena | menassa |
+| *ti* | ta menat | ta menassat |
+| *le / lü* | la/al mena | la/al menassa |
+| *nüm* | menum | menassum |
+| *vialtri* | menuf | menassuf |
+| *lur* | i menan | i menassan |
 
 ## Imperativo
 

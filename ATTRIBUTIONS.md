@@ -28,25 +28,25 @@ something credited differently or removed, please open an issue on the repositor
 | Work | Author or source | Used for |
 |---|---|---|
 | *Modi di dire nel dialetto del Basso Ceresio* (Bissone, 2022) | Raffaele Gaggini | Dictionary entries marked Basso Ceresio |
-| Poems | Spartaco Arigoni (1930–2020) | Read in class; not reprinted |
-| *Nuvant'ann* (2024) | Celso Tantardini | Reading text |
-| *Piove governo ladro* | Fausto Boffi | One idiom among the expressions; the text is not reprinted |
-| *Filastrocca di Carlino* | Mario Delucchi | Read in class; not reprinted |
+| Poems | Spartaco Arigoni (1930–2020) | |
+| *Nuvant'ann* (2024) | Celso Tantardini | |
+| *Piove governo ladro* | Fausto Boffi | Expressions |
+| *Filastrocca di Carlino* | Mario Delucchi | |
 | *Cus tu vò nìn* and other verse | G. P. Lavelli | Reading text |
 | *Frasi allegate alle gigantografie di anziani di Arogno* (2022) | Residents of Arogno | Expressions |
+| *Paul e Ghita a Lugano* (Lugano, S.A. Tipografica Luganese, 1908) | Santiago Giacomo Alberti (1881–1969) | |
+| *Fregüi da vita dal Mendrisiott* (Fontana Edizioni, 2024): *La rungia* | Guido Codoni and Mariella Caccia | |
+| *Divina Commedia*, Inferno I–VI, Italian text | Dante Alighieri; Project Gutenberg eBook #1000, public domain | Aligned with the class's dialect version |
 | *Come si scrive in dialetto?* | Centro di dialettologia e di etnografia (CDE), Bellinzona | Spelling reference only |
-| Article on the Ponte Capriasca composting site (October 2025) | Corriere del Ticino; dialect version made in class | Read in class; not reprinted |
-| *Divina Commedia*, selected cantos | Dante Alighieri; dialect version made in class | Reading text |
+| Article on the Ponte Capriasca composting site (October 2025) | Corriere del Ticino; dialect version made in class | |
+| *Divina Commedia*, Inferno I–VI | Dante Alighieri; dialect version made in class | Aligned with the Italian |
 | *Topolino* comic story | The Walt Disney Company, Italian edition; dialect version made in class | Reading text |
 | *Introduzione all'analisi del testo poetico* | Prof. Anna Polatti | In the folder, not used |
 | Poems by Giorgio Caproni, Giovanni Pascoli and Wisława Szymborska | The poets and their publishers | In the folder, not used |
 
-## Texts whose author is not recorded in the file
+## Texts whose author is not yet known
 
-These were handed out in class without a name on the document. Credit will be added when known.
-
-- *Paul e Ghita a Lügan* (five parts, scanned from an older printed edition)
-- *Fregüi da vita dal Mendrisiòtt* and *San Martin*
+- *San Martin*
 - *Insegnà ul dialètt a scöla*, *Nümm e quii da là dal San Gòtard*, *I maestri d'inlura e quii d'incöö*,
   *Letra ala sciura Trudi* and *Chi che l'è un vero ticinés* (newspaper-style columns)
 - *El Savie é el Matt*, *El Fra in do Sac*, *I düü magnan*, *Ul prevost senza crapa* (folk tales)

@@ -16,18 +16,18 @@
 
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | restari | restariarò | sarò restaa |
-| *ti* | ta restariat | ta restariaret | ta saret restaa |
-| *lü / le* | la/al restaria | la/al restariarà | la/al sarà restaa |
-| *nüm* | restarium | restariarem | sarem restaa |
-| *vialtri* | restariuf | restariarii | sarii restaa |
-| *lur* | i restarian | i restariaran | i saran restaa |
+| *mi* | resti | restarò | sarò restaa |
+| *ti* | ta restat | ta restaret | ta saret restaa |
+| *le / lü* | la/al resta | la/al restarà | la/al sarà restaa |
+| *nüm* | restum | restarem | sarem restaa |
+| *vialtri* | restuf | restarii | sarii restaa |
+| *lur* | i restan | i restaran | i saran restaa |
 
 |  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
 |---|---|---|---|
 | *mi* | restava | sum restaa | seva restaa |
 | *ti* | ta restavat | ta se/set restaa | ta sevat restaa |
-| *lü / le* | la/al restava | l’è restaa | la/al eva restaa |
+| *le / lü* | la/al restava | l’è restaa | l’eva restaa |
 | *nüm* | restavum | sem restaa | sevum restaa |
 | *vialtri* | restavuf | sii restaa | sevuf restaa |
 | *lur* | i restavan | i è restaa | i evan restaa |
@@ -38,16 +38,27 @@
 |---|---|---|
 | *mi* | restaria/restaressa | saria/saress restaa |
 | *ti* | restariat/restaressat | ta sariat/ta saressat restaa |
-| *lü / le* | restaria/restaressa | la/al saria/saressa restaa |
+| *le / lü* | restaria/restaressa | la/al saria/saressa restaa |
 | *nüm* | restarium/restaressum | sarium/saressum restaa |
 | *vialtri* | restariuf/restaressuf | sariuf/saressuf restaa |
 | *lur* | restarian/restaressan | i sarian/i saressan restaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | resta | restassa |
+| *ti* | ta restat | ta restassat |
+| *le / lü* | la/al resta | la/al restassa |
+| *nüm* | restum | restassum |
+| *vialtri* | restuf | restassuf |
+| *lur* | i restan | i restassan |
 
 ## Imperativo
 
 |  | Imperativo † | Imperativo negativo † |
 |---|---|---|
-| *ti* | restaria | restaria mia |
+| *ti* | resta | resta mia |
 | *nüm* | restem | restem mia |
 | *vialtri* | restii | restii mia |
 

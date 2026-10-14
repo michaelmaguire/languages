@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vivi † | vivarò | avrò vivüü |
 | *ti* | ta vivat † | ta vivaret | ta avret vivüü |
-| *lü / le* | la/al vif | la/al vivarà | la/al avrà vivüü |
+| *le / lü* | la/al vif | la/al vivarà | l’avrà vivüü |
 | *nüm* | vivum | vivarem | avrem vivüü |
 | *vialtri* | vivuf † | vivarii | avrii vivüü |
 | *lur* | i vivan | i vivaran | i avran vivüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | viveva | u vivüü | eva vivüü |
 | *ti* | ta vivevat | te vivüü | ta evat vivüü |
-| *lü / le* | la/al viveva | l’a vivüü | la/al eva vivüü |
+| *le / lü* | la/al viveva | l’a vivüü | l’eva vivüü |
 | *nüm* | vivevum | em vivüü | evum vivüü |
 | *vialtri* | vivevuf | ii vivüü | evuf vivüü |
 | *lur* | i vivevan | i an vivüü | i evan vivüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | vivaria/vivaressa | avria/avress vivüü |
 | *ti* | vivaressat | t’avriat/t’avressat vivüü |
-| *lü / le* | vivaria/vivaressa | l’avria/l’avressa vivüü |
+| *le / lü* | vivaria/vivaressa | l’avria/l’avressa vivüü |
 | *nüm* | vivaressum | avrium/avressum vivüü |
 | *vialtri* | vivaressuf | avriuf/avressuf vivüü |
 | *lur* | vivarian/vivaressan | i avrian/i avressan vivüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | viva | vivessa |
+| *ti* | ta vivat | ta vivessat |
+| *le / lü* | la/al viva | la/al vivessa |
+| *nüm* | vivum | vivessum |
+| *vialtri* | vivuf | vivessuf |
+| *lur* | i vivan | i vivessan |
 
 ## Imperativo
 

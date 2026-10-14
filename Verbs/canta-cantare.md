@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | canti | cantatò | avrò cantaa |
 | *ti* | ta cantat | ta cantaret | ta avret cantaa |
-| *lü / le* | la/al canta | la/al cantarà | la/al avrà cantaa |
+| *le / lü* | la/al canta | la/al cantarà | l’avrà cantaa |
 | *nüm* | cantum | cantarem | avrem cantaa |
 | *vialtri* | cantuf | cantarii | avrii cantaa |
 | *lur* | i canta(n) | i cantarà | i avran cantaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | cantava | u cantaa | eva cantaa |
 | *ti* | ta cantavat | te cantaa | ta evat cantaa |
-| *lü / le* | la/al cantava | l’a cantaa | la/al eva cantaa |
+| *le / lü* | la/al cantava | l’a cantaa | l’eva cantaa |
 | *nüm* | cantavum | em cantaa | evum cantaa |
 | *vialtri* | cantavuf | ii cantaa | evuf cantaa |
 | *lur* | i cantava | i an cantaa | i eva cantaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | cantaria/cantaressa | avria/avress cantaa |
 | *ti* | ta cantariat/cantaressat | t’avriat/t’avressat cantaa |
-| *lü / le* | la/al cantaria/cantaressa | l’avria/l’avressa cantaa |
+| *le / lü* | la/al cantaria/cantaressa | l’avria/l’avressa cantaa |
 | *nüm* | cantarium/cantaressum | avrium/avressum cantaa |
 | *vialtri* | cantariuf/cantaressuf | avriuf/avressuf cantaa |
 | *lur* | i cantarian/cantaressan | i avrian/i avressan cantaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | canta | cantassa |
+| *ti* | ta cantat | ta cantassat |
+| *le / lü* | la/al canta | la/al cantassa |
+| *nüm* | cantum | cantassum |
+| *vialtri* | cantuf | cantassuf |
+| *lur* | i cantan | i cantassan |
 
 ## Imperativo
 

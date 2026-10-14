@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | vo föra | naroo föra / narò föra | sarò nai (a) föra |
 | *ti* | ta ve föra | ta naré föra | ta saré nai (a) föra |
-| *lü / le* | la/al ve föra | la/al narà föra | la/al sarà nai (a) föra |
+| *le / lü* | la/al ve föra | la/al narà föra | la/al sarà nai (a) föra |
 | *nüm* | vem föra | narem föra | sarem nai föra |
 | *vialtri* | vii föra | narii föra | sarii nai föra |
 | *lur* | i va(n) föra | i naran föra | i saran nai föra |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | nava föra | sum nai (femminile = naia) föra | seva nai (a) föra |
 | *ti* | ta navat föra | ta sé nai (femminile = naia) föra | ta sevat nai (a) föra |
-| *lü / le* | la/al nava föra | l’è naia (lü l’è nai) föra | la/al eva nai (a) föra |
+| *le / lü* | la/al nava föra | l’è naia (lü l’è nai) föra | l’eva nai (a) föra |
 | *nüm* | navum föra | sem nai föra | sevum nai föra |
 | *vialtri* | navuf föra | sii nai föra | sevuf nai föra |
 | *lur* | i navan föra | ié nai föra | i evan nai föra |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | naria/naressa föra | saria/saress nai föra |
 | *ti* | ta naressat föra | ta sariat/ta saressat nai föra |
-| *lü / le* | naria/naressa föra | la/al saria/saressa nai föra |
+| *le / lü* | naria/naressa föra | la/al saria/saressa nai föra |
 | *nüm* | naressum föra | sarium/saressum nai föra |
 | *vialtri* | naressuf föra | sariuf/saressuf nai föra |
 | *lur* | narian/naressan föra | i sarian/i saressan nai föra |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | naga föra | nassa föra |
+| *ti* | ta nagat föra | ta nassat föra |
+| *le / lü* | la/al naga föra | la/al nassa föra |
+| *nüm* | nagum föra | nassum föra |
+| *vialtri* | naguf föra | nassuf föra |
+| *lur* | i nagan föra | i nassan föra |
 
 ## Imperativo
 

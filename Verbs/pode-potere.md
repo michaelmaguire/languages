@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | podi | podarò | avrò pudüü |
 | *ti* | ta podat | ta podaret | ta avret pudüü |
-| *lü / le* | la/al po | la/al podarà | la/al avrà pudüü |
+| *le / lü* | la/al po | la/al podarà | l’avrà pudüü |
 | *nüm* | podum | podarem | avrem pudüü |
 | *vialtri* | poduf | podarii | avrii pudüü |
 | *lur* | i po / podan | i podarà | i avrà pudüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | pudeva | u pudüü | eva pudüü |
 | *ti* | ta pudevat | te pudüü | ta evat pudüü |
-| *lü / le* | la/al pudeva | l’a pudüü | la/al eva pudüü |
+| *le / lü* | la/al pudeva | l’a pudüü | l’eva pudüü |
 | *nüm* | pudevum | em pudüü | evum pudüü |
 | *vialtri* | pudevuf | ii pudüü | evuf pudüü |
 | *lur* | i pudeva | i an pudüü | i eva pudüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | podaria/podaressa | avria/avress pudüü |
 | *ti* | ta podaressat | t’avriat/t’avressat pudüü |
-| *lü / le* | podaria/podaressa | l’avria/l’avressa pudüü |
+| *le / lü* | podaria/podaressa | l’avria/l’avressa pudüü |
 | *nüm* | podaressum | avrium/avressum pudüü |
 | *vialtri* | podaressuf | avriuf/avressuf pudüü |
 | *lur* | podarian/podaressan | i avrian/i avressan pudüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | poda | pudessa |
+| *ti* | ta podat | ta pudessat |
+| *le / lü* | la/al poda | la/al pudessa |
+| *nüm* | podum | pudessum |
+| *vialtri* | poduf | pudessuf |
+| *lur* | i podan | i pudessan |
 
 ## Imperativo
 

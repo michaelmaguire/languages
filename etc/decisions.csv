@@ -225,7 +225,6 @@ accept,rogn,Scundass mia dadrè d’un dii,,,,,,Claude inferred: correct pair,20
 accept,rogn,Ciapatala mia a maa. Var mia la pena,,,,,,Claude inferred: correct pair,2026-10-14
 accept,rogn,I tusanell i’è püssee giüdiziôs,,,,,,Claude inferred: correct pair,2026-10-14
 accept,rogn,Incöö cumè incöö ta regala pü nagot nisun,,,,,,Claude inferred: correct pair,2026-10-14
-reject,rogn,nal ledam di cavai e anca in quel di vac che i dava ‘l latt a la curt. Pö i düü,,,,,,Claude inferred: two lines of the dialect story paired with each other; neither side is Italian,2026-10-14
 accept,rogn,"L’è mia bel quel che l’è bel, l’è bel quel che pias",,,,,,Claude inferred: correct pair,2026-10-14
 accept,rogn,"Se al ta vö mia ben, al ta merita mia",,,,,,Claude inferred: correct pair,2026-10-14
 accept,rogn,A ta credevat che saria /saressa resctada a Firenze ?,,,,,,Claude inferred: correct pair,2026-10-14

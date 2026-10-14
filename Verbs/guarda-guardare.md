@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | guardi | guardarò | avrò guardaa |
 | *ti* | ta guardat | ta guardaret | ta avret guardaa |
-| *lü / le* | la/al guarda | la/al guardarà | la/al avrà guardaa |
+| *le / lü* | la/al guarda | la/al guardarà | l’avrà guardaa |
 | *nüm* | guardum | guardarem | avrem guardaa |
 | *vialtri* | guarduf | guardarii | avrii guardaa |
 | *lur* | i guarda(n) | i guardaran | i avran guardaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | guardava | u guardaa | eva guardaa |
 | *ti* | ta guardavat | te guardaa | ta evat guardaa |
-| *lü / le* | la/al guardava | l’a guardaa | la/al eva guardaa |
+| *le / lü* | la/al guardava | l’a guardaa | l’eva guardaa |
 | *nüm* | guardavum | em guardaa | evum guardaa |
 | *vialtri* | guardavuf | ii guardaa | evuf guardaa |
 | *lur* | i guardavan | i an guardaa | i evan guardaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | guardaria/guardaressa | avria/avress guardaa |
 | *ti* | ta guardariat/guardaressat | t’avriat/t’avressat guardaa |
-| *lü / le* | la/al guardaria/guardaressa | l’avria/l’avressa guardaa |
+| *le / lü* | la/al guardaria/guardaressa | l’avria/l’avressa guardaa |
 | *nüm* | guardarium/guardaressum | avrium/avressum guardaa |
 | *vialtri* | guardariuf/guardaressuf | avriuf/avressuf guardaa |
 | *lur* | i guardarian/guardaressan | i avrian/i avressan guardaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | guarda | guardassa |
+| *ti* | ta guardat | ta guardassat |
+| *le / lü* | la/al guarda | la/al guardassa |
+| *nüm* | guardum | guardassum |
+| *vialtri* | guarduf | guardassuf |
+| *lur* | i guardan | i guardassan |
 
 ## Imperativo
 

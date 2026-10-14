@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | prodüsi | prodüsarò | avrò prodüsüü |
 | *ti* | ta prodüsat | ta prodüsaret | ta avret prodüsüü |
-| *lü / le* | la/al prodüs | la/al prodüsarà | la/al avrà prodüsüü |
+| *le / lü* | la/al prodüs | la/al prodüsarà | l’avrà prodüsüü |
 | *nüm* | prodüsum | prodüsarem | avrem prodüsüü |
 | *vialtri* | prodüsuf | prodüsarii | avrii prodüsüü |
 | *lur* | i prodüsan | i prodüsaran | i avran prodüsüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | prodüseva | u prodüsüü | eva prodüsüü |
 | *ti* | ta prodüsevat | te prodüsüü | ta evat prodüsüü |
-| *lü / le* | la/al prodüseva | l’a prodüsüü | la/al eva prodüsüü |
+| *le / lü* | la/al prodüseva | l’a prodüsüü | l’eva prodüsüü |
 | *nüm* | prodüsevum | em prodüsüü | evum prodüsüü |
 | *vialtri* | prodüsevuf | ii prodüsüü | evuf prodüsüü |
 | *lur* | i prodüsevan | i an prodüsüü | i evan prodüsüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | prodüsaria/prodüsaressa / faria/faressa | avria/avress prodüsüü |
 | *ti* | prodüsariat/prodüsaressat / fariat/faressat | t’avriat/t’avressat prodüsüü |
-| *lü / le* | prodüsaria/prodüsaressa / faria/faressa | l’avria/l’avressa prodüsüü |
+| *le / lü* | prodüsaria/prodüsaressa / faria/faressa | l’avria/l’avressa prodüsüü |
 | *nüm* | prodüsarium/prodüsaressum / farium/faressum | avrium/avressum prodüsüü |
 | *vialtri* | prodüsariuf/prodüsaressuf / fariuf/faressuf | avriuf/avressuf prodüsüü |
 | *lur* | prodüsarian/prodüsaressan / farian/faressan | i avrian/i avressan prodüsüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | prodüsa | prodüsessa |
+| *ti* | ta prodüsat | ta prodüsessat |
+| *le / lü* | la/al prodüsa | la/al prodüsessa |
+| *nüm* | prodüsum | prodüsessum |
+| *vialtri* | prodüsuf | prodüsessuf |
+| *lur* | i prodüsan | i prodüsessan |
 
 ## Imperativo
 

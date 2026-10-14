@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | bevi | bevaroo / bevarò | avrò bevüü |
 | *ti* | ta bevat | ta bevaré | ta avré bevüü |
-| *lü / le* | la/al bef | la/al bevarà | la/al avrà bevüü |
+| *le / lü* | la/al bef | la/al bevarà | l’avrà bevüü |
 | *nüm* | bevum | bevarem | avrem bevüü |
 | *vialtri* | bevuf | bevarii | avrii bevüü |
 | *lur* | i bef | bevarà (n) / i bevaran | i avran bevüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | beveva | u bevüü | eva bevüü |
 | *ti* | ta bevevat | te bevüü | ta evat bevüü |
-| *lü / le* | la/al beveva | la bevüü | la/al eva bevüü |
+| *le / lü* | la/al beveva | la bevüü | l’eva bevüü |
 | *nüm* | bevevum | em bevüü | evum bevüü |
 | *vialtri* | bevevuf | ii bevüü | evuf bevüü |
 | *lur* | i bevevan | ia (n) bevüü | i evan bevüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | bevaria/bevaressa | avria/avress bevüü |
 | *ti* | bevariat/bevaressat | t’avriat/t’avressat bevüü |
-| *lü / le* | bevaria/bevaressa | l’avria/l’avressa bevüü |
+| *le / lü* | bevaria/bevaressa | l’avria/l’avressa bevüü |
 | *nüm* | bevarium/bevaressum | avrium/avressum bevüü |
 | *vialtri* | bevariuf/bevaressuf | avriuf/avressuf bevüü |
 | *lur* | bevarian/bevaressan | i avrian/i avressan bevüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | beva | bevessa |
+| *ti* | ta bevat | ta bevessat |
+| *le / lü* | la/al beva | la/al bevessa |
+| *nüm* | bevum | bevessum |
+| *vialtri* | bevuf | bevessuf |
+| *lur* | i bevan | i bevessan |
 
 ## Imperativo
 

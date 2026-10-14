@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | mandi giò | mandarò giò | avrò mandaa giò |
 | *ti* | ta mandat giò | ta mandaret giò | ta avret mandaa giò |
-| *lü / le* | la/al manda giò | la/al mandarà giò | la/al avrà mandaa giò |
+| *le / lü* | la/al manda giò | la/al mandarà giò | l’avrà mandaa giò |
 | *nüm* | mandum giò | mandarem giò | avrem mandaa giò |
 | *vialtri* | manduf giò | mandarii giò | avrii mandaa giò |
 | *lur* | i manda(n) giò | i mandaran giò | i avran mandaa giò |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | mandava giò | u mandaa giò | eva mandaa giò |
 | *ti* | ta mandavat giò | te mandaa giò | ta evat mandaa giò |
-| *lü / le* | la/al mandava giò | l’a mandaa giò | la/al eva mandaa giò |
+| *le / lü* | la/al mandava giò | l’a mandaa giò | l’eva mandaa giò |
 | *nüm* | mandavum giò | em mandaa giò | evum mandaa giò |
 | *vialtri* | mandavuf giò | ii mandaa giò | evuf mandaa giò |
 | *lur* | i mandavan giò | i an mandaa giò | i evan mandaa giò |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | mandaria/mandaressa giò | avria/avress mandaa giò |
 | *ti* | ta mandariat/mandaressat giò | t’avriat/t’avressat mandaa giò |
-| *lü / le* | la/al mandaria/mandaressa giò | l’avria/l’avressa mandaa giò |
+| *le / lü* | la/al mandaria/mandaressa giò | l’avria/l’avressa mandaa giò |
 | *nüm* | mandarium/mandaressum giò | avrium/avressum mandaa giò |
 | *vialtri* | mandariuf/mandaressuf giò | avriuf/avressuf mandaa giò |
 | *lur* | i mandarian/mandaressan giò | i avrian/i avressan mandaa giò |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | manda giò | mandassa giò |
+| *ti* | ta mandat giò | ta mandassat giò |
+| *le / lü* | la/al manda giò | la/al mandassa giò |
+| *nüm* | mandum giò | mandassum giò |
+| *vialtri* | manduf giò | mandassuf giò |
+| *lur* | i mandan giò | i mandassan giò |
 
 ## Imperativo
 

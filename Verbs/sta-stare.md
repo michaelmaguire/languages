@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | sctò | sctarò | sarò sctai |
 | *ti* | ta sctét | ta sctaret | ta saret sctai |
-| *lü / le* | la/al scta † | la/al sctarà | la/al sarà sctai |
+| *le / lü* | la/al scta † | la/al sctarà | la/al sarà sctai |
 | *nüm* | sctem | sctarem | sarem sctai |
 | *vialtri* | sctii | sctarii | sarii sctai |
 | *lur* | i sctan † | i sctaran | i saran sctai |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | sctava | sum sctai | seva sctai |
 | *ti* | ta sctavat | ta se/set sctai | ta sevat sctai |
-| *lü / le* | la/al sctava | l’è sctai | la/al eva sctai |
+| *le / lü* | la/al sctava | l’è sctai | l’eva sctai |
 | *nüm* | sctavum | sem sctai | sevum sctai |
 | *vialtri* | sctavuf | sii sctai | sevuf sctai |
 | *lur* | i sctavan | i è sctai | i evan sctai |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | staria/staress | saria/saress sctai |
 | *ti* | stariat/staressat | ta sariat/ta saressat sctai |
-| *lü / le* | staria/staressa | la/al saria/saressa sctai |
+| *le / lü* | staria/staressa | la/al saria/saressa sctai |
 | *nüm* | starium/staressum | sarium/saressum sctai |
 | *vialtri* | stariuf/staressuf | sariuf/saressuf sctai |
 | *lur* | starian/staressan | i sarian/i saressan sctai |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | staga | stassa |
+| *ti* | ta stagat | ta stassat |
+| *le / lü* | la/al staga | la/al stassa |
+| *nüm* | stagum | stassum |
+| *vialtri* | staguf | stassuf |
+| *lur* | i stagan | i stassan |
 
 ## Imperativo
 

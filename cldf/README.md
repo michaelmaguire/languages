@@ -114,7 +114,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/michaelmaguire/languages-dialett
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:michaelmaguire/languages-dialett
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:michaelmaguire/languages-dialett/tree/9d0f546">git@github.com:michaelmaguire/languages-dialett  9d0f546</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:michaelmaguire/languages-dialett/tree/e59c84c">git@github.com:michaelmaguire/languages-dialett  e59c84c</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | rogn
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -125,7 +125,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF EntryTable](http://cldf.clld.org/v1.0/terms.rdf#EntryTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 989
+[dc:extent](http://purl.org/dc/terms/extent) | 1013
 
 
 ### Columns
@@ -148,7 +148,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF SenseTable](http://cldf.clld.org/v1.0/terms.rdf#SenseTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1010
+[dc:extent](http://purl.org/dc/terms/extent) | 1036
 
 
 ### Columns
@@ -184,14 +184,14 @@ Name/Property | Datatype | Description
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal`<br>&ge; -180<br>&le; 180 | 
 [Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string`<br>Regex: `[a-z0-9]{4}[1-9][0-9]{3}` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string`<br>Regex: `[a-z]{3}` | 
-`Description` | `string` | 
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
 
 ## <a name="table-examplescsv"></a>Table [examples.csv](./examples.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1407
+[dc:extent](http://purl.org/dc/terms/extent) | 1803
 
 
 ### Columns
@@ -221,7 +221,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ContributionTable](http://cldf.clld.org/v1.0/terms.rdf#ContributionTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 42
+[dc:extent](http://purl.org/dc/terms/extent) | 45
 
 
 ### Columns
@@ -247,25 +247,25 @@ property | value
 
 Name/Property | Datatype | Description
  --- | --- | --- 
-`ID` | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
 `Name_Dialect` | `string` | Rögn name of the topic, composed by Claude from words of the course; † marks a word not found in any course document
-`Name` | `string` | Italian name of the topic
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | Italian name of the topic
 `Name_English` | `string` | 
 
 ## <a name="table-variantscsv"></a>Table [variants.csv](./variants.csv)
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 32
+[dc:extent](http://purl.org/dc/terms/extent) | 62
 
 
 ### Columns
 
 Name/Property | Datatype | Description
  --- | --- | --- 
-`ID` | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
-`Entry_ID` | `string` | References [entries.csv::ID](#table-entriescsv)
-`Form` | `string` | 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
+[Entry_ID](http://cldf.clld.org/v1.0/terms.rdf#entryReference) | `string` | References [entries.csv::ID](#table-entriescsv)
+[Form](http://cldf.clld.org/v1.0/terms.rdf#form) | `string` | 
 `Kind` | `string`<br>Regex: `spelling\|typo\|ocr-error` | 
 `Status` | `string`<br>Valid choices:<br> `accepted` `pending` `typo` `rejected` | 
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
@@ -275,18 +275,18 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 4816
+[dc:extent](http://purl.org/dc/terms/extent) | 5931
 
 
 ### Columns
 
 Name/Property | Datatype | Description
  --- | --- | --- 
-`ID` | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
-`Entry_ID` | `string` | References [entries.csv::ID](#table-entriescsv)
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
+[Entry_ID](http://cldf.clld.org/v1.0/terms.rdf#entryReference) | `string` | References [entries.csv::ID](#table-entriescsv)
 `Tense` | `string` | 
 `Person` | `string`<br>Valid choices:<br> `1s` `2s` `3s` `1p` `2p` `3p` | 
-`Form` | `string` | 
+[Form](http://cldf.clld.org/v1.0/terms.rdf#form) | `string` | 
 `Status` | `string`<br>Valid choices:<br> `attested` `inferred` `rejected` | 
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)

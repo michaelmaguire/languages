@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | tasi | tasarò | avrò tasüü |
 | *ti* | ta tasat | ta tasaret | ta avret tasüü |
-| *lü / le* | al/la tas | la/al tasarà | la/al avrà tasüü |
+| *le / lü* | la/al tas | la/al tasarà | l’avrà tasüü |
 | *nüm* | tasum | tasarem | avrem tasüü |
 | *vialtri* | tasuf | tasarii | avrii tasüü |
 | *lur* | i tas (i tasan) | i tasaran | i avran tasüü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | taseva | u tasüü | eva tasüü |
 | *ti* | ta tasevat | te tasüü | ta evat tasüü |
-| *lü / le* | la/al taseva | l’a tasüü | la/al eva tasüü |
+| *le / lü* | la/al taseva | l’a tasüü | l’eva tasüü |
 | *nüm* | tasevum | em tasüü | evum tasüü |
 | *vialtri* | tasevuf | ii tasüü | evuf tasüü |
 | *lur* | i tasevan | i an tasüü | i evan tasüü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | tasaria/tasaressa | avria/avress tasüü |
 | *ti* | ta tasariat/tasaressat | t’avriat/t’avressat tasüü |
-| *lü / le* | la/al tasaria/tasaressa | l’avria/l’avressa tasüü |
+| *le / lü* | la/al tasaria/tasaressa | l’avria/l’avressa tasüü |
 | *nüm* | tasarium/tasaressum | avrium/avressum tasüü |
 | *vialtri* | tasariuf/tasaressuf | avriuf/avressuf tasüü |
 | *lur* | i tasarian/tasaressan | i avrian/i avressan tasüü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | tasa | tasessa |
+| *ti* | ta tasat | ta tasessat |
+| *le / lü* | la/al tasa | la/al tasessa |
+| *nüm* | tasum | tasessum |
+| *vialtri* | tasuf | tasessuf |
+| *lur* | i tasan | i tasessan |
 
 ## Imperativo
 

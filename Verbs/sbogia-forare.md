@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | sbögi | sbögiarò | avrò sbögiaa |
 | *ti* | ta sbögiat | ta sbögiaret | ta avret sbögiaa |
-| *lü / le* | la/al sbögia | la/al sbögiarà | la/al avrà sbögiaa |
+| *le / lü* | la/al sbögia | la/al sbögiarà | l’avrà sbögiaa |
 | *nüm* | sbögium | sbögiarem | avrem sbögiaa |
 | *vialtri* | sbögiuf | sbögiarii | avrii sbögiaa |
 | *lur* | i sbögian | i sbögiaran | i avran sbögiaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | sbögiava | u sbögiaa | eva sbögiaa |
 | *ti* | ta sbögiavat | te sbögiaa | ta evat sbögiaa |
-| *lü / le* | la/al sbögiava | l’a sbögiaa | la/al eva sbögiaa |
+| *le / lü* | la/al sbögiava | l’a sbögiaa | l’eva sbögiaa |
 | *nüm* | sbögiavum | em sbögiaa | evum sbögiaa |
 | *vialtri* | sbögiavuf | ii sbögiaa | evuf sbögiaa |
 | *lur* | i sbögiavan | i an sbögiaa | i evan sbögiaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | sbögiaria/sbögiaressa | avria/avress sbögiaa |
 | *ti* | ta sbögiariat/sbögiaressat | t’avriat/t’avressat sbögiaa |
-| *lü / le* | la/al sbögiaria/sbögiaressa | l’avria/l’avressa sbögiaa |
+| *le / lü* | la/al sbögiaria/sbögiaressa | l’avria/l’avressa sbögiaa |
 | *nüm* | sbögiarium/sbögiaressum | avrium/avressum sbögiaa |
 | *vialtri* | sbögiariuf/sbögiaressuf | avriuf/avressuf sbögiaa |
 | *lur* | i sbögiarian/sbögiaressan | i avrian/i avressan sbögiaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | sbögia | sbögiassa |
+| *ti* | ta sbögiat | ta sbögiassat |
+| *le / lü* | la/al sbögia | la/al sbögiassa |
+| *nüm* | sbögium | sbögiassum |
+| *vialtri* | sbögiuf | sbögiassuf |
+| *lur* | i sbögian | i sbögiassan |
 
 ## Imperativo
 

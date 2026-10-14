@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | mazi / copi | mazarò | avrò mazzaa |
 | *ti* | ta mazat / ta copat | ta mazaret | ta avret mazzaa |
-| *lü / le* | la/al maza / lü la/al copa | la/al mazarà | la/al avrà mazzaa |
+| *le / lü* | la/al maza / lü la/al copa | la/al mazarà | l’avrà mazzaa |
 | *nüm* | mazum / copum | mazarem | avrem mazzaa |
 | *vialtri* | mazuf / copuf | mazarii | avrii mazzaa |
 | *lur* | i maza / i copa | i mazaran | i avran mazzaa |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | mazzava | u mazzaa | eva mazzaa |
 | *ti* | ta mazzavat | te mazzaa | ta evat mazzaa |
-| *lü / le* | la/al mazzava | l’a mazzaa | la/al eva mazzaa |
+| *le / lü* | la/al mazzava | l’a mazzaa | l’eva mazzaa |
 | *nüm* | mazzavum | em mazzaa | evum mazzaa |
 | *vialtri* | mazzavuf | ii mazzaa | evuf mazzaa |
 | *lur* | i mazzavan | i an mazzaa | i evan mazzaa |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | mazaria/mazaressa | avria/avress mazzaa |
 | *ti* | ta mazariat/mazaressat | t’avriat/t’avressat mazzaa |
-| *lü / le* | la/al mazaria/mazaressa | l’avria/l’avressa mazzaa |
+| *le / lü* | la/al mazaria/mazaressa | l’avria/l’avressa mazzaa |
 | *nüm* | mazarium/mazaressum | avrium/avressum mazzaa |
 | *vialtri* | mazariuf/mazaressuf | avriuf/avressuf mazzaa |
 | *lur* | i mazarian/mazaressan | i avrian/i avressan mazzaa |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | maza | mazzassa |
+| *ti* | ta mazat | ta mazzassat |
+| *le / lü* | la/al maza | la/al mazzassa |
+| *nüm* | mazum | mazzassum |
+| *vialtri* | mazuf | mazzassuf |
+| *lur* | i mazan | i mazzassan |
 
 ## Imperativo
 

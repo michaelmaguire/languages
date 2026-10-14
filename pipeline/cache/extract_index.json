@@ -514,5 +514,11 @@
   "how": "text",
   "words": 1429,
   "text_sha1": "8bf6e935fd0baa8cca8220abf87d86eec781f479"
+ },
+ "Divina Commedia Inferno I-VI (Dante, Project Gutenberg).txt": {
+  "sha1": "6dc9fb22a4950002425369a510cf343be8344e81",
+  "how": "text",
+  "words": 5598,
+  "text_sha1": "6dc9fb22a4950002425369a510cf343be8344e81"
  }
 }

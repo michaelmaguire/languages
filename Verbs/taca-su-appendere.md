@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | tachi sü | tacarò sü | avrò tacaa sü |
 | *ti* | ta tacat sü | ta tacaret sü | ta avret tacaa sü |
-| *lü / le* | la/al taca sü | la/al tacarà sü | la/al avrà tacaa sü |
+| *le / lü* | la/al taca sü | la/al tacarà sü | l’avrà tacaa sü |
 | *nüm* | tacum sü | tacarem sü | avrem tacaa sü |
 | *vialtri* | tacuf sü | tacarii sü | avrii tacaa sü |
 | *lur* | i tacan sü | i tacaran sü | i avran tacaa sü |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | tacava sü | u tacaa sü | eva tacaa sü |
 | *ti* | ta tacavat sü | te tacaa sü | ta evat tacaa sü |
-| *lü / le* | la/al tacava sü | l’a tacaa sü | la/al eva tacaa sü |
+| *le / lü* | la/al tacava sü | l’a tacaa sü | l’eva tacaa sü |
 | *nüm* | tacavum sü | em tacaa sü | evum tacaa sü |
 | *vialtri* | tacavuf sü | ii tacaa sü | evuf tacaa sü |
 | *lur* | i tacavan sü | i an tacaa sü | i evan tacaa sü |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | tacaria/tacaressa sü | avria/avress tacaa sü |
 | *ti* | ta tacariat/tacaressat sü | t’avriat/t’avressat tacaa sü |
-| *lü / le* | la/al tacaria/tacaressa sü | l’avria/l’avressa tacaa sü |
+| *le / lü* | la/al tacaria/tacaressa sü | l’avria/l’avressa tacaa sü |
 | *nüm* | tacarium/tacaressum sü | avrium/avressum tacaa sü |
 | *vialtri* | tacariuf/tacaressuf sü | avriuf/avressuf tacaa sü |
 | *lur* | i tacarian/tacaressan sü | i avrian/i avressan tacaa sü |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | taca sü | tacassa sü |
+| *ti* | ta tacat sü | ta tacassat sü |
+| *le / lü* | la/al taca sü | la/al tacassa sü |
+| *nüm* | tacum sü | tacassum sü |
+| *vialtri* | tacuf sü | tacassuf sü |
+| *lur* | i tacan sü | i tacassan sü |
 
 ## Imperativo
 

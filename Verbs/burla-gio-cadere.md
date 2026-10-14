@@ -18,7 +18,7 @@
 |---|---|---|---|
 | *mi* | bürli giò | borlarò giò | sarò bürlaa (da) giò |
 | *ti* | ta bürlat giò | ta borlaret giò | ta saret bürlaa (da) giò |
-| *lü / le* | la/al bürla giò | la/al borlarà giò | la/al sarà bürlaa (da) giò |
+| *le / lü* | la/al bürla giò | la/al borlarà giò | la/al sarà bürlaa (da) giò |
 | *nüm* | bürlum giò | borlarem giò | sarem bürlaa giò |
 | *vialtri* | bürluf giò | borlarii giò | sarii bürlaa giò |
 | *lur* | i bürlan giò | i borlarà giò | i sarà bürlaa giò |
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | *mi* | bürlava giò | sum bürlaa giò | seva bürlaa (da) giò |
 | *ti* | ta bürlavat giò | ta se/set bürlaa giò | ta sevat bürlaa (da) giò |
-| *lü / le* | la/al bürlarà giò | l’è bürlaa giò | la/al eva bürlaa (da) giò |
+| *le / lü* | la/al bürlarà giò | l’è bürlaa giò | l’eva bürlaa (da) giò |
 | *nüm* | bürlavum giò | sem bürlaa giò | sevum bürlaa giò |
 | *vialtri* | bürlavuf giò | sii bürlaa giò | sevuf bürlaa giò |
 | *lur* | i bürlava giò | i è bürlaa giò | i eva bürlaa giò |
@@ -38,10 +38,21 @@
 |---|---|---|
 | *mi* | bürlaria/bürlaressa giò | saria/saress bürlaa giò |
 | *ti* | ta bürlaressat giò | ta sariat/ta saressat bürlaa giò |
-| *lü / le* | bürlaria/bürlaressa giò | la/al saria/saressa bürlaa giò |
+| *le / lü* | bürlaria/bürlaressa giò | la/al saria/saressa bürlaa giò |
 | *nüm* | bürlaressum giò | sarium/saressum bürlaa giò |
 | *vialtri* | bürlaressuf giò | sariuf/saressuf bürlaa giò |
 | *lur* | bürlarian/bürlaressan giò | i sarian/i saressan bürlaa giò |
+
+## Congiuntivo
+
+|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|---|---|---|
+| *mi* | bürla giò | bürlassa giò |
+| *ti* | ta bürlat giò | ta bürlassat giò |
+| *le / lü* | la/al bürla giò | la/al bürlassa giò |
+| *nüm* | bürlum giò | bürlassum giò |
+| *vialtri* | bürluf giò | bürlassuf giò |
+| *lur* | i bürlan giò | i bürlassan giò |
 
 ## Imperativo
 

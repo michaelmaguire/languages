@@ -28,14 +28,14 @@ something credited differently or removed, please open an issue on the repositor
 | Work | Author or source | Used for |
 |---|---|---|
 | *Modi di dire nel dialetto del Basso Ceresio* (Bissone, 2022) | Raffaele Gaggini | Dictionary entries marked Basso Ceresio |
-| Poems | Spartaco Arigoni (1930–2020) | Expressions |
+| Poems | Spartaco Arigoni (1930–2020) | Read in class; not reprinted |
 | *Nuvant'ann* (2024) | Celso Tantardini | Reading text |
-| *Piove governo ladro* | Fausto Boffi | Expressions |
-| *Filastrocca di Carlino* | Mario Delucchi | Expressions |
+| *Piove governo ladro* | Fausto Boffi | One idiom among the expressions; the text is not reprinted |
+| *Filastrocca di Carlino* | Mario Delucchi | Read in class; not reprinted |
 | *Cus tu vò nìn* and other verse | G. P. Lavelli | Reading text |
 | *Frasi allegate alle gigantografie di anziani di Arogno* (2022) | Residents of Arogno | Expressions |
 | *Come si scrive in dialetto?* | Centro di dialettologia e di etnografia (CDE), Bellinzona | Spelling reference only |
-| Article on the Ponte Capriasca composting site (October 2025) | Corriere del Ticino; dialect version made in class | Expressions |
+| Article on the Ponte Capriasca composting site (October 2025) | Corriere del Ticino; dialect version made in class | Read in class; not reprinted |
 | *Divina Commedia*, selected cantos | Dante Alighieri; dialect version made in class | Reading text |
 | *Topolino* comic story | The Walt Disney Company, Italian edition; dialect version made in class | Reading text |
 | *Introduzione all'analisi del testo poetico* | Prof. Anna Polatti | In the folder, not used |

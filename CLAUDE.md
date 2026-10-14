@@ -99,7 +99,7 @@ forms, entries without English, decisions that matched nothing) and the `git dif
 | `decisions.csv` | Decisions about dictionary entries and expressions: `typo` (fold into the correct form, keep the typo as a variant), `reject`, `accept` (clear ⚠), `variant`, `correct` (fix dialect/Italian/English), `expression` (an idiom or sentence that had landed in the dictionary: it becomes an expression). Columns `Decision,Language_ID,Form,Sense,Target_Form,Target_Language_ID,Italian,English,Reason,Date`. **This is where the owner's corrections go.** Rows whose Reason starts "Claude inferred:" came from Claude's full review on 2026-10-14 (about 260 rows, plus 93 `expression` rows); the owner's have no prefix. |
 | `pair_corrections.csv` | Delete / replace / add an extracted pair, by `source,line` from `pipeline/data/extracted_pairs.csv`. |
 | `lesson_sources.csv` | One row per document: variety, canonical yes/no, layout (`auto`, `skip`, `text_only`, `gerund`, `imperative`, `bullets`), include, genre of its expressions (`phrase`, `saying`, `exercise`, `text`). New files arrive with `?`. |
-| `topics.csv` | The expression topics (ID, Italian name, English name), in page order. |
+| `topics.csv` | The expression topics (ID, dialect name, Italian name, English name), in page order. Dialect names composed by Claude from course words; † on a word not found in any course document (listed in `TO-CHECK.md`). |
 | `expression_topics.csv` | One row per expression (`Language_ID,Form,Topic,Genre`, Form = dialect text): its topic, and a genre when it differs from its document's. Written by Claude on 2026-10-14; new expressions via `tool_expression_topics.py`. |
 | `english_translations.csv` | Italian → English, keyed by the Italian text. |
 | `verb_details.csv` | Per verb: dialect infinitive (attested/inferred + evidence), merges, class, stems, participle, auxiliary, tenses to ignore. |
@@ -134,15 +134,21 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
   same region is dropped (`merge_same_head()`, used by pages and PDF).
 - **Dictionary:** three pages named for the look-up language (Dialett lists every entry), verbs included
   (English as `to …`). The owner's spreadsheet and notes are ordinary sources. No mention of "Oxford 3000".
-- **Expressions (decided 2026-10-14):** grouped by **topic** (`etc/topics.csv`), not by lesson. Each topic page
+- **Expressions (decided 2026-10-14):** grouped by **topic** (`etc/topics.csv`), not by lesson. Topics are named
+  Dialett · Italiano · English; page files follow the verb pages, dialect then Italian:
+  `mangia-e-bef-cibo.md` (slug of the dialect name, then the topic ID). Each topic page
   lists sayings and idioms (genre `saying`), then phrases (`phrase`, `exercise`); the same dialect text from
-  several documents is one row with every source. Documents of genre `text` (poems, stories, articles,
-  dialogues, `varie situazioni`) keep a page each in reading order and get no topic. In `cldf/` this follows
+  several documents is one row with every source. **Source texts are not reprinted** (owner, 2026-10-14):
+  lines of genre `text` documents (poems, stories, articles, dialogues, `varie situazioni`) stay in `cldf/`
+  and `pipeline/` as raw material but appear on no page and in no PDF. Sayings and self-contained everyday
+  phrases found in them are kept as expressions: their row in `etc/expression_topics.csv` overrides the
+  genre (`saying`/`phrase`) and gives a topic (about 80 so far, mostly from the teacher's two sheets; from
+  published texts only short idioms). In `cldf/` this follows
   the TextCorpus pattern: `contributions.csv` (one row per document) with `Contribution_ID` and `Position` on
   each example, plus `Genre` and `Topic_ID` (FK to `topics.csv`). `senses.csv` has `Example_IDs`, linked
   automatically (dialect word and its Italian stem must both appear). Idioms, similes and sentences do not
   belong in the dictionary: move them with an `expression` decision. PDF `arogno-expressions.pdf`: topics in two
-  columns (dialect first, sorted by dialect), then each text as a three-column table.
+  columns (dialect first, sorted by dialect); no texts.
 - **Verb pages:** Infinitive section (Dialett, Italiano, English), then gerund, participle and class,
   then Indicativo as two three-tense tables (A4), Condizionale, Imperativo; same sections for every verb.
   Classes follow the four Western Lombard conjugations (not from the course).
@@ -165,7 +171,8 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
 3. From `pipeline/`, run `.venv/bin/python tool_missing_english.py list`, translate, save as
    `id<TAB>english` lines and feed back with `tool_missing_english.py merge FILE`. Then give new expressions a
    topic: `tool_expression_topics.py list`, choose a topic ID for each, `tool_expression_topics.py merge FILE`
-   (`n<TAB>topic` lines). Set the document's `genre` in `etc/lesson_sources.csv` first (texts need no topic).
+   (`n<TAB>topic` lines). Set the document's `genre` in `etc/lesson_sources.csv` first. Lines of a `text` are not
+   listed; to keep a saying or phrase from one, add its row to `etc/expression_topics.csv` with a Genre.
    An idiom or sentence that lands in the dictionary gets an `expression` row in `etc/decisions.csv`.
 4. Check for silently dropped lines: list every line of each canonical document that produced no pair,
    verb form or unparsed row. This is how `Grembiule: scusaa` (lesson 4) and the bulleted pairs in

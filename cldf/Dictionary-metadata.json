@@ -19,7 +19,7 @@
         {
             "rdf:about": "git@github.com:michaelmaguire/languages-dialett",
             "rdf:type": "prov:Entity",
-            "dc:created": "a7af6a6",
+            "dc:created": "9d0f546",
             "dc:title": "Repository"
         }
     ],
@@ -555,6 +555,11 @@
                         },
                         "required": true,
                         "name": "ID"
+                    },
+                    {
+                        "dc:description": "R\u00f6gn name of the topic, composed by Claude from words of the course; \u2020 marks a word not found in any course document",
+                        "datatype": "string",
+                        "name": "Name_Dialect"
                     },
                     {
                         "dc:description": "Italian name of the topic",

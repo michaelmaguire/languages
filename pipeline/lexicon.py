@@ -253,8 +253,11 @@ def configure(ds):
                      {"name": "Genre", "datatype": {"base": "string", "format": "|".join(GENRES)},
                       "dc:description": "What the document mostly holds; an expression may override it"},
                      source)
-    ds.add_table("topics.csv", rid, {"name": "Name", "required": True,
-                                     "dc:description": "Italian name of the topic"},
+    ds.add_table("topics.csv", rid,
+                 {"name": "Name_Dialect", "datatype": "string",
+                  "dc:description": "Rögn name of the topic, composed by Claude from words of the course; "
+                                    "† marks a word not found in any course document"},
+                 {"name": "Name", "required": True, "dc:description": "Italian name of the topic"},
                  {"name": "Name_English", "datatype": "string"}, primaryKey=["ID"])
     ds.add_columns("ExampleTable",
                    {"name": "Contribution_ID", "propertyUrl": TERMS + "contributionReference"},
@@ -446,7 +449,8 @@ def place_examples(rows, bib):
     meta = {source_key(r["file"]): r for r in pages.read(ETC / "lesson_sources.csv")}
     titles = {b.id: b for b in bib}
     topics = pages.read(ETC / "topics.csv")
-    rows["topics.csv"] = [{"ID": t["ID"], "Name": t["Name"], "Name_English": t["Name_English"] or None} for t in topics]
+    rows["topics.csv"] = [{"ID": t["ID"], "Name_Dialect": t.get("Name_Dialect") or None, "Name": t["Name"],
+                           "Name_English": t["Name_English"] or None} for t in topics]
     known = {t["ID"] for t in topics}
     given = {}
     for t in pages.read(ETC / "expression_topics.csv"):

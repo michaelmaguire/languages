@@ -538,6 +538,16 @@ def expression_order(p):
     return plain(bare(re.sub(r"^\W*\d+\.\s*", "", p["italian"]).replace("*", "")))
 
 
+def topic_file(t):
+    """mangia-e-bef-cibo.md: the dialect name first, then the Italian (the topic ID), as for the verbs."""
+    return "-".join(x for x in (slug((t.get("Name_Dialect") or "").replace("†", "")), t["ID"]) if x and x != "x") + ".md"
+
+
+def topic_title(t):
+    """'Mangià e bef · Mangiare e bere · Food and drink'."""
+    return " · ".join(x for x in (t.get("Name_Dialect"), t["Name"], t["Name_English"]) if x)
+
+
 def merge_expressions(rows):
     """One row per dialect text: the same saying in several documents is listed once, with every source."""
     out = {}
@@ -560,10 +570,6 @@ def expression_table(rows):
 def text_title(p):
     """'2025-02-19-Piove governo ladro di Fausto Boffi' -> 'Piove governo ladro di Fausto Boffi'."""
     return re.sub(r"^\d{4}-\d\d-\d\d-", "", p["text"] or re.sub(r"\.(docx|pdf)$", "", p["source"]))
-
-
-def text_file(p):
-    return slug(p["source"]) + ".md"
 
 
 def render(uniq, tables, eng, topics=None):
@@ -621,7 +627,8 @@ def render(uniq, tables, eng, topics=None):
         "Longer phrases and sentences are under [Expressions](../Expressions/README.md); "
         "conjugations are under [Verbs](../Verbs/README.md).\n"]))
 
-    # ---- Expressions: one page per topic; texts (poems, stories, articles, dialogues) one page each, in order
+    # ---- Expressions: one page per topic. Lines of texts (poems, stories, articles, dialogues) stay in the
+    # dataset as raw material but are not reprinted here; their sayings and phrases have topics of their own.
     topics = topics or []
     by_topic, texts = expression_groups(exprs, topics)
     names = {t["ID"]: t for t in topics}
@@ -630,7 +637,7 @@ def render(uniq, tables, eng, topics=None):
         t = names[tid]
         sections = [(f"{SAYINGS[0]} · {SAYINGS[1]}", [p for p in rows if p["genre"] == "saying"]),
                     (f"{PHRASES[0]} · {PHRASES[1]}", [p for p in rows if p["genre"] != "saying"])]
-        out = [f"# {t['Name']} · {t['Name_English']}\n",
+        out = [f"# {topic_title(t)}\n",
                f"Sayings, idioms and phrases about this topic, from all the course documents. "
                f"{FLAG.strip()} marks a pair the extraction script was unsure about; ↗ links to the source "
                "document.\n"]
@@ -638,35 +645,24 @@ def render(uniq, tables, eng, topics=None):
             if part:
                 out += [f"## {title}\n", expression_table(part)]
         out.append("[← all expressions](README.md)\n")
-        write(ROOT / "Expressions" / f"{tid}.md", "\n".join(out))
-        tindex.append([f"[{cell(t['Name'])}]({tid}.md)", t["Name_English"],
+        write(ROOT / "Expressions" / topic_file(t), "\n".join(out))
+        tindex.append([f"[{cell(t.get('Name_Dialect') or t['Name'])}]({quote(topic_file(t))})", t["Name"], t["Name_English"],
                        len(merge_expressions(sections[0][1])), len(merge_expressions(sections[1][1]))])
-    xindex = []
-    for source, rows in texts.items():
-        title = text_title(rows[0])
-        write(ROOT / "Expressions" / text_file(rows[0]), "\n".join([
-            f"# {title}\n", (f"By **{rows[0]['author']}**. " if rows[0]["author"] else "")
-            + f"Source document: {src_link(source)}\n",
-            f"Region: **{region(rows[0]) or 'not identified'}**\n",
-            "Line by line, in the order of the document. A poem or a story does not always divide into neat "
-            f"pairs, so some lines are fragments. {FLAG.strip()} marks a pair the extraction script was unsure "
-            "about.\n",
-            table(["Italiano", "Dialett", "English"],
-                  [[p["italian"], p["dialect"] + (FLAG if p["check"] else ""), p["english"]] for p in rows]),
-            "[← all expressions](README.md)\n"]))
-        xindex.append([f"[{cell(title)}]({quote(text_file(rows[0]))})", rows[0]["author"], region(rows[0]), len(rows)])
     write(ROOT / "Expressions/README.md", "\n".join([
         "# Expressions\n",
-        "Sayings, idioms and phrases from the course, grouped by topic, and the texts read in class, line by "
-        "line. **[arogno-expressions.pdf](arogno-expressions.pdf)** has them all for printing.\n",
+        "Sayings, idioms and phrases from the course, grouped by topic. "
+        "**[arogno-expressions.pdf](arogno-expressions.pdf)** has them all for printing.\n",
         f"Each topic page has the sayings and idioms first, then ordinary phrases (including the example "
         f"sentences of the grammar sheets). The topics were assigned by Claude, expression by expression, in "
         f"`etc/expression_topics.csv`. {FLAG.strip()} marks a pair the extraction script was unsure about.\n",
         "## By topic\n",
-        table(["Topic", "English", "Sayings and idioms", "Phrases"], tindex),
-        "## Texts\n",
-        "Poems, stories, articles and dialogues, kept whole and in order.\n",
-        table(["Text", "Author", "Region", "Lines"], xindex)]))
+        f"Topic names are given in dialect, Italian and English. The dialect names were composed by Claude "
+        f"from words found in the course; {INFERRED.strip()} marks a word that does not appear in any course "
+        "document (see [TO-CHECK](../TO-CHECK.md#topic-names)).\n",
+        table(["Dialett", "Italiano", "English", "Sayings and idioms", "Phrases"], tindex),
+        "The poems, stories, articles and dialogues read in class are not reprinted here: only the sayings "
+        "and everyday phrases found in them are, under their topics. Their lines are kept as raw material in "
+        "the [CLDF dataset](../cldf/README.md), with genre `text`.\n"]))
 
     # ---- Verbs
     with (DATA / "verb_tables.csv").open("w", newline="") as f:      # every cell of every verb page
@@ -711,7 +707,8 @@ def render(uniq, tables, eng, topics=None):
     # ---- everything that needs a human eye, on one page
     why = {"direction?": "which side is dialect", "split?": "where the line was split in two",
            "pairing?": "whether these two lines belong together", "meaning?": "the Italian, which the source does not give"}
-    flagged = [p for p in uniq if p["check"]]
+    # lines of texts are not reprinted anywhere, so they are not listed here either (they stay pending in cldf/)
+    flagged = [p for p in uniq if p["check"] and p.get("genre") != "text"]
 
     def where(p):
         if p["kind"] == "word":
@@ -719,11 +716,11 @@ def render(uniq, tables, eng, topics=None):
                 return "[Dictionary](Dictionary/italiano.md#no-italian-yet)"
             letter = (plain(bare(p["italian"])) or "#")[0]
             return f"[Dictionary](Dictionary/italiano.md#{letter})" if letter.isalpha() else "[Dictionary](Dictionary/italiano.md)"
-        if p["genre"] == "text":
-            return f"[Expressions](Expressions/{quote(text_file(p))})"
-        return f"[Expressions](Expressions/{p['topic'] or 'altro'}.md)"
+        t = names.get(p["topic"]) or names.get("altro")
+        return f"[Expressions](Expressions/{quote(topic_file(t))})" if t else "[Expressions](Expressions/README.md)"
 
     inferred_inf = [n for n in order if tables[n]["basis"] == "inferred"]
+    odd_topics = [t for t in topics if "†" in (t.get("Name_Dialect") or "")]
     verb_rows, n_inferred = [], 0
     for name in order:
         e = tables[name]
@@ -757,6 +754,7 @@ def render(uniq, tables, eng, topics=None):
             [f"[{INFERRED.strip()} Inferred verb forms](#inferred-verb-forms)", n_inferred],
             [f"[{INFERRED.strip()} Italian supplied for dialect-only lists](#italian-supplied)",
              sum(1 for p in uniq if p.get("supplied"))],
+            [f"[{INFERRED.strip()} Words in topic names not found in the course](#topic-names)", len(odd_topics)],
             [f"[{FLAG.strip()} Uncertain extractions](#uncertain-extractions)", len(flagged)]]),
         "## Inferred infinitives\n",
         "The course material gives forms of these verbs but never states the infinitive.\n",
@@ -775,6 +773,12 @@ def render(uniq, tables, eng, topics=None):
         table(["Dialett", "Italiano supplied", "English", "Source"],
               [[p["dialect"], p["italian"], p["english"], src_link(p["source"], depth=0, text="↗")]
                for p in uniq if p.get("supplied")]),
+        "## Topic names\n",
+        f"The expressions are grouped under topics whose dialect names were composed by Claude. Words marked "
+        f"{INFERRED.strip()} were not found in any course document: the spelling is a guess.\n",
+        table(["Dialett", "Italiano", "English"],
+              [[f"[{cell(t['Name_Dialect'])}](Expressions/{quote(topic_file(t))})", t["Name"], t["Name_English"]]
+               for t in odd_topics]),
         "## Uncertain extractions\n",
         f"Entries marked {FLAG.strip()}: the script paired an Italian and a dialect text but was unsure about "
         "the point shown. Follow *Where* to see the entry in context and ↗ for the original document.\n",
@@ -794,7 +798,7 @@ def render(uniq, tables, eng, topics=None):
     readme = [intro + "\n", "## Contents\n",
               table(["Section", "What is in it", "Size"], [
                   ["[Dictionary](Dictionary/README.md)", "Single words and short terms: Italiano ↔ Dialett, with English where available and a Region column; also as a [printable PDF](Dictionary/arogno-dictionary.pdf)", f"{len(words)} entries"],
-                  ["[Expressions](Expressions/README.md)", "Sayings, idioms and phrases grouped by topic, and the texts read in class; also as a [printable PDF](Expressions/arogno-expressions.pdf)", f"{len(exprs)} pairs"],
+                  ["[Expressions](Expressions/README.md)", "Sayings, idioms and phrases grouped by topic; also as a [printable PDF](Expressions/arogno-expressions.pdf)", f"{sum(len(merge_expressions(r)) for r in by_topic.values())} expressions"],
                   ["[Verbs](Verbs/README.md)", "Conjugation charts, one page per verb; also as a [printable PDF](Verbs/arogno-verbs.pdf)", f"{len(tables)} verbs"],
                   ["[To check](TO-CHECK.md)", "Every inferred form and uncertain extraction, for checking with a teacher",
                    f"{n_inferred + len(flagged) + len(inferred_inf)} items"],
@@ -844,7 +848,8 @@ def render(uniq, tables, eng, topics=None):
 
     n_other = lambda rows: sum(p["canonical"] != "yes" for p in rows)
     print(f"Dictionary: {len(words)} words ({n_other(words)} from other varieties); "
-          f"Expressions: {len(exprs)} pairs ({n_other(exprs)} other) in {len(by_topic)} topics and {len(texts)} texts; "
+          f"Expressions: {sum(len(v) for v in by_topic.values())} pairs in {len(by_topic)} topics "
+          f"({sum(len(v) for v in texts.values())} lines of {len(texts)} texts kept in cldf/ only); "
           f"Verbs: {len(tables)} pages")
     cells = [c for e in tables.values() for row in e["grid"].values() for c in row.values()]
     print(f"Verb forms: {sum(not c[1] and c[0] != '–' for c in cells)} found in the documents, "

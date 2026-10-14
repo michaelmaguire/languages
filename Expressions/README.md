@@ -2,47 +2,32 @@
 
 # Expressions
 
-Sayings, idioms and phrases from the course, grouped by topic, and the texts read in class, line by line. **[arogno-expressions.pdf](arogno-expressions.pdf)** has them all for printing.
+Sayings, idioms and phrases from the course, grouped by topic. **[arogno-expressions.pdf](arogno-expressions.pdf)** has them all for printing.
 
 Each topic page has the sayings and idioms first, then ordinary phrases (including the example sentences of the grammar sheets). The topics were assigned by Claude, expression by expression, in `etc/expression_topics.csv`. ⚠ marks a pair the extraction script was unsure about.
 
 ## By topic
 
-| Topic | English | Sayings and idioms | Phrases |
-|---|---|---|---|
-| [Saluti e cortesia](saluti.md) | Greetings and courtesy | 2 | 10 |
-| [Domande ed esclamazioni](conversazione.md) | Questions and exclamations | 29 | 45 |
-| [Carattere e comportamento](carattere.md) | Character and behaviour | 142 | 3 |
-| [Sentimenti e umore](sentimenti.md) | Feelings and moods | 15 | 6 |
-| [Famiglia, amici e amore](famiglia.md) | Family, friends and love | 75 | 4 |
-| [Corpo e salute](salute.md) | Body and health | 21 | 2 |
-| [Mangiare e bere](cibo.md) | Food and drink | 26 | 45 |
-| [Casa, vestiti e faccende](casa.md) | Home, clothes and housework | 6 | 23 |
-| [Lavoro, scuola e soldi](lavoro.md) | Work, school and money | 32 | 23 |
-| [Tempo, natura e animali](meteo.md) | Weather, nature and animals | 14 | 9 |
-| [Ore, giorni ed età](tempo.md) | Time, days and age | 10 | 1 |
-| [In giro: paese, città e viaggi](fuori.md) | Out and about: village, town and travel | 16 | 14 |
-| [Vacanze, sport e tempo libero](vacanze.md) | Holidays, sport and free time | 11 | 82 |
-| [Feste, fede e tradizioni](feste.md) | Festivals, faith and tradition | 10 | 3 |
-| [La vita e la saggezza](vita.md) | Life and wisdom | 178 | 16 |
-| [Lingua e dialetto](dialetto.md) | Language and dialect | 0 | 6 |
-| [Altro](altro.md) | Other | 1 | 0 |
+Topic names are given in dialect, Italian and English. The dialect names were composed by Claude from words found in the course; † marks a word that does not appear in any course document (see [TO-CHECK](../TO-CHECK.md#topic-names)).
 
-## Texts
+| Dialett | Italiano | English | Sayings and idioms | Phrases |
+|---|---|---|---|---|
+| [Bon dì, grazie e arivedes](bon-di-grazie-e-arivedes-saluti.md) | Saluti e cortesia | Greetings and courtesy | 2 | 25 |
+| [Dumand e esclamaziun†](dumand-e-esclamaziun-conversazione.md) | Domande ed esclamazioni | Questions and exclamations | 33 | 55 |
+| [Cumè che l'è la gent](cume-che-l-e-la-gent-carattere.md) | Carattere e comportamento | Character and behaviour | 142 | 3 |
+| [Ul cör e l'umur†](ul-cor-e-l-umur-sentimenti.md) | Sentimenti e umore | Feelings and moods | 15 | 6 |
+| [Famiglia, amis e amur](famiglia-amis-e-amur-famiglia.md) | Famiglia, amici e amore | Family, friends and love | 75 | 5 |
+| [Ul corp† e la salüt](ul-corp-e-la-salut-salute.md) | Corpo e salute | Body and health | 21 | 2 |
+| [Mangià e bef](mangia-e-bef-cibo.md) | Mangiare e bere | Food and drink | 27 | 70 |
+| [Cà, vestii e laur da cà](ca-vestii-e-laur-da-ca-casa.md) | Casa, vestiti e faccende | Home, clothes and housework | 6 | 24 |
+| [Laurà, scöla e danée](laura-scola-e-danee-lavoro.md) | Lavoro, scuola e soldi | Work, school and money | 32 | 26 |
+| [Ul temp, la natüra e i bescti†](ul-temp-la-natura-e-i-bescti-meteo.md) | Tempo, natura e animali | Weather, nature and animals | 15 | 10 |
+| [L'ura, i dì e i ann](l-ura-i-di-e-i-ann-tempo.md) | Ore, giorni ed età | Time, days and age | 10 | 2 |
+| [In gir: paes, cità e viagg](in-gir-paes-cita-e-viagg-fuori.md) | In giro: paese, città e viaggi | Out and about: village, town and travel | 16 | 20 |
+| [Vacanza, sport e temp lìbar†](vacanza-sport-e-temp-libar-vacanze.md) | Vacanze, sport e tempo libero | Holidays, sport and free time | 11 | 84 |
+| [Fescta, fede† e tradiziun†](fescta-fede-e-tradiziun-feste.md) | Feste, fede e tradizioni | Festivals, faith and tradition | 10 | 5 |
+| [La vita](la-vita-vita.md) | La vita e la saggezza | Life and wisdom | 179 | 16 |
+| [Lengua e dialett](lengua-e-dialett-dialetto.md) | Lingua e dialetto | Language and dialect | 0 | 12 |
+| [Altru](altru-altro.md) | Altro | Other | 1 | 0 |
 
-Poems, stories, articles and dialogues, kept whole and in order.
-
-| Text | Author | Region | Lines |
-|---|---|---|---|
-| [articolo CdT](2025-10-13-articolo-cdt.md) | Casellini, Guido | Rögn | 47 |
-| [dialoghi a Lugano](dialoghi-a-lugano.md) | Casellini, Guido | Rögn | 86 |
-| [Favole in dialetto tradotta in italiano](favole-in-dialetto-tradotta-in-italiano.md) |  |  | 47 |
-| [Fregüi da vita dal Mendrisiòtt](2025-09-15-fregui-da-vita-dal-mendrisiott.md) |  | Mendrisiotto | 53 |
-| [I maestri d'inlura e quii d'incöö](2025-10-20-i-maestri-d-inlura-e-quii-d-incoo.md) |  |  | 48 |
-| [Insegnà ul dialètt a scöla](2025-09-29-insegna-ul-dialett-a-scola.md) |  |  | 38 |
-| [la nocc e carisna](2025-02-19-la-nocc-e-carisna.md) |  |  | 3 |
-| [Nümm e quii da là dal San Gòtard](2025-10-06-numm-e-quii-da-la-dal-san-gotard.md) |  |  | 44 |
-| [Piove governo ladro di Fausto Boffi](2025-02-19-piove-governo-ladro-di-fausto-boffi.md) | Boffi, Fausto |  | 18 |
-| [poesie in dialetto](2025-02-19-poesie-in-dialetto.md) |  |  | 12 |
-| [San Martin](2025-09-22-san-martin.md) |  |  | 37 |
-| [varie situazioni](varie-situazioni.md) | Casellini, Guido | Rögn | 46 |
+The poems, stories, articles and dialogues read in class are not reprinted here: only the sayings and everyday phrases found in them are, under their topics. Their lines are kept as raw material in the [CLDF dataset](../cldf/README.md), with genre `text`.

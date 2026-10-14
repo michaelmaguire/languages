@@ -51,7 +51,8 @@ additions here are the English columns, `Status`, `Variant_Of`, `Conjugation_Cla
 expressions' `Genre` and `Topic_ID`, `Example_IDs` on senses (the expressions that use a word in that
 sense, found automatically), and the `variants.csv`, `paradigms.csv` and `topics.csv` tables. The
 expressions follow the pattern of the TextCorpus module: each one points to its document in
-`contributions.csv` and has its line there as `Position`, so a poem or a story can be read back in order. Verb paradigms have no CLDF component of their own.
+`contributions.csv` and has its line there as `Position`. Lines of texts (genre `text`: poems, stories,
+articles) are kept here as raw material only; the generated pages and PDFs do not reprint them. Verb paradigms have no CLDF component of their own.
 
 ## How the data is recorded
 

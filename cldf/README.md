@@ -51,7 +51,8 @@ additions here are the English columns, `Status`, `Variant_Of`, `Conjugation_Cla
 expressions' `Genre` and `Topic_ID`, `Example_IDs` on senses (the expressions that use a word in that
 sense, found automatically), and the `variants.csv`, `paradigms.csv` and `topics.csv` tables. The
 expressions follow the pattern of the TextCorpus module: each one points to its document in
-`contributions.csv` and has its line there as `Position`, so a poem or a story can be read back in order. Verb paradigms have no CLDF component of their own.
+`contributions.csv` and has its line there as `Position`. Lines of texts (genre `text`: poems, stories,
+articles) are kept here as raw material only; the generated pages and PDFs do not reprint them. Verb paradigms have no CLDF component of their own.
 
 ## How the data is recorded
 
@@ -113,7 +114,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/michaelmaguire/languages-dialett
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:michaelmaguire/languages-dialett
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:michaelmaguire/languages-dialett/tree/a7af6a6">git@github.com:michaelmaguire/languages-dialett  a7af6a6</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:michaelmaguire/languages-dialett/tree/9d0f546">git@github.com:michaelmaguire/languages-dialett  9d0f546</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | rogn
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -247,6 +248,7 @@ property | value
 Name/Property | Datatype | Description
  --- | --- | --- 
 `ID` | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
+`Name_Dialect` | `string` | Rögn name of the topic, composed by Claude from words of the course; † marks a word not found in any course document
 `Name` | `string` | Italian name of the topic
 `Name_English` | `string` | 
 

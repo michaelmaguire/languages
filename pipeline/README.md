@@ -188,12 +188,13 @@ and of the pages: a change to an input should only change what you expected.
   word share one row (in the Markdown tables, one line each inside the cells). A form whose words are all
   contained in another form of the same region is not repeated (`tütt` beside `tütt, tücc`). The logic is
   `merge_same_head()` in `step4_build_pages.py`, used by both steps 4 and 5.
-- **Expressions are grouped by topic, texts kept whole.** Every expression is tied to its document and line
+- **Expressions are grouped by topic; texts are not reprinted.** Every expression is tied to its document and line
   (`contributions.csv`, `Contribution_ID`, `Position`: the CLDF TextCorpus pattern), and has a genre
   (`phrase`, `saying`, `exercise`, `text`) from its document in `../etc/lesson_sources.csv` unless
   `../etc/expression_topics.csv` says otherwise. Every expression that is not part of a text has a topic
-  from `../etc/topics.csv`; the pages and the PDF list each topic's sayings, then its phrases. Texts get a
-  page each, line by line. A sense's `Example_IDs` lists the Rögn expressions that contain the dialect word
+  from `../etc/topics.csv`; the pages and the PDF list each topic's sayings, then its phrases. The lines of
+  texts (poems, stories, articles, dialogues) stay in the dataset as raw material and are on no page or PDF;
+  a saying or phrase from one is kept by giving it a row, genre and topic in `../etc/expression_topics.csv`. A sense's `Example_IDs` lists the Rögn expressions that contain the dialect word
   (or a form of the verb) and whose Italian contains the sense's Italian stem.
 - **Verbs appear in the dictionary**, with their English as an infinitive (`to go`), and a verb's main
   Italian infinitive is its sense without a comment (synonyms carry "Italian synonym of …").

@@ -1,0 +1,518 @@
+{
+ "11_Fascicolo_poesia_25-26.docx": {
+  "sha1": "ab7319f03f2d8b40d26f3efdb2218cbfb38e6f05",
+  "how": "text",
+  "words": 9124,
+  "text_sha1": "88a6efb48bf10b2514df51a2c2ec0b4d3cab5c93"
+ },
+ "12_cipolla_szymborska.docx": {
+  "sha1": "85521cf5311a0b791287525e523456e60b91b531",
+  "how": "text",
+  "words": 174,
+  "text_sha1": "8615ce3ef0ab3cd79566454f6c6107c84e731066"
+ },
+ "14_caproni_battendo_a_macchina.docx": {
+  "sha1": "394577fdef0baf0505a8350f217a83d676c878e2",
+  "how": "text",
+  "words": 204,
+  "text_sha1": "056d2368bde323c5ac995fcbde49a09aef8dd84e"
+ },
+ "15_caproni_uscita_mattutina.docx": {
+  "sha1": "a7f1b8e5398b01af0b6b311e98fdc639f42d5d5b",
+  "how": "text",
+  "words": 279,
+  "text_sha1": "d5905b6cf60f095dfe55a7ba4ee04dba1fb47488"
+ },
+ "16_LiLu_caproni_lamenti_III.docx": {
+  "sha1": "795663c3a610e520fb4064ebda83eaed17786d57",
+  "how": "text",
+  "words": 175,
+  "text_sha1": "987260d10566a7aed0642f1a58cb7328166d1d3f"
+ },
+ "16_caproni_notte.docx": {
+  "sha1": "ca91bee5d376a19532e156cf58b83bf943be4032",
+  "how": "text",
+  "words": 210,
+  "text_sha1": "1e8d550acc91f272c66432e9494cee00eec287d7"
+ },
+ "17_LiLu_pascoli_tuono.docx": {
+  "sha1": "b02c3064867a99df859a3712dcdbf1ea8ea0186a",
+  "how": "text",
+  "words": 133,
+  "text_sha1": "c5fd0f8ee77768841eea825219685df5adac7198"
+ },
+ "2025-02-19-Piove governo ladro di Fausto Boffi.docx": {
+  "sha1": "08b181f3b13ed3637c21203603104ea43fd3dc30",
+  "how": "text",
+  "words": 562,
+  "text_sha1": "ffe985ea84132fb3a1a323b88cc986662f3bd436"
+ },
+ "2025-02-19-la nocc e carisna.docx": {
+  "sha1": "f3fbf3dcb0921c95322cbe8ef6747772b58af23a",
+  "how": "text",
+  "words": 85,
+  "text_sha1": "24d5195d18194a58e6bfba9ebc14f6ea832cbcdb"
+ },
+ "2025-02-19-poesie in dialetto.docx": {
+  "sha1": "4744a6039a3f92f354701ba012acca22440dec70",
+  "how": "text",
+  "words": 272,
+  "text_sha1": "6354b7ad632d0e4b217253b74f974868d09edc73"
+ },
+ "2025-09-15-Fregüi da vita dal Mendrisiòtt.docx": {
+  "sha1": "9dd7193bd3a91b1b534c80933b73cb299f2c9e53",
+  "how": "text",
+  "words": 1447,
+  "text_sha1": "578938d950327c63f2dab868e58f0c11d60c4635"
+ },
+ "2025-09-22-San Martin.pdf": {
+  "sha1": "184108fa7e448689dd946e7f5c921604a8bab587",
+  "how": "text",
+  "words": 1122,
+  "text_sha1": "f27aff13eedfb77b9ff50e56f640cdce314808f2"
+ },
+ "2025-09-29-Insegnà ul dialètt a scöla.docx": {
+  "sha1": "0fa2eeabfaab4fec8d4d982e3e5efa67cc30b955",
+  "how": "text",
+  "words": 1490,
+  "text_sha1": "9add71110a615fd86fd52ea687e716093808bdfc"
+ },
+ "2025-10-06-Nümm e quii da là dal San Gòtard.pdf": {
+  "sha1": "1a33d19065f81752cbb6ab1991af348c026e32d3",
+  "how": "text",
+  "words": 1400,
+  "text_sha1": "31df67b48b47c99927c4e35f98ee124abc85dbfc"
+ },
+ "2025-10-13-Nümm e quii da là dal San Gòtard.docx": {
+  "sha1": "26ba778d07745f7f5aaf4ae31e88357ce1fe8f22",
+  "how": "text",
+  "words": 1400,
+  "text_sha1": "46108ecc623d2fb22fe078601fefc7fe23a6576d"
+ },
+ "2025-10-13-articolo CdT.docx": {
+  "sha1": "264127932adf18fd973a598183bcd8fee3840a27",
+  "how": "text",
+  "words": 1118,
+  "text_sha1": "8cee2bb299d01f485eb4d45b638a33dc7a09b7bc"
+ },
+ "2025-10-20-I maestri d'inlura e quii d'incöö.docx": {
+  "sha1": "70ede8c733858bb49855c6ccb123b21accb68fc5",
+  "how": "text",
+  "words": 1735,
+  "text_sha1": "85c219a8f6c7d8a183c8913116e32968c0906ceb"
+ },
+ "2025-11-17-dialett da Lumin.pdf": {
+  "sha1": "1146235a82858b918661c5702c66a9aecd81bfa4",
+  "how": "text",
+  "words": 680,
+  "text_sha1": "c1b5fff3efa3402e5796b89ee91a2d2b86bc2c10"
+ },
+ "2025-11-24-dialett da Lumin 2.pdf": {
+  "sha1": "90868e9dd3c7d3cffb729d05bc95da489874c2c5",
+  "how": "text",
+  "words": 420,
+  "text_sha1": "59ed83f4b0ff50c7c02c389befbf5c6d70ecffe4"
+ },
+ "2025-12-01-Canto 1 della Divina Commedia.docx": {
+  "sha1": "353b6740483cc52a6be217a3a97fcea0a7987268",
+  "how": "text",
+  "words": 224,
+  "text_sha1": "f06bfcceeede1d8a3ea521d471f9de51811d6abe"
+ },
+ "2026-05-04-I düü magnan.pdf": {
+  "sha1": "b7ddf8452ca71da1175a4f35bcb10b1d8d0b5cc1",
+  "how": "ocr",
+  "words": 1125,
+  "text_sha1": "ffb464786d5befce1989d7da7749c1faa5a54c0b"
+ },
+ "CDE_come_si_scrive_in_dialetto.pdf": {
+  "sha1": "f891c825135ca2d903f2083515ff9d430ceb996b",
+  "how": "ocr",
+  "words": 2382,
+  "text_sha1": "99def634f9496d9c8f26d45e8d3099ae6265b50f"
+ },
+ "Chi che l'è un vero ticinés.docx": {
+  "sha1": "64218cbe5474ee7aa09633bb5c80116f360fdd26",
+  "how": "text",
+  "words": 774,
+  "text_sha1": "c208902e107f31a6d756bd70f756036b44a5d01d"
+ },
+ "Cors da dialet da Rögn 10a leziun.docx": {
+  "sha1": "a1d42c096b42f4bb06e5ecb293281e6257777561",
+  "how": "text",
+  "words": 349,
+  "text_sha1": "1f34951136dcbb938e559c68977ff40b37f1ccac"
+ },
+ "Cors da dialet da Rögn 11a leziun (1).docx": {
+  "sha1": "4358ba66677e8e9d9ccc8d56998a48d93e960843",
+  "how": "text",
+  "words": 729,
+  "text_sha1": "a20291890efa9ea85e9f61a6b0a99f40c7a02b51"
+ },
+ "Cors da dialet da Rögn 11a leziun.docx": {
+  "sha1": "4358ba66677e8e9d9ccc8d56998a48d93e960843",
+  "how": "text",
+  "words": 729,
+  "text_sha1": "a20291890efa9ea85e9f61a6b0a99f40c7a02b51"
+ },
+ "Cors da dialet da Rögn 12a leziun (1).docx": {
+  "sha1": "561269315bcb3f99bda421eecc77806e8949af91",
+  "how": "text",
+  "words": 811,
+  "text_sha1": "826c5b50b2a26d3ad27d9d5d80e3532303ca4fa8"
+ },
+ "Cors da dialet da Rögn 12a leziun.docx": {
+  "sha1": "561269315bcb3f99bda421eecc77806e8949af91",
+  "how": "text",
+  "words": 811,
+  "text_sha1": "826c5b50b2a26d3ad27d9d5d80e3532303ca4fa8"
+ },
+ "Cors da dialet da Rögn 13a leziun.docx": {
+  "sha1": "54ddf687a21973355b3ce2b71b971fe5b6ff9d9e",
+  "how": "text",
+  "words": 755,
+  "text_sha1": "9a23e5a13529af4e0c96e258c7a4cbfb3705ff33"
+ },
+ "Cors da dialet da Rögn 14a leziun.docx": {
+  "sha1": "5c843c902c043047905c821b1c55ff651abd70dd",
+  "how": "text",
+  "words": 410,
+  "text_sha1": "e24b22546de93998a5c7cb038c2b341821bd2cf7"
+ },
+ "Cors da dialet da Rögn 15a leziun - proverbi.pdf": {
+  "sha1": "1950ca0db9ecc5f1f886d4b877eeaa170a0a5bec",
+  "how": "ocr",
+  "words": 2202,
+  "text_sha1": "36cdb781a518a6f9231a86c5b5006a5eb17e10a6"
+ },
+ "Cors da dialet da Rögn 6a leziun.docx": {
+  "sha1": "9f781dfbce617566d381e2e82c98b073776f6a1f",
+  "how": "text",
+  "words": 502,
+  "text_sha1": "b2ca55b4e9b018613adc87cbdc1b637b02ee096b"
+ },
+ "Cors da dialet da Rögn 7a leziun.docx": {
+  "sha1": "4203bd252836f7de7ad39cd9fc02ab75db7943c2",
+  "how": "text",
+  "words": 438,
+  "text_sha1": "d18c75f246e70e6c362d8a2281098767dac22841"
+ },
+ "Cors da dialet da Rögn 8a leziun.docx": {
+  "sha1": "2e0d044d682413109ada8030a2c0e77e6c4ae79f",
+  "how": "text",
+  "words": 496,
+  "text_sha1": "d1a6dc0a034233aa7b3e9719e55d5cc91f62fdc0"
+ },
+ "Cors da dialet da Rögn 9a leziun.docx": {
+  "sha1": "84bc607b7484ad4b340a6673b69c88d094e554a6",
+  "how": "text",
+  "words": 688,
+  "text_sha1": "7fd50c31e436f30e9b0c63ee5951b0e93bd8197c"
+ },
+ "Cors da dialett da Rögn 3a leziun.docx": {
+  "sha1": "6584af14adf90e227e5ea8bea3dd9abb3c2e399e",
+  "how": "text",
+  "words": 512,
+  "text_sha1": "9c8d90ef7d28ebcbc79c977524407c37db8c1706"
+ },
+ "Cors da dialett da Rögn 4a leziun.docx": {
+  "sha1": "640acd0d93cd0760b154ddf9dbd156016d42756f",
+  "how": "text",
+  "words": 338,
+  "text_sha1": "895792eef6cb0fe657dfcfaa9af3991e36663542"
+ },
+ "Cors da dialett da Rögn 5a leziun.docx": {
+  "sha1": "d131b62971b2c2d786b994ce68a3d8f31ab9b957",
+  "how": "text",
+  "words": 156,
+  "text_sha1": "3c61e60e4e3e9501e32d954c219552f0cfdc21f3"
+ },
+ "Cors da dialett da Rögn lezium 1 e 2.docx": {
+  "sha1": "415baf9a44ec187ba1d265d187fcc7af4ed04b7b",
+  "how": "text",
+  "words": 574,
+  "text_sha1": "b66e12beed0ceac6a4ba0deecf4aa07696c06d65"
+ },
+ "Dizionario con filastrocche di R. Gaggini.docx": {
+  "sha1": "520e95ebadfdf97acfb6bbe2023f97c6166b5811",
+  "how": "text",
+  "words": 8907,
+  "text_sha1": "97f1bcee06b4b84225bc45f06f5584e922622179"
+ },
+ "El Fra in do Sac.docx": {
+  "sha1": "553ba06998271c960b6b6890fdb5df604397585e",
+  "how": "text",
+  "words": 1174,
+  "text_sha1": "9fa3c3cd31c635793d3b9f59966cd1697175de8b"
+ },
+ "Favole in dialetto tradotta in italiano.docx": {
+  "sha1": "4ce5d907df56dd7bdd6198a2282725defeb862bb",
+  "how": "text",
+  "words": 1529,
+  "text_sha1": "f5dcaee28c3c3a3bbb3d9b47dad0c36e8e5e46e4"
+ },
+ "Filatrocca di Carlino.docx": {
+  "sha1": "57f3761e21a8c03f787c78e798a43c322c9f5823",
+  "how": "text",
+  "words": 522,
+  "text_sha1": "9bfcda5b2115a3b608483d53170352fd86960ef2"
+ },
+ "Frasi di ultranovantenni di Arogno.pdf": {
+  "sha1": "af818380adb9c40a46c30ac5dfc3b1925b497b60",
+  "how": "text",
+  "words": 488,
+  "text_sha1": "d57bcb955a8dafb16132a100dd199dab2d4d5212"
+ },
+ "GP Lavelli 2x.docx": {
+  "sha1": "c3c6c7c646207575f7e72485c71cc7bf991fae39",
+  "how": "ocr",
+  "words": 214,
+  "text_sha1": "3c84cd2a24f0432a2837152d5d68a763a6089a7b"
+ },
+ "I due Magnani.pdf": {
+  "sha1": "9410446261012fe58d6647cf4e2fb9eb22e9709f",
+  "how": "ocr",
+  "words": 1124,
+  "text_sha1": "efefd8e5539328cbeb6286f269b8597b52dcf16c"
+ },
+ "I düü magnan.docx": {
+  "sha1": "64a8fa8c285a32938b2b47b12bc373e44af63b9e",
+  "how": "text",
+  "words": 1261,
+  "text_sha1": "1a724db9e3933f3314744a0b39f035297313dfb4"
+ },
+ "Il Condizionale Passato.docx": {
+  "sha1": "0c68c6f1e43d37495076679a9a90b63edd2c0482",
+  "how": "text",
+  "words": 690,
+  "text_sha1": "e40e9a25cd01f4b49fc0a577bc69aa5a6c72d178"
+ },
+ "Il Condizionale Presente.docx": {
+  "sha1": "03ecf859b28a350a88e8732be691fa0b3e661076",
+  "how": "text",
+  "words": 1511,
+  "text_sha1": "f13b18e7fd478c8646326346bd0f74df8b2abd9b"
+ },
+ "L'appetito vien mangiando.docx": {
+  "sha1": "ceeffb70daab97b4d07587d4f36d7e329a088d45",
+  "how": "text",
+  "words": 431,
+  "text_sha1": "612305193a9ee70f6b2f391b1dea49e038eceb1b"
+ },
+ "Letra ala sciura Trudi - Copia.docx": {
+  "sha1": "b885a7be562f3e3fb27e832ec9880a3c5e25d4bd",
+  "how": "text",
+  "words": 940,
+  "text_sha1": "dfe545022966c93db5170adf596a9572440f66f9"
+ },
+ "NUVANT'ANN.pdf": {
+  "sha1": "07a7ba9c090e56ca1edaf12de542611dc63e9bd8",
+  "how": "text",
+  "words": 571,
+  "text_sha1": "1613d6f2885f79053751f9522a88bca70da08c1a"
+ },
+ "Paul e Ghita a Lügan 1a e 2a parte.pdf": {
+  "sha1": "91b0c2b078c84c0331abba14e487ad1d1127f7d7",
+  "how": "ocr",
+  "words": 2736,
+  "text_sha1": "509498de664e52f0887b76e81b231f7a9ca239b5"
+ },
+ "Paul e Ghita a Lügan 3a parte.pdf": {
+  "sha1": "a5f992202737fb896e5f57c8dd67aa5f820d4b47",
+  "how": "ocr",
+  "words": 1392,
+  "text_sha1": "76e85d15cbd105dfd0f480fa1a58e34f8638f730"
+ },
+ "Paul e Ghita a Lügan 4a parte.pdf": {
+  "sha1": "d44bea8e6281bb046ff9a79871e6c53e54952145",
+  "how": "ocr",
+  "words": 6130,
+  "text_sha1": "81888150b74a3f39f532410216995ccdc5a2b2b8"
+ },
+ "Paul e Ghita a Lügan quinta parte.pdf": {
+  "sha1": "294fb69a8866314a9eb63e40237343a02e663229",
+  "how": "ocr",
+  "words": 3496,
+  "text_sha1": "1fba8d48836a4960a5f2dc4415f313ee49d65f63"
+ },
+ "Piove governo ladro di Fausto Boffi.docx": {
+  "sha1": "08b181f3b13ed3637c21203603104ea43fd3dc30",
+  "how": "text",
+  "words": 562,
+  "text_sha1": "ffe985ea84132fb3a1a323b88cc986662f3bd436"
+ },
+ "Ul prevosct senza crapa.docx": {
+  "sha1": "cdbc973f1ee20ce796e721a21f26388c212d3d8a",
+  "how": "text",
+  "words": 344,
+  "text_sha1": "8a2cf26abbf21b2e31d32badfceb5200680c8f43"
+ },
+ "brevi frasi.pdf": {
+  "sha1": "3a04551afdf28b855a38f285ca50c0639d08e3ae",
+  "how": "text",
+  "words": 1149,
+  "text_sha1": "a45c700925ad338c85cc69ae5dd16d33eeaa772d"
+ },
+ "concorso Vacallo.pdf": {
+  "sha1": "42f91531dc2e8d4c2bf86b52b212993efb8bc06b",
+  "how": "text",
+  "words": 218,
+  "text_sha1": "e7c0281184681adbf460309f0d491f3241313904"
+ },
+ "cors da dialet da Rögn 17a leziun.pdf": {
+  "sha1": "eed12c2595876c0580091acef08b9179ff14ae45",
+  "how": "text",
+  "words": 476,
+  "text_sha1": "5db64b9ea6923c8f7f28127276149194be9390ab"
+ },
+ "cors da dialet da Rögn 18a leziun.docx": {
+  "sha1": "5d3d2c65f595bed66785052b875c5411e35c382c",
+  "how": "text",
+  "words": 882,
+  "text_sha1": "9ab5a9e171b96c4b99c2b7b417a0758ac1e19dc1"
+ },
+ "cors da dialet da Rögn 19a leziun.docx": {
+  "sha1": "7016c3e3ced4772ddb45b6dd5b88eac6ad8753ef",
+  "how": "text",
+  "words": 70,
+  "text_sha1": "d77bd27d88b998ae11c13c07001ae2a1554a7e91"
+ },
+ "dialett-poesia-Spartaco-Arigoni.pdf": {
+  "sha1": "75af9292f30e98319cad873ed32c84f13e78b85d",
+  "how": "ocr",
+  "words": 1112,
+  "text_sha1": "b7991a1c449e02d16a7b805015e502acb7cf27c2"
+ },
+ "dialoghi a Lugano.pdf": {
+  "sha1": "a4e171fff7207da83bb0e5ad1c30dcdc707dd281",
+  "how": "text",
+  "words": 3320,
+  "text_sha1": "01ea4770b0398ae7170d0e369759f9743dcff743"
+ },
+ "domande di vario tipo.docx": {
+  "sha1": "da11dc0ad8ca71c2ccb8b2cde1612b5552e6e798",
+  "how": "text",
+  "words": 1170,
+  "text_sha1": "a9233a4c4ab7d0fbbda03f1cbc0a8fb272453e9a"
+ },
+ "espressioni in italiano 2.6.2025.pdf": {
+  "sha1": "decb458f5b8ecc24721d961f284c221fdec9c104",
+  "how": "text",
+  "words": 4041,
+  "text_sha1": "62e3fd30d7d00209b2f9d5b0a31ae7ccda70849b"
+ },
+ "espressioni in italiano.docx": {
+  "sha1": "1e64cc24a3682009c765ec098c80d24562b28683",
+  "how": "text",
+  "words": 4096,
+  "text_sha1": "a0f545c6301ee89dd549f2eb9416e6d596ea6fd3"
+ },
+ "frasi fai 1 - Copia.docx": {
+  "sha1": "f74e33e5ffd684f70520a3f8becc5bde9b123c9a",
+  "how": "text",
+  "words": 3239,
+  "text_sha1": "3839fe1044c0533b42a026c2591526b8736b3bb0"
+ },
+ "frasi fai 1.docx": {
+  "sha1": "82e94f5ba42243ad22b51f9819a2a6f0910ee3a7",
+  "how": "text",
+  "words": 1926,
+  "text_sha1": "9c87b7a7923f04e746376c2e8639279d9a71deff"
+ },
+ "frasi fatte.docx": {
+  "sha1": "c367b6721641318c365af8c7c04ab17748a2c826",
+  "how": "text",
+  "words": 1820,
+  "text_sha1": "1bc45f4e7868db70d3902bac31ed913a2436776d"
+ },
+ "il congiüntif.docx": {
+  "sha1": "074725e774784ba359663e657c88fee03906c376",
+  "how": "text",
+  "words": 2319,
+  "text_sha1": "5dec64c5cb8a8c5cf3b468bf4b74056f1d72316e"
+ },
+ "il gerundio.pdf": {
+  "sha1": "369d30a5752b3331b9b45f705f1d12f3f4ed9ec8",
+  "how": "text",
+  "words": 1167,
+  "text_sha1": "784f09730e3ef5c2f346b9d82dab4631aa1b7bf7"
+ },
+ "imperativo 14.4.2025.pdf": {
+  "sha1": "c7e487d02f03552aa999131bbffe4684ef53db70",
+  "how": "text",
+  "words": 368,
+  "text_sha1": "ad6d34737d614157bd7bc433adb2e1eef5ed93fb"
+ },
+ "imperativo.pdf": {
+  "sha1": "2e7ae98c57fbb8a208e118ceb79c6ca1d2a50833",
+  "how": "text",
+  "words": 1825,
+  "text_sha1": "f7408bbcb0c7471582830b7acedad0281976c3cc"
+ },
+ "l Condizionale Presente.docx": {
+  "sha1": "813d97f000aa02a5893f14a244a3c8ced62f25b4",
+  "how": "text",
+  "words": 864,
+  "text_sha1": "2c6399182a19bc8a2b23231833bbf22bf2c94190"
+ },
+ "la nocc e carisna.docx": {
+  "sha1": "f3fbf3dcb0921c95322cbe8ef6747772b58af23a",
+  "how": "text",
+  "words": 85,
+  "text_sha1": "24d5195d18194a58e6bfba9ebc14f6ea832cbcdb"
+ },
+ "poesie in dialetto.docx": {
+  "sha1": "4744a6039a3f92f354701ba012acca22440dec70",
+  "how": "text",
+  "words": 272,
+  "text_sha1": "6354b7ad632d0e4b217253b74f974868d09edc73"
+ },
+ "testi dal Burghett di Giubiasco.docx": {
+  "sha1": "608d8a96333d60d5fb6ec3f82d91b07cc0ffbd57",
+  "how": "text",
+  "words": 437,
+  "text_sha1": "ff6981e8034bf4f0c922033bcfdc33f41b1cd616"
+ },
+ "topolino prima parte.pdf": {
+  "sha1": "5e4c14e0217fd9a0fc74a3758b3deb8af3f90f9c",
+  "how": "text",
+  "words": 1241,
+  "text_sha1": "25c4daa937998b0879af333687c56f94c74fe528"
+ },
+ "topolino testo originale.pdf": {
+  "sha1": "ac22ddc84b43be9a75377dc07b79b4d32efa5d32",
+  "how": "ocr",
+  "words": 1292,
+  "text_sha1": "71c204c2723bbff905a617494d08587ce708e813"
+ },
+ "ul nos Topolino.pdf": {
+  "sha1": "e9d79cdc70a67a4af734f4e852609195fe4173cd",
+  "how": "text",
+  "words": 2391,
+  "text_sha1": "f541bfb101b3e1aa3b304eeceeb01a471da91520"
+ },
+ "vari canti Divina Commedia (1).pdf": {
+  "sha1": "2eb4afc4b7e6ba219bd6d87f4a939df352e3c1ac",
+  "how": "text",
+  "words": 1833,
+  "text_sha1": "c8bcaa388a055091cdff6c9549bedead24b97143"
+ },
+ "vari canti Divina Commedia.pdf": {
+  "sha1": "a75d8405b6d1b65aaa6edff82d9a0061abe0b93a",
+  "how": "text",
+  "words": 2069,
+  "text_sha1": "9dc17c078b73bb084035164928c6ea1d1d638747"
+ },
+ "varie situazioni.docx": {
+  "sha1": "b1c4e164058e4cdc78a67a352ee1d1d7fa824a45",
+  "how": "text",
+  "words": 3014,
+  "text_sha1": "c1cf92a6783a030c16c85b70b9a109cd54792f50"
+ },
+ "🌴 100 frasi utili per quattro persone in vacanza al mare.docx": {
+  "sha1": "dc9db16992a26f7405bef064acbb80ed747c9f29",
+  "how": "text",
+  "words": 1429,
+  "text_sha1": "8bf6e935fd0baa8cca8220abf87d86eec781f479"
+ }
+}

@@ -1,0 +1,4 @@
+openpyxl
+pycldf
+cldfbench
+pypdf

@@ -1,0 +1,898 @@
+
+
+
+
+
+
+
+
+
+Introduzione all’analisi
+del testo poetico
+
+Teoria ed esercizi
+
+
+Prof. Anna Polatti
+a.s. 2025-2026
+
+
+Indice
+
+
+	A cosa serve la poesia?	4
+	Definire la poesia	5
+	Una definizione dal GDLI	6
+	Capire la poesia	8
+	Autore e io poetico	8
+	Il senso letterale, i temi: la parafrasi	10
+	Stratificazione del testo poetico	12
+	I livelli del testo poetico	13
+	Elementi strutturali: la metrica	14
+	Il verso	14
+	Esercizio 1	18
+	La rima	21
+	Esercizio 2	25
+	La strofa	26
+	Tipi di schemi metrici	28
+	Elementi strutturali: la sintassi	36
+	Deviazioni rispetto alla norma: le figure retoriche dell’ordine delle parole	38
+	Elementi semantici: il lessico e le figure del significato	40
+	Esercizio 3	41
+	Esercizio 4	41
+	Usi propri e figurati delle parole: le figure retoriche del significato	42
+	Elementi semantici: il suono	44
+	Senso e struttura: l’analisi tematica	46
+	Esercizio 5	46
+	Interpretare la poesia	47
+	Scrivere un commento a una poesia	50
+
+A cosa serve la poesia?
+
+«Se ci mettiamo a riflettere sulle leggi generali della percezione, vediamo che, diventando abituali, le azioni diventano meccaniche. Così, per esempio, passano nell’ambito dell’«inconscio automatico» tutte le nostre esperienze; se uno ricorda la sensazione che ha provato tenendo in mano per la prima volta la penna, o parlando per la prima volta in una lingua straniera, e confronta questa sensazione con quella che prova ora, ripetendo l’azione per la decimillesima volta, sarà d’accordo con noi. […]
+Ed ecco che per restituire il senso della vita, per «sentire» gli oggetti, per far sì che la pietra sia di pietra, esiste ciò che si chiama arte. Scopo dell’arte è di trasmettere l’impressione dell’oggetto, come «visione» e non come «riconoscimento»; procedimento dell’arte è il procedimento dello «straniamento» degli oggetti […]».
+(V. Sklovskij, L’arte come procedimento, in Letteratura e strutturalismo, a cura di L. Rosiello, Zanichelli, Bologna, 1974, pp. 50-52).
+
+
+Effetto di straniamento = nella teoria della letteratura, effetto di sconvolgimento della percezione abituale della realtà, al fine di rivelarne aspetti nuovi o inconsueti.
+
+
+
+
+
+
+Definire la poesia
+Che cos’è?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Di cosa è fatta?
+
+
+Una definizione dal GDLI
+Poesìa, (letter. ant. poesi), sf. Parte della letteratura caratterizzata da una forma chiusa, legata da una regola  metrica (in contrapposizione alla prosa, che ha forma aperta senza norme ritmiche necessitanti) e sorretta dall’uso di una serie di moduli retorici miranti a rendere più nobile e più alto il linguaggio del testo, distinguendolo nettamente, anche su  questo piano, da quello della prosa e dalla parola comune, onde giungere a uno stile  particolarmente elevato che abbia i caratteri della suggestività musicale, della forza   evocativa,  della creatività fantastica, dell’intensità patetica, della ricchezza del pensiero.
+
+
+a) «Regola metrica» (r. 2) = regola relativa al metro.
+
+Il metro è la struttura che distingue un testo poetico da un testo in prosa. Infatti «dal punto di vista etimologico il termine “prosa” (“che cammina dritta”, sottintendendosi oratio, dall’aggettivo pro(r)sus, cf. l’avverbio pro(r)sum, -us) evoca l’idea di prosecuzione in linea retta e quindi di continuità; “verso” (da versus, vertere “voltare”) segnala invece l’inversione, il ritorno all’indietro, e quindi un procedere zigzagante, sinusoidale».
+(Aldo Menichetti, Metrica italiana. Fondamenti metrici, prosodia, rima, Antenore, Padova, 1993, p. 10)
+
+
+b) Linguaggio «più nobile e più alto» e «stile particolarmente elevato (rr. 4-6)
+
+| Dante Alighieri, Inferno, XXVIII, ¦ vv. 25-27 (inizio del XIV secolo): ¦ Tra le gambe pendevan le minugia; ¦ la corata pareva e ’l tristo sacco ¦ che merda fa di quel che si trangugia. | Giorgio Bassani, Gli ex fascistoni di Ferrara, vv. 44-49 (da Epitaffio, 1974): ¦ Corrazziali? Voi quoque? Dei quasi ¦ mezzi cugini? No piano ¦ Come cazzo si ¦ fa?
+
+
+Come si evince dai due esempi riportati — pur tra loro cronologicamente molto lontani — una concezione della poesia che includa unicamente testi dallo stile elevato è essenzialmente limitata e fuorviante. L’uso di termini appartenenti a un registro colloquiale o addirittura volgare è attestato sin dall’antichità: dalla poesia goliardica latina discende la poesia detta «comico-realistica», che nasce in Toscana già nel XIII secolo, parallelamente allo sviluppo di un linguaggio poetico raffinato e ricercato. Tale tendenza si riscontra, a quell’altezza cronologica, anche nelle altre letterature romanze (provenzale, francese e spagnola). La linea comica, spesso declinata nella chiave di un rovesciamento parodico degli stilemi poetici elevati di stampo tradizionale, percorre dunque tutta la storia della letteratura.
+
+c) Altri caratteri della poesia
+Aiutandoti con il dizionario, spiega il significato delle seguenti espressioni. Ricordati di prestare attenzione al contesto in cui sono utilizzate.
+
+«Suggestività musicale» (r. 6): _____________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+«Forza evocativa (rr. 6-7): _________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+«Creatività fantastica» (r. 7): _______________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+«Intensità patetica» (r. 7): _________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+«Ricchezza del pensiero» (r. 7): _____________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Capire la poesia
+Autore e io poetico
+Come nella narrativa vanno distinti l’autore reale (la persona storica dello scrittore) e il narratore (colui che nel testo dice «io»), così nella poesia occorre tenere sempre presente la distinzione tra l’autore e l’«io poetico» o «io lirico», ovvero quell’istanza creata dall’autore che dice «io» all’interno del testo. I loro punti di vista possono coincidere; in altri casi, l’io poetico può riferire esperienze che l’autore non ha mai sperimentato.
+
+Stefano Benni, Lamento del mercante d’armi, da Ballate, 1991
+
+
+Ho venduto un pezzo di cannone
+poi le ruote e un altro pezzo di cannone
+la culatta e l’otturatore
+il mirino e un altro pezzo di cannone
+e altri tre pezzi di cannone		5
+e adesso c’è un arabo in televisione
+che dice che mi spara col mio cannone
+chi lo sapeva che coi pezzi di cannone
+avrebbe fatto un cannone?
+Se lo avessi saputo			10
+mica avrei accettato l’ordinazione.
+
+Ho venduto cento elicotteri
+con relativo armamento
+e un sistema puntamento missili
+e un sistema anti-sistema di puntamento
+adesso l’elicottero è lì che spia
+come un falco sopra casa mia.
+Se lo avessi saputo cosa voleva fare
+non gli avrei venduto la testata nucleare
+chi poteva sospettare?		20
+
+Se avessi saputo che un cliente
+può diventare un nemico
+della mia patria
+vi giuro gente
+lo giuro sui miei figli		25
+lo giuro su Gesù
+gli avrei fatto pagare
+il cinquanta per cento in più.
+Da cui si vede
+la mia buona fede. 			30
+
+
+
+
+Giorgio Caproni, Atque in perpetuum, frater…, da Il franco cacciatore, 1962
+
+Quanto inverno, quanta
+neve ho attraversato, Piero,
+per venirti a trovare.
+
+Cosa mi ha accolto?
+
+			Il gelo			5
+della tua morte, e tutta
+tutta quella neve bianca
+di febbraio – il nero
+della tua fossa.
+
+			Ho anch’io 		10
+detto le mie preghiere
+di rito.
+
+	Ma solo
+Piero, per dirti addio
+e addio per sempre, io 			15
+che in te avevo il solo e vero
+amico, fratello mio.
+
+Il senso letterale, i temi: la parafrasi
+
+Prima di procedere all’analisi strutturale e retorica del testo poetico, occorre assicurarsi di averne compreso il senso letterale. Occorre dunque svolgere la parafrasi del testo.
+
+Parafrasi = testo coeso, coerente e corretto che rende esplicito il senso letterale di un testo nel caso in cui in esso sia impiegata una lingua lontana (cronologicamente o stilisticamente) da quella d’uso.
+
+
+
+
+La parafrasi si distingue dal riassunto perché spesso, anziché «ridurre» il testo di partenza, lo amplia: è necessario che ne riporti tutti i contenuti, chiarendo i passaggi oscuri o ambigui. Si può pensare alla parafrasi, insomma, come a una «traduzione» del testo dal linguaggio proprio dell’autore al linguaggio comune.
+
+Indicazioni operative
+		Leggere attentamente tutto il testo;
+		Cercare sul dizionario le parole difficili, sconosciute o desuete;
+		Riordinare i costituenti secondo la sintassi usuale (soggetto-predicato-complementi);
+		Riscrivere il testo:
+		in prosa (cioè senza più rispettare la scansione dei versi);
+		mantenendo le persone e i tempi verbali originali;
+		in linguaggio comune;
+		senza aggiungere giudizi personali o fatti e argomenti assenti nel testo di partenza;
+		esplicitando tra parentesi quadre, laddove necessario, gli impliciti grammaticali (ad es. soggetto sottinteso, predicato, ecc.).
+(R. Luperini et alii, La scrittura: laboratorio di studio attivo, Palermo, Palumbo, 2016, pp. 102-103 e p. 133)
+
+
+
+Individuazione dei temi
+L’accurato svolgimento della parafrasi permette di individuare i temi trattati nel testo.
+
+Tema (prima definizione) = argomento, oggetto, materia di un discorso, di una conversazione o di un testo scritto.
+
+
+
+Tale operazione consente di collocarlo in un sistema più ampio, cioè il genere (poesia amorosa, poesia burlesca, poesia filosofica, poesia funebre, ecc.), e costituisce il primo passo da compiere per analizzare il livello tematico del testo (cfr. p. 43).
+
+Generi letterari = forme di espressione letteraria che si distinguono in base ai mezzi espressivi adottati e ai contenuti trattati.
+
+
+
+
+Spesso i temi del testo sono riconoscibili grazie a parole-chiave disseminate dall’autore nel testo: queste possono organizzarsi in un unico campo semantico (relativo al tema principale) oppure evocare più campi semantici (e dunque più temi). In tal caso sarà compito del lettore capire quali rapporti intercorrono tra di essi (analogia, contrasto, specificazione, ecc.).
+
+Alcuni generi poetici
+| Poesia epica |
+| Poesia lirica |
+| Poesia comica |
+| Poesia didascalica |
+
+Stratificazione del testo poetico
+Mentre il testo della comunicazione ordinaria per definirsi tale deve obbedire alle proprietà di unità, completezza, coerenza logica, coesione linguistica, il testo letterario presenta le stesse proprietà a un più alto livello di organizzazione strutturale, oltre alle caratteristiche della più insistita ambiguità, polisemia, originalità, disposizione grafica.
+La lingua letteraria, e soprattutto quella in versi, si organizza su un calcolato gioco di simmetrie, di parallelismi, di armonie, di spostamenti, di ritorni. Piuttosto che il principio della vicinanza, della successione e della combinazione logica (come avviene nella lingua della comunicazione ordinaria), prevalgono nella lingua letteraria le equivalenze (foniche, metrico-ritmiche, ecc.), la similarità tra (o delle) parole o frasi.
+Leggiamo, ad esempio, questi versi di Diego Valeri:
+Rondini allegre, rondini leggere,
+in giro in giro, vorticosamente:
+ma nello specchio del mio cuore dolente
+tante piccole croci nere nere…
+Tra vorticosamente e dolente, tra leggere e nere non vi è alcuna parentela di significato sul piano logico [= denotativo] […]. Ma il poeta riesce a stabilire un rapporto tra leggERE e nERE, tra vorticosamENTE e dolENTE in virtù della rima e della loro posizione in fine di verso. Il richiamo sonoro poi stabilisce un legame di senso: le parole in rima sottolineano il contrasto tra un paesaggio esterno caratterizzato dal vorticoso, leggero e allegro volo delle rondini e un paesaggio interno dolente e rattristato dalle croci nere, evidente connotazione di morte. […]
+Il testo letterario quindi non è soltanto la semplice somma di forma e di contenuto, ma una realtà a più strati, a più livelli che si dispongono secondo una logica polifonica, come accade nella musica. Pertanto la lettura di un testo che voglia scoprire il messaggio trasmesso deve considerare, proprio come in uno spartito a più voci, lo sviluppo di ogni voce e il rapporto delle diverse voci.
+(S. Treré, G. Gallegati, Strumenti per una analisi testuale, Bulgarini, Firenze, 1995, pp. 66-68)
+
+
+I livelli del testo poetico
+
+| Livelli intratestuali
+| Livello metrico | versi, strofe, rime, forme metriche (sonetto, canzone, ecc.).
+| Livello sintattico | numero dei periodi, modalità di disposizione sulle strofe, enjambement, figure retoriche dell’ordine delle parole.
+| Livello lessicale | scelte di registro, parole-chiave, ripetizioni, campi semantici, usi propri e figurati, figure retoriche del significato.
+| Livello fonico | suoni dominanti, figure foniche (allitterazioni, assonanze, consonanze, paronomasie, ecc.).
+| Livello tematico | temi, motivi, elementi simbolici.
+| Livello intertestuale
+| Rapporti con altri testi dello stesso autore (intertestualità interna) o di altri autori (intertestualità esterna), contemporanei o appartenenti ad altre epoche, appartenenti a particolari movimenti letterari o a determinati generi.
+| Livello extratestuale
+| Rapporti con la vita, il pensiero, la poetica dell’autore e con il contesto storico-culturale in cui il testo è stato prodotto.
+
+Elementi strutturali: la metrica
+
+Il verso
+Verso = insieme di parole caratterizzato da un certo numero di sillabe e da un certo ritmo, che costituisce l’unità compositiva del testo poetico.
+
+
+
+
+I tipi di versi prendono il nome dal numero delle sillabe che li costituiscono quando terminano con una parola piana:
+| Nome del verso | Numero di sillabe metriche (variante piana)
+| Trisillabo (o ternario) | 3 sillabe
+| Quadrisillabo (o quaternario) | 4 sillabe
+| Quinario | 5 sillabe
+| Senario | 6 sillabe
+| Settenario | 7 sillabe
+| Ottonario | 8 sillabe
+| Novenario | 9 sillabe
+| Decasillabo | 10 sillabe
+| Endecasillabo | 11 sillabe
+
+
+I versi sono unità di tipo ritmico: di conseguenza, gli accenti sono particolarmente rilevanti nella lettura e nella declamazione della poesia. L’ultimo degli accenti di un verso è determinante e si colloca — nelle varianti piane — sulla penultima sillaba: nell’endecasillabo piano l’ultimo accento cadrà sulla decima sillaba; nel decasillabo piano sulla nona sillaba; nel novenario piano sull’ottava sillaba, e così via.
+
+Esempi:
+
+Nel / mez/ zo / del / cam/ min / di / no/stra / vi/ ta = endecasillabo piano (Dante)
+1        2         3        4         5       6         7        8       9    10     11
+
+Con / so / spir / mi / ri / mem / bra = settenario piano (Petrarca)
+1         2        3        4      5       6           7
+
+Non / fa / ti / ca / non / do / lo / re = ottonario piano (Lorenzo De Medici)
+1          2      3     4        5        6      7       8
+
+| Nome del verso | Ultimo accento
+| Trisillabo (o ternario) | 2a sillaba
+| Quadrisillabo (o quaternario) | 3a sillaba
+| Quinario | 4a sillaba
+| Senario | 5a sillaba
+| Settenario | 6a sillaba
+| Ottonario | 7a sillaba
+| Novenario | 8a sillaba
+| Decasillabo | 9a sillaba
+| Endecasillabo | 10a sillaba
+
+
+Se un verso termina con una parola sdrucciola (ed è quindi detto «sdrucciolo»), conterà una sillaba in più rispetto al numero suggerito dal suo nome. Al contrario, se il verso termina con una parola tronca (verso «tronco»), conterà una sillaba in meno rispetto al numero suggerito dal suo nome.
+
+| Nome del verso | Ultimo accento | Numero di sillabe metriche
+| Trisillabo (o ternario) | 2a sillaba | Variante tronca = 2 ¦ Variante piana = 3
+| Quadrisillabo (o quaternario) | 3a sillaba | Variante tronca = 3 ¦ Variante piana = 4 ¦ Variante sdrucciola = 5
+| Quinario | 4a sillaba | Variante tronca = 4 ¦ Variante piana = 5 ¦ Variante sdrucciola = 6
+| Senario | 5a sillaba | Variante tronca = 5 ¦ Variante piana = 6 ¦ Variante sdrucciola = 7
+| Settenario | 6a sillaba | Variante tronca = 6 ¦ Variante piana = 7 ¦ Variante sdrucciola = 8
+| Ottonario | 7a sillaba | Variante tronca = 7 ¦ Variante piana = 8 ¦ Variante sdrucciola = 9
+| Novenario | 8a sillaba | Variante tronca = 8 ¦ Variante piana = 9 ¦ Variante sdrucciola = 10
+| Decasillabo | 9a sillaba | Variante tronca = 9 ¦ Variante piana = 10 ¦ Variante sdrucciola = 11
+| Endecasillabo | 10a sillaba | Variante tronca = 10 ¦ Variante piana = 11 ¦ Variante sdrucciola = 12
+
+
+Sillabazione metrica
+Sorge però una difficoltà: la divisione in sillabe, in poesia, è soggetta ad alcuni fenomeni specifici di cui occorre tenere conto.
+1. La sinalefe ➔ quando una parola finisce per vocale e la parola seguente comincia per vocale, generalmente le due vocali si fondono in un’unica sillaba:
+
+2. La dialefe ➔ è il contrario della sinalefe: si ha quando, nonostante l’incontro di due vocali, queste vengono pronunciate separatamente e spartite in due sillabe. Accade, di regola, quando:
+		entrambe sono accentate (cioè si trovano in posizione tonica);
+		la prima delle due vocali è accentata (cioè si trova in posizione tonica).
+
+3. La sineresi ➔ quando due vocali si incontrano all’interno di una parola possono essere considerate come un’unica sillaba anche se non formano un dittongo (cioè se sono in iato).
+
+4. La dieresi ➔ è il contrario della sineresi: si ha quando due vocali che formano un dittongo vengono spartite in due sillabe distinte. Può essere segnalata dalla presenza dei due puntini («dieresi») sulla prima delle due vocali interessate.
+
+
+Esercizio 1
+Identifica i tipi di versi utilizzati nei seguenti esempi.
+Giambattista Marino, Adone (1623), VII, 119:
+La cetera col crotalo e con l’organo
+su i margini del pascolo odorifero,
+il cembalo e la fistula si scorgano
+col zuffolo, col timpano e col pifero,
+e giubilo festevole a lei porgano,
+ch’or Espero si nomina, or Lucifero,
+ed empiano con musica che crepiti
+quest’isola di fremiti e di strepiti.
+Ludovico Ariosto, Orlando Furioso (1532), XXVII, 85:
+Marfisa che tra gli altri al grido venne,
+tosto che ‘l furto del cavallo udì,
+in viso si turbò, che le sovenne
+che perdé la sua spada ella quel dì:
+e quel destrier che parve aver le penne
+da lei fuggendo, riconobbe qui:
+riconobbe anco il buon re Sacripante,
+che non avea riconosciuto inante.
+
+Alessandro Manzoni, Il Natale (1813), vv. 1-14:
+Qual masso che dal vertice
+di lunga erta montana,
+abbandonato all’impeto
+di rumorosa frana,
+per lo scheggiato calle
+precipitando a valle,
+batte sul fondo e sta;
+là dove cadde, immobile
+giace in sua lenta mole;
+né, per mutar di secoli,
+fia che riveda il sole
+della sua cima antica
+se una virtude amica
+in alto nol trarrà.
+Lorenzo il Magnifico, Canzona di Bacco, vv. 53-60:
+Donne e giovinetti amanti,
+viva Bacco e viva Amore!
+Ciascun suoni, balli e canti!
+Arda di dolcezza il core!
+Non fatica, non dolore!
+Ciò ch’a / esser convien sia.
+Chi vuol esser lieto, sia:
+di doman non c'è certezza.
+
+Accenti ritmici
+L’ultimo accento non è l’unico di cui occorre tenere conto: l’andamento ritmico dei versi, infatti, varia proprio a seconda delle sillabe sulle quali cadono gli altri accenti ritmici, altrimenti detti ictus. Per la loro collocazione non esistono regole rigide: in generale si ha maggiore regolarità nei versi parisillabi (quadrisillabo, senario, ottonario, decasillabo), mentre le possibili combinazioni aumentano nel caso dei versi imparisillabi (quinario, settenario, novenario, endecasillabo). Il seguente schema rende conto dei casi più frequenti:
+| Tipo di verso | Sillabe toniche | Esempi
+| Trisillabo | 2° sillaba | Fon/ta/na ¦ Ma/la/ta ¦ (Palazzeschi)
+| Quadrisillabo | 1° e 3° sillaba | Rus/sa/ ro/co ¦ (Pascoli)
+| Quinario | 1° e 4° sillaba ¦ 2° e 4° sillaba | Que/sta /mia/ ce/tra ¦ A/ te/ Ve/ne/zia ¦ (Fusinato)
+| Senario | 2° e 5° sillaba | Fra/tel/li/ d’I/ta/lia ¦ (Mameli)
+| Settenario | 1° e 6° sillaba ¦ 1°, 4° e 6° sillaba ¦ 2° e 6° sillaba ¦ 3° e 6° sillaba ¦ 4° e 6° sillaba | Quan/to /scam/pa/nel/la/re (Pascoli) ¦ Sof/fri/ com/bat/ti e/ pre/ghi (Manzoni) ¦ e/mol/le/si/ri/po/sa (Parini) ¦ che/pur/dian/zi/lan/gui/a (Parini) ¦ che/le/tue/ten/de/spie/ghi (Manzoni)
+| Ottonario | 3° e 7° sillaba | Bel/le/ ro/se/ por/po/ri/ne (Chiabrera)
+| Novenario | 2°, 5°, e 8° sillaba | No/ta/va in/u/n’al/ba/di/per/la (Pascoli)
+| Decasillabo | 3°, 6°, e 9° sillaba | a/si/ni/stra/ri/spon/de u/no/squil/lo (Manzoni)
+| Endecasillabo | 6° e 10° sillaba ¦ (a maiore) ¦ 4°, 8° e 10° sillaba ¦ (a minore) ¦ 4°, 7°, e 10° sillaba ¦ (a minore) | Le/don/ne i/ca/va/lier/l’ar/me/gli a/mo/ri ¦ (Ariosto) ¦ E/co/me un/gior/no/d’al/le/grez/za/pie/no ¦ (Leopardi) ¦ Per/me/si/va/nel/l’et/ter/no/do/lo/re ¦ (Dante)
+
+
+La rima
+
+
+La rima è una caratteristica importante (ma non essenziale) della poesia. Infatti ogni lingua presenta parole che rimano tra loro, tuttavia solo in alcune tradizioni letterarie (e, all’interno di queste, solo in alcuni periodi) la rima acquisisce un valore consolidato, in quanto serve a individuare delle strutture metriche. Nella metrica latina classica, per esempio, il ricorso alla rima era pressoché sconosciuto: tale uso sarà accolto invece nella poesia romanza per passare poi nella poesia medievale latina.
+(cfr. Grammatica italiana, a cura di M. Dardano e P. Trifone, Bologna, Zanichelli, 1995)
+
+Quando l’identità fonica tra la parte finale di due parole non si realizza pienamente, ma solo in parte, si parla di assonanza e consonanza.
+
+
+
+
+Casi particolari
+Quando l’identità fonica interessa anche la parte pretonica della parola si riscontrano questi particolari tipi di rime:
+		Rima ricca ➔ l’identità comincia dalla consonante che precede la vocale tonica (ad es. capita quando uno dei due rimanti «contiene» l’altro): letto-diletto;
+		Rima leonina ➔ l’identità comincia dalla vocale pretonica: valore-calore;
+		Rima derivativa ➔ uno dei due rimanti deriva dallo stesso etimo dell’altro: onore-disonore; ricorrere-soccorrere;
+		Rima identica ➔ una parola rima con se stessa, dunque i due rimanti coincidono dal punto fonico, grafico e semantico;
+		Rima equivoca ➔ i due rimanti sono omofoni e omografi, ma si distinguono sul piano del significato.
+Particolarmente interessanti sono ancora i casi:
+		della rima ipermetra o eccedente ➔ una parola sdrucciola (che ha dunque una sillaba postonica in più) è messa in rima con una parola piana: canneto-sgretola (Montale); pallidi-gialli (Valeri).
+		della rima franta ➔ si ha omofonia tra la fine di una parola e un segmento formato da più parole: tordi-fior di (Pascoli).
+
+Collocazione delle rime
+Generalmente la rima lega due parole che si trovano in fine di verso, ma può anche capitare che vi sia rima tra la parola posta alla fine di un verso e una parola contenuta all’interno del verso seguente. Si parla in questo caso di rima interna o rimalmezzo:
+
+Passata è la tempesta:
+odo augelli far festa, e la gallina,
+tornata in su la via,
+che ripete il suo verso. Ecco il sereno […]
+(Leopardi, La quiete dopo la tempesta, vv. 1-4)
+
+
+Principali schemi rimici
+Le rime possono essere classificate a seconda del modo in cui sono disposte in un testo, cioè a seconda dello schema rimico che formano. Per descrivere lo schema rimico di un testo si suole ricorrere a questi accorgimenti:
+		si usa la stessa lettera per indicare più versi che rimano tra loro;
+		le lettere maiuscole indicano gli endecasillabi, le lettere minuscole indicano i settenari.
+
+| Tipo di rima | Schema | Esempio
+| Baciata ¦ Due versi consecutivi rimano tra loro. | AABB | Nella Torre il silenzio era già alto. ¦ Sussurravano i pioppi del Rio Salto. ¦ I cavalli normanni alle lor poste ¦ frangean la biada con rumor di croste. ¦ (Pascoli, La cavallina storna, vv. 1-4)
+| Alternata ¦ I versi dispari rimano tra loro, così come i versi pari. | ABAB | Un dì, s’io non andrò sempre fuggendo ¦ di gente in gente, mi vedrai seduto ¦ su la tua pietra, o fratel mio, gemendo ¦ il fior de’ tuoi gentili anni caduto. ¦ (Foscolo, In morte del fratello Giovanni, vv. 1-4)
+| Incrociata ¦ Il primo verso rima col quarto, il secondo con il terzo. | ABBA | Movesi il vecchierel canuto e bianco ¦ del dolce loco ov’à sua età fornita ¦ e da la famigliuola sbigottita ¦ che vede il caro padre venir manco. ¦ (Petrarca, Canzoniere, XVI, vv. 1-4)
+| Ripetuta ¦ Il primo verso rima col quarto, il secondo col quinto, il terzo col sesto. | ABC ABC | E tu fuggisti in compagnia dell’ore, ¦ O Dea! tu pur mi lasci alle pensose ¦ Membranze, e del futuro al timor cieco. ¦ Però mi accorgo, e mel ridice amore, ¦ Che mal ponno sfogar rade, operose ¦ Rime il dolor che deve albergar meco. ¦ (Foscolo, Alla musa, vv. 9-14)
+| Incatenata ¦ In una serie di versi raggruppati per tre, cioè in terzine, il primo verso della prima terzina rima col terzo, mentre il secondo verso della prima terzina rima con il primo e con il terzo della seconda, e così via. | ABA BCB CDC | Nel mezzo del cammin di nostra vita ¦ mi ritrovai per una selva oscura ¦ ché la diritta via era smarrita. ¦ Ahi quanto a dir qual era è cosa dura ¦ esta selva selvaggia e aspra e forte ¦ che nel pensier rinova la paura! ¦ Tant’è amara che poco è più morte; ¦ ma per trattar del ben ch’i’ vi trovai, ¦ dirò de l’altre cose ch’i’ v’ ho scorte. ¦ (Dante, Inf., I, vv. 1-6)
+
+Quando i versi di una poesia non rimano tra loro, prendono il nome di versi sciolti (da non confondere con i versi liberi, caratteristici della poesia del Novecento, che rifiutano non solo lo schema rimico, ma qualsiasi tipo di schema metrico prefissato).
+
+| Versi sciolti | Versi liberi
+| Come ingannar questi noiosi e lenti ¦ Giorni di vita, cui sí lungo tedio ¦ E fastidio insoffribile accompagna, ¦ Or io t’insegnerò. Quali al Mattino, ¦ Quai dopo il Mezzodí, quali la Sera ¦ Esser debban tue cure apprenderai, ¦ Se in mezzo a gli ozi tuo ozio ti resta ¦ Pur di tender gli orecchi a’ versi miei. ¦ (G. Parini, Mattino, vv. 9-16) | Non sono mai stato ¦ tanto ¦ attaccato alla vita. ¦ (G. Ungaretti, Veglia, vv. 14-16)
+
+
+
+Esercizio 2
+Identifica il tipo di verso e lo schema rimico utilizzato in ciascuno dei seguenti esempi.
+U. Foscolo, Alla musa, vv. 1-8:
+Pur tu copia versavi alma di canto
+Su le mie labbra un tempo, Aonia Diva,
+Quando de’ miei fiorenti anni fuggiva
+La stagion prima, e dietro erale intanto
+
+Dante, Purgatorio, I, vv. 1-6:
+   Per correr migliori acque alza le vele
+Omai la navicella del mio ingegno,
+Che lascia dietro a sé mar sì crudele;
+   E canterò di quel secondo regno.
+Dove l’umano spirito si purga,
+E di salire al ciel diventa degno.
+
+G. Carducci, La leggenda di Teodorico, vv. 1-8
+Su ’l castello di Verona
+Batte il sole a mezzogiorno,
+Da la Chiusa al pian rintrona
+Solitario un suon di corno,
+Mormorando per l’aprico
+Verde il grande Adige va;
+Ed il re Teodorico
+Vecchio e triste al bagno sta.
+
+E. Montale, Meriggiare pallido e assorto, vv. 1-4
+Meriggiare pallido e assorto
+presso un rovente muro d’orto,
+ascoltare tra i pruni e gli sterpi
+schiocchi di merli, frusci di serpi.
+La strofa
+
+Generalmente i versi sono raggruppati in una struttura ritmica che prende il nome di strofa (o strofe). L’organizzazione della strofa non sempre è rigorosa e immutabile: le poesie di Ungaretti, Montale e di altri autori [del XX secolo] sono composte di strofe libere, regolate soltanto dalla particolare intenzione espressiva del poeta. Ma fino all’Ottocento le strofe erano per lo più costituite di un numero fisso di versi con schemi di rime definiti e costanti. Queste strofe, dette regolari, assumono varie denominazioni in base al numero di versi che contengono.
+(Grammatica italiana, a cura di M. Dardano e P. Trifone, Bologna, Zanichelli, 1995)
+| Strofa | Schema rimico tipico | Esempi
+| Distico ¦ (2 versi) | Rima baciata ¦ (AA) | O cavallina, cavallina storna ¦ che portavi colui che non ritorna ¦ (Pascoli, La cavallina storna, vv. 11-12)
+| Terzina (3 versi) | Rima incatenata ¦ (ABA BCB CDC) | Lo duca ed io per quel cammino ascoso ¦ intrammo a ritornar nel chiaro mondo; ¦ e sanza cura aver d’alcun riposo, ¦ salimmo su, ei primo e io secondo, ¦ tanto ch’io vidi delle cose belle ¦ che porta ‘l ciel, per un pertugio tondo. ¦ (Dante, Inferno, XXXIV, vv. 133-138)
+| Quartina (4 versi) | Rima alternata (ABAB) o incrociata (ABBA) | Forse perché della fatal quïete ¦ Tu sei l’immago a me sì cara, vieni, ¦ O Sera! E quando ti corteggian liete ¦ Le nubi estive e i zeffiri sereni […] ¦ (Foscolo, Alla sera, vv. 1-4) ¦ Voi ch’ascoltate in rime sparse il suono ¦ di quei sospiri ond’io nudriva ’l core ¦ in sul mio primo giovenile errore ¦ quand’era in parte altr’uom da quel ch’i’ sono […] ¦ (Petrarca, Canzoniere, I, vv. 1-4)
+| Sestina ¦ (6 versi) | Primi quattro versi a rima alternata + ultimi due a rima baciata ¦ (ABABCC) | Io, qui in turrite case ¦ ràbido cane t’attendo: ¦ miro le stelle invase ¦ da un celestiale sgomento; ¦ e in aere deserto il cielo ¦ morir sul tuo rapido gelo. ¦ (Betocchi, Al vento d’inverno in Roccastrada, vv. 1-6)
+| Ottava ¦ (8 versi) | Primi sei versi a rima alternata + ultimi due a rima baciata ¦ (ABABABCC) | Non dico ch’ella fosse, ma parea ¦ Angelica gentil ch’egli tant’ama. ¦ Egli, che la sua donna e la sua dea ¦ vede portar sí addolorata e grama, ¦ spinto da l’ira e da la furia rea, ¦ con voce orrenda il cavallier richiama; ¦ richiama il cavalliero e gli minaccia, ¦ e Brigliadoro a tutta briglia caccia. ¦ (Ariosto, Orlando furioso, XII, 6)
+
+
+Tipi di schemi metrici
+Le strofe si raggruppano a loro volta in strutture metriche più ampie, andando così a costituire i testi poetici. Di seguito è riportata una presentazione sintetica degli schemi metrici più diffusi nella tradizione letteraria italiana.
+Il sonetto
+Versi: endecasillabi.
+Componenti: quattro strofe, ovvero due quartine e due terzine.
+Schema rimico: solitamente rima alternata o incrociata nelle quartine; nelle terzine, rima ripetuta o altre combinazioni di due o tre rime che non lascino versi irrelati.
+Esempio: G. Stampa, Voi ch’ascoltate in queste meste rime
+| Prima quartina | Voi, ch’ascoltate in queste meste rime, ¦ in questi mesti, in questi oscuri accenti ¦ il suon degli amorosi miei lamenti ¦ e de le pene mie tra l’altre prime, | A ¦ B ¦ B ¦ A
+| Seconda quartina | ove fia chi valor apprezzi e stime, ¦ gloria, non che perdon, de’ miei lamenti ¦ spero trovar fra le ben nate genti, ¦ poi che la lor cagione è sí sublime. | A ¦ B ¦ B ¦ A
+| Prima terzina | E spero ancor che debba dir qualcuna: ¦ — Felicissima lei, da che sostenne ¦ per sí chiara cagion danno si chiaro! | C ¦ D ¦ E
+| Seconda terzina | Deh, perché tant’amor, tanta fortuna ¦ per sí nobil signor a me non venne, ¦ ch’anch’io n’andrei con tanta donna a paro? | C ¦ D ¦ E
+
+La ballata
+Versi: endecasillabi e settenari.
+Componenti: ripresa (ritornello che apre il testo e viene cantato dopo ogni stanza) + numero variabile di strofe, dette stanze, formate da una prima parte divisa in due piedi (due sequenze formate dallo stesso numero di versi e caratterizzate dallo stesso tipo di rime) e una seconda parte, detta volta, che ha la stessa struttura metrica della ripresa;
+Schema rimico: vario, ma di norma l’ultimo verso della volta rima con l’ultimo verso della ripresa.
+Esempio: Dante, Vita Nova, XII, vv. 1-14
+| Ripresa | Ballata, i’ vo’ che tu ritrovi Amore, ¦ e con lui vade a madonna davante, ¦ sì che la scusa mia, la qual tu cante, ¦ ragioni poi con lei lo mio signore. |  | A ¦ B ¦ B ¦ A
+| Prima stanza | Tu vai, ballata, sì cortesemente ¦ che sanza compagnia ¦ dovresti avere in tutte parti ardire, | 1° piede | C ¦ D ¦ E
+|  | ma se tu vuoli andar sicuramente, ¦ retrova l’Amor pria, ¦ ché forse non è bon sanza lui gire; | 2° piede | C ¦ D ¦ E
+|  | però che quella che ti dee audire, ¦ sì com’io credo, è ver di me adirata: ¦ se tu di lui non fosse accompagnata, ¦ leggeramente ti faria disnore. | Volta | E ¦ F ¦ F ¦ A
+
+
+La canzone
+Versi: endecasillabi e settenari.
+Componenti: numero variabile di stanze (solitamente cinque o sette), formate da una fronte (divisibile in due piedi con uguale numero di versi) e una sirma (indivisa o formata da due parti, dette volte); spesso è chiusa da un congedo, cioè una stanza più breve che riprende la struttura metrica della sirma.
+Schema rimico: vario, ma di norma il primo verso della sirma (detto diesi) rima con l’ultimo verso della fronte (cioè con l’ultimo verso del secondo piede).
+Esempio: G. Da Lentini, Madonna dir vo’ voglio, vv. 1-16
+| Fronte | Madonna, dir vo voglio ¦ como l’amor m’ha priso, ¦ inver’ lo grande orgoglio ¦ che voi, bella, mostrate, e no m’aita. | 1° piede | A ¦ B ¦ A ¦ C
+|  | Oi lasso, meo core, ¦ che ’n tante pene è miso ¦ che vive quando more ¦ per bene amare, e tenerselo a vita. | 2° piede | D ¦ B ¦ D ¦ C
+| Sirma | Donqua mor’u viv’eo? ¦ No; ma lo core meo ¦ more più spesso e forte ¦ che no faria di morte — naturale, | 1° volta | E ¦ E ¦ F ¦ (F) G
+|  | per voi, donna, cui ama, ¦ più che se stesso brama, ¦ e voi pur lo sdegnate: ¦ amor, vostr’amistate — vidi male. | 2° volta | H ¦ H ¦ I ¦ (I) G
+
+
+L’ode
+Versi: endecasillabi e settenari.
+Componenti: numero variabile di stanze analoghe per quanto riguarda misura e ordine dei versi e schema rimico, in cui però non sono più riconoscibili le partizioni tipiche della canzone (fronte, sirma, ecc.).
+Schema rimico: vario e regolare.
+Esempio: G. Parini, Il bisogno, vv. 1-12
+| Prima stanza | Oh tiranno Signore ¦ De’ miseri mortali, ¦ Oh male oh persuasore ¦ Orribile di mali ¦ Bisogno, e che non spezza ¦ Tua indomita fierezza! | A ¦ B ¦ A ¦ B ¦ C ¦ C
+| Seconda stanza | Di valli adamantini ¦ Cinge i cor la virtude; ¦ Ma tu gli urti e rovini; ¦ E tutto a te si schiude. ¦ Entri, e i nobili affetti ¦ O strozzi od assoggetti. | D ¦ E ¦ D ¦ E ¦ F ¦ F
+| Terza stanza | Oltre corri, e fremente ¦ Strappi Ragion dal soglio; ¦ E il regno de la mente ¦ Occupi pien d’orgoglio, ¦ E ti poni a sedere ¦ Tiranno del pensiere. | G ¦ H ¦ G ¦ H ¦ I ¦ I
+
+
+La sestina lirica
+Versi: endecasillabi.
+Componenti: sei strofe di sei versi ciascuna (sestine).
+Schema rimico: le stesse parole-rima si ripetono in ciascuna strofa secondo lo schema della retrogradazione incrociata, per cui l’ultima parola-rima della prima stanza è ripresa alla fine del primo verso della seconda stanza, la prima parola-rima della prima stanza nel secondo verso della seconda stanza, la quinta parola-rima della prima stanza nel terzo verso della seconda stanza, e così via, in modo da esaurire in 36 versi tutte le combinazioni possibili. Può essere chiusa da un commiato di tre versi in cui ricorrano tutte e sei le parole-rima precedentemente utilizzate, di cui tre all’interno e tre in fine di verso.
+Esempio: Petrarca, Canzoniere, XXII
+| Prima sestina | A qualunque animale alberga in terra, ¦ se non se alquanti ch’ànno in odio il sole, ¦ tempo da travagliare è quanto è ’l giorno; ¦ ma poi che ’l ciel accende le sue stelle, ¦ qual torna a casa et qual s’anida in selva ¦ per aver posa almeno infin a l’alba. | A ¦ B ¦ C ¦ D ¦ E ¦ F
+| Seconda sestina | Et io, da che comincia la bella alba ¦ a scuoter l’ombra intorno de la terra ¦ svegliando gli animali in ogni selva, ¦ non ò mai triegua di sospir’ col sole; ¦ poi quand’io veggio fiammeggiar le stelle ¦ vo lagrimando, et disïando il giorno. | F ¦ A ¦ E ¦ B ¦ D ¦ C
+| Terza sestina | Quando la sera scaccia il chiaro giorno, ¦ et le tenebre nostre altrui fanno alba, ¦ miro pensoso le crudeli stelle, ¦ che m’ànno facto di sensibil terra; ¦ et maledico il dí ch’i’ vidi ’l sole, ¦ e che mi fa in vista un huom nudrito in selva. | C ¦ F ¦ D ¦ A ¦ B ¦ E
+| Quarta sestina | Non credo che pascesse mai per selva ¦ sí aspra fera, o di nocte o di giorno, ¦ come costei ch’i ’piango a l’ombra e al sole; ¦ et non mi stancha primo sonno od alba: ¦ ché, bench’i’ sia mortal corpo di terra, ¦ lo mio fermo desir vien da le stelle. | E ¦ C ¦ B ¦ F ¦ A ¦ D
+| Quinta sestina | Prima ch’i’ torni a voi, lucenti stelle, ¦ o tomi giú ne l’amorosa selva, ¦ lassando il corpo che fia trita terra, ¦ vedess’io in lei pietà, che ’n un sol giorno ¦ può ristorar molt’anni, e ’nanzi l’alba ¦ puommi arichir dal tramontar del sole. | D ¦ E ¦ A ¦ C ¦ F ¦ B
+| Sesta sestina | Con lei foss’io da che si parte il sole, ¦ et non ci vedess’altri che le stelle, ¦ sol una nocte, et mai non fosse l’alba; ¦ et non se transformasse in verde selva ¦ per uscirmi di braccia, come il giorno ¦ ch’Apollo la seguia qua giú per terra. | B ¦ D ¦ F ¦ E ¦ C ¦ A
+| Commiato | Ma io sarò sotterra in secca selva ¦ e ’l giorno andrà pien di minute stelle ¦ prima ch’a sí dolce alba arrivi il sole. | A - E ¦ C - D ¦ F - B
+
+
+Il madrigale
+Versi: endecasillabi nella variante antica; endecasillabi e settenari nella variante cinque-seicentesca.
+Componenti: una o due terzine seguite da uno o due distici nella variante antica; versi liberi nella variante cinque-seicentesca.
+Schema rimico: vario nelle terzine e rima baciata nei distici nella variante antica; libero e non vincolante per tutti i versi nella variante cinque-seicentesca.
+Esempio: Petrarca, Canzoniere, LIV
+| Prima terzina | Perch’al viso d’Amor portava insegna, ¦ mosse una pellegrina il mio cor vano, ¦ ch’ogni altra mi parea d’onor men degna. | A ¦ B ¦ A
+| Seconda terzina | Et lei seguendo su per l’erbe verdi, ¦ udi’ dir alta voce i lontano: ¦ Ahi, quanti passi per la selva perdi! | C ¦ B ¦ C
+| Primo distico | Allor mi strinsi all’ombra d’un bel faggio, ¦ tutto pensoso; et rimirando intorno, | D ¦ E
+| Secondo distico | vidi assai periglioso il mio vïaggio; ¦ et tornai indietro quasi a mezzo ‘l giorno. | D ¦ E
+
+
+I metri liberi
+A partire dalla fine del XIX secolo, si fa strada, tra i poeti, una certa insofferenza nei confronti delle imposizioni rappresentate dagli schemi metrici tradizionali, che iniziano a essere percepiti come «gabbie» limitanti la libertà espressiva dell’artista. Si diffonde dunque anche nella poesia italiana il verso libero, cioè un verso di misura e ritmo variabili che, proprio grazie a questa sua flessibilità, è ritenuto più adatto alla registrazione del flusso fantastico, concettuale ed emotivo che scorre nel poeta e che dev’essere veicolato dal testo poetico.
+Propriamente, si parla di «metro libero» quando sussistono le seguenti condizioni, stabilite dal critico Pier Vincenzo Mengaldo:
+		abolizione della rima o, comunque, assenza di uno schema rimico strutturante;
+		libera mescolanza di versi tradizionali e versi non tradizionali;
+		mancanza di suddivisione in strofe formate da uno stabile numero di versi.
+
+Esempio: E. Montale, Lo sai: debbo riperderti e non posso, dalla raccolta Le Occasioni (1939)
+
+Lo sai: debbo riperderti e non posso.
+Come un tiro aggiustato mi sommuove
+ogni opera, ogni grido e anche lo spiro
+salino che straripa
+dai moli e fa l’oscura primavera
+di Sottoripa.
+Paese di ferrame e alberature
+a selva nella polvere del vespro.
+Un ronzìo lungo viene dall’aperto,
+strazia com’unghia ai vetri. Cerco il segno
+smarrito, il pegno solo ch’ebbi in grazia
+da te.
+	E l’inferno è certo.
+
+Elementi strutturali: la sintassi
+Per analizzare questo livello occorre contare i periodi che compongono il testo e riflettere sulla loro struttura:
+		Si tratta di periodi lunghi o brevi? Sono tutti dichiarativi o vi sono esclamazioni o interrogazioni?
+		Sono costruiti in modo semplice e lineare o presentano strutture complesse e articolate?
+		All’interno dei periodi, l’ordine standard dei costituenti (soggetto-predicato-complementi) viene rispettato o infranto? (cfr. le figure retoriche dell’ordine delle parole a p. 39);
+		Come sono distribuiti i periodi sulle strofe? C’è coincidenza tra unità metriche e unità sintattiche?
+		Come sono disposti i costituenti dei periodi rispetto alla scansione in versi? Sono presenti enjambement?
+
+Inarcatura o enjambement = la frontiera di fine verso spezza un’unità linguistica, sia essa una parola o un sintagma.
+
+
+
+
+(La nuova grammatica della lingua italiana, a cura di M. Dardano e P. Trifone, Bologna, Zanichelli, 1997, p. 119)
+
+
+		Le inarcature si hanno nei seguenti casi, elencati secondo un criterio di intensità crescente:
+		divisione di una parola:
+
+ancor ch’egli conosca che diretta
+mente a sua Maestà danno si faccia (Ariosto, Orlando furioso, XXVIII, 41, vv. 3-4)
+
+		divisione di un sintagma formato da preposizione e sostantivo, da preposizione e predicato, da pronome atono e predicato:
+
+Di questo, esempio è Policràte, re di
+Lidia, e Dionigi […] (Ariosto, Orlando furioso, XLV, 1, vv. 5-6)
+
+divisione di un sintagma formato da sostantivo e aggettivo:
+
+libere in pace passavam per questa
+vita mortal, ch’ogni alma desia (Petrarca, Canzoniere, VIII, vv. 5-6)
+
+Elena vedi, per cui tanto reo
+tempo si volse, e vedi ‘l grande Achille (Dante, Inf., V, vv. 64-65)
+
+divisione di un sintagma formato da predicato e avverbio:
+
+Posa per sempre. Assai
+palpitasti. Non val cosa nessuna
+i moti tuoi […] (Leopardi, A se stesso, vv. 6-8)
+
+divisione di soggetto e predicato:
+
+S’io posso prender tanta grazia ch’io
+ti veggia con immagine scoverta (Dante, Par., XXII, vv. 59-60)
+Deviazioni rispetto alla norma: le figure retoriche dell’ordine delle parole
+
+L’analisi sintattica induce a considerare l’ordine in cui l’autore sceglie di disporre le parole all’interno del periodo. Lo scarto rispetto all’uso standard esprime la creatività dell’autore o il suo desiderio di imitare strutture autorevoli, come quella della frase latina (è il caso ad esempio dell’iperbato).
+
+
+Anastrofe = inversione di due sintagmi.
+ «e del prunalbo l’odorino amaro / senti» (G. Pascoli)
+
+
+
+Iperbato = inserimento di un sintagma tra due elementi che dovrebbero essere contigui.
+ «O belle agli occhi miei tende latine» (T. Tasso)
+
+
+
+
+
+Ellissi = omissione di elementi sintattici necessari (ad esempio del predicato).
+«la luce si fa avara – amara l’anima» (E. Montale)
+
+
+
+
+
+Pleonasmo = aggiunta di elementi sintattici superflui.
+«Io il mare l’ho sempre immaginato» (C. Pavese)
+
+
+
+
+
+
+Anafora = ripetizione di una o più parole all’inizio di versi in sequenza.
+ «Per me si va ne la città dolente,
+per me si va ne l’etterno dolore,
+per me si va tra la perduta gente» (Dante)
+
+
+
+
+
+
+Accumulazione = elenco ordinato o caotico di più elementi collegati da un segno di punteggiatura (asindeto) o dalla ripetizione di una stessa congiunzione (polisindeto)
+«Diverse lingue, orribili favelle,
+parole di dolore, accenti d’ira,
+voci alte e fioche […]» (Dante)
+
+«era la statua nella sonnolenza
+del meriggio, e la nuvola, e il falco alto levato»
+(E. Montale)
+
+
+
+Chiasmo = disposizione incrociata di due parole o di sintagmi corrispondenti in due frasi.
+«Le donne, i cavalier, l’arme, gli amori» (L. Ariosto)
+Climax = disposizione ordinata secondo una logica di gradazione: può essere ascendente (dall’elemento meno intenso all’elemento più intenso), o, viceversa, discendente.
+«Quivi sospiri, pianti e alti guai» (Dante)
+Elementi semantici: il lessico e le figure del significato
+
+Quando si analizza il lessico di un testo, occorre anzitutto individuare il registro (o i registri) impiegati dal poeta; in secondo luogo, si può procedere all’individuazione di particolari tipi di parole utilizzati (arcaismi, latinismi, dialettismi, regionalismi, francesismi, ecc.).
+Accade però che il lettore giudichi i termini utilizzati dal poeta solo in base alla propria conoscenza, spesso necessariamente parziale. Ciò può portare a una valutazione scorretta (ad esempio, si scambierà per arcaismo una parola sconosciuta o, al contrario, si sorvolerà su una parola oggi comune che però era percepita come nuova nel contesto di produzione del componimento). Per evitare questi errori è necessario affidarsi ai vocabolari e, se disponibili, alle note a piè di pagina.
+Particolare rilevanza assumono poi, a livello lessicale, le parole-chiave, che sono solitamente oggetto di ripetizione identica o che tornano in altro modo nel testo (variatio, poliptoti, composti, figure etimologiche, ecc.), e i campi semantici.
+
+
+Campo semantico = insieme di parole di una stessa lingua inerenti a una stessa area di significati.
+
+
+
+
+L’individuazione di questi rapporti di significato tra le parole impiegate dal poeta è utile per chiarire i temi e i messaggi da lui affidati al testo, nonché per illustrare l’universo simbolico e associativo di cui si nutre la composizione poetica.
+
+Esercizio 3
+Leggi attentamente la poesia A Zacinto di Ugo Foscolo e identifica il campo semantico dominante.
+
+Né più mai toccherò le sacre sponde
+ove il mio corpo fanciulletto giacque,
+Zacinto mia, che te specchi nell’onde
+del greco mar, da cui vergine nacque
+
+Venere, e fea quelle isole feconde
+col suo primo sorriso, onde non tacque
+le tue limpide nubi e le tue fronde
+l’inclito verso di Colui che l’acque
+
+cantò fatali, ed il diverso esiglio
+per cui bello di fama e di sventura
+baciò la sua petrosa Itaca Ulisse.
+
+CAMPO SEMANTICO:
+
+_____________________________
+
+Tu non altro che il canto avrai del figlio,
+o materna mia terra; a noi prescrisse
+il fato illacrimata sepoltura.
+
+Esercizio 4
+Procedi all’analisi sintattica della poesia riportata nell’esercizio 3 ed esprimi le tue considerazioni in un breve testo espositivo.
+
+
+Usi propri e figurati delle parole: le figure retoriche del significato
+
+
+
+Similitudine = paragone tra due elementi con caratteristiche comuni.
+ «che mugghia come fa mar per tempesta» (Dante)
+
+
+
+
+
+
+Analogia = accostamento sintetico  e intuitivo di due elementi, di cui uno contribuisce a caratterizzare l’altro.
+ «ché il cielo notava in un’alba di perla» (G. Pascoli)
+
+
+
+
+Metonimia = sostituzione di una parola con un’altra, ad essa legata logicamente (contenitore/contenuto, concreto/astratto, materia/oggetto, ecc.).
+«dietro al mio legno che cantando varca» (Dante).
+Metafora = sostituzione di una parola o di un’espressione con un’altra, scelta per l’esistenza di un legame di significato.
+ «con il piede straniero sopra il cuore» (S. Quasimodo)
+Sineddoche = sostituzione della parte con il tutto o del tutto con la parte.
+«E se da lunge i miei tetti saluto» (U. Foscolo).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iperbole = sostituzione di un’espressione con una di significato esagerato
+«Sparge un fiume di lacrime sul petto» (L. Ariosto).
+
+
+Antifrasi = affermazione di un concetto attraverso l’affermazione del suo contrario (ironia).
+«Se in mezzo agli ozi tuoi ozio ti resta» (G. Parini)
+Sinestesia = accostamento di due termini inerenti a due campi sensoriali diversi.
+«Non vi ster molto, ch’un lamento amaro» (L. Ariosto)
+Perifrasi = sostituzione di un nome proprio con un’espressione più complessa («giro di parole»).
+«Il pianeta / che mena dritto altrui per ogne calle» (Dante).
+Antitesi = accostamento in un verso, in una frase o in sede di rima di parole che evocano significati opposti.
+«di fuor si legge com’io dentro avampi» (Petrarca)
+Ossimoro = accostamento nello stesso sintagma di due termini dai significati opposti e contrastanti.
+«In questa concordia discorde» (G. D’Annunzio)
+Elementi semantici: il suono
+
+«Poesia e prosa: due grandezze la cui differenza è con particolare evidenza misurabile a livello della «forza sensuale» del suono che in poesia più che in prosa equilibra la forza intellettuale del linguaggio»
+(G. L. Beccaria, L’autonomia del significante, Einaudi, Torino, 1975, p. 69)
+
+Nell’analisi del livello fonico occorre tenere conto di tutti i fenomeni relativi al suono che si verificano nel testo poetico. Tra questi rientrano anche le già citate rima, assonanza e consonanza (cfr. p. 20).
+
+L’allitterazione
+
+Allitterazione = ripetizione degli stessi fonemi all’inizio o all’interno di due o più parole contigue.
+
+
+
+Esempi:
+
+E caddi come corpo morto cade. (Dante, Inf., V, v. 142)
+
+Ma ben veggio or sì come al popol tutto
+favola fui gran tempo, onde sovente
+di me medesmo meco mi vergogno;
+e del mio vaneggiar vergogna è il frutto. (F. Petrarca, Canzoniere, I, vv. 9-12)
+I suoni dominanti
+Ancor più frequente della vera e propria allitterazione è la dominanza di uno o più suoni (detti «fonemi») che ricorrono in una o più parti del testo poetico. Questi possono essere i suoni costitutivi della parola-tema (ad esempio i fonemi che formano la parola «amore») oppure dei fonemi scelti dall’autore per la loro qualità timbrica e per le sensazioni che suscitano:
+Suoni aperti (-a-, -è-, -ò-)  chiarezza, distensione;
+Suoni gravi (-u-, -ó-)  oscurità, angoscia;
+Suoni acuti (-i-)  allegria o tetraggine;
+Suoni duri o aspri (-c-, -g-, -str-, -spr-, -scr-, -sgr-)  difficoltà, sgradevolezza;
+Suoni dolci (-ce-, -sce-, -ci-, -sci-, -gli-, -l-, -m-, -n-)  soavità, leggerezza.
+Questo elenco non deve però essere assunto come un principio assoluto: il valore dei suoni, infatti, è sempre legato al testo, alla tematica e alle intenzioni del poeta.
+
+L’onomatopea e i termini onomatopeici
+
+Onomatopea = composizione di una parola che riproduce suoni, rumori, versi di animali, ecc., trascrivendoli seguendo le convenzioni fonologiche e grafematiche di una lingua
+ «Nei campi / c’è un breve gre gre di ranelle» (G. Pascoli)
+
+
+
+
+
+Termine onomatopeico = parola la cui pronuncia è evocativa del suono, rumore, verso di animale che vi corrisponde sul piano del significato.
+ «il suo sottil tintinno come d’oro» (G. Pascoli)
+
+
+
+
+
+Paronomasia
+Paronomasia = accostamento di parole che sono simili dal punto di vista fonico, ma differenti dal punto di vista semantico
+ «la luce si fa avara – amara l’anima» (E. Montale)
+
+
+
+
+Senso e struttura: l’analisi tematica
+Spesso, grazie alla parafrasi o al nostro istinto, siamo in grado di riconoscere il tema principale di un testo poetico abbastanza facilmente. Da queste prime osservazioni occorre però muovere in modo più sistematico, procedendo verso per verso, frase per frase, strofa per strofa, per cogliere i vari motivi (cioè quegli elementi “minori” che suggeriscono e sviluppano il tema) e per capire come e perché il poeta li abbia disposti nel componimento. Occorre quindi mettere in rapporto tale disposizione con l’andamento del testo:
+struttura lineare  il testo sviluppa il tema dall’inizio alla fine;
+struttura circolare  il testo si apre e si chiude sullo stesso tema o motivo;
+struttura concentrica  temi e motivi sono sviluppati linearmente fino al centro del testo e poi ripresi in ordine inverso fino alla conclusione, che rievoca il tema o motivo iniziale;
+struttura simmetrica  temi e motivi sono disposti in modo da creare un sistema di rimandi interni e corrispondenze tra le varie strofe.
+I temi dei testi poetici possono rinviare a esperienze universali (amore, guerra, violenza, morte, amicizia) o a stati d’animo ed emozioni individuali.
+
+Esercizio 5
+Per ciascuno dei seguenti temi, elenca una serie di almeno tre motivi.
+amore  _____________________________________________________________;
+passare del tempo  ____________________________________________________;
+rinascita  _________________________________________________________;
+lutto  ____________________________________________________________;
+bellezza naturale  ________________________________________________;
+gioventù   _______________________________________________________;
+
+Interpretare la poesia
+
+
+
+
+Una volta svolte la parafrasi e l’analisi del testo, è opportuno portare alla luce i diversi sensi del testo: non bisogna fermarsi, dunque, alla riformulazione del significato letterale, ma approfondire il contenuto del testo per identificare:
+Interpretare: alla luce dell’analisi svolta sul testo, spiegarne i significati e i caratteri distintivi.
+i significati nascosti (generali, astratti, simbolici, allegorici, spirituali, ecc.);
+i legami con la biografia e la poetica dell’autore;
+i legami con il contesto storico-culturale in cui l’autore ha scritto il testo;
+i legami con le altre opere dell’autore;
+i legami con le opere di altri autori, precedenti o coevi rispetto all’autore del testo;
+i significati che il testo assume nel mondo del lettore, cioè rispetto all’attualità.
+Il punto 1 dell’elenco corrisponde all’interpretazione in senso stretto; i punti 2 e 3 costituiscono la «contestualizzazione»; il punto 6 consiste nell’«attualizzazione». I punti 4 e 5 riguardano l’intertestualità, ovvero l’insieme dei rapporti (citazioni, allusioni, riprese tematiche o linguistiche, traduzioni, ecc.) che intercorrono tra i testi letterari:
+di uno stesso autore ( intertestualità interna);
+di autori diversi ( intertestualità esterna).
+
+L’autore
+A volte la produzione dei poeti è attraversata da costanti tematiche che si spiegano con loro particolari interessi o riflessioni ricorrenti; altre è proprio l’eccezionalità dell’esperienza soggettiva a stimolare la stesura di una poesia; altre ancora le occasioni della vita dell’individuo forniscono lo spunto per ragionare su temi universali, che riguardano non solo il poeta ma tutti gli esseri umani.
+Per questo motivo è importante ricondurre il testo alla biografia dell’autore: il suo modo di vedere e interpretare il mondo, di concettualizzare e verbalizzare le esperienze, di provare ed esprimere emozioni e sentimenti – come quello di ognuno di noi – sarà in una certa misura spiegabile con il suo vissuto personale (la famiglia, la formazione, eventi traumatici, rapporti umani, spiritualità, idee politiche, ecc.).
+Un’altra componente che va considerata è la poetica, cioè la riflessione che i poeti esercitano sulla loro attività, indicandone gli scopi, gli ideali, le costanti formali. La poetica si ricava dai testi teorici (ad es. Il fanciullino di Pascoli), dai paratesti (introduzioni, lettere dedicatorie, premesse, ecc.), dagli appunti di lavoro, dalle lettere ad amici, colleghi o familiari, dalle interviste, ecc.; tuttavia è possibile trarne degli aspetti anche dalle opere stesse, e nello specifico da costanti stilistiche, strutturali, tematiche, lessicali, ecc.
+
+Il contesto
+L’opera letteraria è sempre radicata nella trama della storia: lo scrittore, nel produrla, si fa interprete del suo tempo, delle esperienze collettive, dei conflitti sociali, del clima culturale. A volte è dunque utile ricondurre i temi della poesia agli eventi storici vissuti dall’autore: il rapporto che ne risulterà non sarà sempre di corrispondenza, di armonia, di analogia, e anzi potrà essere conflittuale, oppositivo, di contrasto.
+Il contesto in cui l’opera viene concepita è generalmente caratterizzato da movimenti o scuole letterarie, ovvero da gruppi di autori che, essendosi o meno confrontati direttamente tra loro, svolgono l’attività letteraria con intenti e sensibilità affini: può talvolta risultare utile ricondurre i temi e gli stilemi individuati nel testo alle costanti tipiche di queste correnti culturali e artistiche.
+
+Gli altri testi
+Un’opera si configura spesso come un «confronto-dialogo» con la tradizione letteraria cui appartiene. Nei poeti, che ne siano consci o meno, agisce generalmente la cosiddetta «memoria letteraria», ovvero il bagaglio di testi di altri autori che hanno letto o studiato. Ciò può spiegare vari fenomeni riscontrabili nel testo letterario, dalla citazione letterale (e dunque quasi sempre volontaria), all’allusione quasi inconsapevole, alla consapevole (e magari provocatoria) scelta di un singolo elemento (parola, rima, immagine, ecc.) già utilizzato da un altro autore che si vuole omaggiare o con il quale si vuole competere.
+Infine, anche il genere letterario a cui una poesia è ascrivibile può essere utile per fare luce su aspetti tematici e stilistici altrimenti oscuri.
+
+Genere letterario: insieme di testi letterari accomunati da determinati caratteri, regole, stile, contenuti.
+
+
+
+Tra i molti generi poetici possiamo ricordare:
+la lirica: è il genere dedicato all’espressione dell’interiorità e dei sentimenti del poeta; un suo sottogenere particolarmente presente nei canoni scolastici è la lirica amorosa.
+l’epica: è il genere dedicato alla narrazione in versi di gesta e imprese eroiche, mitologiche o storiche; ad essa appartengono, ad esempio, i poemi omerici e l’Eneide;
+la poesia comica: comprende testi di argomento buffo e licenzioso; spesso si configura come una parodia (cioè un rovesciamento ironico) di generi più elevati (lirica, epica).
+
+L’attualizzazione
+Attualizzare significa definire il significato che il testo assume per il lettore di oggi. Occorre considerare il rapporto tra il mondo del testo e il proprio, stabilendo confronti tra il passato e il presente per mettere in luce somiglianze e differenze.
+In particolare, il riferimento ad alcuni grandi temi che definiscono la condizione umana e l’immaginario di ogni tempo – l’amore, la morte, la percezione del corpo, il modo di abitare lo spazio, il tempo, la guerra – si prestano in modo significativo all’attualizzazione di un testo.
+
+Scrivere un commento a una poesia
+
+
+

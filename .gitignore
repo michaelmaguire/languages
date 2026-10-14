@@ -1,0 +1,17 @@
+# Python virtual environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# LibreOffice / Office lock and temp files
+.~lock.*#
+~$*
+
+# Pipeline working files: the HTML pages the PDFs are printed from, and the English to-do list
+pipeline/cache/print_*.html
+pipeline/cache/missing_english_todo.csv
+pipeline/cache/cldf.sqlite
+
+# created by `pip install -e .` (registers the dataset with cldfbench)
+*.egg-info/

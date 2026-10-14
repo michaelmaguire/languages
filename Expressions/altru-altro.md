@@ -6,8 +6,8 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Modi di dire e proverbi · Sayings and idioms
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| sporco sulle mani / levatrice | cröcc / cumãa | dirt on the hands / midwife | Basso Ceresio | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
+| cröcc / cumãa | sporco sulle mani / levatrice | dirt on the hands / midwife | Basso Ceresio | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 
 [← all expressions](README.md)

@@ -6,27 +6,27 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Modi di dire e proverbi · Sayings and idioms
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| caro Signore guarda giù | Car Signur guarda giô | dear Lord, look down | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| c’è il Signore degli ubriachi | A ghè ul Signur di ciocc | there is a Lord who looks after drunks | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| essere fuori dalla grazia di Dio (molto incalzato) | Ves föra dala grazia dal Signur | to be beside oneself (very agitated) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| ha trovato il Signore addormentato (gli è andata bene) | A la truvaa ul Signur indurmentaa | he found the Lord asleep (he got away with it) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| nient’altro mi può salvare | a ghè pü ne Sant e ne Madon che tegn | nothing else can save me | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| non so più che santo pregare | a so pü a che sant tacam | I no longer know which saint to pray to | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| non va in chiesa poichè gli fa mal il fumo delle candele | al va mia in gèsa, parché ga fa maa ul fümm di candel | he doesn't go to church because the candle smoke bothers him | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| si dice a persona molto paurosa e apprensiva | al va in gir cunt gli oli sant in sacocia | said to a very fearful and anxious person | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| si dice per un prete che lascia il ministero | tra via la cota | said of a priest who leaves the ministry | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| tutti i santi aiutano | tütt i sant jüttan | all the saints help | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| a ghè pü ne Sant e ne Madon che tegn | nient’altro mi può salvare | nothing else can save me | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| A ghè ul Signur di ciocc | c’è il Signore degli ubriachi | there is a Lord who looks after drunks | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| A la truvaa ul Signur indurmentaa | ha trovato il Signore addormentato (gli è andata bene) | he found the Lord asleep (he got away with it) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| a so pü a che sant tacam | non so più che santo pregare | I no longer know which saint to pray to | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| Car Signur guarda giô | caro Signore guarda giù | dear Lord, look down | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| tra via la cota | si dice per un prete che lascia il ministero | said of a priest who leaves the ministry | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| tütt i sant jüttan | tutti i santi aiutano | all the saints help | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| al va in gir cunt gli oli sant in sacocia | si dice a persona molto paurosa e apprensiva | said to a very fearful and anxious person | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| al va mia in gèsa, parché ga fa maa ul fümm di candel | non va in chiesa poichè gli fa mal il fumo delle candele | he doesn't go to church because the candle smoke bothers him | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| Ves föra dala grazia dal Signur | essere fuori dalla grazia di Dio (molto incalzato) | to be beside oneself (very agitated) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
 
 ## Frasi · Phrases
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| la Festa del Papà | la Festa dal Pà (=San Giusepp) | Father's Day | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| Mi piacerebbe, ma domani sera c’è la festa di compleanno di Marco. Perché non venite anche voi? | Ma piasaress, ma duman sira gh’è la fescta da complean dal Marco. Parché vegnuf mia anca vialtri? | I'd like to, but tomorrow evening it's Marco's birthday party. Why don't you two come as well? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| non so, non siamo state invitate. | Al so mia, a sem mia stai invidaa | I don't know, we haven't been invited. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| 7. **Organizzando una sorpresa per un amico.** (mantenere) il segreto fino al suo compleanno. | Tegnii ul segreto fin al sò complean (cipii mia fin al sò complean) | 7. Organising a surprise for a friend. (keep) the secret until their birthday. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| sarei venuto volentieri alla tua festa di compleanno, ma dovevo studiare | saria/saress vegnüü vulentèra a la tua fescta da complean, ma duveva stüdiaa | I would gladly have come to your birthday party, but I had to study | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Passato.docx) |
+| la Festa dal Pà (=San Giusepp) | la Festa del Papà | Father's Day | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
+| Ma piasaress, ma duman sira gh’è la fescta da complean dal Marco. Parché vegnuf mia anca vialtri? | Mi piacerebbe, ma domani sera c’è la festa di compleanno di Marco. Perché non venite anche voi? | I'd like to, but tomorrow evening it's Marco's birthday party. Why don't you two come as well? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| saria/saress vegnüü vulentèra a la tua fescta da complean, ma duveva stüdiaa | sarei venuto volentieri alla tua festa di compleanno, ma dovevo studiare | I would gladly have come to your birthday party, but I had to study | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Passato.docx) |
+| Al so mia, a sem mia stai invidaa | non so, non siamo state invitate. | I don't know, we haven't been invited. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| Tegnii ul segreto fin al sò complean (cipii mia fin al sò complean) | 7. **Organizzando una sorpresa per un amico.** (mantenere) il segreto fino al suo compleanno. | 7. Organising a surprise for a friend. (keep) the secret until their birthday. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
 
 [← all expressions](README.md)

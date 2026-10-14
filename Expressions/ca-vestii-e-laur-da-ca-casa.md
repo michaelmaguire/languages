@@ -6,42 +6,42 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Modi di dire e proverbi · Sayings and idioms
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| Con i capelli corti hai un’aria più sbarazzina. | cun i cavii cürt ta ghè un’aria da balossa | With short hair you look more cheeky. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| è tutto sotto sopra (in disordine) | al'è tütt sott sora | it is all upside down (in a mess) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| l’ospite è come il pesce, dopo tre giorni puzza | l’oscpit l’è cumé ‘l pes, dopu tri dì al scpüzza | A guest is like fish: after three days he stinks | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| Questa casa non è un albergo. | Quescta caà l’è mia un albergo | This house is not a hotel. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Se non ti sta bene quella è la porta. | Se ta va mia ben, quela l’è la porta | If you don't like it, there's the door. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| spiffero d’aria | spiffar | draught of air | Basso Ceresio | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
+| al'è tütt sott sora | è tutto sotto sopra (in disordine) | it is all upside down (in a mess) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
+| cun i cavii cürt ta ghè un’aria da balossa | Con i capelli corti hai un’aria più sbarazzina. | With short hair you look more cheeky. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| l’oscpit l’è cumé ‘l pes, dopu tri dì al scpüzza | l’ospite è come il pesce, dopo tre giorni puzza | A guest is like fish: after three days he stinks | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| Quescta caà l’è mia un albergo | Questa casa non è un albergo. | This house is not a hotel. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| Se ta va mia ben, quela l’è la porta | Se non ti sta bene quella è la porta. | If you don't like it, there's the door. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| spiffar | spiffero d’aria | draught of air | Basso Ceresio | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 
 ## Frasi · Phrases
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| babbucce (calze di lana grosse) | scalfarott | bed socks (thick woollen socks) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-| Bisogna comprare il latte. | Bisögna tö ul lacc. | We need to buy milk. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Bisogna fare la spesa. | Bisögna nà a pruet. | The shopping needs doing. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Bisogna pulire il pavimento. | Bisögna netà ‘l söl. | The floor needs cleaning. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| canottiere da uomo senza manica | camisöö | men's sleeveless vest | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-| Ce l’ho io. | Ga l’ò mì. | I have it. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Chi ha la chiave del cancello? | Chi g’à la ciaf dal cancell? | Who has the key to the gate? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| cintura (di cuoio) | zenta o zentura o curengia da curam (=cuoio) | belt (leather) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-| Come devo vestirmi? Non so cosa mettermi. È una festa elegante? | Come devi vesctim ? al sô mia cusé met sü. L’è una fescta eleganta? | How should I dress? I don't know what to wear. Is it a smart party? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| 6. **Dando istruzioni su come curare una pianta.** (annaffiare) la pianta ogni due giorni. | Dag l’acqua a la pianta ogni dü dì (bagna la pianta ogni dü dì) | 6. Giving instructions on caring for a plant. (water) the plant every two days. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| dormiamo qui stasera! | dormum chì sctasira! | let's sleep here tonight! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo%2014.4.2025.pdf) |
-| non aprire la finestra! | verd mia la finesctra | don't open the window! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| salgo le scale | fò sü i scar | I go up the stairs | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| Se io possedessi dei vestiti di Valentino sarei molto felice | Se mi gh’avess i visctii dal Valentino sa-ria/ressa tantu content | If I owned Valentino clothes I would be very happy | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
-| sego (taglio) la legna per il camino | reseghi la legna par al camin | I am sawing (cutting) wood for the fireplace | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| Su di te, il vestito sta molto bene, ti dona, è molto bello. | Sü da tì, al vesctii al stà multu ben, al ta dona, l’è multu bel. | That dress looks very good on you, it suits you, it's very nice. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| 1. Tu (andare) a letto presto stasera. | Va in lett presct sctasira | 1. You (go) to bed early tonight. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| 1. Tu (dare) una mano a tua madre in cucina. | Dag ‘na man a la tua mam in cüsina | 1. You (give) your mother a hand in the kitchen. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| 3. Tu (leggere) le istruzioni prima di montare il mobile. | Leng i ‘sctrüziun prima da muntà ‘l mobil | 3. You (read) the instructions before assembling the furniture. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| 5. Tu (scrivere) una lista della spesa prima di uscire. | Scrif na liscta dala scpesa prima da na föra | 5. You (write) a shopping list before going out. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| 9. Tu (spegnere) la luce prima di uscire. | Scmorza la lüs prima da na föra | 9. You (turn off) the light before going out. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| vestito completo da uomo | vestimenta dala festa | man's suit | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-| vestito completo donna | taillöör | woman's suit | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-| 2. Voi (aprire) la finestra, qui dentro fa caldo. | Verdii la finesctra, denta chi al fa cald | 2. You (plural) (open) the window; it's hot in here. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| Bisögna nà a pruet. | Bisogna fare la spesa. | The shopping needs doing. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Bisögna netà ‘l söl. | Bisogna pulire il pavimento. | The floor needs cleaning. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Bisögna tö ul lacc. | Bisogna comprare il latte. | We need to buy milk. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| camisöö | canottiere da uomo senza manica | men's sleeveless vest | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
+| Chi g’à la ciaf dal cancell? | Chi ha la chiave del cancello? | Who has the key to the gate? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Come devi vesctim ? al sô mia cusé met sü. L’è una fescta eleganta? | Come devo vestirmi? Non so cosa mettermi. È una festa elegante? | How should I dress? I don't know what to wear. Is it a smart party? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| Dag l’acqua a la pianta ogni dü dì (bagna la pianta ogni dü dì) | 6. **Dando istruzioni su come curare una pianta.** (annaffiare) la pianta ogni due giorni. | 6. Giving instructions on caring for a plant. (water) the plant every two days. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| Dag ‘na man a la tua mam in cüsina | 1. Tu (dare) una mano a tua madre in cucina. | 1. You (give) your mother a hand in the kitchen. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| dormum chì sctasira! | dormiamo qui stasera! | let's sleep here tonight! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo%2014.4.2025.pdf) |
+| fò sü i scar | salgo le scale | I go up the stairs | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
+| Ga l’ò mì. | Ce l’ho io. | I have it. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Leng i ‘sctrüziun prima da muntà ‘l mobil | 3. Tu (leggere) le istruzioni prima di montare il mobile. | 3. You (read) the instructions before assembling the furniture. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| reseghi la legna par al camin | sego (taglio) la legna per il camino | I am sawing (cutting) wood for the fireplace | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
+| scalfarott | babbucce (calze di lana grosse) | bed socks (thick woollen socks) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
+| Scmorza la lüs prima da na föra | 9. Tu (spegnere) la luce prima di uscire. | 9. You (turn off) the light before going out. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| Scrif na liscta dala scpesa prima da na föra | 5. Tu (scrivere) una lista della spesa prima di uscire. | 5. You (write) a shopping list before going out. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| Se mi gh’avess i visctii dal Valentino sa-ria/ressa tantu content | Se io possedessi dei vestiti di Valentino sarei molto felice | If I owned Valentino clothes I would be very happy | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
+| Sü da tì, al vesctii al stà multu ben, al ta dona, l’è multu bel. | Su di te, il vestito sta molto bene, ti dona, è molto bello. | That dress looks very good on you, it suits you, it's very nice. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| taillöör | vestito completo donna | woman's suit | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
+| Va in lett presct sctasira | 1. Tu (andare) a letto presto stasera. | 1. You (go) to bed early tonight. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| verd mia la finesctra | non aprire la finestra! | don't open the window! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| Verdii la finesctra, denta chi al fa cald | 2. Voi (aprire) la finestra, qui dentro fa caldo. | 2. You (plural) (open) the window; it's hot in here. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| vestimenta dala festa | vestito completo da uomo | man's suit | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
+| zenta o zentura o curengia da curam (=cuoio) | cintura (di cuoio) | belt (leather) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 
 [← all expressions](README.md)

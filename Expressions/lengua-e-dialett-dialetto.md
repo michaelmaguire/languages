@@ -6,19 +6,19 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Frasi · Phrases
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| Ah, non sapevo che tu parlassi inglese! | Ah, al seva mia che ta parlassat ingles! | Ah, I didn't know you spoke English! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| Anch’io sto imparando l’italiano con il metodo naturale. | Anca mi sum dré a imparà al taglian cul sisctema natüral | I'm learning Italian with the natural method too. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Beh, io non parlo bene italiano.. | Beh, mi parli mia ben l’itaglian | Well, I don't speak Italian well… | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| come si dice | cume sa dis | how do you say |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| Dovrei studiare più Italiano, sbaglio sempre I verbi irregolari! | Dua-ria/ressa stüdià püsee l’italian, sbai sempru i verbi irregular ! | I ought to study more Italian; I always get the irregular verbs wrong! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
-| Interessante parla italiano? | Interesant, al parla italian? | Interesting, does he speak Italian? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| Non capisco…ti trovi? | Capisi mia….ta sa trövat? | I don't understand… ti trovi? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| non trovo i fogli della lezione di dialetto | trövi mia i feuil dala leziun da dialet | I can't find the sheets from the dialect lesson | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| Posso parlare in inglese, ma preferisco parlare italiano, per voi va bene? | Podi parlà in ingles, ma preferisi parlà itaglian, se par vialtri al va ben? | I can speak English, but I prefer to speak Italian; is that all right with you? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| scusa, non ho capito | scüsa, u mia capii | sorry, I didn't understand | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| scusi, non ho capito | al ma scüsa, u mia capii | Excuse me, I didn't understand | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Si grazie ! voglio migliorare il mio italiano! | Si grazie! Vöi migliurà al me itaglian! | Yes, thanks! I want to improve my Italian! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Ah, al seva mia che ta parlassat ingles! | Ah, non sapevo che tu parlassi inglese! | Ah, I didn't know you spoke English! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Anca mi sum dré a imparà al taglian cul sisctema natüral | Anch’io sto imparando l’italiano con il metodo naturale. | I'm learning Italian with the natural method too. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Beh, mi parli mia ben l’itaglian | Beh, io non parlo bene italiano.. | Well, I don't speak Italian well… | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Capisi mia….ta sa trövat? | Non capisco…ti trovi? | I don't understand… ti trovi? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| cume sa dis | come si dice | how do you say |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
+| Dua-ria/ressa stüdià püsee l’italian, sbai sempru i verbi irregular ! | Dovrei studiare più Italiano, sbaglio sempre I verbi irregolari! | I ought to study more Italian; I always get the irregular verbs wrong! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
+| Interesant, al parla italian? | Interessante parla italiano? | Interesting, does he speak Italian? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| al ma scüsa, u mia capii | scusi, non ho capito | Excuse me, I didn't understand | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Podi parlà in ingles, ma preferisi parlà itaglian, se par vialtri al va ben? | Posso parlare in inglese, ma preferisco parlare italiano, per voi va bene? | I can speak English, but I prefer to speak Italian; is that all right with you? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| scüsa, u mia capii | scusa, non ho capito | sorry, I didn't understand | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Si grazie! Vöi migliurà al me itaglian! | Si grazie ! voglio migliorare il mio italiano! | Yes, thanks! I want to improve my Italian! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| trövi mia i feuil dala leziun da dialet | non trovo i fogli della lezione di dialetto | I can't find the sheets from the dialect lesson | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 
 [← all expressions](README.md)

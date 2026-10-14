@@ -390,9 +390,9 @@ def expressions():
         t = names[tid]
         body.append(f'<div class="part topic" id="t-{tid}"><h1>{esc(build.topic_title(t))}</h1><div class="entries">')
         for genre, (it, en) in (("saying", build.SAYINGS), ("phrase", build.PHRASES)):
-            # the dialect leads each entry here, so it sets the order (the Markdown pages lead with the Italian)
+            # dialect first and sorted by it, as on the Markdown pages
             part = sorted(build.merge_expressions([p for p in rows if (p["genre"] == "saying") == (genre == "saying")]),
-                          key=lambda p: build.plain(build.DI_ARTICLE.sub("", build.key(p["dialect"]))))
+                          key=build.expression_order)
             if part:
                 counts[genre] += len(part)
                 body.append(f"<h3>{esc(it)} · {esc(en)}</h3>" + "".join(entry(p) for p in part))

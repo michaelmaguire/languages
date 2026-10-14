@@ -6,37 +6,37 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Modi di dire e proverbi · Sayings and idioms
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| Il cane lo vorrei, ma ci vuole il giardino. | Al can al vöraria ma ga vö ul giardin | I'd like a dog, but you need a garden. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Come si allungano le giornate! Ieri a quest’ora era già buio. | Cumè i sa sclunga i giurnaad! Ier a quesct’ora l’eva già scür | How the days are drawing out! Yesterday at this time it was already dark. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Con questo tempo non si sa più come vestirsi. | Con quel temp chi sa sa pü come vesctiss | With this weather you no longer know how to dress. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Con questo tempo uno non sa più come vestirsi. | Cun quesctu temp vün al sà pü cumè vesctiss | With this weather one no longer knows how to dress. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| è già afoso la mattina presto | al'è già sòfich ala matina presct | it is already muggy early in the morning | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| L’estate di San Martino dura tre giorni ed un pochino | L’estaa da San Martin la düra trii dì e un cicinìn. | St Martin's summer lasts three days and a little bit |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-09-22-San%20Martin.pdf) |
-| fa molto freddo | al fa un frecc dala Madona | it is very cold | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| freddo come una biscia | frècc cum'è n biss | as cold as a grass snake | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| Il gatto si affeziona alla casa e non al padrone. | Ul gatt al sa afeziona a la ca’ e mia al padrun | A cat gets attached to the house, not to its owner. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| In Tv hanno detto che quest’anno ci sarà un’estate caldissima! | In television i an dii che quesct’ann gh’a sarà un’esctaa caldissima | They said on TV that this year we'll have a scorching summer! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Italia spaccata in due dal maltempo. | Italia scpacada in dü dal brüt temp | Italy split in two by bad weather. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Le nevicate di adesso non sono come quelle di una volta. | I fiucaat da adess i’è mia cumè quii d’una volta | Snowfalls now are not like they used to be. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Non ci esistono più le mezze stagioni. | Gh’è pü i mezz stagiòn | There are no in-between seasons any more. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Non è il caldo, è l’umidità. | L’è mia ul cald, l’è l’ümidità | It's not the heat, it's the humidity. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Sono meglio i cani delle persone. | I’è mei i can di person | Dogs are better than people. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| al'è già sòfich ala matina presct | è già afoso la mattina presto | it is already muggy early in the morning | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| Al can al vöraria ma ga vö ul giardin | Il cane lo vorrei, ma ci vuole il giardino. | I'd like a dog, but you need a garden. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| Con quel temp chi sa sa pü come vesctiss | Con questo tempo non si sa più come vestirsi. | With this weather you no longer know how to dress. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| Cumè i sa sclunga i giurnaad! Ier a quesct’ora l’eva già scür | Come si allungano le giornate! Ieri a quest’ora era già buio. | How the days are drawing out! Yesterday at this time it was already dark. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| Cun quesctu temp vün al sà pü cumè vesctiss | Con questo tempo uno non sa più come vestirsi. | With this weather one no longer knows how to dress. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| L’è mia ul cald, l’è l’ümidità | Non è il caldo, è l’umidità. | It's not the heat, it's the humidity. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| L’estaa da San Martin la düra trii dì e un cicinìn. | L’estate di San Martino dura tre giorni ed un pochino | St Martin's summer lasts three days and a little bit |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-09-22-San%20Martin.pdf) |
+| al fa un frecc dala Madona | fa molto freddo | it is very cold | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| I fiucaat da adess i’è mia cumè quii d’una volta | Le nevicate di adesso non sono come quelle di una volta. | Snowfalls now are not like they used to be. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| frècc cum'è n biss | freddo come una biscia | as cold as a grass snake | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| Ul gatt al sa afeziona a la ca’ e mia al padrun | Il gatto si affeziona alla casa e non al padrone. | A cat gets attached to the house, not to its owner. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| Gh’è pü i mezz stagiòn | Non ci esistono più le mezze stagioni. | There are no in-between seasons any more. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| I’è mei i can di person | Sono meglio i cani delle persone. | Dogs are better than people. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| In television i an dii che quesct’ann gh’a sarà un’esctaa caldissima | In Tv hanno detto che quest’anno ci sarà un’estate caldissima! | They said on TV that this year we'll have a scorching summer! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| Italia scpacada in dü dal brüt temp | Italia spaccata in due dal maltempo. | Italy split in two by bad weather. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 
 ## Frasi · Phrases
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| ciliegio | la sceresa (o scirèsa) frutto uguale | cherry tree | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
-| domani avrei fatto un giro al mare, ma le previsioni sono pessime | duman avria/avresa fai un gir al mar, ma i previsiun jè tropp brütt | Tomorrow I would have gone for a trip to the sea, but the forecast is terrible | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Passato.docx) |
-| Domani potrebbe piovere, il cielo è molto scuro! | Duman al poda-ria/ressa piööf, al ciel l’è tantu scür ! | It might rain tomorrow; the sky is very dark! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
-| Eravamo sempre fradici. | Sévum sempru masaraa. | We were always soaked. | Mendrisiotto | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-09-15-Freg%C3%BCi%20da%20vita%20dal%20Mendrisi%C3%B2tt.docx) |
-| Pensi che il bel tempo possa durare ancora? | Ta pensat che al bel temp al poda dürà ammò? | Do you think the good weather can last? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/domande%20di%20vario%20tipo.docx) |
-| se il tempo domani fosse bello andrei al mare | se duman al temp al füdess bel, na-ria/ressa al mar | If the weather were fine tomorrow I would go to the sea | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
-| 5. Tu (prendere) l’ombrello, sembra che pioverà. | Tö su l’umbrela, al sumea che al piövarà | 5. You (take) the umbrella; it looks like rain. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| vento soffia | ul vent al bofa | the wind blows | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| 10. Voi (giocare) fuori, oggi il tempo è bellissimo. | Giöghii da föra, incö ul temp l’è belisim | 10. You (plural) (play) outside; the weather is lovely today. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
-| 6. Voi (portare) i giubbotti, stasera farà freddo. | Portii i giübot, sctasira al farà frecc | 6. You (plural) (bring) your jackets; it will be cold tonight. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| Duman al poda-ria/ressa piööf, al ciel l’è tantu scür ! | Domani potrebbe piovere, il cielo è molto scuro! | It might rain tomorrow; the sky is very dark! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
+| duman avria/avresa fai un gir al mar, ma i previsiun jè tropp brütt | domani avrei fatto un giro al mare, ma le previsioni sono pessime | Tomorrow I would have gone for a trip to the sea, but the forecast is terrible | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Passato.docx) |
+| Giöghii da föra, incö ul temp l’è belisim | 10. Voi (giocare) fuori, oggi il tempo è bellissimo. | 10. You (plural) (play) outside; the weather is lovely today. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| Portii i giübot, sctasira al farà frecc | 6. Voi (portare) i giubbotti, stasera farà freddo. | 6. You (plural) (bring) your jackets; it will be cold tonight. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| la sceresa (o scirèsa) frutto uguale | ciliegio | cherry tree | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
+| se duman al temp al füdess bel, na-ria/ressa al mar | se il tempo domani fosse bello andrei al mare | If the weather were fine tomorrow I would go to the sea | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
+| Sévum sempru masaraa. | Eravamo sempre fradici. | We were always soaked. | Mendrisiotto | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-09-15-Freg%C3%BCi%20da%20vita%20dal%20Mendrisi%C3%B2tt.docx) |
+| Ta pensat che al bel temp al poda dürà ammò? | Pensi che il bel tempo possa durare ancora? | Do you think the good weather can last? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/domande%20di%20vario%20tipo.docx) |
+| Tö su l’umbrela, al sumea che al piövarà | 5. Tu (prendere) l’ombrello, sembra che pioverà. | 5. You (take) the umbrella; it looks like rain. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf) |
+| ul vent al bofa | vento soffia | the wind blows | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
 
 [← all expressions](README.md)

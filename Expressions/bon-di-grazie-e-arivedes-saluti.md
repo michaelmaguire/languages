@@ -6,39 +6,39 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Modi di dire e proverbi · Sayings and idioms
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| In bocca al lupo! | In boca al lüf | Good luck! (lit. into the wolf's mouth) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| una persona che lascia senza salutare | l’è nai senza dì ne crèpa ne sciopa | a person who leaves without saying goodbye | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| l’è nai senza dì ne crèpa ne sciopa | una persona che lascia senza salutare | a person who leaves without saying goodbye | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| In boca al lüf | In bocca al lupo! | Good luck! (lit. into the wolf's mouth) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 
 ## Frasi · Phrases
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| Anche a voi ragazzi, divertitevi! | Grazie anca a vialtri fiöö, divertivas | You too, kids, have fun! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| Buon Natale! Grazie, altrettanto. | Bon Natal! Grazie, anca a ti. | Merry Christmas! Thanks, same to you. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Buon viaggio! Altrettanto. | Bon viagg! Altretant (anca a ti) | Have a good trip! You too. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Ciao Andrea io sono Marco | Ciao Andrea, mi sum al Marco | Hi Andrea, I'm Marco | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| Ciao, ci siamo visti a lezione di economia…come ti chiami? (qual è il tuo nome?) | Ciao: a sem visct a la leziun da ecunumia…..cumé ta sa ciamat? (qual è ul tò nom?) | Hi, we've seen each other in the economics lecture… what are you called? (what is your name?) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| Ciao, e io sono Gianni | Ciao, e mi sum al Gianni | Hi, and I'm Gianni | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| Ciao, io sono Marco. | Ciao, mi sum al Marco | Hi, I'm Marco. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| Ciao Marisa, da quanto tempo non ci vediamo! Come stai? | Ciao Marisa, da quantu temp che sa vedum mia! Come ta sté? | Hi Marisa, it's been ages! How are you? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| Ciao Rob, siediti con noi | Ciao Rob, setat giô cun nüm | Hi Rob, sit down with us | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| come stai? Ti scrivo questa lettera per dirti che, settimana prossima verrò a trovarti! | Come ta sctét? Ta scrivi scta lettra par dit che, setimana che vegn vegnarò a truat! | how are you? I'm writing this letter to tell you that next week I'll come and see you! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| “Dai, ti aspetti l’anno prossimo!” | «Dài, ta spéci l’ann che vegn!» | "Go on, I'll expect you next year!" |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-09-22-San%20Martin.pdf) |
-| È da parecchio tempo che non ti vedo. | L’è na môta da temp che ta vedi mia. | I haven't seen you for quite a while. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Ecco a lei, arrivederci | Ecu a lee, arivedes | Here you are, goodbye | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| Grazie mille! Buona giornata. | Grazie mille e bona giurnada. | Thanks very much and have a good day. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| mi ha fatto piacere vederti | ma fai piasé vedet | It was nice to see you | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| non mi lamento/non posso lamentarmi | ma sa lamenti mia/podi mia lamentam | I can't complain | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Ora devo andarmene. | Adess devi nà via. | I have to leave now. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Piacere di conoscerti Verena. Benvenuta in Ticino. | Ma fa piasé cugnossa Verena. Benvegnüda in Tisin. | Nice to meet you, Verena. Welcome to Ticino. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| Quando incontri una persona che conosci e ha un bell’aspetto, noti che sta bene, puoi dire: Ti trovo bene. | Quant che ta incuntrat na persona che ta cugnosat e che la guarda fö ben, ta vedat che la sctà ben, ta pô dì: ta trövi ben. | When you meet someone you know who looks well, and you notice they are doing well, you can say: You're looking well. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Sarete bellissime! Allora a domani. | Sarii belissim ! alura a duman. | You'll look gorgeous! See you tomorrow then. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| Scusa il disturbo, posso farti una domanda? | Scüsa ‘l distürbu, podi fat ‘na dumanda? | Sorry to bother you, may I ask you a question? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Si, mi ricordo eri davanti a me…mi chiamo Marco (il mio nome è Marco). | Si, ma regordi, ta sevat dananz a mì…ma ciami Marco (ul mè nom l’è Marco) | Yes, I remember, you were in front of me… I'm called Marco (my name is Marco). | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| Spero di sentirti presto! | Speri da sentit presct! | I hope to hear from you soon! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| Il tuo amico Soc | Al to amis Soc | your friend Soc | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
-| tutto bene? | Tütt ben ? | all well? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Adess devi nà via. | Ora devo andarmene. | I have to leave now. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Bon Natal! Grazie, anca a ti. | Buon Natale! Grazie, altrettanto. | Merry Christmas! Thanks, same to you. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Bon viagg! Altretant (anca a ti) | Buon viaggio! Altrettanto. | Have a good trip! You too. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Ciao: a sem visct a la leziun da ecunumia…..cumé ta sa ciamat? (qual è ul tò nom?) | Ciao, ci siamo visti a lezione di economia…come ti chiami? (qual è il tuo nome?) | Hi, we've seen each other in the economics lecture… what are you called? (what is your name?) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Ciao Andrea, mi sum al Marco | Ciao Andrea io sono Marco | Hi Andrea, I'm Marco | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Ciao, e mi sum al Gianni | Ciao, e io sono Gianni | Hi, and I'm Gianni | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Ciao Marisa, da quantu temp che sa vedum mia! Come ta sté? | Ciao Marisa, da quanto tempo non ci vediamo! Come stai? | Hi Marisa, it's been ages! How are you? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| Ciao, mi sum al Marco | Ciao, io sono Marco. | Hi, I'm Marco. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Ciao Rob, setat giô cun nüm | Ciao Rob, siediti con noi | Hi Rob, sit down with us | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Come ta sctét? Ta scrivi scta lettra par dit che, setimana che vegn vegnarò a truat! | come stai? Ti scrivo questa lettera per dirti che, settimana prossima verrò a trovarti! | how are you? I'm writing this letter to tell you that next week I'll come and see you! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| «Dài, ta spéci l’ann che vegn!» | “Dai, ti aspetti l’anno prossimo!” | "Go on, I'll expect you next year!" |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-09-22-San%20Martin.pdf) |
+| L’è na môta da temp che ta vedi mia. | È da parecchio tempo che non ti vedo. | I haven't seen you for quite a while. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Ecu a lee, arivedes | Ecco a lei, arrivederci | Here you are, goodbye | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Grazie anca a vialtri fiöö, divertivas | Anche a voi ragazzi, divertitevi! | You too, kids, have fun! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| Grazie mille e bona giurnada. | Grazie mille! Buona giornata. | Thanks very much and have a good day. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| Ma fa piasé cugnossa Verena. Benvegnüda in Tisin. | Piacere di conoscerti Verena. Benvenuta in Ticino. | Nice to meet you, Verena. Welcome to Ticino. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| ma fai piasé vedet | mi ha fatto piacere vederti | It was nice to see you | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| ma sa lamenti mia/podi mia lamentam | non mi lamento/non posso lamentarmi | I can't complain | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Quant che ta incuntrat na persona che ta cugnosat e che la guarda fö ben, ta vedat che la sctà ben, ta pô dì: ta trövi ben. | Quando incontri una persona che conosci e ha un bell’aspetto, noti che sta bene, puoi dire: Ti trovo bene. | When you meet someone you know who looks well, and you notice they are doing well, you can say: You're looking well. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Sarii belissim ! alura a duman. | Sarete bellissime! Allora a domani. | You'll look gorgeous! See you tomorrow then. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| Scüsa ‘l distürbu, podi fat ‘na dumanda? | Scusa il disturbo, posso farti una domanda? | Sorry to bother you, may I ask you a question? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Si, ma regordi, ta sevat dananz a mì…ma ciami Marco (ul mè nom l’è Marco) | Si, mi ricordo eri davanti a me…mi chiamo Marco (il mio nome è Marco). | Yes, I remember, you were in front of me… I'm called Marco (my name is Marco). | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
+| Speri da sentit presct! | Spero di sentirti presto! | I hope to hear from you soon! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| Al to amis Soc | Il tuo amico Soc | your friend Soc | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/varie%20situazioni.docx) |
+| Tütt ben ? | tutto bene? | all well? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
 
 [← all expressions](README.md)

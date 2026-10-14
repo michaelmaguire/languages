@@ -146,7 +146,7 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
 - **Expressions (decided 2026-10-14):** grouped by **topic** (`etc/topics.csv`), not by lesson. Topics are named
   Dialett · Italiano · English; page files follow the verb pages, dialect then Italian:
   `mangia-e-bef-cibo.md` (slug of the dialect name, then the topic ID). Each topic page
-  lists sayings and idioms (genre `saying`), then phrases (`phrase`, `exercise`); the same dialect text from
+  (columns Dialett, Italiano, English, sorted by the dialect, as in the PDF) lists sayings and idioms (genre `saying`), then phrases (`phrase`, `exercise`); the same dialect text from
   several documents is one row with every source. **Source texts are not reprinted** (owner, 2026-10-14):
   lines of genre `text` documents (poems, stories, articles, dialogues, `varie situazioni`) stay in `cldf/`
   and `pipeline/` as raw material but appear on no page and in no PDF. Sayings and self-contained everyday

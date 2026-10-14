@@ -6,24 +6,24 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Modi di dire e proverbi · Sayings and idioms
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| ammazzare il tempo | mazà ‘l temp | to kill time | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| bisogna che tu vada a letto presto poiché domani | sü sü, ché l'è ora da na in létt parchè duman a l'è San Laurin | you need to go to bed early because tomorrow | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| Capisci che stai invecchiando quando le candeline costano più della torta. | Ta capissat che ta se drè a invegià quand i candelin i costan püssee che la torta | You know you are getting old when the candles cost more than the cake. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fai%201%20-%20Copia.docx) |
-| è appena arrivato | l'è rivaa diss a déss | he has just arrived | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| in quattro e quattr’otto | in quatru e quatru vot | in two shakes | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| Quest’anno è proprio volato. | Quesct’an l’è propri vulaa | This year has really flown by. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| sarò lì tra un attimo | a sum li in un boff | I'll be there in a moment | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| sono arrivato appena in tempo | a sum rivaa a brüs | I arrived just in time | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| spaccare il minuto o il secondo | scpacà ‘l minüt o al segund | to be punctual to the minute or the second | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| Il tempo vola. | Al temp al vola | Time flies. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| a sum li in un boff | sarò lì tra un attimo | I'll be there in a moment | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| a sum rivaa a brüs | sono arrivato appena in tempo | I arrived just in time | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| l'è rivaa diss a déss | è appena arrivato | he has just arrived | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| in quatru e quatru vot | in quattro e quattr’otto | in two shakes | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| mazà ‘l temp | ammazzare il tempo | to kill time | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| Quesct’an l’è propri vulaa | Quest’anno è proprio volato. | This year has really flown by. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| scpacà ‘l minüt o al segund | spaccare il minuto o il secondo | to be punctual to the minute or the second | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| sü sü, ché l'è ora da na in létt parchè duman a l'è San Laurin | bisogna che tu vada a letto presto poiché domani | you need to go to bed early because tomorrow | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| Ta capissat che ta se drè a invegià quand i candelin i costan püssee che la torta | Capisci che stai invecchiando quando le candeline costano più della torta. | You know you are getting old when the candles cost more than the cake. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fai%201%20-%20Copia.docx) |
+| Al temp al vola | Il tempo vola. | Time flies. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
 
 ## Frasi · Phrases
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| Ci vuole un quarto d’ora: ci si impiega un quarto d’ora di tempo, è necessario un quarto d’ora. | Ga vö ‘n quart d’ura da temp, l’è necesari ‘n quart d’ura | It takes a quarter of an hour: one needs a quarter of an hour. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-| corro perché sono in ritardo | cori parché sum in ritard | I am running because I am late | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
+| cori parché sum in ritard | corro perché sono in ritardo | I am running because I am late | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
+| Ga vö ‘n quart d’ura da temp, l’è necesari ‘n quart d’ura | Ci vuole un quarto d’ora: ci si impiega un quarto d’ora di tempo, è necessario un quarto d’ora. | It takes a quarter of an hour: one needs a quarter of an hour. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
 
 [← all expressions](README.md)

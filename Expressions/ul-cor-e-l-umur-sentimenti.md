@@ -6,33 +6,33 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Modi di dire e proverbi · Sayings and idioms
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| arrabbiato/a | fö del strasc | angry |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
-| avere l’aspetto di un cane bastonato | sumeag a ‘n can bastunaa | to look like a beaten dog | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| avere un diavolo per capello | veg un diaul par cavii | to be furious | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| contento come un topo (=molto contento) | cuntent cumè n ' ratt | as happy as a mouse (= very happy) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| è andato nel pallone | l'è nai in dal balon | he lost his head (got flustered) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| è fuori di senno | al 'è föra di strasc | he is out of his mind | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| essere contenti come una Pasqua | Ves cuntent cumè na Pasqua | to be as happy as a lark | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| essere solo come un cane | ves da par lü cumé ‘n can | to be all alone (lit. alone as a dog) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| far venire il latte alle ginocchia | fa vegnì ‘l lacc ai genöcc | to bore someone to tears | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| Non prendertela a male. Non ne vale la pena. | Ciapatala mia a maa. Var mia la pena | Don't take it badly. It's not worth it. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| non vedere l’ora | mia vedé l’ora | to be unable to wait, to look forward to | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| La pazienza ha un limite. | La pazienza la ga un limit | Patience has its limits. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| sentirsi un pesce fuor d’acqua | sentis un pes fö da l’acqua | to feel like a fish out of water | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| si dice persona molto adirata | al'è invers cum 'è n copp | said of a very angry person | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| trema come una foglia | tremà cum 'è na foia | he is shaking like a leaf | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| al'è invers cum 'è n copp | si dice persona molto adirata | said of a very angry person | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| Ciapatala mia a maa. Var mia la pena | Non prendertela a male. Non ne vale la pena. | Don't take it badly. It's not worth it. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| cuntent cumè n ' ratt | contento come un topo (=molto contento) | as happy as a mouse (= very happy) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| al 'è föra di strasc | è fuori di senno | he is out of his mind | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| l'è nai in dal balon | è andato nel pallone | he lost his head (got flustered) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| fa vegnì ‘l lacc ai genöcc | far venire il latte alle ginocchia | to bore someone to tears | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| fö del strasc | arrabbiato/a | angry |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
+| mia vedé l’ora | non vedere l’ora | to be unable to wait, to look forward to | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| La pazienza la ga un limit | La pazienza ha un limite. | Patience has its limits. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| sentis un pes fö da l’acqua | sentirsi un pesce fuor d’acqua | to feel like a fish out of water | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| sumeag a ‘n can bastunaa | avere l’aspetto di un cane bastonato | to look like a beaten dog | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| tremà cum 'è na foia | trema come una foglia | he is shaking like a leaf | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| veg un diaul par cavii | avere un diavolo per capello | to be furious | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| Ves cuntent cumè na Pasqua | essere contenti come una Pasqua | to be as happy as a lark | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
+| ves da par lü cumé ‘n can | essere solo come un cane | to be all alone (lit. alone as a dog) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 
 ## Frasi · Phrases
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| Cosa ti manca di più della tua città? | Cusé che ta manca püsee dala tua cità? | What do you miss most about your city? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Dai che non è successo niente. | Dai che ghè sücedüü nagot | Come on, nothing happened. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Dai, non prendertela! | Dai, ciapasala mia! | Come on, don't take it badly! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Me ne frego delle tue scuse. | Ma san’ scbati di tô scüs (ma san’ freghi…) | I don't care about your excuses. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Non è giusto. | L’è mia giüsct. | It's not fair. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
-| Te la sei meritata. | Ta sa l’è meritada. | You deserved it. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Cusé che ta manca püsee dala tua cità? | Cosa ti manca di più della tua città? | What do you miss most about your city? | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Dai che ghè sücedüü nagot | Dai che non è successo niente. | Come on, nothing happened. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Dai, ciapasala mia! | Dai, non prendertela! | Come on, don't take it badly! | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| L’è mia giüsct. | Non è giusto. | It's not fair. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Ma san’ scbati di tô scüs (ma san’ freghi…) | Me ne frego delle tue scuse. | I don't care about your excuses. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| Ta sa l’è meritada. | Te la sei meritata. | You deserved it. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
 
 [← all expressions](README.md)

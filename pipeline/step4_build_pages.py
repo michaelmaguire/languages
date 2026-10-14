@@ -598,8 +598,8 @@ def expression_groups(exprs, topics):
 
 
 def expression_order(p):
-    """Sort by the Italian, ignoring an exercise number and markup ("3. Tu (mettere) …", "**In palestra.**")."""
-    return plain(bare(re.sub(r"^\W*\d+\.\s*", "", p["italian"]).replace("*", "")))
+    """Sort by the dialect, which comes first, ignoring a leading article (as in the PDF)."""
+    return plain(DI_ARTICLE.sub("", key(p["dialect"])))
 
 
 def topic_file(t):
@@ -626,8 +626,8 @@ def merge_expressions(rows):
 
 
 def expression_table(rows):
-    return table(["Italiano", "Dialett", "English", "Region", "Source"],
-                 [[p["italian"], p["dialect"] + (FLAG if p["check"] else ""), p["english"], region(p),
+    return table(["Dialett", "Italiano", "English", "Region", "Source"],
+                 [[p["dialect"] + (FLAG if p["check"] else ""), p["italian"], p["english"], region(p),
                    " ".join(src_link(s, text="↗") for s in p["sources"])] for p in merge_expressions(rows)])
 
 

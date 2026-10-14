@@ -6,35 +6,35 @@ Sayings, idioms and phrases about this topic, from all the course documents. ⚠
 
 ## Modi di dire e proverbi · Sayings and idioms
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| avere uno stomaco di ferro | veg ‘n stomic da fer | to have a cast-iron stomach | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| Con la salute non si scherza. | Cun la salüd sa scherza mia | Health is no joking matter. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| dorme come un ghiro | al dorma cum'è n' ghir | he sleeps like a dormouse (like a log) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| dormire come un ghiro | durmì cumé na gira | to sleep like a log (lit. like a dormouse) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| è il ritratto della salute | al'è ul ritratt dala salüt | he is the picture of health | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| è ora che tu vada a tagliare i capelli | al'è ora che na nagat a taia i ciss | it is time you went to get your hair cut | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| è sano come un corno | l'è san cumè un cornu | he is as fit as a fiddle | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| è tutta le sera che sbadiglia | al'è tüta la sira che al scbradagia | he has been yawning all evening | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| essere malridotto (fisicamente) | ta sé cunsc cum 'è n'pilat | to be in a bad way (physically) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| essere malridotto (fisicamente) | cunsc cum 'è n'sant Quintin | to be in a bad way (physically) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| essere sano come un pesce | ves san cumé ‘n pes | to be as fit as a fiddle | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| essere segnato (anche baccato ....in testa) | al'è tütt macaa | to be marked (also touched… in the head) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| L’importante è bere tanta acqua. | L’important l’è bef tanta acqua | The important thing is to drink plenty of water. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| mi sono ridotto male | ma sum cunsciaa cumè n' rebatin | I am in a bad state | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
-| pallido come un pannolino | smort cum'è n 'patüsch | as pale as a sheet | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
-| passare la notte in bianco | pasà la nocc in bianc | to have a sleepless night | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
-| Più uno dorme e più ha sonno. | Püsée vün al dorma e püsee al gh’a sögn | The more you sleep, the sleepier you are. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| Quando c’è la salute, c’è tutto. | Quand gh’è la salüd, gh’è tütt | When you have your health, you have everything. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
-| quando una persona sta per morire | l'è pusée da la che da scià | when a person is about to die | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
-| russi come una sega | ta runfat cumè na resèga | you snore like a saw | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
-| si dice di persona molto stanca | a sunt cott cum'è na mundéla | said of a very tired person | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| a sunt cott cum'è na mundéla | si dice di persona molto stanca | said of a very tired person | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| al'è ora che na nagat a taia i ciss | è ora che tu vada a tagliare i capelli | it is time you went to get your hair cut | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| al'è tüta la sira che al scbradagia | è tutta le sera che sbadiglia | he has been yawning all evening | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| al'è tütt macaa | essere segnato (anche baccato ....in testa) | to be marked (also touched… in the head) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| al'è ul ritratt dala salüt | è il ritratto della salute | he is the picture of health | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| Cun la salüd sa scherza mia | Con la salute non si scherza. | Health is no joking matter. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| cunsc cum 'è n'sant Quintin | essere malridotto (fisicamente) | to be in a bad way (physically) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| al dorma cum'è n' ghir | dorme come un ghiro | he sleeps like a dormouse (like a log) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| durmì cumé na gira | dormire come un ghiro | to sleep like a log (lit. like a dormouse) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| l'è pusée da la che da scià | quando una persona sta per morire | when a person is about to die | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2012a%20leziun%20%281%29.docx) |
+| l'è san cumè un cornu | è sano come un corno | he is as fit as a fiddle | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
+| L’important l’è bef tanta acqua | L’importante è bere tanta acqua. | The important thing is to drink plenty of water. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| ma sum cunsciaa cumè n' rebatin | mi sono ridotto male | I am in a bad state | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2010a%20leziun.docx) |
+| pasà la nocc in bianc | passare la notte in bianco | to have a sleepless night | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| Püsée vün al dorma e püsee al gh’a sögn | Più uno dorme e più ha sonno. | The more you sleep, the sleepier you are. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| Quand gh’è la salüd, gh’è tütt | Quando c’è la salute, c’è tutto. | When you have your health, you have everything. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/frasi%20fatte.docx) |
+| smort cum'è n 'patüsch | pallido come un pannolino | as pale as a sheet | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| ta runfat cumè na resèga | russi come una sega | you snore like a saw | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2013a%20leziun.docx) |
+| ta sé cunsc cum 'è n'pilat | essere malridotto (fisicamente) | to be in a bad way (physically) | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2011a%20leziun%20%281%29.docx) |
+| veg ‘n stomic da fer | avere uno stomaco di ferro | to have a cast-iron stomach | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
+| ves san cumé ‘n pes | essere sano come un pesce | to be as fit as a fiddle | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/espressioni%20in%20italiano%202.6.2025.pdf) |
 
 ## Frasi · Phrases
 
-| Italiano | Dialett | English | Region | Source |
+| Dialett | Italiano | English | Region | Source |
 |---|---|---|---|---|
-| ho i capelli bianchi | gò i cavii bianc | I have white hair | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
-| Sono stanco e ho bisogno di dormire un po’. Un pisolino è un sonno leggero e di breve durata. | Sum sctrac e a gò bisögn da durmì un poo. Un sögnett l’è ‘n sögn legèr e che düra pooc. | I'm tired and need to sleep a little. A nap is a light, short sleep. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
+| gò i cavii bianc | ho i capelli bianchi | I have white hair | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%209a%20leziun.docx) |
+| Sum sctrac e a gò bisögn da durmì un poo. Un sögnett l’è ‘n sögn legèr e che düra pooc. | Sono stanco e ho bisogno di dormire un po’. Un pisolino è un sonno leggero e di breve durata. | I'm tired and need to sleep a little. A nap is a light, short sleep. | Rögn | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/brevi%20frasi.pdf) |
 
 [← all expressions](README.md)

@@ -79,7 +79,7 @@ the right place to verify the forms marked †.
 ## What was generated, and by whom
 
 - The extraction scripts, page layout and PDFs were written with
-  [Claude Code](https://claude.com/claude-code) (Anthropic), working with the repository owner.
+  [Claude Code](https://claude.com/claude-code) (Anthropic).
 - **English translations** were written by Claude from the Italian, not taken from the course.
 - **Verb forms and infinitives marked †** were inferred by Claude from the patterns in the lessons. They
   are not the teacher's and may be wrong; see [TO-CHECK.md](TO-CHECK.md).

@@ -2,7 +2,7 @@
 
 # English → Dialett → Italiano
 
-The 5 entries that have no English yet are at the end.
+The 1 entries that have no English yet are at the end.
 
 | English | Dialett | Italiano | Region | Note | Source |
 |---|---|---|---|---|---|
@@ -896,8 +896,4 @@ The 5 entries that have no English yet are at the end.
 | your prison | tua presón | tua prigione |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-02-19-poesie%20in%20dialetto.docx) |
 | zabaglione | rüsümada | zabaione | Basso Ceresio | also: zabaion | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | zip | eclère | chiusura lampo | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
-|  | 01-01-2024 | Celso Tantardini | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/NUVANT%27ANN.pdf) |
 |  | duprà / doprà | usare | Rögn | Italian synonym of adoperare | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/dialoghi%20a%20Lugano.pdf) |
-|  | ghéva pòsct par tücc, | quando abbiamo potuto siamo tornat | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/NUVANT%27ANN.pdf) |
-|  | nUVANT’ANN | novant’anni | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/NUVANT%27ANN.pdf) |
-|  | pruvidenza divina” | provvidenza divina.” | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/NUVANT%27ANN.pdf) |

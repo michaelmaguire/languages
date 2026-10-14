@@ -1,5 +1,5 @@
 ID,Language_ID,Headword,Part_Of_Speech,Variant_Of,Conjugation_Class,Auxiliary,Status,Comment,Source
-01-01-2024,rogn,01-01-2024,,,,,accepted,,nuvant-ann[l.62]
+01-01-2024,rogn,01-01-2024,,,,,rejected,"Claude inferred: NUVANT'ANN, the date line of the text, not a word; decided 2026-10-14",nuvant-ann[l.62]
 a-denta-ticinese,ticinese,"a, denta",,,,,accepted,,owner-spreadsheet
 a-n-gran-ticinese,ticinese,a ’n gran,,,,,rejected,"Claude inferred: fragment of a line of poetry, not a dictionary word; decided 2026-10-14",2025-02-19-poesie-in-dialetto[l.18]
 a-pena-duma-ticinese,ticinese,"a pena, dumà",,,,,accepted,,owner-spreadsheet
@@ -345,7 +345,7 @@ genar,rogn,genar,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.127];cors-da-
 gent,rogn,gent,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.134]
 gerani,rogn,gerani,,,,,accepted,,cors-da-dialet-da-rogn-14a-leziun[l.31]
 ghett,rogn,ghett,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.52]
-gheva-posct-par-tucc,rogn,"ghéva pòsct par tücc,",,,,,accepted,,nuvant-ann[l.24]
+gheva-posct-par-tucc,rogn,"ghéva pòsct par tücc,",,,,,rejected,"Claude inferred: NUVANT'ANN, a fragment of a line of the text; decided 2026-10-14",nuvant-ann[l.24]
 gia-ticinese,ticinese,gìa,,,,,accepted,,owner-spreadsheet
 giachetin,rogn,giachetin,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.67]
 giall,rogn,giall,,,,,accepted,,cors-da-dialett-da-rogn-lezium-1-e-2[l.217]
@@ -610,7 +610,7 @@ nuembar,rogn,nuembar,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.88]
 num-ticinese,ticinese,nüm,,,,,accepted,,owner-spreadsheet
 nuri-basso-ceresio,basso-ceresio,nüri,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.180]
 nus-nos,rogn,nus – nos,,,,,accepted,,cors-da-dialet-da-rogn-14a-leziun[l.17]
-nuvant-ann,rogn,nUVANT’ANN,,,,,accepted,,nuvant-ann[l.1]
+nuvant-ann,rogn,nUVANT’ANN,,,,,rejected,"Claude inferred: NUVANT'ANN, the title of the text, not a dictionary word; decided 2026-10-14",nuvant-ann[l.1]
 nuvembar-ticinese,ticinese,nuvembar,,,,,accepted,,owner-spreadsheet
 o-ticinese,ticinese,o,,,,,accepted,,owner-spreadsheet
 occ-baloss-ticinese-2,ticinese,öcc balòss,,,,,accepted,,2025-02-19-poesie-in-dialetto[l.44]
@@ -691,7 +691,7 @@ pressa-e-la-nocc-ticinese,ticinese,"prèssa e la nócc,",,,,,rejected,Claude inf
 prima-gia-ticinese,ticinese,"prima, gìa",,,,,accepted,,owner-spreadsheet
 produ,rogn,prodü,verb,,3rd conjugation,vegh,accepted,,il-condizionale-presente
 prosciutt-basso-ceresio,basso-ceresio,prosciütt,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.149]
-pruvidenza-divina,rogn,pruvidenza divina”,,,,,accepted,,nuvant-ann[l.59]
+pruvidenza-divina,rogn,pruvidenza divina”,,,,,rejected,"Claude inferred: NUVANT'ANN, a fragment of a line of the text; decided 2026-10-14",nuvant-ann[l.59]
 pu-ticinese,ticinese,pü,,,,,accepted,,2025-02-19-poesie-in-dialetto[l.65]
 puchisimm-basso-ceresio,basso-ceresio,puchisimm,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.279]
 puliss-basso-ceresio,basso-ceresio,puliss,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.181]

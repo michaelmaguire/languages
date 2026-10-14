@@ -319,7 +319,6 @@ expression,rogn,cum 'è ta see pedic,,,,,,"Claude inferred: an exclamation about
 expression,rogn,cumè ta set poss,,,,,,"Claude inferred: an exclamation about a person, so it belongs with the expressions",2026-10-14
 expression,rogn,cun la tescta süi scpall,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
 expression,rogn,E da indua ta set?,,,,,,"Claude inferred: a line of dialogue, so it belongs with the expressions",2026-10-14
-expression,ticinese,El Savie é el Matt,,,,,,"Claude inferred: the title of a fable, so it belongs with the expressions",2026-10-14
 expression,rogn,fa ‘l galett,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
 expression,basso-ceresio,fa ul fürbo,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
 expression,rogn,fas ‘l mazz,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
@@ -364,13 +363,6 @@ expression,ticinese,cume sa dis,,,,,,"Claude inferred: a question, not a diction
 expression,ticinese,fö da chi/bal,,,,,,"Claude inferred: an exclamation, so it belongs with the expressions",2026-10-14
 expression,ticinese,fö del strasc,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
 expression,ticinese,sota a cü biòtt,,,,,,"Claude inferred: an idiom, so it belongs with the expressions",2026-10-14
-expression,ticinese,al mè cör,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
-expression,ticinese,cun la tèsta,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
-expression,ticinese,in di mè sögn,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
-expression,ticinese,la tua pell,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
-expression,ticinese,sota la ságuma,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
-expression,ticinese,la sa strevaca,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
-expression,ticinese,gnanca da pensà,,,,,,"Claude inferred: a fragment of a newspaper column, so it belongs with the expressions",2026-10-14
 reject,basso-ceresio,s’ciòpp - schioppo,,,,,,"Claude inferred: a note on spelling in the glossary, not an Italian-dialect pair",2026-10-14
 correct,rogn,Ciao: a sem visct a la leziun da ecunumia…..cumé ta sa ciamat? (qual è ul tò nom?),,,,"Ciao, ci siamo visti a lezione di economia…come ti chiami? (qual è il tuo nome?)","Hi, we've seen each other in the economics lecture… what are you called? (what is your name?)","Claude inferred: the speaker's name and quotation marks removed from the translation, so the line stands alone as a phrase",2026-10-14
 correct,rogn,"Si, ma regordi, ta sevat dananz a mì…ma ciami Marco (ul mè nom l’è Marco)",,,,"Si, mi ricordo eri davanti a me…mi chiamo Marco (il mio nome è Marco).","Yes, I remember, you were in front of me… I'm called Marco (my name is Marco).","Claude inferred: the speaker's name and quotation marks removed from the translation, so the line stands alone as a phrase",2026-10-14
@@ -483,3 +475,15 @@ accept,rogn,fà ‘l basctian cuntrari,,,,,,"Owner: checked in TO-CHECK (estrazi
 accept,rogn,ves cumé dô gott d’acqua,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
 accept,rogn,sa la canta e sa la sôna,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
 accept,rogn,fà ‘l bel e ‘l brütt temp,,,,,,"Owner: checked in TO-CHECK (estrazioni incerte), fine",2026-10-14
+expression,ticinese,El Savie é el Matt,,,,,,"Claude inferred: the title of a fable, so it belongs with the expressions",2026-10-14
+expression,ticinese,al mè cör,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,cun la tèsta,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,in di mè sögn,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,la tua pell,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,sota la ságuma,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,la sa strevaca,,,,,,"Claude inferred: a fragment of a poem, so it belongs with the expressions",2026-10-14
+expression,ticinese,gnanca da pensà,,,,,,"Claude inferred: a fragment of a newspaper column, so it belongs with the expressions",2026-10-14
+reject,rogn,01-01-2024,,,,,,"Claude inferred: NUVANT'ANN, the date line of the text, not a word",2026-10-14
+reject,rogn,nUVANT’ANN,,,,,,"Claude inferred: NUVANT'ANN, the title of the text, not a dictionary word",2026-10-14
+reject,rogn,"ghéva pòsct par tücc,",,,,,,"Claude inferred: NUVANT'ANN, a fragment of a line of the text",2026-10-14
+reject,rogn,pruvidenza divina”,,,,,,"Claude inferred: NUVANT'ANN, a fragment of a line of the text",2026-10-14

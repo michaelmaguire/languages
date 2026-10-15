@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | poda | pudessa |
 | *ti* | ta podat | ta pudessat |
-| *le / lü* | la/al poda | la/al pudessa |
+| *le / lü* | la/al poda | la/al pudess |
 | *nüm* | podum | pudessum |
 | *vialtri* | poduf | pudessuf |
 | *lur* | i podan | i pudessan |

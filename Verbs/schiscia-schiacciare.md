@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | schisci | schisciarò | avrò schisciaa |
-| *ti* | ta schisciat | ta schisciaret | ta avret schisciaa |
+| *ti* | ta schisciat | ta schisciaré | ta avré schisciaa |
 | *le / lü* | la/al schiscia | la/al schisciarà | l’avrà schisciaa |
 | *nüm* | schiscium | schisciarem | avrem schisciaa |
 | *vialtri* | schisciuf | schisciarii | avrii schisciaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | schiscia | schisciassa |
 | *ti* | ta schisciat | ta schisciassat |
-| *le / lü* | la/al schiscia | la/al schisciassa |
+| *le / lü* | la/al schiscia | la/al schisciass |
 | *nüm* | schiscium | schisciassum |
 | *vialtri* | schisciuf | schisciassuf |
 | *lur* | i schiscian | i schisciassan |

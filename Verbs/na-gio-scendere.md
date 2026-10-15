@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | naga giò | nassa giò |
 | *ti* | ta nagat giò | ta nassat giò |
-| *le / lü* | la/al naga giò | la/al nassa giò |
+| *le / lü* | la/al naga giò | la/al nass giò |
 | *nüm* | nagum giò | nassum giò |
 | *vialtri* | naguf giò | nassuf giò |
 | *lur* | i nagan giò | i nassan giò |

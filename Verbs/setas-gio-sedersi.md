@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | ma sa seti giò | ma sa setarò giò | ma sarò setaa giò |
-| *ti* | ta sa setat giò | ta sa setaret giò | ta sa saret setaa giò |
+| *ti* | ta sa setat giò | ta sa setaré giò | ta sa saré setaa giò |
 | *le / lü* | sa seta giò / la/al sa seta giò | la/al sa setarà giò | la/al sa sarà setaa giò |
 | *nüm* | sa setum giò | sa setarem giò | sa sarem setaa giò |
 | *vialtri* | sa setuf giò | sa setarii giò | sa sarii setaa giò |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | ma sa seta giò | ma sa setassa giò |
 | *ti* | ta sa setat giò | ta sa setassat giò |
-| *le / lü* | la/al sa seta giò | la/al sa setassa giò |
+| *le / lü* | la/al sa seta giò | la/al sa setass giò |
 | *nüm* | sa setum giò | sa setassum giò |
 | *vialtri* | sa setuf giò | sa setassuf giò |
 | *lur* | i sa setan giò | i sa setassan giò |

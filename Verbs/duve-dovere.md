@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | devi † | devarò | avrò duvüü |
-| *ti* | ta devat | ta devaret | ta avret duvüü |
+| *ti* | ta devat | ta devaré | ta avré duvüü |
 | *le / lü* | la/al dev † | la/al devarà | l’avrà duvüü |
 | *nüm* | devum | devarem | avrem duvüü |
 | *vialtri* | devuf | devarii | avrii duvüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | deva | duvessa |
 | *ti* | ta devat | ta duvessat |
-| *le / lü* | la/al deva | la/al duvessa |
+| *le / lü* | la/al deva | la/al duvess |
 | *nüm* | devum | duvessum |
 | *vialtri* | devuf | duvessuf |
 | *lur* | i devan | i duvessan |

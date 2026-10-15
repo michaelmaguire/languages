@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | vegna | vegnissa |
 | *ti* | ta vegnat | ta vegnissat |
-| *le / lü* | la/al vegna | la/al vegnissa |
+| *le / lü* | la/al vegna | la/al vegniss |
 | *nüm* | vegnum | vegnissum |
 | *vialtri* | vegnuf | vegnissuf |
 | *lur* | i vegnan | i vegnissan |

@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | bürla giò | bürlassa giò |
 | *ti* | ta bürlat giò | ta bürlassat giò |
-| *le / lü* | la/al bürla giò | la/al bürlassa giò |
+| *le / lü* | la/al bürla giò | la/al bürlass giò |
 | *nüm* | bürlum giò | bürlassum giò |
 | *vialtri* | bürluf giò | bürlassuf giò |
 | *lur* | i bürlan giò | i bürlassan giò |

@@ -14,45 +14,45 @@
 
 ## Indicativo
 
-|  | Presente | Futuro † | Futuro prossimo † |
+|  | Presente | Futuro | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | disi † | disarò | avrò dii |
-| *ti* | ta disat | ta disaret | ta avret dii |
-| *le / lü* | la/al dis | la/al disarà | l’avrà dii |
-| *nüm* | disum † | disarem | avrem dii |
-| *vialtri* | disuf | disarii | avrii dii |
-| *lur* | i disan | i disaran | i avran dii |
+| *mi* | disi | disarò | avrò dii |
+| *ti* | ta disat | ta disaré † | ta avré dii |
+| *le / lü* | la/al dis | la/al disarà † | l’avrà dii |
+| *nüm* | disum † | disarem † | avrem dii |
+| *vialtri* | disuf | disarii † | avrii dii |
+| *lur* | i disan | i disaran † | i avran dii |
 
-|  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
+|  | Imperfetto | Passato prossimo † | Trapassato prossimo † |
 |---|---|---|---|
-| *mi* | diseva | u dii | eva dii |
-| *ti* | ta disevat | te dii | ta evat dii |
-| *le / lü* | la/al diseva | l’a dii | l’eva dii |
-| *nüm* | disevum | em dii | evum dii |
-| *vialtri* | disevuf | ii dii | evuf dii |
-| *lur* | i disevan | i an dii | i evan dii |
+| *mi* | diseva † | u dii | eva dii |
+| *ti* | ta disevat † | te dii | ta evat dii |
+| *le / lü* | al diseva | l’a dii | l’eva dii |
+| *nüm* | disevum † | em dii | evum dii |
+| *vialtri* | disevuf † | ii dii | evuf dii |
+| *lur* | i disevan † | i an dii | i evan dii |
 
 ## Condizionale
 
-|  | Condizionale presente † | Condizionale passato † |
+|  | Condizionale presente | Condizionale passato † |
 |---|---|---|
-| *mi* | disaria/disaressa | avria/avress dii |
-| *ti* | ta disariat/disaressat | t’avriat/t’avressat dii |
-| *le / lü* | la/al disaria/disaressa | l’avria/l’avressa dii |
-| *nüm* | disarium/disaressum | avrium/avressum dii |
-| *vialtri* | disariuf/disaressuf | avriuf/avressuf dii |
-| *lur* | i disarian/disaressan | i avrian/i avressan dii |
+| *mi* | disaria | avria/avress dii |
+| *ti* | ta disaressat | t’avriat/t’avressat dii |
+| *le / lü* | la/al disaria/disaressa † | l’avria/l’avressa dii |
+| *nüm* | disarium/disaressum † | avrium/avressum dii |
+| *vialtri* | disariuf/disaressuf † | avriuf/avressuf dii |
+| *lur* | i disarian/disaressan † | i avrian/i avressan dii |
 
 ## Congiuntivo
 
-|  | Congiuntivo presente † | Congiuntivo imperfetto † |
+|  | Congiuntivo presente † | Congiuntivo imperfetto |
 |---|---|---|
-| *mi* | diga | disessa |
-| *ti* | ta digat | ta disessat |
-| *le / lü* | la/al diga | la/al disessa |
-| *nüm* | digum | disessum |
-| *vialtri* | diguf | disessuf |
-| *lur* | i digan | i disessan |
+| *mi* | diga | disessa † |
+| *ti* | ta digat | ta disessat † |
+| *le / lü* | la/al diga | al disess |
+| *nüm* | digum | disessum † |
+| *vialtri* | diguf | disessuf † |
+| *lur* | i digan | i disessan † |
 
 ## Imperativo
 

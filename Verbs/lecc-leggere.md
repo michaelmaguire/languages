@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | le(n)gi | lengarò | avrò lengiüü |
-| *ti* | ta le(n)giat | ta lengaret | ta avret lengiüü |
+| *ti* | ta le(n)giat | ta lengaré | ta avré lengiüü |
 | *le / lü* | la/al le(n)g (?) | la/al lengarà | l’avrà lengiüü |
 | *nüm* | le(n)gium | lengarem | avrem lengiüü |
 | *vialtri* | le(n)giuf | lengarii | avrii lengiüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | lenga | lengessa |
 | *ti* | ta lengat | ta lengessat |
-| *le / lü* | la/al lenga | la/al lengessa |
+| *le / lü* | la/al lenga | la/al lengess |
 | *nüm* | lengum | lengessum |
 | *vialtri* | lenguf | lengessuf |
 | *lur* | i lengan | i lengessan |

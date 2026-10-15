@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | verdi | verdarò | avrò verdüü |
-| *ti* | ta verdat | ta verdaret | ta avret verdüü |
+| *ti* | ta verdat | ta verdaré | ta avré verdüü |
 | *le / lü* | la/al vert | la/al verdarà | l’avrà verdüü |
 | *nüm* | verdum | verdarem | avrem verdüü |
 | *vialtri* | verduf | verdarii | avrii verdüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | verda | verdessa |
 | *ti* | ta verdat | ta verdessat |
-| *le / lü* | la/al verda | la/al verdessa |
+| *le / lü* | la/al verda | la/al verdess |
 | *nüm* | verdum | verdessum |
 | *vialtri* | verduf | verdessuf |
 | *lur* | i verdan | i verdessan |

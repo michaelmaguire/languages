@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | naga föra | nassa föra |
 | *ti* | ta nagat föra | ta nassat föra |
-| *le / lü* | la/al naga föra | la/al nassa föra |
+| *le / lü* | la/al naga föra | la/al nass föra |
 | *nüm* | nagum föra | nassum föra |
 | *vialtri* | naguf föra | nassuf föra |
 | *lur* | i nagan föra | i nassan föra |

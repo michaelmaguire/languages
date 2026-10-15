@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | faga sù | fassa sù |
 | *ti* | ta fagat sù | ta fassat sù |
-| *le / lü* | la/al faga sù | la/al fassa sù |
+| *le / lü* | la/al faga sù | la/al fass sù |
 | *nüm* | fagum sù | fassum sù |
 | *vialtri* | faguf sù | fassuf sù |
 | *lur* | i fagan sù | i fassan sù |

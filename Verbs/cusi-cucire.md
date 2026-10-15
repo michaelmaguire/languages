@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | cüsisi | cüsisarò | avrò cüsii |
-| *ti* | ta cüsisat | ta cüsisaret | ta avret cüsii |
+| *ti* | ta cüsisat | ta cüsisaré | ta avré cüsii |
 | *le / lü* | la/al cüsis | la/al cüsisarà | l’avrà cüsii |
 | *nüm* | cüsisum | cüsisarem | avrem cüsii |
 | *vialtri* | cüsisuf | cüsisarii | avrii cüsii |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | cüsisa | cüsissa |
 | *ti* | ta cüsisat | ta cüsissat |
-| *le / lü* | la/al cüsisa | la/al cüsissa |
+| *le / lü* | la/al cüsisa | la/al cüsiss |
 | *nüm* | cüsisum | cüsissum |
 | *vialtri* | cüsisuf | cüsissuf |
 | *lur* | i cüsisan | i cüsissan |

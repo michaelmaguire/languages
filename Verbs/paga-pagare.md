@@ -8,7 +8,7 @@
 |---|---|---|
 | **pagà** | pagare | to pay |
 
-| Gerundio † | Participio passato † | Verb class |
+| Gerundio † | Participio passato | Verb class |
 |---|---|---|
 | pagando | pagaa | 1st conjugation: infinitive in -à (Italian -are) |
 
@@ -17,20 +17,20 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | paghi | pagarò | avrò pagaa |
-| *ti* | ta pagat † | ta pagaret | ta avret pagaa |
+| *ti* | ta pagat † | ta pagaré | ta avré pagaa |
 | *le / lü* | la/al paga † | la/al pagarà | l’avrà pagaa |
 | *nüm* | pagum † | pagarem | avrem pagaa |
 | *vialtri* | paguf † | pagarii | avrii pagaa |
 | *lur* | i pagan † | i pagaran | i avran pagaa |
 
-|  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
+|  | Imperfetto † | Passato prossimo | Trapassato prossimo † |
 |---|---|---|---|
 | *mi* | pagava | u pagaa | eva pagaa |
-| *ti* | ta pagavat | te pagaa | ta evat pagaa |
-| *le / lü* | la/al pagava | l’a pagaa | l’eva pagaa |
-| *nüm* | pagavum | em pagaa | evum pagaa |
-| *vialtri* | pagavuf | ii pagaa | evuf pagaa |
-| *lur* | i pagavan | i an pagaa | i evan pagaa |
+| *ti* | ta pagavat | te pagaa † | ta evat pagaa |
+| *le / lü* | la/al pagava | l’a pagaa † | l’eva pagaa |
+| *nüm* | pagavum | em pagaa † | evum pagaa |
+| *vialtri* | pagavuf | ii pagaa † | evuf pagaa |
+| *lur* | i pagavan | i an pagaa † | i evan pagaa |
 
 ## Condizionale
 
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | paga | pagassa |
 | *ti* | ta pagat | ta pagassat |
-| *le / lü* | la/al paga | la/al pagassa |
+| *le / lü* | la/al paga | la/al pagass |
 | *nüm* | pagum | pagassum |
 | *vialtri* | paguf | pagassuf |
 | *lur* | i pagan | i pagassan |

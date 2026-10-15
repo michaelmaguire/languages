@@ -49,17 +49,17 @@
 |---|---|---|
 | *mi* | naga † | nassa |
 | *ti* | ta nagat † | ta nassat |
-| *le / lü* | al naga | la/al nassa |
+| *le / lü* | al naga | la/al nass |
 | *nüm* | nagum † | nassum |
 | *vialtri* | naguf † | nassuf |
 | *lur* | i nagan † | i nassan |
 
 ## Imperativo
 
-|  | Imperativo † | Imperativo negativo |
+|  | Imperativo | Imperativo negativo |
 |---|---|---|
-| *ti* | va | va mia |
-| *nüm* | nem | nem mia |
+| *ti* | va † | va mia |
+| *nüm* | nem † | nem mia |
 | *vialtri* | nii | nii mia |
 
 **Sources:** [Cors da dialet da Rögn 8a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx); [Cors da dialett da Rögn lezium 1 e 2](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx); [Il Condizionale Presente](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx); [cors da dialet da Rögn 17a leziun](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/cors%20da%20dialet%20da%20R%C3%B6gn%2017a%20leziun.pdf); [il gerundio](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf); [imperativo](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/imperativo.pdf)

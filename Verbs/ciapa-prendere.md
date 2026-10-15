@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | ciapa | ciapassa |
 | *ti* | ta ciapat | ta ciapassat |
-| *le / lü* | la/al ciapa | la/al ciapassa |
+| *le / lü* | la/al ciapa | la/al ciapass |
 | *nüm* | ciapum | ciapassum |
 | *vialtri* | ciapuf | ciapassuf |
 | *lur* | i ciapan | i ciapassan |

@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | nodi | nodarò | avrò nodaa |
-| *ti* | ta nodat | ta nodaret | ta avret nodaa |
+| *ti* | ta nodat | ta nodaré | ta avré nodaa |
 | *le / lü* | la/al noda | la/al nodarà | l’avrà nodaa |
 | *nüm* | nodum | nodarem | avrem nodaa |
 | *vialtri* | noduf | nodarii | avrii nodaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | noda | nodassa |
 | *ti* | ta nodat | ta nodassat |
-| *le / lü* | la/al noda | la/al nodassa |
+| *le / lü* | la/al noda | la/al nodass |
 | *nüm* | nodum | nodassum |
 | *vialtri* | noduf | nodassuf |
 | *lur* | i nodan | i nodassan |

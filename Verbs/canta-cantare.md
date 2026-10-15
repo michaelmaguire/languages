@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | canta | cantassa |
 | *ti* | ta cantat | ta cantassat |
-| *le / lü* | la/al canta | la/al cantassa |
+| *le / lü* | la/al canta | la/al cantass |
 | *nüm* | cantum | cantassum |
 | *vialtri* | cantuf | cantassuf |
 | *lur* | i cantan | i cantassan |

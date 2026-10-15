@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | tradüsi | tradüsarò | avrò tradüsüü |
-| *ti* | ta tradüsat | ta tradüsaret | ta avret tradüsüü |
+| *ti* | ta tradüsat | ta tradüsaré | ta avré tradüsüü |
 | *le / lü* | la/al tradüs | la/al tradüsarà | l’avrà tradüsüü |
 | *nüm* | tradüsum | tradüsarem | avrem tradüsüü |
 | *vialtri* | tradüsuf | tradüsarii | avrii tradüsüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | tradüsa | tradüsessa |
 | *ti* | ta tradüsat | ta tradüsessat |
-| *le / lü* | la/al tradüsa | la/al tradüsessa |
+| *le / lü* | la/al tradüsa | la/al tradüsess |
 | *nüm* | tradüsum | tradüsessum |
 | *vialtri* | tradüsuf | tradüsessuf |
 | *lur* | i tradüsan | i tradüsessan |

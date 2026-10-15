@@ -20,7 +20,7 @@ and, where available, the English.
 | [Dictionary](Dictionary/README.md) | Single words and short terms: Italiano ↔ Dialett, with English where available and a Region column; also as a [printable PDF](Dictionary/arogno-dictionary.pdf) | 969 entries |
 | [Expressions](Expressions/README.md) | Sayings, idioms and phrases grouped by topic; also as a [printable PDF](Expressions/arogno-expressions.pdf) | 958 expressions |
 | [Verbs](Verbs/README.md) | Conjugation charts, one page per verb; also as a [printable PDF](Verbs/arogno-verbs.pdf) | 89 verbs |
-| [To check](TO-CHECK.md) | Every inferred form and uncertain extraction, for checking with a teacher | 4651 items |
+| [To check](TO-CHECK.md) | Every inferred form and uncertain extraction, for checking with a teacher | 4627 items |
 | [CLDF dataset](cldf/README.md) | The master data set behind these pages, in the [CLDF](https://cldf.clld.org/) (Cross-Linguistic Data Formats) Dictionary format: words, meanings, examples, verb forms, sources and decisions on variants | 1002 entries |
 | [Raw sources](https://github.com/michaelmaguire/languages-dialett-raw) | The original course documents, and the owner's own spreadsheet and notes (a separate repository, private for now) | 87 files |
 | [Curation](etc/README.md) | Every decision and correction applied when building the data set |  |

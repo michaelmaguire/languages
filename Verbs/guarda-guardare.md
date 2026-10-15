@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | guardi | guardarò | avrò guardaa |
-| *ti* | ta guardat | ta guardaret | ta avret guardaa |
+| *ti* | ta guardat | ta guardaré | ta avré guardaa |
 | *le / lü* | la/al guarda | la/al guardarà | l’avrà guardaa |
 | *nüm* | guardum | guardarem | avrem guardaa |
 | *vialtri* | guarduf | guardarii | avrii guardaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | guarda | guardassa |
 | *ti* | ta guardat | ta guardassat |
-| *le / lü* | la/al guarda | la/al guardassa |
+| *le / lü* | la/al guarda | la/al guardass |
 | *nüm* | guardum | guardassum |
 | *vialtri* | guarduf | guardassuf |
 | *lur* | i guardan | i guardassan |

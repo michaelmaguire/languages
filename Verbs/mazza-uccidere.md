@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | mazi / copi | mazarò | avrò mazzaa |
-| *ti* | ta mazat / ta copat | ta mazaret | ta avret mazzaa |
+| *ti* | ta mazat / ta copat | ta mazaré | ta avré mazzaa |
 | *le / lü* | la/al maza / lü la/al copa | la/al mazarà | l’avrà mazzaa |
 | *nüm* | mazum / copum | mazarem | avrem mazzaa |
 | *vialtri* | mazuf / copuf | mazarii | avrii mazzaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | maza | mazzassa |
 | *ti* | ta mazat | ta mazzassat |
-| *le / lü* | la/al maza | la/al mazzassa |
+| *le / lü* | la/al maza | la/al mazzass |
 | *nüm* | mazum | mazzassum |
 | *vialtri* | mazuf | mazzassuf |
 | *lur* | i mazan | i mazzassan |

@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | scarpüscia | scarpüsciassa |
 | *ti* | ta scarpüsciat | ta scarpüsciassat |
-| *le / lü* | la/al scarpüscia | la/al scarpüsciassa |
+| *le / lü* | la/al scarpüscia | la/al scarpüsciass |
 | *nüm* | scarpüscium | scarpüsciassum |
 | *vialtri* | scarpüsciuf | scarpüsciassuf |
 | *lur* | i scarpüscian | i scarpüsciassan |

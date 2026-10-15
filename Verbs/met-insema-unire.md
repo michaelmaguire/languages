@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | meti insema | metarò insema | avrò metüü insema |
-| *ti* | ta metat insema | ta metaret insema | ta avret metüü insema |
+| *ti* | ta metat insema | ta metaré insema | ta avré metüü insema |
 | *le / lü* | la/al meta insema | la/al metarà insema | l’avrà metüü insema |
 | *nüm* | metum insema | metarem insema | avrem metüü insema |
 | *vialtri* | metuf insema | metarii insema | avrii metüü insema |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | meta insema | metessa insema |
 | *ti* | ta metat insema | ta metessat insema |
-| *le / lü* | la/al meta insema | la/al metessa insema |
+| *le / lü* | la/al meta insema | la/al metess insema |
 | *nüm* | metum insema | metessum insema |
 | *vialtri* | metuf insema | metessuf insema |
 | *lur* | i metan insema | i metessan insema |

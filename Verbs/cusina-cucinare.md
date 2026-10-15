@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | fò da mangià | cüsinarò | avrò cüsinaa |
-| *ti* | ta fé da mangià | ta cüsinaret | ta avret cüsinaa |
+| *ti* | ta fé da mangià | ta cüsinaré | ta avré cüsinaa |
 | *le / lü* | la/al fa da mangià | la/al cüsinarà | l’avrà cüsinaa |
 | *nüm* | fem da mangià | cüsinarem | avrem cüsinaa |
 | *vialtri* | fii da mangià | cüsinarii | avrii cüsinaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | cüsina | cüsinassa |
 | *ti* | ta cüsinat | ta cüsinassat |
-| *le / lü* | la/al cüsina | la/al cüsinassa |
+| *le / lü* | la/al cüsina | la/al cüsinass |
 | *nüm* | cüsinum | cüsinassum |
 | *vialtri* | cüsinuf | cüsinassuf |
 | *lur* | i cüsinan | i cüsinassan |

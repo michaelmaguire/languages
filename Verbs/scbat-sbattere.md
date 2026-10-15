@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | scbati | scbatarò | avrò scbatüü |
-| *ti* | ta scbatat | ta scbataret | ta avret scbatüü |
+| *ti* | ta scbatat | ta scbataré | ta avré scbatüü |
 | *le / lü* | la/al scbat | la/al scbatarà | l’avrà scbatüü |
 | *nüm* | scbatum | scbatarem | avrem scbatüü |
 | *vialtri* | scbatuf | scbatarii | avrii scbatüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | scbata | scbatessa |
 | *ti* | ta scbatat | ta scbatessat |
-| *le / lü* | la/al scbata | la/al scbatessa |
+| *le / lü* | la/al scbata | la/al scbatess |
 | *nüm* | scbatum | scbatessum |
 | *vialtri* | scbatuf | scbatessuf |
 | *lur* | i scbatan | i scbatessan |

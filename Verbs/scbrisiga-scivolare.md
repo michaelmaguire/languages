@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | scrisiga | sbrisigassa |
 | *ti* | ta scrisigat | ta sbrisigassat |
-| *le / lü* | la/al scrisiga | la/al sbrisigassa |
+| *le / lü* | la/al scrisiga | la/al sbrisigass |
 | *nüm* | scrisigum | sbrisigassum |
 | *vialtri* | scrisiguf | sbrisigassuf |
 | *lur* | i scrisigan | i sbrisigassan |

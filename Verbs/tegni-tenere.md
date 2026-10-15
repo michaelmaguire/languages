@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | tegni | tegnarò | avrò tegnüü |
-| *ti* | ta tegnat | ta tegnaret | ta avret tegnüü |
+| *ti* | ta tegnat | ta tegnaré | ta avré tegnüü |
 | *le / lü* | la/al tegna | la/al tegnarà | l’avrà tegnüü |
 | *nüm* | tegnum | tegnarem | avrem tegnüü |
 | *vialtri* | tegnuf | tegnarii | avrii tegnüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | tegna | tegnissa |
 | *ti* | ta tegnat | ta tegnissat |
-| *le / lü* | la/al tegna | la/al tegnissa |
+| *le / lü* | la/al tegna | la/al tegniss |
 | *nüm* | tegnum | tegnissum |
 | *vialtri* | tegnuf | tegnissuf |
 | *lur* | i tegnan | i tegnissan |

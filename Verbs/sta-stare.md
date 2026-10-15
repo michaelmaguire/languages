@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | sctò | sctarò | sarò sctai |
-| *ti* | ta sctét | ta sctaret | ta saret sctai |
+| *ti* | ta sctét | ta sctaré | ta saré sctai |
 | *le / lü* | la/al scta † | la/al sctarà | la/al sarà sctai |
 | *nüm* | sctem | sctarem | sarem sctai |
 | *vialtri* | sctii | sctarii | sarii sctai |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | staga | stassa |
 | *ti* | ta stagat | ta stassat |
-| *le / lü* | la/al staga | la/al stassa |
+| *le / lü* | la/al staga | la/al stass |
 | *nüm* | stagum | stassum |
 | *vialtri* | staguf | stassuf |
 | *lur* | i stagan | i stassan |

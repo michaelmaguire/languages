@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | nomini | nominarò | avrò nominaa |
-| *ti* | ta nominat | ta nominaret | ta avret nominaa |
+| *ti* | ta nominat | ta nominaré | ta avré nominaa |
 | *le / lü* | la/al nomina | la/al nominarà | l’avrà nominaa |
 | *nüm* | nominum | nominarem | avrem nominaa |
 | *vialtri* | nominuf | nominarii | avrii nominaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | nomina | nominassa |
 | *ti* | ta nominat | ta nominassat |
-| *le / lü* | la/al nomina | la/al nominassa |
+| *le / lü* | la/al nomina | la/al nominass |
 | *nüm* | nominum | nominassum |
 | *vialtri* | nominuf | nominassuf |
 | *lur* | i nominan | i nominassan |

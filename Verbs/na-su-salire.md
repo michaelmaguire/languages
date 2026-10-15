@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | naga sù | nassa sù |
 | *ti* | ta nagat sù | ta nassat sù |
-| *le / lü* | la/al naga sù | la/al nassa sù |
+| *le / lü* | la/al naga sù | la/al nass sù |
 | *nüm* | nagum sù | nassum sù |
 | *vialtri* | naguf sù | nassuf sù |
 | *lur* | i nagan sù | i nassan sù |

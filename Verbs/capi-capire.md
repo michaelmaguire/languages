@@ -8,29 +8,29 @@
 |---|---|---|
 | **capì** | capire | to understand |
 
-| Gerundio | Participio passato † | Verb class |
+| Gerundio | Participio passato | Verb class |
 |---|---|---|
 | capendo | capii | 4th conjugation: infinitive in -ì (Italian -ire) |
 
 ## Indicativo
 
-|  | Presente † | Futuro † | Futuro prossimo † |
+|  | Presente | Futuro | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | capisi | capisarò | avrò capii |
-| *ti* | ta capisat | ta capisaret | ta avret capii |
-| *le / lü* | la/al capis | la/al capisarà | l’avrà capii |
-| *nüm* | capisum | capisarem | avrem capii |
-| *vialtri* | capisuf | capisarii | avrii capii |
-| *lur* | i capis | i capisaran | i avran capii |
+| *mi* | capisi | capisarò † | avrò capii |
+| *ti* | ta capissat | ta capisaré † | ta avré capii |
+| *le / lü* | la/al capis † | la/al capisarà † | l’avrà capii |
+| *nüm* | capisum † | capisarem | avrem capii |
+| *vialtri* | capisuf † | capisarii † | avrii capii |
+| *lur* | i capis † | i capisaran † | i avran capii |
 
-|  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
+|  | Imperfetto † | Passato prossimo † | Trapassato prossimo |
 |---|---|---|---|
-| *mi* | capiva | u capii | eva capii |
-| *ti* | ta capivat | te capii | ta evat capii |
+| *mi* | capiva | u capii | eva capii † |
+| *ti* | ta capivat | te capii | ta evat capii † |
 | *le / lü* | la/al capiva | l’a capii | l’eva capii |
-| *nüm* | capivum | em capii | evum capii |
-| *vialtri* | capivuf | ii capii | evuf capii |
-| *lur* | i capivan | i an capii | i evan capii |
+| *nüm* | capivum | em capii | evum capii † |
+| *vialtri* | capivuf | ii capii | evuf capii † |
+| *lur* | i capivan | i an capii | i evan capii † |
 
 ## Condizionale
 
@@ -49,18 +49,18 @@
 |---|---|---|
 | *mi* | capisa | capissa |
 | *ti* | ta capisat | ta capissat |
-| *le / lü* | la/al capisa | la/al capissa |
+| *le / lü* | la/al capisa | la/al capiss |
 | *nüm* | capisum | capissum |
 | *vialtri* | capisuf | capissuf |
 | *lur* | i capisan | i capissan |
 
 ## Imperativo
 
-|  | Imperativo † | Imperativo negativo † |
+|  | Imperativo | Imperativo negativo † |
 |---|---|---|
 | *ti* | capis | capis mia |
-| *nüm* | capisem | capisem mia |
-| *vialtri* | capisii | capisii mia |
+| *nüm* | capem | capisem mia |
+| *vialtri* | capii | capisii mia |
 
 **Sources:** [il gerundio](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/il%20gerundio.pdf)
 

@@ -14,14 +14,14 @@
 
 ## Indicativo
 
-|  | Presente † | Futuro † | Futuro prossimo † |
+|  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | ma sa regordi | ma sa regordarò | ma sarò regurdaa |
-| *ti* | ta sa regordat | ta sa regordaret | ta sa saret regurdaa |
-| *le / lü* | la/al sa regorda | la/al sa regordarà | la/al sa sarà regurdaa |
-| *nüm* | sa regordum | sa regordarem | sa sarem regurdaa |
-| *vialtri* | sa regorduf | sa regordarii | sa sarii regurdaa |
-| *lur* | i sa regordan | i sa regordaran | i sa saran regurdaa |
+| *mi* | ma regordi | ma sa regordarò | ma sarò regurdaa |
+| *ti* | ta sa regordat | ta sa regordaré | ta sa saré regurdaa |
+| *le / lü* | la/al sa regorda † | la/al sa regordarà | la/al sa sarà regurdaa |
+| *nüm* | sa regordum † | sa regordarem | sa sarem regurdaa |
+| *vialtri* | sa regorduf † | sa regordarii | sa sarii regurdaa |
+| *lur* | i sa regordan † | i sa regordaran | i sa saran regurdaa |
 
 |  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
 |---|---|---|---|
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | ma sa regorda | ma sa regurdassa |
 | *ti* | ta sa regordat | ta sa regurdassat |
-| *le / lü* | la/al sa regorda | la/al sa regurdassa |
+| *le / lü* | la/al sa regorda | la/al sa regurdass |
 | *nüm* | sa regordum | sa regurdassum |
 | *vialtri* | sa regorduf | sa regurdassuf |
 | *lur* | i sa regordan | i sa regurdassan |

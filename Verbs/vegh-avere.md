@@ -45,14 +45,14 @@
 
 ## Congiuntivo
 
-|  | Congiuntivo presente | Congiuntivo imperfetto † |
+|  | Congiuntivo presente | Congiuntivo imperfetto |
 |---|---|---|
-| *mi* | gh’abia † | gh’avessa |
-| *ti* | ta gh’abiat † | ta gh’avessat |
-| *le / lü* | la/al gh’abia † | la/al gh’avessa |
-| *nüm* | gh’abium † | gh’avessum |
-| *vialtri* | gh’abiuf † | gh’avessuf |
-| *lur* | i g’abbia | i gh’avessan |
+| *mi* | gh’abia † | gh’avess |
+| *ti* | ta gh’abiat † | ta gh’avessat † |
+| *le / lü* | la/al gh’abia † | la/al gh’avess † |
+| *nüm* | gh’abium † | gh’avessum † |
+| *vialtri* | gh’abiuf † | gh’avessuf † |
+| *lur* | i g’abbia | i gh’avessan † |
 
 ## Imperativo
 

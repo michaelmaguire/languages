@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | mandi giò | mandarò giò | avrò mandaa giò |
-| *ti* | ta mandat giò | ta mandaret giò | ta avret mandaa giò |
+| *ti* | ta mandat giò | ta mandaré giò | ta avré mandaa giò |
 | *le / lü* | la/al manda giò | la/al mandarà giò | l’avrà mandaa giò |
 | *nüm* | mandum giò | mandarem giò | avrem mandaa giò |
 | *vialtri* | manduf giò | mandarii giò | avrii mandaa giò |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | manda giò | mandassa giò |
 | *ti* | ta mandat giò | ta mandassat giò |
-| *le / lü* | la/al manda giò | la/al mandassa giò |
+| *le / lü* | la/al manda giò | la/al mandass giò |
 | *nüm* | mandum giò | mandassum giò |
 | *vialtri* | manduf giò | mandassuf giò |
 | *lur* | i mandan giò | i mandassan giò |

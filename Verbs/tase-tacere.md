@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | tasi | tasarò | avrò tasüü |
-| *ti* | ta tasat | ta tasaret | ta avret tasüü |
+| *ti* | ta tasat | ta tasaré | ta avré tasüü |
 | *le / lü* | la/al tas | la/al tasarà | l’avrà tasüü |
 | *nüm* | tasum | tasarem | avrem tasüü |
 | *vialtri* | tasuf | tasarii | avrii tasüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | tasa | tasessa |
 | *ti* | ta tasat | ta tasessat |
-| *le / lü* | la/al tasa | la/al tasessa |
+| *le / lü* | la/al tasa | la/al tasess |
 | *nüm* | tasum | tasessum |
 | *vialtri* | tasuf | tasessuf |
 | *lur* | i tasan | i tasessan |

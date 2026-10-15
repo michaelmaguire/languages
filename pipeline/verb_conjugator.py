@@ -13,8 +13,10 @@ SUBJUNCTIVE = ["congiuntivo presente", "congiuntivo imperfetto"]
 # The course has no subjunctive table; these patterns come from the few forms found in its sentences:
 # imperfect 'füdessa, al füdess, füdessum' (like the conditional's -essa endings), present 'che al naga,
 # che i ma faga, che i ma daga, ta siat, sian'. Regular verbs: present = stressed stem + a/at/a/um/uf/an,
-# imperfect = unstressed stem + ass/ess/iss + the same endings.
+# imperfect = unstressed stem + ass/ess/iss + the same endings, except the 3rd singular, which has none
+# (al füdess; 'che quaidun ma brasciass e ma disess', frasi fai 1).
 SUBJ_ENDINGS = ["a", "at", "a", "um", "uf", "an"]
+SUBJ_IMPERFECT_ENDINGS = ["a", "at", "", "um", "uf", "an"]
 SUBJ_VOWEL = {"1": "a", "2": "e", "3": "e", "4": "i", "4i": "i"}
 SUBJ_IRREGULAR = {  # infinitive -> (present stem, imperfect stem)
     "ves": ("si", "füdess"), "vegh": ("gh’abi", "gh’avess"), "na": ("nag", "nass"), "nà": ("nag", "nass"),
@@ -28,28 +30,28 @@ REFLEXIVE = ["ma sa ", "ta sa ", "la/al sa ", "sa ", "sa ", "i sa "]
 AUX_AVERE = {
     "passato prossimo": ["u", "te", "l’a", "em", "ii", "i an"],
     "trapassato prossimo": ["eva", "ta evat", "la/al eva", "evum", "evuf", "i evan"],
-    "futuro prossimo": ["avrò", "ta avret", "la/al avrà", "avrem", "avrii", "i avran"],
+    "futuro prossimo": ["avrò", "ta avré", "la/al avrà", "avrem", "avrii", "i avran"],
     "condizionale passato": ["avria/avress", "t’avriat/t’avressat", "l’avria/l’avressa",
                              "avrium/avressum", "avriuf/avressuf", "i avrian/i avressan"],
 }
 AUX_ESSERE = {
     "passato prossimo": ["sum", "ta se/set", "l’è", "sem", "sii", "i è"],
     "trapassato prossimo": ["seva", "ta sevat", "la/al eva", "sevum", "sevuf", "i evan"],
-    "futuro prossimo": ["sarò", "ta saret", "la/al sarà", "sarem", "sarii", "i saran"],
+    "futuro prossimo": ["sarò", "ta saré", "la/al sarà", "sarem", "sarii", "i saran"],
     "condizionale passato": ["saria/saress", "ta sariat/ta saressat", "la/al saria/saressa",
                              "sarium/saressum", "sariuf/saressuf", "i sarian/i saressan"],
 }
 AUX_REFLEXIVE = {
     "passato prossimo": ["ma sum", "ta sa set", "la/al s’è", "sa sem", "sa sii", "i s’è"],
     "trapassato prossimo": ["ma seva", "ta sa sevat", "la/al s’eva", "sa sevum", "sa sevuf", "i s’evan"],
-    "futuro prossimo": ["ma sarò", "ta sa saret", "la/al sa sarà", "sa sarem", "sa sarii", "i sa saran"],
+    "futuro prossimo": ["ma sarò", "ta sa saré", "la/al sa sarà", "sa sarem", "sa sarii", "i sa saran"],
     "condizionale passato": ["ma saria/saress", "ta sa sariat/saressat", "la/al sa saria/saressa",
                              "sa sarium/saressum", "sa sariuf/saressuf", "i sa sarian/saressan"],
 }
 
 COND = [("aria", "aressa"), ("ariat", "aressat"), ("aria", "aressa"),
         ("arium", "aressum"), ("ariuf", "aressuf"), ("arian", "aressan")]      # two endings, both in use
-FUT = ["arò", "aret", "arà", "arem", "arii", "aran"]
+FUT = ["arò", "aré", "arà", "arem", "arii", "aran"]     # ta bevaré, ta curaré (lesson 8); sentences also have -aret
 ENDINGS = {  # class -> tense -> endings; "@3" = special 3rd person singular
     "1": {"presente": ["i", "at", "a", "um", "uf", "an"],
           "imperfetto": ["ava", "avat", "ava", "avum", "avuf", "avan"],
@@ -205,7 +207,7 @@ def conjugate(infinitive, cls, forms, p):
 
 def subjunctive_rows(simple, present_stem, imperfect_stem):
     return {"congiuntivo presente": simple("congiuntivo presente", SUBJ_ENDINGS, present_stem),
-            "congiuntivo imperfetto": simple("congiuntivo imperfetto", SUBJ_ENDINGS, imperfect_stem)}
+            "congiuntivo imperfetto": simple("congiuntivo imperfetto", SUBJ_IMPERFECT_ENDINGS, imperfect_stem)}
 
 
 def irregular_subjunctive(infinitive):

@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | brami | bramarò | avrò bramaa |
-| *ti* | ta bramat | ta bramaret | ta avret bramaa |
+| *ti* | ta bramat | ta bramaré | ta avré bramaa |
 | *le / lü* | la/al brama | la/al bramarà | l’avrà bramaa |
 | *nüm* | bramum | bramarem | avrem bramaa |
 | *vialtri* | bramuf | bramarii | avrii bramaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | brama | bramassa |
 | *ti* | ta bramat | ta bramassat |
-| *le / lü* | la/al brama | la/al bramassa |
+| *le / lü* | la/al brama | la/al bramass |
 | *nüm* | bramum | bramassum |
 | *vialtri* | bramuf | bramassuf |
 | *lur* | i braman | i bramassan |

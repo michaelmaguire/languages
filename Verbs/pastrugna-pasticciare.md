@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | pastrügni | pastügnarò | avrò pastrügnaa |
-| *ti* | ta pastrügnat | ta pastügnaret | ta avret pastrügnaa |
+| *ti* | ta pastrügnat | ta pastügnaré | ta avré pastrügnaa |
 | *le / lü* | la/al pastrügnà (?) | la/al pastügnarà | l’avrà pastrügnaa |
 | *nüm* | pastügnum | pastügnarem | avrem pastrügnaa |
 | *vialtri* | pastrügnuf | pastügnarii | avrii pastrügnaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | pastügna | pastrügnassa |
 | *ti* | ta pastügnat | ta pastrügnassat |
-| *le / lü* | la/al pastügna | la/al pastrügnassa |
+| *le / lü* | la/al pastügna | la/al pastrügnass |
 | *nüm* | pastügnum | pastrügnassum |
 | *vialtri* | pastügnuf | pastrügnassuf |
 | *lur* | i pastügnan | i pastrügnassan |

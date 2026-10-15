@@ -17,7 +17,7 @@
 |  | Presente | Futuro | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | voschi | voscaroo | avrò voscaa |
-| *ti* | ta voscat | voscaré | ta avret voscaa |
+| *ti* | ta voscat | voscaré | ta avré voscaa |
 | *le / lü* | la/al vosca | voscarà | l’avrà voscaa |
 | *nüm* | voscum | voscarem | avrem voscaa |
 | *vialtri* | voscuf | voscarii | avrii voscaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | vosca | vuscassa |
 | *ti* | ta voscat | ta vuscassat |
-| *le / lü* | la/al vosca | la/al vuscassa |
+| *le / lü* | la/al vosca | la/al vuscass |
 | *nüm* | voscum | vuscassum |
 | *vialtri* | voscuf | vuscassuf |
 | *lur* | i voscan | i vuscassan |

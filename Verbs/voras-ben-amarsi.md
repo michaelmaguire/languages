@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | ma sa vöri ben | ma sa vörarò ben | ma sarò vurüü ben |
-| *ti* | ta sa vörat ben | ta sa vöraret ben | ta sa saret vurüü ben |
+| *ti* | ta sa vörat ben | ta sa vöraré ben | ta sa saré vurüü ben |
 | *le / lü* | la/al sa vör ben | la/al sa vörarà ben | la/al sa sarà vurüü ben |
 | *nüm* | sa vörum ben | sa vörarem ben | sa sarem vurüü ben |
 | *vialtri* | sa vöruf ben | sa vörarii ben | sa sarii vurüü ben |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | ma sa vöra ben | ma sa vuressa ben |
 | *ti* | ta sa vörat ben | ta sa vuressat ben |
-| *le / lü* | la/al sa vöra ben | la/al sa vuressa ben |
+| *le / lü* | la/al sa vöra ben | la/al sa vuress ben |
 | *nüm* | sa vörum ben | sa vuressum ben |
 | *vialtri* | sa vöruf ben | sa vuressuf ben |
 | *lur* | i sa vöran ben | i sa vuressan ben |

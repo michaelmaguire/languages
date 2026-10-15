@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | tiri via | tirarò via | avrò tiraa via |
-| *ti* | ta tirat via | ta tiraret via | ta avret tiraa via |
+| *ti* | ta tirat via | ta tiraré via | ta avré tiraa via |
 | *le / lü* | la/al tira via | la/al tirarà via | l’avrà tiraa via |
 | *nüm* | tirum via | tirarem via | avrem tiraa via |
 | *vialtri* | tiruf via | tirarii via | avrii tiraa via |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | tira via | tirassa via |
 | *ti* | ta tirat via | ta tirassat via |
-| *le / lü* | la/al tira via | la/al tirassa via |
+| *le / lü* | la/al tira via | la/al tirass via |
 | *nüm* | tirum via | tirassum via |
 | *vialtri* | tiruf via | tirassuf via |
 | *lur* | i tiran via | i tirassan via |

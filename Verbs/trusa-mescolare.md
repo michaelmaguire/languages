@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | rüghi/trüsi | trüsarò | avrò trüsaa |
-| *ti* | ta rügat/trüsat | ta trüsaret | ta avret trüsaa |
+| *ti* | ta rügat/trüsat | ta trüsaré | ta avré trüsaa |
 | *le / lü* | la/al rüga/trüsa | la/al trüsarà | l’avrà trüsaa |
 | *nüm* | rügum/trüsum | trüsarem | avrem trüsaa |
 | *vialtri* | rüguf/trüsuf | trüsarii | avrii trüsaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | trüsa | trüsassa |
 | *ti* | ta trüsat | ta trüsassat |
-| *le / lü* | la/al trüsa | la/al trüsassa |
+| *le / lü* | la/al trüsa | la/al trüsass |
 | *nüm* | trüsum | trüsassum |
 | *vialtri* | trüsuf | trüsassuf |
 | *lur* | i trüsan | i trüsassan |

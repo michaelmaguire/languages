@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | vivi † | vivarò | avrò vivüü |
-| *ti* | ta vivat † | ta vivaret | ta avret vivüü |
+| *ti* | ta vivat † | ta vivaré | ta avré vivüü |
 | *le / lü* | la/al vif | la/al vivarà | l’avrà vivüü |
 | *nüm* | vivum | vivarem | avrem vivüü |
 | *vialtri* | vivuf † | vivarii | avrii vivüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | viva | vivessa |
 | *ti* | ta vivat | ta vivessat |
-| *le / lü* | la/al viva | la/al vivessa |
+| *le / lü* | la/al viva | la/al vivess |
 | *nüm* | vivum | vivessum |
 | *vialtri* | vivuf | vivessuf |
 | *lur* | i vivan | i vivessan |

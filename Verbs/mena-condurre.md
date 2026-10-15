@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | meni | menarò | avrò menaa |
-| *ti* | ta menat | ta menaret | ta avret menaa |
+| *ti* | ta menat | ta menaré | ta avré menaa |
 | *le / lü* | la/al mena | la/al menarà | l’avrà menaa |
 | *nüm* | menum | menarem | avrem menaa |
 | *vialtri* | menuf | menarii | avrii menaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | mena | menassa |
 | *ti* | ta menat | ta menassat |
-| *le / lü* | la/al mena | la/al menassa |
+| *le / lü* | la/al mena | la/al menass |
 | *nüm* | menum | menassum |
 | *vialtri* | menuf | menassuf |
 | *lur* | i menan | i menassan |

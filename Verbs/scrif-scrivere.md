@@ -8,7 +8,7 @@
 |---|---|---|
 | **scrif** | scrivere | to write |
 
-| Gerundio | Participio passato † | Verb class |
+| Gerundio | Participio passato | Verb class |
 |---|---|---|
 | scrivendu | scrivüü | 3rd conjugation: infinitive with no ending (Italian -ere, unstressed ending) |
 
@@ -17,20 +17,20 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | scrivi | scrivarò | avrò scrivüü |
-| *ti* | ta scrivat | ta scrivaret | ta avret scrivüü |
+| *ti* | ta scrivat | ta scrivaré | ta avré scrivüü |
 | *le / lü* | scriv | la/al scrivarà | l’avrà scrivüü |
 | *nüm* | scrivum | scrivarem | avrem scrivüü |
 | *vialtri* | scrivuf | scrivarii | avrii scrivüü |
 | *lur* | i scrivan | i scrivaran | i avran scrivüü |
 
-|  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
+|  | Imperfetto † | Passato prossimo | Trapassato prossimo † |
 |---|---|---|---|
-| *mi* | scriveva | u scrivüü | eva scrivüü |
-| *ti* | ta scrivevat | te scrivüü | ta evat scrivüü |
+| *mi* | scriveva | u scrivüü † | eva scrivüü |
+| *ti* | ta scrivevat | te scrivüü † | ta evat scrivüü |
 | *le / lü* | la/al scriveva | l’a scrivüü | l’eva scrivüü |
-| *nüm* | scrivevum | em scrivüü | evum scrivüü |
-| *vialtri* | scrivevuf | ii scrivüü | evuf scrivüü |
-| *lur* | i scrivevan | i an scrivüü | i evan scrivüü |
+| *nüm* | scrivevum | em scrivüü † | evum scrivüü |
+| *vialtri* | scrivevuf | ii scrivüü † | evuf scrivüü |
+| *lur* | i scrivevan | i an scrivüü † | i evan scrivüü |
 
 ## Condizionale
 
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | scriva | scrivessa |
 | *ti* | ta scrivat | ta scrivessat |
-| *le / lü* | la/al scriva | la/al scrivessa |
+| *le / lü* | la/al scriva | la/al scrivess |
 | *nüm* | scrivum | scrivessum |
 | *vialtri* | scrivuf | scrivessuf |
 | *lur* | i scrivan | i scrivessan |

@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | cerchi | cercarò | avrò cercaa |
-| *ti* | ta cercat | ta cercaret | ta avret cercaa |
+| *ti* | ta cercat | ta cercaré | ta avré cercaa |
 | *le / lü* | la/al cerca | la/al cercarà | l’avrà cercaa |
 | *nüm* | cercum | cercarem | avrem cercaa |
 | *vialtri* | cercuf | cercarii | avrii cercaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | cerca | cercassa |
 | *ti* | ta cercat | ta cercassat |
-| *le / lü* | la/al cerca | la/al cercassa |
+| *le / lü* | la/al cerca | la/al cercass |
 | *nüm* | cercum | cercassum |
 | *vialtri* | cercuf | cercassuf |
 | *lur* | i cercan | i cercassan |

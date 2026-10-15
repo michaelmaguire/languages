@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | beva | bevessa |
 | *ti* | ta bevat | ta bevessat |
-| *le / lü* | la/al beva | la/al bevessa |
+| *le / lü* | la/al beva | la/al bevess |
 | *nüm* | bevum | bevessum |
 | *vialtri* | bevuf | bevessuf |
 | *lur* | i bevan | i bevessan |

@@ -8,16 +8,16 @@
 |---|---|---|
 | **tacà sü** | appendere | to hang |
 
-| Gerundio | Participio passato † | Verb class |
+| Gerundio | Participio passato | Verb class |
 |---|---|---|
-| tacando sü | tacaa | 1st conjugation: infinitive in -à (Italian -are) |
+| tacando sü | tacaa sü | 1st conjugation: infinitive in -à (Italian -are) |
 
 ## Indicativo
 
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | tachi sü | tacarò sü | avrò tacaa sü |
-| *ti* | ta tacat sü | ta tacaret sü | ta avret tacaa sü |
+| *ti* | ta tacat sü | ta tacaré sü | ta avré tacaa sü |
 | *le / lü* | la/al taca sü | la/al tacarà sü | l’avrà tacaa sü |
 | *nüm* | tacum sü | tacarem sü | avrem tacaa sü |
 | *vialtri* | tacuf sü | tacarii sü | avrii tacaa sü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | taca sü | tacassa sü |
 | *ti* | ta tacat sü | ta tacassat sü |
-| *le / lü* | la/al taca sü | la/al tacassa sü |
+| *le / lü* | la/al taca sü | la/al tacass sü |
 | *nüm* | tacum sü | tacassum sü |
 | *vialtri* | tacuf sü | tacassuf sü |
 | *lur* | i tacan sü | i tacassan sü |

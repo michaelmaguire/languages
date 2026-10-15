@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | cora | coressa |
 | *ti* | ta corat | ta coressat |
-| *le / lü* | la/al cora | la/al coressa |
+| *le / lü* | la/al cora | la/al coress |
 | *nüm* | corum | coressum |
 | *vialtri* | coruf | coressuf |
 | *lur* | i coran | i coressan |

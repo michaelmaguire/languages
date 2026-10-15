@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | scolti /sculti(?) | scoltarò | avrò scultaa |
-| *ti* | ta scoltat | ta scoltaret | ta avret scultaa |
+| *ti* | ta scoltat | ta scoltaré | ta avré scultaa |
 | *le / lü* | la/al scolta | la/al scoltarà | l’avrà scultaa |
 | *nüm* | scoltum | scoltarem | avrem scultaa |
 | *vialtri* | scoltuf | scoltarii | avrii scultaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | scolta | scultassa |
 | *ti* | ta scoltat | ta scultassat |
-| *le / lü* | la/al scolta | la/al scultassa |
+| *le / lü* | la/al scolta | la/al scultass |
 | *nüm* | scoltum | scultassum |
 | *vialtri* | scoltuf | scultassuf |
 | *lur* | i scoltan | i scultassan |

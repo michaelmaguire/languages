@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | pichi / meni, ti ta menat, lü/ la/al mena, nüm menum, vialtri menuf, lur i mena | picarò | avrò picaa |
-| *ti* | ta picat | ta picaret | ta avret picaa |
+| *ti* | ta picat | ta picaré | ta avré picaa |
 | *le / lü* | la/al pica | la/al picarà | l’avrà picaa |
 | *nüm* | picum | picarem | avrem picaa |
 | *vialtri* | picuf | picarii | avrii picaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | pica | picassa |
 | *ti* | ta picat | ta picassat |
-| *le / lü* | la/al pica | la/al picassa |
+| *le / lü* | la/al pica | la/al picass |
 | *nüm* | picum | picassum |
 | *vialtri* | picuf | picassuf |
 | *lur* | i pican | i picassan |

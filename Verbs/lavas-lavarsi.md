@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | ma sa lava | ma sa lavassa |
 | *ti* | ta sa lavat | ta sa lavassat |
-| *le / lü* | la/al sa lava | la/al sa lavassa |
+| *le / lü* | la/al sa lava | la/al sa lavass |
 | *nüm* | sa lavum | sa lavassum |
 | *vialtri* | sa lavuf | sa lavassuf |
 | *lur* | i sa lavan | i sa lavassan |

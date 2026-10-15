@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | cuminci | cuminciarò | avrò cuminciaa |
-| *ti* | ta cuminciat | ta cuminciaret | ta avret cuminciaa |
+| *ti* | ta cuminciat | ta cuminciaré | ta avré cuminciaa |
 | *le / lü* | la/al cumincia | la/al cuminciarà | l’avrà cuminciaa |
 | *nüm* | cumincium | cuminciarem | avrem cuminciaa |
 | *vialtri* | cuminciuf | cuminciarii | avrii cuminciaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | cumincia | cuminciassa |
 | *ti* | ta cuminciat | ta cuminciassat |
-| *le / lü* | la/al cumincia | la/al cuminciassa |
+| *le / lü* | la/al cumincia | la/al cuminciass |
 | *nüm* | cumincium | cuminciassum |
 | *vialtri* | cuminciuf | cuminciassuf |
 | *lur* | i cumincian | i cuminciassan |

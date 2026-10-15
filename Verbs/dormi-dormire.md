@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | dorma | durmissa |
 | *ti* | ta dormat | ta durmissat |
-| *le / lü* | la/al dorma | la/al durmissa |
+| *le / lü* | la/al dorma | la/al durmiss |
 | *nüm* | dormum | durmissum |
 | *vialtri* | dormuf | durmissuf |
 | *lur* | i dorman | i durmissan |

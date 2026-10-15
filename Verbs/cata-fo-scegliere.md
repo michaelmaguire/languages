@@ -17,7 +17,7 @@
 |  | Presente | Futuro | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | cati fö | cataroo fö | avrò catà fö |
-| *ti* | ta catat fö | ta cataré fö | ta avret catà fö |
+| *ti* | ta catat fö | ta cataré fö | ta avré catà fö |
 | *le / lü* | la/al cata fö | catarà fö | l’avrà catà fö |
 | *nüm* | catum fö | catarem fö | avrem catà fö |
 | *vialtri* | catuf fö | catarii fö | avrii catà fö |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | cata fö | catassa fö |
 | *ti* | ta catat fö | ta catassat fö |
-| *le / lü* | la/al cata fö | la/al catassa fö |
+| *le / lü* | la/al cata fö | la/al catass fö |
 | *nüm* | catum fö | catassum fö |
 | *vialtri* | catuf fö | catassuf fö |
 | *lur* | i catan fö | i catassan fö |

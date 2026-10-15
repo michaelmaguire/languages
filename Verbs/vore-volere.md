@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | vöra | vuressa |
 | *ti* | ta vörat | ta vuressat |
-| *le / lü* | la/al vöra | la/al vuressa |
+| *le / lü* | la/al vöra | la/al vuress |
 | *nüm* | vörum | vuressum |
 | *vialtri* | vöruf | vuressuf |
 | *lur* | i vöran | i vuressan |

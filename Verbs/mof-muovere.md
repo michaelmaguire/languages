@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | mövi | mövarò | avrò mövüü |
-| *ti* | ta mövat | ta mövaret | ta avret mövüü |
+| *ti* | ta mövat | ta mövaré | ta avré mövüü |
 | *le / lü* | la/al möv | la/al mövarà | l’avrà mövüü |
 | *nüm* | mövum | mövarem | avrem mövüü |
 | *vialtri* | mövuf | mövarii | avrii mövüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | möva | mövessa |
 | *ti* | ta mövat | ta mövessat |
-| *le / lü* | la/al möva | la/al mövessa |
+| *le / lü* | la/al möva | la/al mövess |
 | *nüm* | mövum | mövessum |
 | *vialtri* | mövuf | mövessuf |
 | *lur* | i mövan | i mövessan |

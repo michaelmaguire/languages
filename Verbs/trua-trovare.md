@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | trövi | trövarò | avrò truaa |
-| *ti* | ta trövat | ta trövaret | ta avret truaa |
+| *ti* | ta trövat | ta trövaré | ta avré truaa |
 | *le / lü* | la/al tröva (?) | la/al trövarà | l’avrà truaa |
 | *nüm* | trövum (?) | trövarem | avrem truaa |
 | *vialtri* | trövuf | trövarii | avrii truaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | tröva | truassa |
 | *ti* | ta trövat | ta truassat |
-| *le / lü* | la/al tröva | la/al truassa |
+| *le / lü* | la/al tröva | la/al truass |
 | *nüm* | trövum | truassum |
 | *vialtri* | trövuf | truassuf |
 | *lur* | i trövan | i truassan |

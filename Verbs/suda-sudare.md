@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | südi | südarò | avrò sudaa |
-| *ti* | ta südat | ta südaret | ta avret sudaa |
+| *ti* | ta südat | ta südaré | ta avré sudaa |
 | *le / lü* | la/al süda | la/al südarà | l’avrà sudaa |
 | *nüm* | südum | südarem | avrem sudaa |
 | *vialtri* | süduf | südarii | avrii sudaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | süda | sudassa |
 | *ti* | ta südat | ta sudassat |
-| *le / lü* | la/al süda | la/al sudassa |
+| *le / lü* | la/al süda | la/al sudass |
 | *nüm* | südum | sudassum |
 | *vialtri* | süduf | sudassuf |
 | *lur* | i südan | i sudassan |

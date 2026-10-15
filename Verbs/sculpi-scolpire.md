@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | sculpisi | sculpisarò | avrò sculpii |
-| *ti* | ta sculpisat | ta sculpisaret | ta avret sculpii |
+| *ti* | ta sculpisat | ta sculpisaré | ta avré sculpii |
 | *le / lü* | la/al sculpis | la/al sculpisarà | l’avrà sculpii |
 | *nüm* | sculpisum | sculpisarem | avrem sculpii |
 | *vialtri* | sculpisuf | sculpisarii | avrii sculpii |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | sculpisa | sculpissa |
 | *ti* | ta sculpisat | ta sculpissat |
-| *le / lü* | la/al sculpisa | la/al sculpissa |
+| *le / lü* | la/al sculpisa | la/al sculpiss |
 | *nüm* | sculpisum | sculpissum |
 | *vialtri* | sculpisuf | sculpissuf |
 | *lur* | i sculpisan | i sculpissan |

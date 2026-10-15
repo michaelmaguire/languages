@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | camini | caminarò | avrò caminaa |
-| *ti* | ta caminat | ta caminaret | ta avret caminaa |
+| *ti* | ta caminat | ta caminaré | ta avré caminaa |
 | *le / lü* | la/al camina | la/al caminarà | l’avrà caminaa |
 | *nüm* | caminum | caminarem | avrem caminaa |
 | *vialtri* | caminuf | caminarii | avrii caminaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | camina | caminassa |
 | *ti* | ta caminat | ta caminassat |
-| *le / lü* | la/al camina | la/al caminassa |
+| *le / lü* | la/al camina | la/al caminass |
 | *nüm* | caminum | caminassum |
 | *vialtri* | caminuf | caminassuf |
 | *lur* | i caminan | i caminassan |

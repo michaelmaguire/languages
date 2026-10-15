@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | mangia | mangassa |
 | *ti* | ta mangiat | ta mangassat |
-| *le / lü* | la/al mangia | la/al mangassa |
+| *le / lü* | la/al mangia | la/al mangass |
 | *nüm* | mangium | mangassum |
 | *vialtri* | mangiuf | mangassuf |
 | *lur* | i mangian | i mangassan |

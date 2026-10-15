@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | torni in dré | tornarò | sarò turnaa |
-| *ti* | ta tornat in dré | ta tornaret | ta saret turnaa |
+| *ti* | ta tornat in dré | ta tornaré | ta saré turnaa |
 | *le / lü* | la/al torna in dré | la/al tornarà | la/al sarà turnaa |
 | *nüm* | tornum in dré | tornarem | sarem turnaa |
 | *vialtri* | tornuf in dré | tornarii | sarii turnaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | torna | turnassa |
 | *ti* | ta tornat | ta turnassat |
-| *le / lü* | la/al torna | la/al turnassa |
+| *le / lü* | la/al torna | la/al turnass |
 | *nüm* | tornum | turnassum |
 | *vialtri* | tornuf | turnassuf |
 | *lur* | i tornan | i turnassan |

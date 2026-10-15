@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | pensi | pensarò | avrò pensaa |
-| *ti* | ta pensat | ta pensaret | ta avret pensaa |
+| *ti* | ta pensat | ta pensaré | ta avré pensaa |
 | *le / lü* | la/al pensa | la/al pensarà | l’avrà pensaa |
 | *nüm* | pensum | pensarem | avrem pensaa |
 | *vialtri* | pensuf | pensarii | avrii pensaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | pensa | pensassa |
 | *ti* | ta pensat | ta pensassat |
-| *le / lü* | la/al pensa | la/al pensassa |
+| *le / lü* | la/al pensa | la/al pensass |
 | *nüm* | pensum | pensassum |
 | *vialtri* | pensuf | pensassuf |
 | *lur* | i pensan | i pensassan |

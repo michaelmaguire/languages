@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | sbögi | sbögiarò | avrò sbögiaa |
-| *ti* | ta sbögiat | ta sbögiaret | ta avret sbögiaa |
+| *ti* | ta sbögiat | ta sbögiaré | ta avré sbögiaa |
 | *le / lü* | la/al sbögia | la/al sbögiarà | l’avrà sbögiaa |
 | *nüm* | sbögium | sbögiarem | avrem sbögiaa |
 | *vialtri* | sbögiuf | sbögiarii | avrii sbögiaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | sbögia | sbögiassa |
 | *ti* | ta sbögiat | ta sbögiassat |
-| *le / lü* | la/al sbögia | la/al sbögiassa |
+| *le / lü* | la/al sbögia | la/al sbögiass |
 | *nüm* | sbögium | sbögiassum |
 | *vialtri* | sbögiuf | sbögiassuf |
 | *lur* | i sbögian | i sbögiassan |

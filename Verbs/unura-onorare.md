@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | unori | unorarò | avrò unuraa |
-| *ti* | ta unorat | ta unoraret | ta avret unuraa |
+| *ti* | ta unorat | ta unoraré | ta avré unuraa |
 | *le / lü* | l’unora | l’unorarà | l’avrà unuraa |
 | *nüm* | unorum | unorarem | avrem unuraa |
 | *vialtri* | unoruf | unorarii | avrii unuraa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | unora | unurassa |
 | *ti* | ta unorat | ta unurassat |
-| *le / lü* | l’unora | l’unurassa |
+| *le / lü* | l’unora | l’unurass |
 | *nüm* | unorum | unurassum |
 | *vialtri* | unoruf | unurassuf |
 | *lur* | i unoran | i unurassan |

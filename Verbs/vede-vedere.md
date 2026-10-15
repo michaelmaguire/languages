@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | vedi | vedarò | avrò visct |
-| *ti* | ta vedat | ta vedaret | ta avret visct |
+| *ti* | ta vedat | ta vedaré | ta avré visct |
 | *le / lü* | la/al ved | la/al vedarà | l’avrà visct |
 | *nüm* | vedum | vedarem | avrem visct |
 | *vialtri* | veduf | vedarii | avrii visct |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | veda | vedessa |
 | *ti* | ta vedat | ta vedessat |
-| *le / lü* | la/al veda | la/al vedessa |
+| *le / lü* | la/al veda | la/al vedess |
 | *nüm* | vedum | vedessum |
 | *vialtri* | veduf | vedessuf |
 | *lur* | i vedan | i vedessan |

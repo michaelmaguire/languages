@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | giöghi | giögarò | avrò giügaa |
-| *ti* | ta giögat | ta giögaret | ta avret giügaa |
+| *ti* | ta giögat | ta giögaré | ta avré giügaa |
 | *le / lü* | la/al giöga | la/al giögarà | l’avrà giügaa |
 | *nüm* | giögum | giögarem | avrem giügaa |
 | *vialtri* | giöguf | giögarii | avrii giügaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | giöga | giügassa |
 | *ti* | ta giögat | ta giügassat |
-| *le / lü* | la/al giöga | la/al giügassa |
+| *le / lü* | la/al giöga | la/al giügass |
 | *nüm* | giögum | giügassum |
 | *vialtri* | giöguf | giügassuf |
 | *lur* | i giögan | i giügassan |

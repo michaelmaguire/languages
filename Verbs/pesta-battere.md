@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | pesti | pestarò | avrò pestaa |
-| *ti* | ta pestat | ta pestaret | ta avret pestaa |
+| *ti* | ta pestat | ta pestaré | ta avré pestaa |
 | *le / lü* | la/al pesta | la/al pestarà | l’avrà pestaa |
 | *nüm* | pestun | pestarem | avrem pestaa |
 | *vialtri* | pestuf | pestarii | avrii pestaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | pesta | pestassa |
 | *ti* | ta pestat | ta pestassat |
-| *le / lü* | la/al pesta | la/al pestassa |
+| *le / lü* | la/al pesta | la/al pestass |
 | *nüm* | pestum | pestassum |
 | *vialtri* | pestuf | pestassuf |
 | *lur* | i pestan | i pestassan |

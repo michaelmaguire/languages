@@ -17,7 +17,7 @@
 |  | Presente | Futuro | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | vosi | vosaroo | avrò vusaa |
-| *ti* | ta vosat | vosaré | ta avret vusaa |
+| *ti* | ta vosat | vosaré | ta avré vusaa |
 | *le / lü* | la/al vosa | vosarà | l’avrà vusaa |
 | *nüm* | vosum | vosarem | avrem vusaa |
 | *vialtri* | vosuf | vosarii | avrii vusaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | vosa | vusassa |
 | *ti* | ta vosat | ta vusassat |
-| *le / lü* | la/al vosa | la/al vusassa |
+| *le / lü* | la/al vosa | la/al vusass |
 | *nüm* | vosum | vusassum |
 | *vialtri* | vosuf | vusassuf |
 | *lur* | i vosan | i vusassan |

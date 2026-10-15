@@ -17,7 +17,7 @@
 |  | Presente | Futuro | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | tai | taiaroo | avrò taiaa |
-| *ti* | ta taiat | taiare | ta avret taiaa |
+| *ti* | ta taiat | taiare | ta avré taiaa |
 | *le / lü* | la/al taia | taiarà | l’avrà taiaa |
 | *nüm* | taium | taiarem | avrem taiaa |
 | *vialtri* | taiuf | taiarii | avrii taiaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | taia | taiassa |
 | *ti* | ta taiat | ta taiassat |
-| *le / lü* | la/al taia | la/al taiassa |
+| *le / lü* | la/al taia | la/al taiass |
 | *nüm* | taium | taiassum |
 | *vialtri* | taiuf | taiassuf |
 | *lur* | i taian | i taiassan |

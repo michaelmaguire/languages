@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | daga † | dassa |
 | *ti* | ta dagat † | ta dassat |
-| *le / lü* | la/al daga † | la/al dassa |
+| *le / lü* | la/al daga † | la/al dass |
 | *nüm* | dagum † | dassum |
 | *vialtri* | daguf † | dassuf |
 | *lur* | i daga | i dassan |

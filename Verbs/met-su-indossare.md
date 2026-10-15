@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | meti sü | metarò sü | avrò metüü sü |
-| *ti* | ta metat sü | ta metaret sü | ta avret metüü sü |
+| *ti* | ta metat sü | ta metaré sü | ta avré metüü sü |
 | *le / lü* | la/al met sü | la/al metarà sü | l’avrà metüü sü |
 | *nüm* | metum sü | metarem sü | avrem metüü sü |
 | *vialtri* | metuf sü | metarii sü | avrii metüü sü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | meta sü | metessa sü |
 | *ti* | ta metat sü | ta metessat sü |
-| *le / lü* | la/al meta sü | la/al metessa sü |
+| *le / lü* | la/al meta sü | la/al metess sü |
 | *nüm* | metum sü | metessum sü |
 | *vialtri* | metuf sü | metessuf sü |
 | *lur* | i metan sü | i metessan sü |

@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | credi | credarò | avrò credüü |
-| *ti* | ta credat | ta credaret | ta avret credüü |
+| *ti* | ta credat | ta credaré | ta avré credüü |
 | *le / lü* | la/al cred | la/al credarà | l’avrà credüü |
 | *nüm* | credum | credarem | avrem credüü |
 | *vialtri* | creduf | credarii | avrii credüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | creda | credessa |
 | *ti* | ta credat | ta credessat |
-| *le / lü* | la/al creda | la/al credessa |
+| *le / lü* | la/al creda | la/al credess |
 | *nüm* | credum | credessum |
 | *vialtri* | creduf | credessuf |
 | *lur* | i credan | i credessan |

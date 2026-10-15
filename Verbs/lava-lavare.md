@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | lavi | lavarò | avrò lavaa |
-| *ti* | ta lavat | ta lavaret | ta avret lavaa |
+| *ti* | ta lavat | ta lavaré | ta avré lavaa |
 | *le / lü* | la/al lava | la/al lavarà | l’avrà lavaa |
 | *nüm* | lavum | lavarem | avrem lavaa |
 | *vialtri* | lavuf | lavarii | avrii lavaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | lava | lavassa |
 | *ti* | ta lavat | ta lavassat |
-| *le / lü* | la/al lava | la/al lavassa |
+| *le / lü* | la/al lava | la/al lavass |
 | *nüm* | lavum | lavassum |
 | *vialtri* | lavuf | lavassuf |
 | *lur* | i lavan | i lavassan |

@@ -17,7 +17,7 @@
 |  | Presente | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | resèghi | resègarò | avrò resegaa |
-| *ti* | ta resègat | ta resègaret | ta avret resegaa |
+| *ti* | ta resègat | ta resègaré | ta avré resegaa |
 | *le / lü* | la/al resèga | la/al resègarà | l’avrà resegaa |
 | *nüm* | resègum | resègarem | avrem resegaa |
 | *vialtri* | resèguf | resègarii | avrii resegaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | resèga | resegassa |
 | *ti* | ta resègat | ta resegassat |
-| *le / lü* | la/al resèga | la/al resegassa |
+| *le / lü* | la/al resèga | la/al resegass |
 | *nüm* | resègum | resegassum |
 | *vialtri* | resèguf | resegassuf |
 | *lur* | i resègan | i resegassan |

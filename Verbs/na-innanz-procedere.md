@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | naga innanz | nassa innanz |
 | *ti* | ta nagat innanz | ta nassat innanz |
-| *le / lü* | la/al naga innanz | la/al nassa innanz |
+| *le / lü* | la/al naga innanz | la/al nass innanz |
 | *nüm* | nagum innanz | nassum innanz |
 | *vialtri* | naguf innanz | nassuf innanz |
 | *lur* | i nagan innanz | i nassan innanz |

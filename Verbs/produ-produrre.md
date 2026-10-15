@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | prodüsi | prodüsarò | avrò prodüsüü |
-| *ti* | ta prodüsat | ta prodüsaret | ta avret prodüsüü |
+| *ti* | ta prodüsat | ta prodüsaré | ta avré prodüsüü |
 | *le / lü* | la/al prodüs | la/al prodüsarà | l’avrà prodüsüü |
 | *nüm* | prodüsum | prodüsarem | avrem prodüsüü |
 | *vialtri* | prodüsuf | prodüsarii | avrii prodüsüü |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | prodüsa | prodüsessa |
 | *ti* | ta prodüsat | ta prodüsessat |
-| *le / lü* | la/al prodüsa | la/al prodüsessa |
+| *le / lü* | la/al prodüsa | la/al prodüsess |
 | *nüm* | prodüsum | prodüsessum |
 | *vialtri* | prodüsuf | prodüsessuf |
 | *lur* | i prodüsan | i prodüsessan |

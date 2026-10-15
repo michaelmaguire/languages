@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | partisi | partisarò | sarò partii |
-| *ti* | ta partisat | ta partisaret | ta saret partii |
+| *ti* | ta partisat | ta partisaré | ta saré partii |
 | *le / lü* | la/al partis | la/al partisarà | la/al sarà partii |
 | *nüm* | partisum | partisarem | sarem partii |
 | *vialtri* | partisuf | partisarii | sarii partii |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | partisa | partissa |
 | *ti* | ta partisat | ta partissat |
-| *le / lü* | la/al partisa | la/al partissa |
+| *le / lü* | la/al partisa | la/al partiss |
 | *nüm* | partisum | partissum |
 | *vialtri* | partisuf | partissuf |
 | *lur* | i partisan | i partissan |

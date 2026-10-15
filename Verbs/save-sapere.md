@@ -14,13 +14,13 @@
 
 ## Indicativo
 
-|  | Presente | Futuro † | Futuro prossimo † |
+|  | Presente | Futuro | Futuro prossimo † |
 |---|---|---|---|
-| *mi* | so | savarò | avrò savüü |
-| *ti* | ta set † | ta savaret | ta avret savüü |
-| *le / lü* | la/al sa † | la/al savarà | l’avrà savüü |
-| *nüm* | savum † | savarem | avrem savüü |
-| *vialtri* | savuf † | savarii | avrii savüü |
+| *mi* | so | savarò † | avrò savüü |
+| *ti* | ta set † | ta savaré † | ta avré savüü |
+| *le / lü* | la/al sa † | la/al savarà † | l’avrà savüü |
+| *nüm* | savum † | savarem † | avrem savüü |
+| *vialtri* | savuf † | savarii † | avrii savüü |
 | *lur* | i sa † | i savaran | i avran savüü |
 
 |  | Imperfetto † | Passato prossimo † | Trapassato prossimo † |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | sapia | savessa |
 | *ti* | ta sapiat | ta savessat |
-| *le / lü* | la/al sapia | la/al savessa |
+| *le / lü* | la/al sapia | la/al savess |
 | *nüm* | sapium | savessum |
 | *vialtri* | sapiuf | savessuf |
 | *lur* | i sapian | i savessan |

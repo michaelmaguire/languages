@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | rôbi | rôbarò | avrò rubaa |
-| *ti* | ta rôbat | ta rôbaret | ta avret rubaa |
+| *ti* | ta rôbat | ta rôbaré | ta avré rubaa |
 | *le / lü* | la/al rôba | la/al rôbarà | l’avrà rubaa |
 | *nüm* | rôbum | rôbarem | avrem rubaa |
 | *vialtri* | rôbuf | rôbarii | avrii rubaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | rôba | rubassa |
 | *ti* | ta rôbat | ta rubassat |
-| *le / lü* | la/al rôba | la/al rubassa |
+| *le / lü* | la/al rôba | la/al rubass |
 | *nüm* | rôbum | rubassum |
 | *vialtri* | rôbuf | rubassuf |
 | *lur* | i rôban | i rubassan |

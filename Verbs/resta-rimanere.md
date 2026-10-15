@@ -17,7 +17,7 @@
 |  | Presente † | Futuro † | Futuro prossimo † |
 |---|---|---|---|
 | *mi* | resti | restarò | sarò restaa |
-| *ti* | ta restat | ta restaret | ta saret restaa |
+| *ti* | ta restat | ta restaré | ta saré restaa |
 | *le / lü* | la/al resta | la/al restarà | la/al sarà restaa |
 | *nüm* | restum | restarem | sarem restaa |
 | *vialtri* | restuf | restarii | sarii restaa |
@@ -49,7 +49,7 @@
 |---|---|---|
 | *mi* | resta | restassa |
 | *ti* | ta restat | ta restassat |
-| *le / lü* | la/al resta | la/al restassa |
+| *le / lü* | la/al resta | la/al restass |
 | *nüm* | restum | restassum |
 | *vialtri* | restuf | restassuf |
 | *lur* | i restan | i restassan |

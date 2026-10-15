@@ -17,8 +17,8 @@ and, where available, the English.
 
 | Section | What is in it | Size |
 |---|---|---|
-| [Dictionary](Dictionary/README.md) | Single words and short terms: Italiano ↔ Dialett, with English where available and a Region column; also as a [printable PDF](Dictionary/arogno-dictionary.pdf) | 968 entries |
-| [Expressions](Expressions/README.md) | Sayings, idioms and phrases grouped by topic; also as a [printable PDF](Expressions/arogno-expressions.pdf) | 959 expressions |
+| [Dictionary](Dictionary/README.md) | Single words and short terms: Italiano ↔ Dialett, with English where available and a Region column; also as a [printable PDF](Dictionary/arogno-dictionary.pdf) | 969 entries |
+| [Expressions](Expressions/README.md) | Sayings, idioms and phrases grouped by topic; also as a [printable PDF](Expressions/arogno-expressions.pdf) | 958 expressions |
 | [Verbs](Verbs/README.md) | Conjugation charts, one page per verb; also as a [printable PDF](Verbs/arogno-verbs.pdf) | 89 verbs |
 | [To check](TO-CHECK.md) | Every inferred form and uncertain extraction, for checking with a teacher | 4651 items |
 | [CLDF dataset](cldf/README.md) | The master data set behind these pages, in the [CLDF](https://cldf.clld.org/) (Cross-Linguistic Data Formats) Dictionary format: words, meanings, examples, verb forms, sources and decisions on variants | 1002 entries |

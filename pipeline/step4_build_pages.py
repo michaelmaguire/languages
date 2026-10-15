@@ -178,8 +178,9 @@ def load_english():
 
 
 def apply_overrides(pairs):
-    """etc/pair_corrections.csv columns: source,line,action,italian,dialect,english,note
-    action = delete | replace (blank fields are left as they are) | add"""
+    """etc/pair_corrections.csv columns: source,line,action,italian,dialect,english,note,kind
+    action = delete | replace (blank fields are left as they are) | add. kind (word | expression) is
+    optional; an added pair takes the variety of the pair at the same source and line, if there is one."""
     by = {(p["source"], p["line"]): p for p in pairs}
     for o in read(ETC / "pair_corrections.csv"):
         act = o.get("action", "").strip().lower()
@@ -187,14 +188,15 @@ def apply_overrides(pairs):
         if act == "delete" and p:
             p["_drop"] = True
         elif act == "replace" and p:
-            for f in ("italian", "dialect", "english", "note"):
+            for f in ("italian", "dialect", "english", "note", "kind"):
                 if o.get(f):
                     p[f] = o[f]
             p["check"] = ""
         elif act == "add":
             pairs.append({"italian": o["italian"], "dialect": o["dialect"], "english": o.get("english", ""),
-                          "kind": "word" if len(o["italian"].split()) <= 3 else "expression",
-                          "variety": "Rögn (Arogno)", "canonical": "yes", "source": o["source"] or "my notes",
+                          "kind": o.get("kind") or ("word" if len(o["italian"].split()) <= 3 else "expression"),
+                          "variety": p["variety"] if p else "Rögn (Arogno)",
+                          "canonical": p["canonical"] if p else "yes", "source": o["source"] or "my notes",
                           "line": o["line"], "check": "", "note": o.get("note", "")})
     return [p for p in pairs if not p.get("_drop")]
 
@@ -316,7 +318,7 @@ def verb_tables(verbs):
 # ---------------------------------------------------------------- pages
 def by_letter(rows, sort_key):
     groups = defaultdict(list)
-    for r in sorted(rows, key=sort_key):
+    for r in sorted(rows, key=lambda r: (plain(sort_key(r)), sort_key(r))):      # pà next to pan, not after pz
         first = (plain(sort_key(r)) or "#")[0].upper()
         groups[first if first.isalpha() else "#"].append(r)
     return sorted(groups.items())
@@ -385,6 +387,11 @@ def noun_label(p):
 SPELLINGS = re.compile(r"\s*/\s*|\s+o\s+")
 
 
+def same_letters(form):
+    """'pée' -> 'pe', 'giô' -> 'gio': the letters without accents or doubling, to compare spellings."""
+    return re.sub(r"(.)\1+", r"\1", plain(form))
+
+
 def cross_references(words):
     """For the Dialett look-up: one extra row per alternate spelling, in its own alphabetical place, pointing
     to the entry that has them all ('giô -> giò / giô / giõ', 'scultà -> scoltà o scultà'), so a word can be
@@ -397,6 +404,10 @@ def cross_references(words):
         bare_head = re.sub(r"\([^)]*\)", " ", DI_ARTICLE.sub("", p["dialect"]))
         forms = [f.strip() for f in SPELLINGS.split(bare_head) if f.strip()]
         for f in forms[1:]:
+            # a spelling that differs only in accents or a doubled letter (pé, pée, pee for pè) sorts next to
+            # the entry anyway: a pointer there would only look like a duplicate
+            if same_letters(f) == same_letters(forms[0]):
+                continue
             if (key(f), key(p["dialect"])) not in seen:
                 seen.add((key(f), key(p["dialect"])))
                 out.append(dict(p, dialect=f, italian=f"→ {p['dialect']}", english="", note="", check="", supplied=False,

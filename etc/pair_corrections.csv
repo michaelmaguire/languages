@@ -1,40 +1,42 @@
-source,line,action,italian,dialect,english,note
-domande di vario tipo.docx,43,delete,,,,"two dialect answers to the same question, not an Italian-dialect pair"
-dialoghi a Lugano.pdf,539,delete,,,,"glossary note, Italian explaining Italian"
-dialoghi a Lugano.pdf,560,delete,,,,"glossary note, dialect explaining dialect"
-dialoghi a Lugano.pdf,584,delete,,,,"glossary note, dialect explaining dialect"
-2025-09-22-San Martin.pdf,30,delete,,,,"two lines of a poem, not a translation pair"
-Filatrocca di Carlino.docx,27,delete,,,,"two lines of the rhyme, not a translation pair"
-I düü magnan.docx,9,delete,,,,"two lines of the story, not a translation pair"
-domande di vario tipo.docx,31,delete,,,,"two dialect answers, not a translation pair"
-domande di vario tipo.docx,58,delete,,,,"two dialect answers, not a translation pair"
-domande di vario tipo.docx,71,delete,,,,"two dialect answers, not a translation pair"
-domande di vario tipo.docx,95,delete,,,,"two dialect answers, not a translation pair"
-imperativo.pdf,64,delete,,,,"two lines of the conjugation list, not a translation pair"
-Il Condizionale Presente.docx,3,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-Il Condizionale Presente.docx,13,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-Il Condizionale Presente.docx,25,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-Il Condizionale Presente.docx,36,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-Il Condizionale Presente.docx,52,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-Il Condizionale Presente.docx,64,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-Il Condizionale Presente.docx,74,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-l Condizionale Presente.docx,3,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-l Condizionale Presente.docx,15,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-l Condizionale Presente.docx,29,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-l Condizionale Presente.docx,39,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-l Condizionale Presente.docx,50,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-Il Condizionale Passato.docx,3,delete,,,,"header row of a verb table (Italian past infinitives), not a pair"
-Il Condizionale Passato.docx,4,delete,,,,"header row of a verb table (dialect past infinitives), not a pair"
-Il Condizionale Passato.docx,13,delete,,,,"header row of a verb table (Italian past infinitives), not a pair"
-Il Condizionale Passato.docx,14,delete,,,,"header row of a verb table (dialect past infinitives), not a pair"
-Il Condizionale Passato.docx,47,delete,,,,Italian on both sides (Dovevo = Avrei dovuto …)
-Il Condizionale Passato.docx,48,delete,,,,Italian on both sides (Potevi = Avresti potuto …)
-Il Condizionale Passato.docx,49,delete,,,,Italian on both sides (Volevo = Avrei voluto …)
-l Condizionale Presente.docx,82,delete,,,,a section heading (Esprimere desideri nel presente) paired with an example
-Cors da dialett da Rögn lezium 1 e 2.docx,242,delete,,,,"two dialect words from the numbers list (vüdas 11, dodas 12); each is in dialect_lists_italian_supplied.csv"
-Cors da dialett da Rögn lezium 1 e 2.docx,249,delete,,,,"two dialect words from the numbers list (discdot 18, discnöv 19), confirmed by the owner"
-Cors da dialett da Rögn lezium 1 e 2.docx,255,delete,,,,"two dialect words from the fruit list (la poma apple, la pera pear), confirmed by the owner"
-il congiüntif.docx,17,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-il congiüntif.docx,59,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-il congiüntif.docx,155,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair"
-Cors da dialett da Rögn lezium 1 e 2.docx,260,delete,,,,"two separate fruits (plum on l.260, apricot on l.261), not an Italian-dialect pair (owner, 2026-10-14)"
+source,line,action,italian,dialect,english,note,kind
+domande di vario tipo.docx,43,delete,,,,"two dialect answers to the same question, not an Italian-dialect pair",
+dialoghi a Lugano.pdf,539,delete,,,,"glossary note, Italian explaining Italian",
+dialoghi a Lugano.pdf,560,delete,,,,"glossary note, dialect explaining dialect",
+dialoghi a Lugano.pdf,584,delete,,,,"glossary note, dialect explaining dialect",
+2025-09-22-San Martin.pdf,30,delete,,,,"two lines of a poem, not a translation pair",
+Filatrocca di Carlino.docx,27,delete,,,,"two lines of the rhyme, not a translation pair",
+I düü magnan.docx,9,delete,,,,"two lines of the story, not a translation pair",
+domande di vario tipo.docx,31,delete,,,,"two dialect answers, not a translation pair",
+domande di vario tipo.docx,58,delete,,,,"two dialect answers, not a translation pair",
+domande di vario tipo.docx,71,delete,,,,"two dialect answers, not a translation pair",
+domande di vario tipo.docx,95,delete,,,,"two dialect answers, not a translation pair",
+imperativo.pdf,64,delete,,,,"two lines of the conjugation list, not a translation pair",
+Il Condizionale Presente.docx,3,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+Il Condizionale Presente.docx,13,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+Il Condizionale Presente.docx,25,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+Il Condizionale Presente.docx,36,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+Il Condizionale Presente.docx,52,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+Il Condizionale Presente.docx,64,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+Il Condizionale Presente.docx,74,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+l Condizionale Presente.docx,3,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+l Condizionale Presente.docx,15,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+l Condizionale Presente.docx,29,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+l Condizionale Presente.docx,39,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+l Condizionale Presente.docx,50,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+Il Condizionale Passato.docx,3,delete,,,,"header row of a verb table (Italian past infinitives), not a pair",
+Il Condizionale Passato.docx,4,delete,,,,"header row of a verb table (dialect past infinitives), not a pair",
+Il Condizionale Passato.docx,13,delete,,,,"header row of a verb table (Italian past infinitives), not a pair",
+Il Condizionale Passato.docx,14,delete,,,,"header row of a verb table (dialect past infinitives), not a pair",
+Il Condizionale Passato.docx,47,delete,,,,Italian on both sides (Dovevo = Avrei dovuto …),
+Il Condizionale Passato.docx,48,delete,,,,Italian on both sides (Potevi = Avresti potuto …),
+Il Condizionale Passato.docx,49,delete,,,,Italian on both sides (Volevo = Avrei voluto …),
+l Condizionale Presente.docx,82,delete,,,,a section heading (Esprimere desideri nel presente) paired with an example,
+Cors da dialett da Rögn lezium 1 e 2.docx,242,delete,,,,"two dialect words from the numbers list (vüdas 11, dodas 12); each is in dialect_lists_italian_supplied.csv",
+Cors da dialett da Rögn lezium 1 e 2.docx,249,delete,,,,"two dialect words from the numbers list (discdot 18, discnöv 19), confirmed by the owner",
+Cors da dialett da Rögn lezium 1 e 2.docx,255,delete,,,,"two dialect words from the fruit list (la poma apple, la pera pear), confirmed by the owner",
+il congiüntif.docx,17,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+il congiüntif.docx,59,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+il congiüntif.docx,155,delete,,,,"header row of a verb table (infinitives), not an Italian-dialect pair",
+Cors da dialett da Rögn lezium 1 e 2.docx,260,delete,,,,"two separate fruits (plum on l.260, apricot on l.261), not an Italian-dialect pair (owner, 2026-10-14)",
+Dizionario con filastrocche di R. Gaggini.docx,123,replace,sporco sulle mani,cröcc,dirt on the hands,also: man sporch,word
+Dizionario con filastrocche di R. Gaggini.docx,123,add,levatrice,cumãa,midwife,,word

@@ -197,8 +197,8 @@ def candidates():
         unsure = UNSURE.get(p["check"]) if p["check"] else None
         if p["kind"] == "expression":
             examples.append({"ID": ids["examples"].make(f"{p['source'][:24]}-{p['line']}"), "Language_ID": language,
-                             "Primary_Text": p["dialect"], "Translated_Text": p["italian"], "Meta_Language_ID": "ita",
-                             "Translated_Text_English": p["english"] or None,
+                             "Primary_Text": unquote(p["dialect"]), "Translated_Text": unquote(p["italian"]),
+                             "Meta_Language_ID": "ita", "Translated_Text_English": unquote(p["english"]) or None,
                              "Status": "pending" if unsure else "accepted", "Unsure_About": unsure,
                              "Comment": p["note"] or None, "Source": refs})
             continue
@@ -303,6 +303,16 @@ def configure(ds):
                  form, status("paradigms"), comment, source, primaryKey=["ID"])
 
 
+QUOTED = re.compile(r'^\s*([«“"])([^«»“”"]*)([»”"])\s*$')
+
+
+def unquote(text):
+    """'«Dài, ta spéci l’ann che vegn!»' -> 'Dài, ta spéci l’ann che vegn!': quotation marks around a whole
+    expression add nothing (most are written without). Quotes inside the text are kept."""
+    m = QUOTED.match(text or "")
+    return m.group(2).strip() if m else text
+
+
 def fold_entry(rows, e, target, kind, status, note, vids, same=None):
     """Fold entry e into target: its sources, senses and variants move over, and e's headword is kept in
     variants.csv with the given Kind and Status. A sense the target already has (same(description) equal)
@@ -387,6 +397,14 @@ def noun_forms(rows):
         if pm and ARTICLE.match(original):                       # 'al tecc / i tecc', 'la poma – i pomm'
             rest, plural = pm.group(1), pm.group(2).strip()
         rest = _strip_articles(rest) if m else rest
+        if cur and cur.get("Plural"):                            # 'curtel/curtei', 'sedèla (sedèl)': the plural is not the headword
+            singular = re.sub(rf"\s*(?:/|\()\s*{re.escape(cur['Plural'])}\s*\)?$", "", rest) or rest
+            if singular != rest:                                 # and 'coltello/coltelli' has its plural too
+                for x in mine:
+                    for k in ("Description", "Description_English"):
+                        if x.get(k) and x[k].count("/") == 1:
+                            x[k] = x[k].split("/")[0].strip()
+            rest = singular
         gender = _article_gender(m.group(0)) if m else None
         if not gender:
             g = next((IT_GENDER.match(x["Description"] + " ") for x in mine if IT_GENDER.match(x["Description"] + " ")), None)
@@ -647,7 +665,7 @@ def place_examples(rows, bib):
     known = {t["ID"] for t in topics}
     given = {}
     for t in pages.read(ETC / "expression_topics.csv"):
-        given[(t["Language_ID"], pages.key(t["Form"]))] = t
+        given[(t["Language_ID"], pages.key(unquote(t["Form"])))] = t
     used, unsorted, contributions = set(), [], {}
     for x in rows["examples.csv"]:
         m = re.match(r"([^\[]+)(?:\[l\.(\d+)\])?", (x["Source"] or [""])[0])
@@ -661,7 +679,7 @@ def place_examples(rows, bib):
                                   "Genre": doc_genre, "Source": [cid] if b else []}
         t = given.get((x["Language_ID"], pages.key(x["Primary_Text"])))
         if t:
-            used.add((t["Language_ID"], pages.key(t["Form"])))
+            used.add((t["Language_ID"], pages.key(unquote(t["Form"]))))
         genre = (t or {}).get("Genre", "").strip() or doc_genre
         topic = (t or {}).get("Topic", "").strip() or None
         if topic and topic not in known:

@@ -28,6 +28,5 @@ Topic names are given in dialect, Italian and English. The dialect names were co
 | [Fescta, fede† e tradiziun†](fescta-fede-e-tradiziun-feste.md) | Feste, fede e tradizioni | Festivals, faith and tradition | 10 | 5 |
 | [La vita](la-vita-vita.md) | La vita e la saggezza | Life and wisdom | 179 | 16 |
 | [Lengua e dialett](lengua-e-dialett-dialetto.md) | Lingua e dialetto | Language and dialect | 0 | 12 |
-| [Altru](altru-altro.md) | Altro | Other | 1 | 0 |
 
 The poems, stories, articles and dialogues read in class are not reprinted here: only the sayings and everyday phrases found in them are, under their topics. Their lines are kept as raw material in the [CLDF dataset](../cldf/README.md), with genre `text`.

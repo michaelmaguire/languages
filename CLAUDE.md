@@ -103,14 +103,14 @@ forms, entries without English, decisions that matched nothing) and the `git dif
 | `lesson_sources.csv` | One row per document: variety, canonical yes/no, layout (`auto`, `skip`, `text_only`, `gerund`, `imperative`, `bullets`, `parallel`), include, genre of its expressions (`phrase`, `saying`, `exercise`, `text`). New files arrive with `?`. |
 | `topics.csv` | The expression topics (ID, dialect name, Italian name, English name), in page order. Dialect names composed by Claude from course words; † on a word not found in any course document (listed in `TO-CHECK.md`). |
 | `expression_topics.csv` | One row per expression (`Language_ID,Form,Topic,Genre`, Form = dialect text): its topic, and a genre when it differs from its document's. Written by Claude on 2026-10-14; new expressions via `tool_expression_topics.py`. |
-| `spelling_variants.csv` | Spellings of one word that all occur in the lessons (`giò;giô;giõ`); all accepted as `spelling` variants and shown together in the dictionary. The Dialett look-up (Markdown and PDF) also lists every alternate spelling in its own place, pointing to the full entry (*giô → giò / giô / giõ*), so a word is found however it is written. `TO-CHECK.md` asks Guido which spelling he prefers; the answer only changes which comes first. |
+| `spelling_variants.csv` | Spellings of one word that all occur in the lessons (`giò;giô;giõ`); all accepted as `spelling` variants and shown together in the dictionary. The Dialett look-up (Markdown and PDF) also lists every alternate spelling in its own place, pointing to the full entry (*scultà → scoltà o scultà*), so a word is found however it is written; a spelling that differs only by accents or a doubled letter (*pé*, *pee* for *pè*) gets no pointer, since it sorts next to the entry anyway (owner saw them as duplicates, 2026-10-15). `TO-CHECK.md` asks Guido which spelling he prefers; the answer only changes which comes first. |
 | `open_questions.csv` | Open questions for the teacher (Area, About, Question, Current_Handling, Date), shown at the top of `TO-CHECK.md`. Only real uncertainties (owner: do not be pedantic with the teacher); never spellings, which the lessons settle by using them (see `spelling_variants.csv`). Delete a row once answered and recorded. |
 | `english_translations.csv` | Italian → English, keyed by the Italian text. |
 | `verb_details.csv` | Per verb: dialect infinitive (attested/inferred + evidence), merges, class, stems, participle, auxiliary, tenses to ignore. |
 | `verb_forms_from_texts.csv` | Verb forms found in running text (attested, with `source,line`) or supplied by hand (inferred). With a `verb_details.csv` row, enough to give an untabled verb a page (*töö*, *duprà*). |
 | `verb_forms_reassigned.csv` | Moves extracted forms to another verb when two dialect verbs share an Italian infinitive (*töö* vs *ciapà* for *prendere*). |
 | `parallel_texts.csv` | Class translations and their Italian originals in other documents, aligned by step 2 (*I düü magnan*, Inferno I–VI against `raw/Divina Commedia Inferno I-VI (Dante, Project Gutenberg).txt`). |
-| `nouns.csv` | Nouns whose source gives no article (gender), and corrections of gender or plural: `Language_ID,Form,Gender,Plural,Reason`, Form as written in the source. |
+| `nouns.csv` | Nouns whose source gives no article (gender), and corrections of gender or plural: `Language_ID,Form,Gender,Plural,Reason`, Form as written in the source. About 400 rows written by Claude on 2026-10-15 (every noun gets m./f.): gender from an article in the lesson texts where one is found (cited), else a best guess from the Italian. A Plural written in the headword (`curtel/curtei`, `sedèla (sedèl)`) is removed from it. |
 | `dialect_lists_italian_supplied.csv` | Dialect-only list words (lessons 1–2, 5, 6) with Italian/English supplied by Claude; Italian shown with †. |
 
 Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_readme_intro.md`,
@@ -138,7 +138,7 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
   copied to `Dialect/`, the expressions PDF not). No spreadsheet output.
 - **Teacher's spelling is kept** as written, variants included. Exceptions: Word's automatic capitals
   are lowered on words and non-sentence phrases, "idem" is replaced by the text it refers to, the
-  conditional sheets' hyphens (`ciapa-ria/ress`) are written out (`ciaparia/ciaparess`), and the third
+  conditional sheets' hyphens (`ciapa-ria/ress`) are written out (`ciaparia/ciaparess`), quotation marks around a whole expression are dropped (`«Dài, ta spéci l’ann che vegn!»`; owner, 2026-10-15), and the third
   person is always `la/al` (feminine first, as the teacher mostly writes it; the few `al/la` are normalised)
   under the label *le / lü* (owner, 2026-10-14). `l'a` in compound tenses is the auxiliary (*lü l'a
   credüü*), not the feminine clitic.
@@ -214,8 +214,8 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
   the expressions cover are from the course).
 - Expression topics are Claude's judgement (`etc/expression_topics.csv`); *La vita e la saggezza* and
   *Carattere* are large catch-alls. A few single words are still among the expressions (13a: *falce per
-  l'erba*, *gerla*, *carro*; 14a *ciliegio*; Gaggini's *cröcc / cumãa* under Altro): no decision moves an
-  expression into the dictionary yet.
+  l'erba*, *gerla*, *carro*; 14a *ciliegio*; ): no decision moves an expression into the dictionary yet (a wrongly joined pair can be split with
+  `etc/pair_corrections.csv`, as Gaggini's *cröcc / cumãa* was).
 - `Example_IDs` links only about 90 senses: the dialect word must appear in the expression exactly as
   written (inflected adjectives and nouns are missed), and words under four letters are skipped.
 - `raw/` contains third-party material (published texts, the teacher's handouts, classmates' names).

@@ -76,7 +76,7 @@ sudo apt install python3-venv python3-pip poppler-utils tesseract-ocr tesseract-
 | Package | Why | Status on the owner's machine |
 |---|---|---|
 | `python3-venv`, `python3-pip` | to create `pipeline/.venv`; Ubuntu blocks system-wide pip | installed on request |
-| `openpyxl`, `pycldf`, `cldfbench`, `pypdf` (pip, inside the venv) | read the owner's spreadsheet; build and validate the CLDF dataset; read back page numbers for the PDF contents pages | installed by `build_all.sh` from `requirements.txt`. The venv holds absolute paths: if the repo folder is renamed or moved, delete `pipeline/.venv` and rebuild |
+| `openpyxl`, `pycldf`, `cldfbench`, `pypdf`, `genanki` (pip, inside the venv) | read the owner's spreadsheet; build and validate the CLDF dataset; read back page numbers for the PDF contents pages; write Anki decks (`pipeline/tool_flashcards.py`, owner's request 2026-10-15) | installed by `build_all.sh` from `requirements.txt`. The venv holds absolute paths: if the repo folder is renamed or moved, delete `pipeline/.venv` and rebuild |
 | `tesseract-ocr`, `tesseract-ocr-ita`, `tesseract-ocr-deu` | OCR of scanned lessons; German so that ü and ö survive | installed on request |
 | `poppler-utils` | `pdftotext`, `pdftoppm` | was already installed |
 | Google Chrome or Chromium | prints the PDFs; step is skipped with a message if absent | was already installed |

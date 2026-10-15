@@ -2,3 +2,4 @@ openpyxl
 pycldf
 cldfbench
 pypdf
+genanki

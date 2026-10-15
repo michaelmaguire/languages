@@ -39,6 +39,7 @@ metadata.json                cldfbench metadata: licence CC-BY-4.0, creator Mich
 setup.py, setup.cfg, test.py registers the dataset with cldfbench (`pip install -e .`, then `cldfbench ls rogn`);
                              `pytest` runs the standard pytest-cldf validation
 CONTRIBUTORS.md, LICENSE, .zenodo.json   cldfbench / Zenodo release files (hand-written)
+ANKI-FLASHCARDS.md           hand-written: the Anki deck script (pipeline/tool_flashcards.py), how to import and update
 Dictionary/ Expressions/ Verbs/   GENERATED from cldf/ (pages cleared and rewritten every build; the PDFs are
                              kept until step 5 replaces them). Do not commit while a build is running
 Dialect/                     only Dialect/README.md (hand-written) and copies of the dictionary and verb PDFs at their old URLs

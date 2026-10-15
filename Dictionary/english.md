@@ -371,6 +371,7 @@ The 1 entries that have no English yet are at the end.
 | to have | vegh / végh | avere | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%208a%20leziun.docx) |
 | to have to | duvé | dovere | Rögn | verb | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Il%20Condizionale%20Presente.docx) |
 | hazel | nisciöla *f., pl. nisciöl* | nocciolo | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
+| he has | lü al ghe | lui ha |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | headache | maa da cò *m., pl. maa da cò* | mal di testa | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
 | heart | cöör / cör *m., pl. cöör* | cuore | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%204a%20leziun.docx) |
 | hearth | fuculaa *m., pl. fuculaa* | focolaio | Basso Ceresio | also: fuguraa | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |

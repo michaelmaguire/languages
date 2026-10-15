@@ -487,3 +487,4 @@ reject,rogn,01-01-2024,,,,,,"Claude inferred: NUVANT'ANN, the date line of the t
 reject,rogn,nUVANT’ANN,,,,,,"Claude inferred: NUVANT'ANN, the title of the text, not a dictionary word",2026-10-14
 reject,rogn,"ghéva pòsct par tücc,",,,,,,"Claude inferred: NUVANT'ANN, a fragment of a line of the text",2026-10-14
 reject,rogn,pruvidenza divina”,,,,,,"Claude inferred: NUVANT'ANN, a fragment of a line of the text",2026-10-14
+correct,ticinese,al,,lü al ghe,,lui ha,he has,"the spreadsheet cell held only the clitic al: he has = lü al ghe",2026-10-15

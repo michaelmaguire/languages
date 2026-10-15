@@ -458,6 +458,7 @@
 | lucertola | lüserta *f., pl. lüsert* | lizard | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | luganese | luganès | of the Lugano area | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-10-13-articolo%20CdT.docx) |
 | luglio | lüi *m., pl. lüi* | July | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
+| lui ha | lü al ghe | he has |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | lumaca | lümaga *f., pl. lümac* | snail | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | lumacone | nerc *m., pl. nerc* | slug | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | lunedì | lünedi / lünedì *m., pl. lünedi* | Monday | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |

@@ -16,7 +16,6 @@
 | agnell *m., pl. agnei* | agnello | lamb | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | agost *m., pl. agost* | agosto | August | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | ai *m., pl. ai* | aglio | garlic | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/notes_added_by_hand.csv) |
-| al | lui ha | have |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | ala bôna | alla buona | simple, unpretentious | Basso Ceresio | also: andant | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | albicocch *f., pl. albicocch* | albicocche | apricots | Basso Ceresio | also: remignagh | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | almen | almeno | at least |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
@@ -452,6 +451,7 @@
 | löch *m., pl. löch* | orto | vegetable garden | Basso Ceresio | also: ort | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | lögia *f., pl. lög* | scrofa | sow | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | loiro | → laur / loiro |  | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%2014a%20leziun.docx) |
+| lü al ghe | lui ha | he has |  |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Rosetta%20Stone_%20English%2C%20Italian%2C%20Ticino%20Dialect.xlsx) |
 | lücernari *m., pl. lücernari* | abbaino | dormer window | Basso Ceresio | also: abain | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Dizionario%20con%20filastrocche%20di%20R.%20Gaggini.docx) |
 | lüf *m., pl. lüf* | lupo | wolf | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialet%20da%20R%C3%B6gn%206a%20leziun.docx) |
 | luganès | luganese | of the Lugano area | Rögn |  | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/2025-10-13-articolo%20CdT.docx) |

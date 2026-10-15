@@ -384,7 +384,11 @@ def cross_references(words):
     found however it is written."""
     out, seen = [], set()
     for p in words:
-        forms = [f for f in SPELLINGS.split(p["dialect"]) if f.strip()]
+        # a leading article pair is definite/indefinite, not two spellings: 'ul/un purcel' has no
+        # alternate 'un purcel', so the article is set aside before looking for alternatives
+        # likewise a bracketed aside ('furmagela (grasa/magra)') is not split into spellings
+        bare_head = re.sub(r"\([^)]*\)", " ", DI_ARTICLE.sub("", p["dialect"]))
+        forms = [f.strip() for f in SPELLINGS.split(bare_head) if f.strip()]
         for f in forms[1:]:
             if (key(f), key(p["dialect"])) not in seen:
                 seen.add((key(f), key(p["dialect"])))

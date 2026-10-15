@@ -10,6 +10,7 @@ from collections import defaultdict
 from pycldf import Dataset, Source
 
 import step4_build_pages as pages
+import noun_plurals
 from paths import RAW, ETC, CLDF, DATA
 
 METADATA = CLDF / "Dictionary-metadata.json"
@@ -127,7 +128,8 @@ def candidates():
             eid = ids["entries"].make(headword if language == "rogn" else f"{headword}-{language}")
             by_key[k] = eid
             entries[eid] = {"ID": eid, "Language_ID": language, "Headword": headword, "Part_Of_Speech": None,
-                            "Variant_Of": None, "Conjugation_Class": None, "Auxiliary": None, "Status": "accepted",
+                            "Variant_Of": None, "Conjugation_Class": None, "Auxiliary": None,
+                            "Gender": None, "Plural": None, "Status": "accepted",
                             "Comment": None, "Source": []}
         e = entries[by_key[k]]
         for f, v in extra.items():
@@ -255,6 +257,13 @@ def configure(ds):
                    {"name": "Variant_Of", "datatype": "string",
                     "dc:description": "ID of the main entry when this entry is a regional variant of it"},
                    {"name": "Conjugation_Class", "datatype": "string"},
+                   {"name": "Gender", "datatype": {"base": "string", "format": "m|f"},
+                    "dc:description": "Grammatical gender of a noun: m (masculine) or f (feminine). Not a CLDF term "
+                                      "(CLDF has none for gender); from the article in the source, else the Italian, "
+                                      "else etc/nouns.csv"},
+                   {"name": "Plural", "datatype": "string",
+                    "dc:description": "Plural of a noun. Not a CLDF term. From the source where it gives one, "
+                                      "otherwise predicted from the course's patterns (corrections: etc/nouns.csv)"},
                    {"name": "Auxiliary", "datatype": {"base": "string", "format": "ves|vegh"}},
                    status("entries"), comment, source)
     ds.add_columns("SenseTable",
@@ -316,31 +325,136 @@ def fold_entry(rows, e, target, kind, status, note, vids, same=None):
     rows["entries.csv"].remove(e)
 
 
-def merge_article_forms(rows):
-    """One word, one entry: 'piöcc' (the owner's spreadsheet) and 'ul/un piöcc' (lesson 6) are the same noun,
-    written with and without its article, so entries whose headwords differ only by a leading article
-    (pages.DI_ARTICLE: ul/un, la/na, l'/un, i ...) are merged. The Rögn entry is kept, and among those the
-    form that shows the article; the other form stays in variants.csv as Kind `article`. Verbs are left
-    alone ('na föra' is the verb 'go out', not an article), as are rejected entries. Runs after the
-    decisions, so a decision always applies to the entry it names. Returns the merges made."""
-    vids = Ids(v["ID"] for v in rows["variants.csv"])
-    groups = defaultdict(list)
-    for e in rows["entries.csv"]:
-        if e["Status"] != "rejected" and e["Part_Of_Speech"] != "verb":
-            groups[(pages.key(pages.DI_ARTICLE.sub("", e["Headword"])))].append(e)
-    merged = []
-    bare_it = lambda d: pages.plain(pages.bare(d or ""))
-    for group in groups.values():
-        if len({pages.key(e["Headword"]) for e in group}) < 2:
+# ------------------------------------------------------------------ nouns
+# A dialect article at the start of a headword: ul/un, la/na, l'/un, l'/n', al, la, i ... (the lesson tables
+# write nouns with both articles to show the gender).
+ARTICLE = re.compile(r"^(?:(?:al|ul|el|la|i|un|na|una)(?:/(?:un|na|una|n['’]))?\s+|l['’](?:/(?:n['’]|una?\s+))?\s*|['‘]l\s+)", re.I)
+GENDER_OF_ARTICLE = {"al": "m", "ul": "m", "el": "m", "un": "m", "'l": "m", "l'/un": "m",
+                     "la": "f", "na": "f", "una": "f", "l'/n'": "f", "l'/una": "f"}
+IT_GENDER = re.compile(r"^(?:(?P<m>il|lo|un|uno|i|gli)|(?P<f>la|una|le|un['’]))(?:/\S+)?\s", re.I)
+EN_ARTICLE = re.compile(r"^(?:the/an?|the|an?)\s+", re.I)
+PLURAL_NOTE = re.compile(r"^i\s+([^;]+?)\s*(?:;\s*(.+))?$")          # lesson 6 notes: 'i purcei', 'i gai; canta'
+
+
+def _article_gender(article):
+    a = re.sub(r"\s+", "", article.lower()).replace("’", "'")
+    return GENDER_OF_ARTICLE.get(a) or GENDER_OF_ARTICLE.get(a.split("/")[0])
+
+
+def _strip_articles(form):
+    """'al bagat / al sciavatin' -> 'bagat / sciavatin': the article off each alternative."""
+    rest = ARTICLE.sub("", form, count=1)                       # the leading pair first: 'ul/un piöcc'
+    return " / ".join(ARTICLE.sub("", part).strip() for part in re.split(r"\s*/\s*(?=\S)", rest))
+
+
+def noun_forms(rows):
+    """Nouns get their bare citation form as headword, with Part_Of_Speech 'noun', a Gender and a Plural.
+
+    A leading article is the article of a noun when it is a pair (ul/un, la/na: never a clitic) or when one
+    of the senses' Italian starts with an article too; otherwise it is a clitic and the headword is left
+    alone ('al piöf' = piove: 'al' is the subject clitic of the verb). The gender comes from the article
+    (ul, al, un: m; la, na: f), or for an article that does not show it (l', i) from the Italian. The plural
+    comes from the headword ('al tecc / i tecc', 'la poma – i pomm') or a lesson 6 note ('i purcei').
+    etc/nouns.csv marks further nouns (bare headwords) and overrides gender and plural. The original form
+    stays in variants.csv as Kind `article`; entries that become the same word are merged (a Ticinese
+    entry into the Rögn one when the two differed only by the article: 'piöcc' and 'ul/un piöcc').
+    Runs after the decisions, so a decision always applies to the entry it names. Returns a summary."""
+    E, S, V = rows["entries.csv"], rows["senses.csv"], rows["variants.csv"]
+    vids = Ids(v["ID"] for v in V)
+    curated = {(r["Language_ID"], pages.key(r["Form"])): r for r in pages.read(ETC / "nouns.csv")}
+    senses = defaultdict(list)
+    for x in S:
+        if x["Status"] != "rejected":
+            senses[x["Entry_ID"]].append(x)
+    stripped, used = set(), set()
+    for e in E:
+        if e["Status"] == "rejected" or e["Part_Of_Speech"] == "verb":
             continue
-        group.sort(key=lambda e: (e["Language_ID"] != "rogn", not pages.DI_ARTICLE.match(e["Headword"]), e["ID"]))
+        mine = senses[e["ID"]]
+        cur = curated.get((e["Language_ID"], pages.key(e["Headword"])))
+        m = ARTICLE.match(e["Headword"])
+        if m and not ("/" in m.group(0) or cur or any(pages.IT_ARTICLE.match(x["Description"]) for x in mine)):
+            m = None                                             # a clitic, not an article
+        if m and re.match(r"[èéaà]\b", e["Headword"][m.end():]):
+            m = None                                             # "l'è sofic", "l'a ...": clitic + verb
+        if not (m or cur):
+            continue
+        if cur:
+            used.add((e["Language_ID"], pages.key(e["Headword"])))
+        original = e["Headword"]
+        rest, plural = original, None
+        pm = re.match(r"^(.*?\S)\s*(?:/|–|-)\s*i\s+(\S.*)$", original)
+        if pm and ARTICLE.match(original):                       # 'al tecc / i tecc', 'la poma – i pomm'
+            rest, plural = pm.group(1), pm.group(2).strip()
+        rest = _strip_articles(rest) if m else rest
+        gender = _article_gender(m.group(0)) if m else None
+        if not gender:
+            g = next((IT_GENDER.match(x["Description"] + " ") for x in mine if IT_GENDER.match(x["Description"] + " ")), None)
+            gender = (g and ("m" if g.group("m") else "f")) or None
+        for x in mine:
+            note = PLURAL_NOTE.match(x["Comment"] or "")
+            if note and m:
+                plural, x["Comment"] = plural or note.group(1).strip(), note.group(2)
+            if m and pages.IT_ARTICLE.match(x["Description"]):
+                x["Description"] = re.split(r"\s+[–-]\s+", pages.IT_ARTICLE.sub("", x["Description"]))[0].strip()
+                if x["Description_English"]:
+                    x["Description_English"] = re.split(r"\s+[–-]\s+", EN_ARTICLE.sub("", x["Description_English"]))[0].strip()
+        if cur:
+            gender = cur.get("Gender") or gender
+            plural = cur.get("Plural") or plural
+        e.update(Headword=rest, Part_Of_Speech="noun", Gender=gender, Plural=plural)
+        if pages.key(rest) != pages.key(original):
+            V.append({"ID": vids.make(f"{e['ID']}-{original}"), "Entry_ID": e["ID"], "Form": original,
+                      "Kind": "article", "Status": "accepted", "Comment": "the form written in the source",
+                      "Source": e["Source"]})
+            stripped.add(e["ID"])
+
+    # entries that are now the same word
+    bare_it = lambda d: pages.plain(pages.bare(d or ""))
+    groups = defaultdict(list)
+    for e in E:
+        if e["Status"] != "rejected" and e["Part_Of_Speech"] != "verb":
+            groups[pages.key(e["Headword"])].append(e)
+    merged = []
+    for group in groups.values():
+        group.sort(key=lambda e: (e["Language_ID"] != "rogn", e["ID"] not in stripped, e["ID"]))
         target = group[0]
         for e in group[1:]:
-            fold_entry(rows, e, target, "article", "accepted",
-                       f"the same word as {target['Headword']}, written with a different article or none "
-                       f"(merged automatically)", vids, same=bare_it)
-            merged.append((e["Headword"], target["Headword"]))
-    return merged
+            if e["Language_ID"] == target["Language_ID"] or e["ID"] in stripped or target["ID"] in stripped:
+                for k in ("Gender", "Plural", "Part_Of_Speech"):
+                    target[k] = target.get(k) or e.get(k)
+                fold_entry(rows, e, target, "article", "accepted",
+                           f"the same word as {target['Headword']} (merged automatically)", vids, same=bare_it)
+                merged.append((e["Headword"], target["Headword"]))
+    # every noun gets a plural: the source's, else etc/nouns.csv's, else predicted (noun_plurals.py)
+    predicted = 0
+    for e in E:
+        if e.get("Part_Of_Speech") == "noun" and not e.get("Plural"):
+            e["Plural"], predicted = noun_plurals.predict(e["Headword"], e.get("Gender")), predicted + 1
+    unused = [r["Form"] for k, r in curated.items() if k not in used]
+    return {"nouns": sum(e.get("Part_Of_Speech") == "noun" for e in E), "stripped": len(stripped),
+            "predicted": predicted,
+            "merged": merged, "unused": unused}
+
+
+def renumber_entries(rows):
+    """IDs follow the headword ([a-zA-Z0-9_-]+, CLDF): after noun_forms() 'ul-un-piocc' becomes 'piocc'.
+    References (senses, variants, paradigms, Variant_Of) follow."""
+    E = rows["entries.csv"]
+    ids = Ids()
+    new = {}
+    for e in sorted(E, key=lambda e: (e["Language_ID"] != "rogn", e["ID"])):
+        base = e["Headword"] if e["Language_ID"] == "rogn" else f"{e['Headword']}-{e['Language_ID']}"
+        if e["Part_Of_Speech"] == "verb":
+            base = e["ID"]                                       # verb IDs name the verb pages: unchanged
+        new[e["ID"]] = ids.make(base)
+    for e in E:
+        e["ID"] = new[e["ID"]]
+        if e.get("Variant_Of"):
+            e["Variant_Of"] = new.get(e["Variant_Of"], e["Variant_Of"])
+    for t in ("senses.csv", "variants.csv", "paradigms.csv"):
+        for r in rows.get(t, []):
+            r["Entry_ID"] = new.get(r["Entry_ID"], r["Entry_ID"])
 
 
 def apply_decisions(rows, decisions):
@@ -468,7 +582,8 @@ def make(writer):
     configure(writer.cldf)
     rows, bib = candidates()
     unmatched = apply_decisions(rows, pages.read(ETC / "decisions.csv"))
-    merged = merge_article_forms(rows)
+    nouns = noun_forms(rows)
+    renumber_entries(rows)
     missing_spellings = add_spellings(rows)
     unsorted = place_examples(rows, bib)
     link_examples(rows)
@@ -486,9 +601,12 @@ def make(writer):
     print(f"  {len(linked)} senses linked to {len({x for s in linked for x in s['Example_IDs']})} expressions")
     for r in missing_spellings:
         print(f"  WARNING: spelling variant row matched no entry: {r['Language_ID']} {r['Headword']!r}")
-    if merged:
-        print(f"  merged {len(merged)} entries written with a different article: "
-              + "; ".join(f"{a} -> {b}" for a, b in merged))
+    print(f"  {nouns['nouns']} nouns ({nouns['stripped']} headwords lost their article, "
+          f"{nouns['predicted']} plurals predicted); "
+          f"{len(nouns['merged'])} entries merged into the same word: "
+          + "; ".join(f"{a} -> {b}" for a, b in nouns["merged"]))
+    for form in nouns["unused"]:
+        print(f"  WARNING: etc/nouns.csv row matched no entry: {form!r}")
     for d in unmatched:
         print(f"  WARNING: decision matched nothing: {d['Decision']} {d['Language_ID']} {d['Form']!r}")
     for t in unsorted["topics"]:
@@ -640,7 +758,8 @@ def for_pages():
                      "check": ((s["Unsure_About"] or "direction") + "?") if pending else "",
                      "note": "" if s["Comment"] in (SUPPLIED_NOTE, CONFIRMED_NOTE, NO_ITALIAN_NOTE) else
                              (s["Comment"] or ("verb" if e["Part_Of_Speech"] == "verb" else "")),
-                     "supplied": s["Status"] == "supplied"})
+                     "supplied": s["Status"] == "supplied",
+                     "gender": e.get("Gender") or "", "plural": e.get("Plural") or ""})
     for x in rows["examples.csv"]:
         if x["Status"] == "rejected":
             continue

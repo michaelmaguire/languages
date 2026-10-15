@@ -365,7 +365,7 @@ def lookup_table(rows, head, cols):
     each gets its own line inside the cells, so they stay side by side."""
     names = {"dialect": "Dialett", "italian": "Italiano", "english": "English", "region": "Region",
              "note": "Note", "source": "Source"}
-    show = {"dialect": lambda p: p["dialect"] + (FLAG if p["check"] else ""),
+    show = {"dialect": lambda p: p["dialect"] + (f" *{noun_label(p)}*" if noun_label(p) else "") + (FLAG if p["check"] else ""),
             "italian": lambda p: p["italian"] + (INFERRED if p.get("supplied") else ""),
             "english": lambda p: p["english"], "region": region, "note": lambda p: p["note"],
             "source": lambda p: src_link(p["source"], text="↗")}
@@ -373,6 +373,13 @@ def lookup_table(rows, head, cols):
                              ("dialect", "italian", "english")], region) + [[p] for p in rows if not p[head]]
     body = [[show[head](g[0])] + ["<br>".join(show[c](p) for p in g) for c in cols] for g in groups]
     return table([names[head]] + [names[c] for c in cols], body)
+
+
+def noun_label(p):
+    """'m., pl. purcei' for a noun (every noun has both, see lexicon.noun_forms); '' otherwise."""
+    if not p.get("gender"):
+        return ""
+    return f"{p['gender']}., pl. {p['plural']}" if p.get("plural") else f"{p['gender']}."
 
 
 SPELLINGS = re.compile(r"\s*/\s*|\s+o\s+")
@@ -392,7 +399,8 @@ def cross_references(words):
         for f in forms[1:]:
             if (key(f), key(p["dialect"])) not in seen:
                 seen.add((key(f), key(p["dialect"])))
-                out.append(dict(p, dialect=f, italian=f"→ {p['dialect']}", english="", note="", check="", supplied=False))
+                out.append(dict(p, dialect=f, italian=f"→ {p['dialect']}", english="", note="", check="", supplied=False,
+                                gender="", plural=""))
     return out
 
 
@@ -664,7 +672,7 @@ def render(uniq, tables, eng, topics=None):
             w.writerows([p["english"], p["italian"] + (INFERRED if p.get("supplied") else ""), p["dialect"],
                          region(p), p["note"], p["check"], p["source"], p["line"], *(p[k] for k in extra)]
                         for p in rows)
-    master("dictionary.csv", words)
+    master("dictionary.csv", words, ("gender", "plural"))
     master("expressions.csv", exprs, ("genre", "topic", "text", "author"))
 
     # ---- Dictionary

@@ -110,6 +110,7 @@ forms, entries without English, decisions that matched nothing) and the `git dif
 | `verb_forms_from_texts.csv` | Verb forms found in running text (attested, with `source,line`) or supplied by hand (inferred). With a `verb_details.csv` row, enough to give an untabled verb a page (*töö*, *duprà*). |
 | `verb_forms_reassigned.csv` | Moves extracted forms to another verb when two dialect verbs share an Italian infinitive (*töö* vs *ciapà* for *prendere*). |
 | `parallel_texts.csv` | Class translations and their Italian originals in other documents, aligned by step 2 (*I düü magnan*, Inferno I–VI against `raw/Divina Commedia Inferno I-VI (Dante, Project Gutenberg).txt`). |
+| `nouns.csv` | Nouns whose source gives no article (gender), and corrections of gender or plural: `Language_ID,Form,Gender,Plural,Reason`, Form as written in the source. |
 | `dialect_lists_italian_supplied.csv` | Dialect-only list words (lessons 1–2, 5, 6) with Italian/English supplied by Claude; Italian shown with †. |
 
 Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_readme_intro.md`,
@@ -121,9 +122,15 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
   conformance) and is regenerated from `raw/` + `etc/`; decisions live in `etc/`, never in `cldf/`.
   Senses: `Description` is Italian, English in the added `Description_English`. One `languages.csv` row
   per variety, all Glottocode `lomb1257` / ISO `lmo`. IDs `[a-zA-Z0-9_-]+` derived from the headword.
-  Homographs are separate entries (verb `vert` vs colour `vert`). A noun written with or without its
-  article (`piöcc` / `ul/un piöcc`) is one entry: merged automatically after the decisions
-  (`merge_article_forms()`), the other form kept as a variant of Kind `article`; verbs excluded. Nothing is deleted: typos and wrong
+  Homographs are separate entries (verb `vert` vs colour `vert`). **Nouns (owner, 2026-10-15):** the
+  headword is the bare word without its article (`purcel`, not `ul/un purcel`); Part_Of_Speech `noun`;
+  custom columns `Gender` (m/f, from the article, else the Italian, else `etc/nouns.csv`) and `Plural`
+  (from the source, else predicted by `pipeline/noun_plurals.py`), stored as plain values with no
+  attested/inferred flag (owner: wrong values get corrected in `etc/nouns.csv`). Dictionary pages and PDF
+  print *m., pl. purcei* after every noun. A leading `al/la/l’` is only an article when it is a pair or the
+  Italian has one too: `al piöf` (piove) and `l’è …` keep their clitic. Done by `noun_forms()` after the
+  decisions; it also merges entries that become the same word (`piöcc` / `ul/un piöcc`), keeps the source
+  form as a variant of Kind `article`, and strips the article from the senses' Italian and English. Nothing is deleted: typos and wrong
   rows get status `typo`/`rejected`. Sources cited as `key[l.N]` (line in `pipeline/cache/lesson_text`).
 - **Canonical variety:** the Rögn course lessons and the teacher's own exercise sheets. Other varieties
   stay in the same dictionary pages with a **Region** column.

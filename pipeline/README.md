@@ -177,12 +177,21 @@ and of the pages: a change to an input should only change what you expected.
   its headword (`sempru`), with the variety appended outside Rögn (`semper-ticinese`) and a number for
   homographs. Because the dataset is regenerated, an ID stays the same as long as the data it comes
   from does.
+- **Nouns have a bare headword, a gender and a plural.** After the decisions, `noun_forms()` in `lexicon.py`
+  takes the article off a noun's headword (`ul/un purcel` becomes `purcel`, Part_Of_Speech `noun`), sets
+  `Gender` from the article (ul, al, un: m; la, na: f; for an elided `l’`, from the Italian or
+  `../etc/nouns.csv`) and `Plural` from the source (`al tecc / i tecc`, lesson 6's `i purcei`), else
+  predicted by `noun_plurals.py` (82 of the 90 plurals the course gives are predicted correctly; the misses are
+  consonant doublings such as `poma → pomm`). The Italian and English of its senses lose their article too.
+  A leading `al`/`la`/`l’` counts as an article only when it is a pair (`ul/un`) or the Italian also has
+  one, so the subject clitic in `al piöf` (piove) or `l’è sofic` stays. `Gender` and `Plural` are custom
+  columns (CLDF has no terms for them); the source form stays in `variants.csv` as Kind `article`. Pages
+  and PDF print *m., pl. purcei* after every noun. Corrections go in `../etc/nouns.csv`.
 - **A word written with or without its article is one entry.** `piöcc` (the owner's spreadsheet) and
-  `ul/un piöcc` (lesson 6) are merged automatically after the decisions are applied
-  (`merge_article_forms()` in `lexicon.py`): the Rögn entry is kept, preferring the form with the article,
-  and the other form stays in `variants.csv` with Kind `article`. Verbs are never merged (`na föra` is the
-  verb "go out"). The build prints each merge. In the Dialett look-up, an article pair such as `ul/un` is
-  not treated as two spellings, so it produces no cross-reference row.
+  `ul/un piöcc` (lesson 6) both become `piöcc` and are merged by `noun_forms()`: the Rögn entry is kept and
+  the other form stays in `variants.csv` (Kind `article`). Verbs are never merged (`na föra` is the verb
+  "go out"). The build prints each merge. In the Dialett look-up an article pair such as `ul/un` is not
+  treated as two spellings, so it produces no cross-reference row.
 - **Homographs are separate entries.** The verb `vert` (to open) and the colour `vert` (green) are two
   entries. A word pair is attached to a verb's entry only when its Italian is one of that verb's
   infinitives (`andare = na`).

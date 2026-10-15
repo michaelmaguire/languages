@@ -19,7 +19,7 @@
         {
             "rdf:about": "git@github.com:michaelmaguire/languages-dialett",
             "rdf:type": "prov:Entity",
-            "dc:created": "b8a23bf",
+            "dc:created": "ce7560a",
             "dc:title": "Repository"
         }
     ],
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 1005,
+            "dc:extent": 1002,
             "tableSchema": {
                 "columns": [
                     {
@@ -78,6 +78,19 @@
                     {
                         "datatype": "string",
                         "name": "Conjugation_Class"
+                    },
+                    {
+                        "dc:description": "Grammatical gender of a noun: m (masculine) or f (feminine). Not a CLDF term (CLDF has none for gender); from the article in the source, else the Italian, else etc/nouns.csv",
+                        "datatype": {
+                            "base": "string",
+                            "format": "m|f"
+                        },
+                        "name": "Gender"
+                    },
+                    {
+                        "dc:description": "Plural of a noun. Not a CLDF term. From the source where it gives one, otherwise predicted from the course's patterns (corrections: etc/nouns.csv)",
+                        "datatype": "string",
+                        "name": "Plural"
                     },
                     {
                         "datatype": {
@@ -581,7 +594,7 @@
             "url": "topics.csv"
         },
         {
-            "dc:extent": 71,
+            "dc:extent": 257,
             "tableSchema": {
                 "columns": [
                     {

@@ -291,6 +291,7 @@ h2 { font: bold 15pt "DejaVu Sans", Arial, sans-serif; margin: 3mm 0 1.5mm; brea
 .e i { color: #333; }
 .e .r { font: 7pt "DejaVu Sans", Arial, sans-serif; color: #666; text-transform: uppercase; letter-spacing: .04em; }
 .e .n { color: #555; font-size: 8pt; }
+.e .g { font-style: italic; color: #333; }
 """
 
 
@@ -321,11 +322,15 @@ def dictionary():
                 senses = []
                 for w in rows:
                     flag = " ⚠" if w["check"] else ""
-                    rest = " · ".join(esc(w[k]) for k in (second, third) if w[k])
+                    label = build.noun_label(w)
+                    rest = " · ".join(esc(w[k]) + (f" ({label})" if k == "dialect" and label else "")
+                                      for k in (second, third) if w[k])
                     region = f' <span class="r">{esc(w["region"])}</span>' if w["region"] and w["region"] != "Rögn" else ""
                     note = f' <span class="n">({esc(w["note"])})</span>' if w["note"] and len(w["note"]) < 60 else ""
                     senses.append(f"<i>{rest}</i>{flag}{region}{note}")
-                out.append(f'<div class="e"><b>{esc(rows[0][head])}</b> {"; ".join(senses)}</div>')
+                label = build.noun_label(rows[0]) if head == "dialect" else ""
+                label = f' <span class="g">{esc(label)}</span>' if label else ""
+                out.append(f'<div class="e"><b>{esc(rows[0][head])}</b>{label} {"; ".join(senses)}</div>')
         return "".join(out), sorted(groups)
 
     strip_di = lambda w: build.DI_ARTICLE.sub("", build.key(w["dialect"]))

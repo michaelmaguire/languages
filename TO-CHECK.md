@@ -192,7 +192,7 @@ Queste parole compaiono nelle lezioni solo in dialetto, in elenchi sotto un tito
 
 | Dialett | Italiano aggiunto | Inglese | Fonte |
 |---|---|---|---|
-| la remignaga – i remagnag | l’albicocca – le albicocche | apricot – apricots | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
+| remignaga | albicocca | apricot | [↗](https://github.com/michaelmaguire/languages-dialett-raw/blob/main/Cors%20da%20dialett%20da%20R%C3%B6gn%20lezium%201%20e%202.docx) |
 
 ## Nomi degli argomenti
 

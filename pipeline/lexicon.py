@@ -287,11 +287,60 @@ def configure(ds):
     ds.add_foreign_key("ExampleTable", "Topic_ID", "topics.csv", "ID")
     ds.add_foreign_key("EntryTable", "Variant_Of", "EntryTable", "ID")
     ds.add_table("variants.csv", rid, entry_ref, form,
-                 {"name": "Kind", "datatype": {"base": "string", "format": "spelling|typo|ocr-error"}},
+                 {"name": "Kind", "datatype": {"base": "string", "format": "spelling|typo|ocr-error|article"}},
                  status("variants"), comment, source, primaryKey=["ID"])
     ds.add_table("paradigms.csv", rid, entry_ref, {"name": "Tense", "required": True},
                  {"name": "Person", "datatype": {"base": "string", "format": "1s|2s|3s|1p|2p|3p"}},
                  form, status("paradigms"), comment, source, primaryKey=["ID"])
+
+
+def fold_entry(rows, e, target, kind, status, note, vids, same=None):
+    """Fold entry e into target: its sources, senses and variants move over, and e's headword is kept in
+    variants.csv with the given Kind and Status. A sense the target already has (same(description) equal)
+    is kept but rejected as a duplicate."""
+    S, V = rows["senses.csv"], rows["variants.csv"]
+    same = same or pages.key
+    target["Source"] = list(dict.fromkeys((target["Source"] or []) + (e["Source"] or [])))
+    have = {same(s["Description"]) for s in S if s["Entry_ID"] == target["ID"]}
+    for s in S:
+        if s["Entry_ID"] == e["ID"]:
+            if same(s["Description"]) in have:
+                s["Status"], s["Comment"] = "rejected", f"duplicate of a sense of {target['ID']}"
+            s["Entry_ID"] = target["ID"]
+    for v in V:
+        if v["Entry_ID"] == e["ID"]:
+            v["Entry_ID"] = target["ID"]
+    if pages.key(e["Headword"]) != pages.key(target["Headword"]):   # moved to another variety unchanged: no new form
+        V.append({"ID": vids.make(f"{target['ID']}-{e['Headword']}"), "Entry_ID": target["ID"], "Form": e["Headword"],
+                  "Kind": kind, "Status": status, "Comment": note, "Source": e["Source"]})
+    rows["entries.csv"].remove(e)
+
+
+def merge_article_forms(rows):
+    """One word, one entry: 'piöcc' (the owner's spreadsheet) and 'ul/un piöcc' (lesson 6) are the same noun,
+    written with and without its article, so entries whose headwords differ only by a leading article
+    (pages.DI_ARTICLE: ul/un, la/na, l'/un, i ...) are merged. The Rögn entry is kept, and among those the
+    form that shows the article; the other form stays in variants.csv as Kind `article`. Verbs are left
+    alone ('na föra' is the verb 'go out', not an article), as are rejected entries. Runs after the
+    decisions, so a decision always applies to the entry it names. Returns the merges made."""
+    vids = Ids(v["ID"] for v in rows["variants.csv"])
+    groups = defaultdict(list)
+    for e in rows["entries.csv"]:
+        if e["Status"] != "rejected" and e["Part_Of_Speech"] != "verb":
+            groups[(pages.key(pages.DI_ARTICLE.sub("", e["Headword"])))].append(e)
+    merged = []
+    bare_it = lambda d: pages.plain(pages.bare(d or ""))
+    for group in groups.values():
+        if len({pages.key(e["Headword"]) for e in group}) < 2:
+            continue
+        group.sort(key=lambda e: (e["Language_ID"] != "rogn", not pages.DI_ARTICLE.match(e["Headword"]), e["ID"]))
+        target = group[0]
+        for e in group[1:]:
+            fold_entry(rows, e, target, "article", "accepted",
+                       f"the same word as {target['Headword']}, written with a different article or none "
+                       f"(merged automatically)", vids, same=bare_it)
+            merged.append((e["Headword"], target["Headword"]))
+    return merged
 
 
 def apply_decisions(rows, decisions):
@@ -407,25 +456,8 @@ def apply_decisions(rows, decisions):
                 target = dict(e, ID=ids.make(d["Target_Form"] if language == "rogn" else f"{d['Target_Form']}-{language}"),
                               Headword=d["Target_Form"], Language_ID=language, Source=[], Comment=None)
                 E.append(target)
-            target["Source"] = list(dict.fromkeys((target["Source"] or []) + (e["Source"] or [])))
-            have = {key(s["Description"]) for s in S if s["Entry_ID"] == target["ID"]}
-            for s in S:
-                if s["Entry_ID"] == e["ID"]:
-                    if key(s["Description"]) in have:
-                        s["Status"], s["Comment"] = "rejected", f"duplicate of a sense of {target['ID']}"
-                    else:
-                        s["Entry_ID"] = target["ID"]
-            for v in V:
-                if v["Entry_ID"] == e["ID"]:
-                    v["Entry_ID"] = target["ID"]
-            if key(e["Headword"]) != key(target["Headword"]):   # moved to another variety unchanged: no new spelling
-                V.append({"ID": vids.make(f"{target['ID']}-{d['Form']}"), "Entry_ID": target["ID"], "Form": e["Headword"],
-                          "Kind": "typo" if kind == "typo" else "spelling", "Status": "typo" if kind == "typo" else "accepted",
-                          "Comment": note, "Source": e["Source"]})
-            E.remove(e)
-            for s in S:                                   # senses left on the folded entry (duplicates)
-                if s["Entry_ID"] == e["ID"]:
-                    s["Entry_ID"] = target["ID"]
+            fold_entry(rows, e, target, "typo" if kind == "typo" else "spelling",
+                       "typo" if kind == "typo" else "accepted", note, vids)
         else:
             unmatched.append(d)
     return unmatched
@@ -436,6 +468,7 @@ def make(writer):
     configure(writer.cldf)
     rows, bib = candidates()
     unmatched = apply_decisions(rows, pages.read(ETC / "decisions.csv"))
+    merged = merge_article_forms(rows)
     missing_spellings = add_spellings(rows)
     unsorted = place_examples(rows, bib)
     link_examples(rows)
@@ -453,6 +486,9 @@ def make(writer):
     print(f"  {len(linked)} senses linked to {len({x for s in linked for x in s['Example_IDs']})} expressions")
     for r in missing_spellings:
         print(f"  WARNING: spelling variant row matched no entry: {r['Language_ID']} {r['Headword']!r}")
+    if merged:
+        print(f"  merged {len(merged)} entries written with a different article: "
+              + "; ".join(f"{a} -> {b}" for a, b in merged))
     for d in unmatched:
         print(f"  WARNING: decision matched nothing: {d['Decision']} {d['Language_ID']} {d['Form']!r}")
     for t in unsorted["topics"]:

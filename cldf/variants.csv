@@ -1,5 +1,8 @@
 ID,Entry_ID,Form,Kind,Status,Comment,Source
+al-neut-i-neut,al-neut,i neut,article,accepted,"the same word as al neut, written with a different article or none (merged automatically)",cors-da-dialet-da-rogn-19a-leziun[l.35]
+al-un-can-can,al-un-can,can,article,accepted,"the same word as al/un can, written with a different article or none (merged automatically)",cors-da-dialett-da-rogn-5a-leziun[l.19]
 barbiis-barbis,barbiis,barbis,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.86]
+boca-la-boca,boca,la boca,article,accepted,"the same word as boca, written with a different article or none (merged automatically)",2025-02-19-poesie-in-dialetto[l.15]
 brugn-brugn-frutto-la-brugna,brugn,brügn frutto la brügna,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree, brügn; the fruit is la brügna; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.14]
 caco-caco-frutto-cachi,caco,caco frutto cachi,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree; the fruit is cachi; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.18]
 capel-capel,capel,capèl,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.56]
@@ -22,8 +25,11 @@ giravolt-ticinese-2-giravolt,giravolt-ticinese-2,"giravòlt,",typo,typo,Claude i
 ier-ier,ier,ièr,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-9a-leziun[l.37]
 in-gir-ticinese-2-in-gir,in-gir-ticinese-2,"in gir,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.7]
 l-aranz-l-aranz-frutto-aranz-o-portugal,l-aranz,l’aranz frutto aranz o portugal,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree; the fruit is aranz o portugal; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.20]
+l-invernu-invernu,l-invernu,invernu,article,accepted,"the same word as l’invernu, written with a different article or none (merged automatically)",cors-da-dialet-da-rogn-9a-leziun[l.46]
+l-istaa-istaa,l-istaa,istaa,article,accepted,"the same word as l’istaa, written with a different article or none (merged automatically)",cors-da-dialet-da-rogn-9a-leziun[l.44]
 la-letra-soc-la-letra,la-letra,(soc) La letra,typo,typo,"Claude inferred: leading ""(soc)"" is a speaker label, not part of the word; decided 2026-10-14",varie-situazioni[l.11]
 la-mia-setimana-2-la-mia-setimana,la-mia-setimana-2,() la mia setimana,typo,typo,"Claude inferred: leading ""()"" is left over from the speaker label; decided 2026-10-14",varie-situazioni[l.94]
+la-nebia-nebia,la-nebia,nebia,article,accepted,"the same word as la nebia, written with a different article or none (merged automatically)",2025-02-19-poesie-in-dialetto[l.1]
 la-nocc-ticinese-2-la-nocc,la-nocc-ticinese-2,lA NÒCC,typo,typo,"Claude inferred: a title in capitals, with the caps-lock mix-up lA; decided 2026-10-14",2025-02-19-la-nocc-e-carisna[l.1]
 lunedi-lunedi,lunedi,lünedì,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialet-da-rogn-6a-leziun[l.87]
 mamm-mam,mamm,mam,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.118]
@@ -53,6 +59,9 @@ surela-surela,surela,surela,spelling,accepted,"Claude: all these spellings occur
 too-to,too,tö,spelling,accepted,,imperativo
 tri-trii,tri,trii,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-lezium-1-e-2[l.234]
 trusa-ruga,trusa,rügà,spelling,accepted,,cors-da-dialett-da-rogn-3a-leziun
+ul-un-caval-caval,ul-un-caval,caval,article,accepted,"the same word as ul/un caval, written with a different article or none (merged automatically)",owner-spreadsheet
+ul-un-piocc-piocc,ul-un-piocc,piöcc,article,accepted,"the same word as ul/un piöcc, written with a different article or none (merged automatically)",owner-spreadsheet
+ul-un-puras-puras,ul-un-puras,püras,article,accepted,"the same word as ul/un püras, written with a different article or none (merged automatically)",owner-spreadsheet
 ulif-ulif-frutto-l-uliva,ulif,ulif frutto l’uliva,typo,typo,"Claude inferred: lesson 14 line ""tree, frutto fruit"": the headword is the tree; the fruit is l’uliva; decided 2026-10-14",cors-da-dialet-da-rogn-14a-leziun[l.24]
 umbrela-umbrela,umbrela,umbrela,spelling,accepted,"Claude: all these spellings occur in the Rögn lessons (same word, different accent or doubled letter); all accepted",cors-da-dialett-da-rogn-4a-leziun[l.75]
 un-di-ticinese-2-un-di,un-di-ticinese-2,"un dì,",typo,typo,Claude inferred: trailing comma from the poem line; decided 2026-10-14,2025-02-19-poesie-in-dialetto[l.50]

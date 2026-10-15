@@ -177,6 +177,12 @@ and of the pages: a change to an input should only change what you expected.
   its headword (`sempru`), with the variety appended outside Rögn (`semper-ticinese`) and a number for
   homographs. Because the dataset is regenerated, an ID stays the same as long as the data it comes
   from does.
+- **A word written with or without its article is one entry.** `piöcc` (the owner's spreadsheet) and
+  `ul/un piöcc` (lesson 6) are merged automatically after the decisions are applied
+  (`merge_article_forms()` in `lexicon.py`): the Rögn entry is kept, preferring the form with the article,
+  and the other form stays in `variants.csv` with Kind `article`. Verbs are never merged (`na föra` is the
+  verb "go out"). The build prints each merge. In the Dialett look-up, an article pair such as `ul/un` is
+  not treated as two spellings, so it produces no cross-reference row.
 - **Homographs are separate entries.** The verb `vert` (to open) and the colour `vert` (green) are two
   entries. A word pair is attached to a verb's entry only when its Italian is one of that verb's
   infinitives (`andare = na`).

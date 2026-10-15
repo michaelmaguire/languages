@@ -36,7 +36,7 @@ al-magnan,rogn,al magnan,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.158]
 al-mes,rogn,al mès,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.40]
 al-muradu,rogn,al müradu,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.149]
 al-natal,rogn,al Natal,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.86]
-al-neut,rogn,al neut,,,,,accepted,,cors-da-dialet-da-rogn-19a-leziun[l.33]
+al-neut,rogn,al neut,,,,,accepted,,cors-da-dialet-da-rogn-19a-leziun[l.33];cors-da-dialet-da-rogn-19a-leziun[l.35]
 al-paesan,rogn,al paesan,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.121]
 al-parpaia,rogn,al parpaia,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.68]
 al-pasticiee,rogn,al pasticiéé,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.119]
@@ -64,7 +64,7 @@ al-teremot,rogn,al teremot,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.78]
 al-ticinese,ticinese,al,,,,,accepted,,owner-spreadsheet
 al-trumbee,rogn,al trumbéé,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.125]
 al-trun,rogn,al trun,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.67]
-al-un-can,rogn,al/un can,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.18]
+al-un-can,rogn,al/un can,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.18];cors-da-dialett-da-rogn-5a-leziun[l.19]
 al-un-capun,rogn,al/un capun,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.9]
 al-un-fasan,rogn,al/un fasan,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.19]
 al-un-gal,rogn,al/un gal,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.7]
@@ -114,7 +114,7 @@ biott-ticinese,ticinese,biòtt,,,,,accepted,,owner-spreadsheet
 biroll-basso-ceresio,basso-ceresio,biröll,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.91]
 blo,rogn,blö,,,,,accepted,,cors-da-dialett-da-rogn-lezium-1-e-2[l.216]
 blusc,rogn,blusc,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.63]
-boca,rogn,boca,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.95]
+boca,rogn,boca,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.95];2025-02-19-poesie-in-dialetto[l.15]
 bocc-ticinese,ticinese,böcc,,,,,accepted,"Claude inferred: Italian misspelt ""bucco"" in the spreadsheet; decided 2026-10-14",owner-spreadsheet
 bona-sirada-ticinese,ticinese,bóna sirada,,,,,accepted,,owner-spreadsheet
 bonisim-ticinese,ticinese,bonisim,,,,,accepted,,owner-spreadsheet
@@ -149,7 +149,6 @@ camina,rogn,caminà,verb,,1st conjugation,vegh,accepted,Divina Commedia translat
 camisa,rogn,camisa,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.49]
 camisa-camis,rogn,camisa/camis,,,,,accepted,,cors-da-dialett-da-rogn-5a-leziun[l.25]
 camisetta,rogn,camisetta,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.50]
-can,rogn,can,,,,,accepted,,cors-da-dialett-da-rogn-5a-leziun[l.19]
 canta,rogn,cantà,verb,,1st conjugation,vegh,accepted,,cors-da-dialett-da-rogn-lezium-1-e-2;cors-da-dialet-da-rogn-18a-leziun;il-gerundio;imperativo;cors-da-dialett-da-rogn-lezium-1-e-2[l.190]
 canvela,rogn,canvèla,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.112]
 canzon-ticinese,ticinese,canzón,,,,,accepted,,2025-02-19-poesie-in-dialetto[l.71]
@@ -168,7 +167,6 @@ cata-fo,rogn,catà fö,verb,,1st conjugation,vegh,accepted,imperativo sheet: Sce
 catass-basso-ceresio,basso-ceresio,catáss,,,,,accepted,Claude inferred: the Italian column holds the dialect alternative corás a dré; the Italian is in the note; decided 2026-10-14,dizionario-con-filastrocche-di-r-gaggini[l.112]
 cavagna,rogn,cavagna,,,,,accepted,,cors-da-dialet-da-rogn-13a-leziun[l.98]
 cavagnoo,rogn,cavagnöö,,,,,accepted,,cors-da-dialet-da-rogn-13a-leziun[l.99]
-caval-ticinese,ticinese,caval,,,,,accepted,,owner-spreadsheet
 cavalin,rogn,cavalin,,,,,accepted,,cors-da-dialett-da-rogn-5a-leziun[l.6]
 cavatapp-basso-ceresio,basso-ceresio,cavatapp,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.267]
 cavii-basso-ceresio,basso-ceresio,cavii,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.119]
@@ -371,7 +369,6 @@ gumbat,rogn,gumbat,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.100]
 gurgunzola-basso-ceresio,basso-ceresio,gurgunzöla,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.253]
 guzaa-ticinese,ticinese,güzaa,,,,,accepted,,2025-02-19-poesie-in-dialetto[l.77]
 i-biscnoni,rogn,i biscnoni,,,,,accepted,,cors-da-dialet-da-rogn-19a-leziun[l.9]
-i-neut,rogn,i neut,,,,,accepted,,cors-da-dialet-da-rogn-19a-leziun[l.35]
 i-noni,rogn,i noni,,,,,accepted,,cors-da-dialet-da-rogn-19a-leziun[l.17]
 i-numar,rogn,i nümar,,,,,accepted,,cors-da-dialett-da-rogn-lezium-1-e-2[l.10]
 i-scires,rogn,i scires,,,,,rejected,"Claude inferred: split from ""la sciresa – i scires"" (cherry – cherries), which has its own entry; decided 2026-10-14",cors-da-dialett-da-rogn-lezium-1-e-2[l.259]
@@ -393,9 +390,7 @@ insci-ticinese,ticinese,insci,,,,,accepted,,owner-spreadsheet
 insema-ticinese,ticinese,inséma,,,,,accepted,,owner-spreadsheet
 intant-ticinese,ticinese,intant,,,,,accepted,,owner-spreadsheet
 intevist-basso-ceresio,basso-ceresio,intevist,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.161]
-invernu,rogn,invernu,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.46]
 irregolari,rogn,irregolari.,,,,,rejected,"Claude inferred: ""irregolari."" and ""verbi regolari"" are words from a heading of the imperative sheet, not a pair; decided 2026-10-14",imperativo-14-4-2025[l.6]
-istaa,rogn,istaa,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.44]
 l-ai,rogn,l'ai,,,,,accepted,,owner-notes[l.2]
 l-altrer,rogn,l’altrèr,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.38]
 l-an,rogn,l’an,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.42]
@@ -412,8 +407,8 @@ l-e-umid,rogn,l’è ümid,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.72]
 l-esatur-al-tasadu,rogn,l’esatur/al tasadu,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.157]
 l-infermera,rogn,l’infermèra,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.131]
 l-ingegner,rogn,l’ingegner,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.124]
-l-invernu,rogn,l’invernu,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.89]
-l-istaa,rogn,l’istaa,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.89]
+l-invernu,rogn,l’invernu,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.89];cors-da-dialet-da-rogn-9a-leziun[l.46]
+l-istaa,rogn,l’istaa,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.89];cors-da-dialet-da-rogn-9a-leziun[l.44]
 l-n-asina,rogn,l’/n’asina,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.31]
 l-n-urbisola,rogn,l’/n’urbisöla,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.78]
 l-osct,rogn,l’osct,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.153]
@@ -424,7 +419,6 @@ l-urtulan,rogn,l’urtulan,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.139]
 l-urulugee,rogn,l’urulugee,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.146]
 la-barbera,rogn,la barbèra,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.142]
 la-biscnona,rogn,la biscnona,,,,,accepted,,cors-da-dialet-da-rogn-19a-leziun[l.8]
-la-boca-ticinese,ticinese,la boca,,,,,accepted,,2025-02-19-poesie-in-dialetto[l.15]
 la-brugna-i-brugn,rogn,la brügna – i brügn,,,,,accepted,,cors-da-dialett-da-rogn-lezium-1-e-2[l.17]
 la-casera,rogn,la casèra,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.156]
 la-culaziun,rogn,la culaziun,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.51]
@@ -461,7 +455,7 @@ la-na-sgagia,rogn,la/na sgagia,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.
 la-na-vaca,rogn,la/na vaca,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.32]
 la-na-vespa,rogn,la/na vespa,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.75]
 la-na-vigia,rogn,la/na vigia,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.74]
-la-nebia,rogn,la nebia,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.73]
+la-nebia,rogn,la nebia,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.73];2025-02-19-poesie-in-dialetto[l.1]
 la-nef-la-fioca,rogn,la nef / la fioca,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.63]
 la-neuda,rogn,la neuda,,,,,accepted,,cors-da-dialet-da-rogn-19a-leziun[l.34]
 la-nocc,rogn,la nocc,,,,,accepted,,cors-da-dialet-da-rogn-9a-leziun[l.32]
@@ -592,7 +586,6 @@ nas,rogn,nas,,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.88]
 nass-nascere-basso-ceresio,basso-ceresio,nass – nascere,,,,,rejected,"Claude inferred: a pronunciation note (nass = nascere, nas = naso), not a pair; decided 2026-10-14",dizionario-con-filastrocche-di-r-gaggini[l.28]
 ndua-ticinese-2,ticinese,’ndua,,,,,accepted,,owner-spreadsheet
 ne-ticinese,ticinese,né,,,,,accepted,,owner-spreadsheet
-nebia-ticinese,ticinese,nebia,,,,,accepted,,2025-02-19-poesie-in-dialetto[l.1]
 nebion-ticinese-2,ticinese,nebión,,,,,accepted,,2025-02-19-poesie-in-dialetto[l.19]
 neev-basso-ceresio,basso-ceresio,neev,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.142]
 negru,rogn,negru,,,,,accepted,,cors-da-dialett-da-rogn-lezium-1-e-2[l.220]
@@ -670,7 +663,6 @@ picoc-basso-ceresio,basso-ceresio,picöc,,,,,accepted,,dizionario-con-filastrocc
 pien-debat-basso-ceresio,basso-ceresio,pien debat,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.197]
 pignatt,rogn,pignatt,,,,,accepted,,cors-da-dialett-da-rogn-5a-leziun[l.29]
 pin,rogn,pin,,,,,accepted,,cors-da-dialet-da-rogn-14a-leziun[l.9]
-piocc-ticinese,ticinese,piöcc,,,,,accepted,,owner-spreadsheet
 piopp-basso-ceresio,basso-ceresio,piopp,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.193]
 pituraa-ticinese,ticinese,pitüraa,,,,,accepted,,2025-02-19-poesie-in-dialetto[l.67]
 piu-o-men-ticinese,ticinese,piu o men,,,,,accepted,,owner-spreadsheet
@@ -697,7 +689,6 @@ puchisimm-basso-ceresio,basso-ceresio,puchisimm,,,,,accepted,,dizionario-con-fil
 puliss-basso-ceresio,basso-ceresio,puliss,,,,,accepted,,dizionario-con-filastrocche-di-r-gaggini[l.181]
 puls-pols,rogn,puls (pols),,,,,accepted,,cors-da-dialett-da-rogn-4a-leziun[l.103]
 pultrona,rogn,pultrona,,,,,accepted,,cors-da-dialett-da-rogn-5a-leziun[l.31]
-puras-ticinese,ticinese,püras,,,,,accepted,,owner-spreadsheet
 puse-tantu-tanti-ticinese,ticinese,"puse, tantu tanti",,,,,accepted,,owner-spreadsheet
 quagiada-ticinese,ticinese,quagiada,,,,,accepted,,owner-spreadsheet
 qualecale-ticinese,ticinese,qualecale,,,,,accepted,,owner-spreadsheet
@@ -918,7 +909,7 @@ ul-un-barin,rogn,ul/un barin,,,,,accepted,"Claude inferred: lesson 6 gives ""l�
 ul-un-bec,rogn,ul/un bec,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.37]
 ul-un-biot,rogn,ul/un biot,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.57]
 ul-un-camosc,rogn,ul/un camosc,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.51]
-ul-un-caval,rogn,ul/un caval,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.26]
+ul-un-caval,rogn,ul/un caval,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.26];owner-spreadsheet
 ul-un-cavrett,rogn,ul/un cavrett,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.42]
 ul-un-cavrioo,rogn,ul/un cavriöö,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.50]
 ul-un-cervo,rogn,ul/un cervo,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.49]
@@ -932,8 +923,8 @@ ul-un-mezzarat,rogn,ul/un mezzarat,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziu
 ul-un-mul,rogn,ul/un mül,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.28]
 ul-un-nerc,rogn,ul/un nerc,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.59]
 ul-un-ors,rogn,ul/un ors,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.52]
-ul-un-piocc,rogn,ul/un piöcc,,,,,accepted,"Claude inferred: Italian misspelt ""il/ul"" in the lesson; decided 2026-10-14",cors-da-dialet-da-rogn-6a-leziun[l.81]
-ul-un-puras,rogn,ul/un püras,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.82]
+ul-un-piocc,rogn,ul/un piöcc,,,,,accepted,"Claude inferred: Italian misspelt ""il/ul"" in the lesson; decided 2026-10-14",cors-da-dialet-da-rogn-6a-leziun[l.81];owner-spreadsheet
+ul-un-puras,rogn,ul/un püras,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.82];owner-spreadsheet
 ul-un-purcel,rogn,ul/un purcel,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.22];cors-da-dialet-da-rogn-6a-leziun[l.23]
 ul-un-purcelin,rogn,ul/un purcelin,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.25]
 ul-un-ragn,rogn,ul/un ragn,,,,,accepted,,cors-da-dialet-da-rogn-6a-leziun[l.69]

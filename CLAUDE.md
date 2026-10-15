@@ -121,7 +121,9 @@ Templates (not data) are in `pipeline/templates/`: `readme_intro.md`, `cldf_read
   conformance) and is regenerated from `raw/` + `etc/`; decisions live in `etc/`, never in `cldf/`.
   Senses: `Description` is Italian, English in the added `Description_English`. One `languages.csv` row
   per variety, all Glottocode `lomb1257` / ISO `lmo`. IDs `[a-zA-Z0-9_-]+` derived from the headword.
-  Homographs are separate entries (verb `vert` vs colour `vert`). Nothing is deleted: typos and wrong
+  Homographs are separate entries (verb `vert` vs colour `vert`). A noun written with or without its
+  article (`piöcc` / `ul/un piöcc`) is one entry: merged automatically after the decisions
+  (`merge_article_forms()`), the other form kept as a variant of Kind `article`; verbs excluded. Nothing is deleted: typos and wrong
   rows get status `typo`/`rejected`. Sources cited as `key[l.N]` (line in `pipeline/cache/lesson_text`).
 - **Canonical variety:** the Rögn course lessons and the teacher's own exercise sheets. Other varieties
   stay in the same dictionary pages with a **Region** column.

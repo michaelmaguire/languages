@@ -56,8 +56,10 @@ Import on one device only; syncing carries the changes to the others.
 
 What happens on re-import:
 
-- Each note's id comes from its CLDF ID (`word:purcel`, `verb:paga-futuro-2s`, `expr:…`), so a changed card
-  (corrected form, new English, fixed plural) is **updated in place and keeps its review history**.
+- Each note's id comes from a CLDF ID: a word card from its entry's first sense (`sense:ul-un-purcel-il-un-maiale`),
+  which stays the same when the headword is corrected; a verb card from the paradigm cell (`verb:paga-futuro-2s`);
+  an expression from the example (`expr:…`). So a changed card (corrected form, new English, fixed plural) is
+  **updated in place and keeps its review history**.
 - New words, verb forms and expressions arrive as new cards.
 - A note whose entry has gone from the data (for example two entries merged into one) is **not deleted** from
   Anki. Delete it by hand in the card browser if it turns up.

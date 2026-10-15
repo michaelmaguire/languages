@@ -114,7 +114,8 @@ def words(regions, cite):
         elif e["Part_Of_Speech"] == "verb":
             grammar = "verb"
         region = regions.get(e["Language_ID"], e["Language_ID"])
-        d.add_note(note(f"word:{e['ID']}", english, e["Headword"], grammar, region, italian,
+        # keyed on the entry's first sense, whose ID survives a corrected headword (the entry ID follows the headword)
+        d.add_note(note(f"sense:{mine[0]['ID']}", english, e["Headword"], grammar, region, italian,
                         ", ".join(spellings[e["ID"]]), cite(e["Source"]),
                         ["word", e["Language_ID"], e["Part_Of_Speech"]]))
     return d
